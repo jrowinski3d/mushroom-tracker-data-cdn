@@ -1,109 +1,349 @@
 {
   "version": "1.0.0",
-  "generated_at": "2025-11-05T20:00:00.250238",
+  "generated_at": "2025-11-06T10:29:26.646056",
   "total_species": 10,
-  "total_size_bytes": 1568290,
+  "total_size_bytes": 1467054,
   "species": [
     {
       "mushroom_id": "moresc",
       "scientific_name": "Morchella esculenta",
       "common_name": "Common Morel",
-      "edibility": "E",
-      "thumbnail_url": "species/moresc/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 125796,
-      "content_version": "1.0"
+      "total_size_bytes": 114068,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/moresc/thumb.webp",
+        "size_bytes": 9244,
+        "width": 200,
+        "height": 150
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/moresc/image_0.webp",
+          "size_bytes": 49674,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/moresc/image_1.webp",
+          "size_bytes": 55150,
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/moresc/metadata.json",
+      "content_sha": "50987d8e1516a126beb1f25a0de0ae1d44ffbdf496cdb58bf6ca76171c125a08"
     },
     {
       "mushroom_id": "morame",
       "scientific_name": "Morchella americana",
       "common_name": "American Morel",
-      "edibility": "E",
-      "thumbnail_url": "species/morame/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 255608,
-      "content_version": "1.0"
+      "total_size_bytes": 240726,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/morame/thumb.webp",
+        "size_bytes": 15270,
+        "width": 200,
+        "height": 150
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/morame/image_0.webp",
+          "size_bytes": 103280,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/morame/image_1.webp",
+          "size_bytes": 122176,
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/morame/metadata.json",
+      "content_sha": "cf269f7a276480d9e2dcbb9aac2cb6dcd400a478b177285e98a21f88f1d44059"
     },
     {
       "mushroom_id": "canfor",
       "scientific_name": "Cantharellus formosus",
       "common_name": "Pacific Golden Chanterelle",
-      "edibility": "E",
-      "thumbnail_url": "species/canfor/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 207594,
-      "content_version": "1.0"
+      "total_size_bytes": 194510,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/canfor/thumb.webp",
+        "size_bytes": 12672,
+        "width": 200,
+        "height": 151
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/canfor/image_0.webp",
+          "size_bytes": 89902,
+          "width": 640,
+          "height": 482
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/canfor/image_1.webp",
+          "size_bytes": 91936,
+          "width": 482,
+          "height": 640
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/canfor/metadata.json",
+      "content_sha": "256ce71a6fd18bad184f7c94430a99d3735b3f19c0877c18280338516b2dee63"
     },
     {
       "mushroom_id": "armmel",
       "scientific_name": "Armillaria mellea",
       "common_name": "Honey Mushroom",
-      "edibility": "E",
-      "thumbnail_url": "species/armmel/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 208800,
-      "content_version": "1.0"
+      "total_size_bytes": 196634,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/armmel/thumb.webp",
+        "size_bytes": 11918,
+        "width": 200,
+        "height": 151
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/armmel/image_0.webp",
+          "size_bytes": 88552,
+          "width": 640,
+          "height": 482
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/armmel/image_1.webp",
+          "size_bytes": 96164,
+          "width": 640,
+          "height": 482
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/armmel/metadata.json",
+      "content_sha": "7c169959e36d661fc341002fc7f91814ed9cae11a1f638708eb37151f357aae4"
     },
     {
       "mushroom_id": "trimat",
       "scientific_name": "Tricholoma matsutake",
       "common_name": "Matsutake",
-      "edibility": "E",
-      "thumbnail_url": "species/trimat/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 160632,
-      "content_version": "1.0"
+      "total_size_bytes": 148902,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/trimat/thumb.webp",
+        "size_bytes": 9924,
+        "width": 200,
+        "height": 150
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/trimat/image_0.webp",
+          "size_bytes": 61824,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/trimat/image_1.webp",
+          "size_bytes": 77154,
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/trimat/metadata.json",
+      "content_sha": "a7ef74bd480ec0d476a596fe527a4e689bf61b757d41ecb7e563751e9a8600d5"
     },
     {
       "mushroom_id": "laegil",
       "scientific_name": "Laetiporus gilbertsonii",
       "common_name": "Western Chicken of the Woods",
-      "edibility": "E",
-      "thumbnail_url": "species/laegil/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 122066,
-      "content_version": "1.0"
+      "total_size_bytes": 113840,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/laegil/thumb.webp",
+        "size_bytes": 6968,
+        "width": 200,
+        "height": 127
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/laegil/image_0.webp",
+          "size_bytes": 45092,
+          "width": 640,
+          "height": 407
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/laegil/image_1.webp",
+          "size_bytes": 61780,
+          "width": 345,
+          "height": 640
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/laegil/metadata.json",
+      "content_sha": "275269a64312eec3e7d63095c2a6826b44fb19df92e67da25375a58042bd97c6"
     },
     {
       "mushroom_id": "grifro",
       "scientific_name": "Grifola frondosa",
       "common_name": "Maitake",
-      "edibility": "E",
-      "thumbnail_url": "species/grifro/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 193238,
-      "content_version": "1.0"
+      "total_size_bytes": 183190,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/grifro/thumb.webp",
+        "size_bytes": 14816,
+        "width": 200,
+        "height": 151
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/grifro/image_0.webp",
+          "size_bytes": 108262,
+          "width": 640,
+          "height": 482
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/grifro/image_1.webp",
+          "size_bytes": 60112,
+          "width": 482,
+          "height": 640
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/grifro/metadata.json",
+      "content_sha": "7308a4be94e961caf61b6e6e776e4e43cd85099a1c2e4d31217abf66d70988b2"
     },
     {
       "mushroom_id": "calgig",
       "scientific_name": "Calvatia gigantea",
       "common_name": "Giant Puffball",
-      "edibility": "E",
-      "thumbnail_url": "species/calgig/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 108476,
-      "content_version": "1.0"
+      "total_size_bytes": 101998,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/calgig/thumb.webp",
+        "size_bytes": 9112,
+        "width": 151,
+        "height": 200
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/calgig/image_0.webp",
+          "size_bytes": 51464,
+          "width": 482,
+          "height": 640
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/calgig/image_1.webp",
+          "size_bytes": 41422,
+          "width": 640,
+          "height": 427
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/calgig/metadata.json",
+      "content_sha": "b0a99f509cdc63c4e6a5bbd5f14c9834300b5e856b303b7d64eef6776b3b8eea"
     },
     {
       "mushroom_id": "cracor",
       "scientific_name": "Craterellus cornucopioides",
       "common_name": "Black Trumpet",
-      "edibility": "E",
-      "thumbnail_url": "species/cracor/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 33644,
-      "content_version": "1.0"
+      "total_size_bytes": 30812,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/cracor/thumb.webp",
+        "size_bytes": 2314,
+        "width": 200,
+        "height": 150
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/cracor/image_0.webp",
+          "size_bytes": 14016,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/cracor/image_1.webp",
+          "size_bytes": 14482,
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/cracor/metadata.json",
+      "content_sha": "8ea76cb55342eba9331d591ffb33361ad3e39659309c414082fab914ea875564"
     },
     {
       "mushroom_id": "spacri",
       "scientific_name": "Sparassis crispa",
       "common_name": "Cauliflower Mushroom",
-      "edibility": "E",
-      "thumbnail_url": "species/spacri/thumb.webp",
+      "edibility": "edible",
+      "safety_level": "choice_edible",
       "image_count": 2,
-      "total_size_bytes": 152436,
-      "content_version": "1.0"
+      "total_size_bytes": 142374,
+      "thumbnail": {
+        "filename": "thumb.webp",
+        "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/spacri/thumb.webp",
+        "size_bytes": 10900,
+        "width": 200,
+        "height": 150
+      },
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/spacri/image_0.webp",
+          "size_bytes": 65530,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/spacri/image_1.webp",
+          "size_bytes": 65944,
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/spacri/metadata.json",
+      "content_sha": "9a311955244130f0918c09d5b72418a3cb0441e32fc3a257b89eacfab2ce8844"
     }
   ],
-  "sha256": "780a778ed6a16bcdd54be8beeba04afa95773b24af3cb2089b148aa19e730e9d"
+  "sha256": "b28233a9adbe06e32e191ebce5cd4aa23b6b49d37c605423f1ec140ad6d85140"
 }
