@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "armmel",
+  "scientific_name": "Armillaria mellea",
+  "common_name": "Honey Mushroom",
+  "edibility": "E",
+  "description": "Honey Mushroom (Armillaria mellea) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713848.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 88552,
+      "width": 640,
+      "height": 482,
+      "sha256": "34090da069cb4b8a3e9d18038d30d81e1ede01849df4cd7c2e790e1b1dcfe045"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713849.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 96164,
+      "width": 640,
+      "height": 482,
+      "sha256": "70a5d56d5c39a6061d328040d5578fb2b56b5789de7702de08045cf7bbd19e93"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-05T19:59:58.028452"
+}

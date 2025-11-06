@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "moresc",
+  "scientific_name": "Morchella esculenta",
+  "common_name": "Common Morel",
+  "edibility": "E",
+  "description": "Common Morel (Morchella esculenta) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1329025.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 49674,
+      "width": 640,
+      "height": 480,
+      "sha256": "793f73a5d86bf33ec577e898cc6c501f08ecda5975bcbca73fd4ac8b1396369c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1329026.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 55150,
+      "width": 640,
+      "height": 480,
+      "sha256": "79f349c5ed6b710dcf09709725b0d74e5cea46998d4aa9bfe9c59c1e8313a289"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-05T19:59:56.673097"
+}

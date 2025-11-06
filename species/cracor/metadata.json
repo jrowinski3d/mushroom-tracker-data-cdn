@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "cracor",
+  "scientific_name": "Craterellus cornucopioides",
+  "common_name": "Black Trumpet",
+  "edibility": "E",
+  "description": "Black Trumpet (Craterellus cornucopioides) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1604161.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-01-15",
+      "file_size_bytes": 14016,
+      "width": 640,
+      "height": 480,
+      "sha256": "d2e8844b44343a91d4b1e0c635113339173fbcaa6aa716144726b249257f8ae9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1604162.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-01-15",
+      "file_size_bytes": 14482,
+      "width": 640,
+      "height": 480,
+      "sha256": "be4937b4a1cd90402f0de8d14e52cb4fc9ad901538092f2b51f3892e0da41d82"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-05T19:59:59.870691"
+}

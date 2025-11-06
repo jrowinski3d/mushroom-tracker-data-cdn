@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "morame",
+  "scientific_name": "Morchella americana",
+  "common_name": "American Morel",
+  "edibility": "E",
+  "description": "American Morel (Morchella americana) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751691.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 103280,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3b1ae2def037cc001b8b159ede57e88fa653c4695528be30768ba492bcc818"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751690.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 122176,
+      "width": 480,
+      "height": 640,
+      "sha256": "65c699f6f9b0055e3654f3987b1070e6147d0da24fd69f93c28fb3d62cbd9ff8"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-05T19:59:57.208326"
+}

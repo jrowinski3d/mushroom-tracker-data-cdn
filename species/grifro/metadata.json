@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "grifro",
+  "scientific_name": "Grifola frondosa",
+  "common_name": "Maitake",
+  "edibility": "E",
+  "description": "Maitake (Grifola frondosa) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1752161.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 108262,
+      "width": 640,
+      "height": 482,
+      "sha256": "51db775a2a9dd70049932751edb12254fe0e55a21d80322b789a74ba2cb4c8bb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1752162.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 60112,
+      "width": 482,
+      "height": 640,
+      "sha256": "0140fb98a260129712883e87b2bfa756a52f9834955cee3fb9796b0351ebc719"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-05T19:59:59.187930"
+}

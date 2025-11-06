@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "canfor",
+  "scientific_name": "Cantharellus formosus",
+  "common_name": "Pacific Golden Chanterelle",
+  "edibility": "E",
+  "description": "Pacific Golden Chanterelle (Cantharellus formosus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1732115.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 89902,
+      "width": 640,
+      "height": 482,
+      "sha256": "6fbcbcc69caf03c2bb6d4bc64be53e4036b0256d636415e8a12a4ad359db7a1b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1732116.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 91936,
+      "width": 482,
+      "height": 640,
+      "sha256": "7ab193f467d64ceebfc9493be4052476e454a1dc8c285797973833e9a671c959"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-05T19:59:57.606825"
+}

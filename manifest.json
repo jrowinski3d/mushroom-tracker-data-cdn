@@ -1,0 +1,109 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2025-11-05T20:00:00.250238",
+  "total_species": 10,
+  "total_size_bytes": 1568290,
+  "species": [
+    {
+      "mushroom_id": "moresc",
+      "scientific_name": "Morchella esculenta",
+      "common_name": "Common Morel",
+      "edibility": "E",
+      "thumbnail_url": "species/moresc/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 125796,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "morame",
+      "scientific_name": "Morchella americana",
+      "common_name": "American Morel",
+      "edibility": "E",
+      "thumbnail_url": "species/morame/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 255608,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "canfor",
+      "scientific_name": "Cantharellus formosus",
+      "common_name": "Pacific Golden Chanterelle",
+      "edibility": "E",
+      "thumbnail_url": "species/canfor/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 207594,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "armmel",
+      "scientific_name": "Armillaria mellea",
+      "common_name": "Honey Mushroom",
+      "edibility": "E",
+      "thumbnail_url": "species/armmel/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 208800,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "trimat",
+      "scientific_name": "Tricholoma matsutake",
+      "common_name": "Matsutake",
+      "edibility": "E",
+      "thumbnail_url": "species/trimat/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 160632,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "laegil",
+      "scientific_name": "Laetiporus gilbertsonii",
+      "common_name": "Western Chicken of the Woods",
+      "edibility": "E",
+      "thumbnail_url": "species/laegil/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 122066,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "grifro",
+      "scientific_name": "Grifola frondosa",
+      "common_name": "Maitake",
+      "edibility": "E",
+      "thumbnail_url": "species/grifro/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 193238,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "calgig",
+      "scientific_name": "Calvatia gigantea",
+      "common_name": "Giant Puffball",
+      "edibility": "E",
+      "thumbnail_url": "species/calgig/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 108476,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "cracor",
+      "scientific_name": "Craterellus cornucopioides",
+      "common_name": "Black Trumpet",
+      "edibility": "E",
+      "thumbnail_url": "species/cracor/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 33644,
+      "content_version": "1.0"
+    },
+    {
+      "mushroom_id": "spacri",
+      "scientific_name": "Sparassis crispa",
+      "common_name": "Cauliflower Mushroom",
+      "edibility": "E",
+      "thumbnail_url": "species/spacri/thumb.webp",
+      "image_count": 2,
+      "total_size_bytes": 152436,
+      "content_version": "1.0"
+    }
+  ],
+  "sha256": "780a778ed6a16bcdd54be8beeba04afa95773b24af3cb2089b148aa19e730e9d"
+}
