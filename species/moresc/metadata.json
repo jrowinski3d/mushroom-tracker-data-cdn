@@ -3,16 +3,19 @@
   "scientific_name": "Morchella esculenta",
   "common_name": "Common Morel",
   "edibility": "E",
-  "description": "Common Morel (Morchella esculenta) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cap 2-7 cm tall with distinctive honeycomb pattern of irregular pits and ridges, yellow-brown in color. Stem 2-9 cm long, hollow, white to yellow. Entire structure completely hollow from cap through stem.",
+  "habitat": "Found under hardwoods (elm, ash, oak) and conifers in rich, non-acidic soil. Prefers disturbed areas, old orchards, and recently burned sites.",
+  "season": "Southern US: March-April, Midwest: April-May, Northeast: May-June. Peak around Mother's Day in many regions.",
   "regions": [
-    "North America"
+    "North America",
+    "Europe",
+    "Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Gyromitra esculenta (False Morel) - DEADLY - brain-like wrinkled cap instead of honeycomb pattern",
+    "Verpa species (Thimble Caps) - POISONOUS - cap partially attached to stem with cotton-like tissue inside"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "Must be cooked before consumption, toxic when raw. Always cut vertically to verify completely hollow interior. Risk of confusion with deadly false morels requires 100% certain identification.",
   "images": [
     {
       "index": 0,

@@ -3,16 +3,19 @@
   "scientific_name": "Armillaria mellea",
   "common_name": "Honey Mushroom",
   "edibility": "E",
-  "description": "Honey Mushroom (Armillaria mellea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cap 3-15 cm diameter, honey-colored, smooth and sticky when wet, sometimes with dark scales near center. White to pinkish-yellow gills attached at right angles. Fibrous stem with persistent ring and black root-like rhizomorphs at base.",
+  "habitat": "Dense clusters at base of hardwood and conifer trees, on stumps and logs. Parasitic on living trees and saprotrophic on dead wood in forests, parks, and gardens.",
+  "season": "North America: Late summer to fall (September-November), Europe: August-November. Fruits in autumn in temperate regions.",
   "regions": [
-    "North America"
+    "North America",
+    "Europe",
+    "Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Galerina marginata (Deadly Galerina) - LETHAL - chestnut-brown cap, rusty-brown spore print, flimsy ring",
+    "Omphalotus illudens (Jack-o'-Lantern) - POISONOUS - bright orange, smooth dry cap, yellowish spore print"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "MUST be thoroughly cooked (boil 10-15 minutes) - poisonous when raw. Take white spore print to confirm identity. Do NOT consume with alcohol (avoid 12 hours before and 24 hours after eating). Some individuals experience reactions even when properly cooked.",
   "images": [
     {
       "index": 0,

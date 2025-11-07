@@ -3,16 +3,17 @@
   "scientific_name": "Cantharellus formosus",
   "common_name": "Pacific Golden Chanterelle",
   "edibility": "E",
-  "description": "Pacific Golden Chanterelle (Cantharellus formosus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Vase-shaped cap with blunt branching ridges that run down the stem (not true gills). Uniform egg-yellow color throughout with dense, pale white flesh inside. Distinctive fruity apricot aroma is key identifier.",
+  "habitat": "Conifer forests near Pacific coast, most commonly with western conifers. Prefers mature forests with stable moisture and well-established mycorrhizal networks.",
+  "season": "Pacific Northwest: July-November, Midwest: Late June-October, Northeast: June-October. Peak season typically July-August.",
   "regions": [
     "North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hygrophoropsis aurantiaca (False Chanterelle) - MILDLY POISONOUS - has true thin gills, brighter orange with darker center",
+    "Omphalotus species (Jack-o'-Lantern) - TOXIC - has thin, deep, delicate true gills that cause severe gastrointestinal distress"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "Key identifiers: blunt ridges (not thin gills), white interior, fruity apricot scent. Always verify ridges are thick and forked, not thin separate gills like poisonous lookalikes.",
   "images": [
     {
       "index": 0,

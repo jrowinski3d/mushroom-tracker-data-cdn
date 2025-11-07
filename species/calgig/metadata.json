@@ -3,16 +3,18 @@
   "scientific_name": "Calvatia gigantea",
   "common_name": "Giant Puffball",
   "edibility": "E",
-  "description": "Giant Puffball (Calvatia gigantea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Round ball-like shape, can grow extremely large (soccer ball to basketball size). White leather-like skin that peels off. Interior must be firm, pure white like marshmallow with NO gills, stems, or cap structures inside.",
+  "habitat": "Open grasslands, meadows, fields, lawns, golf courses in nutrient-rich soil. Occasionally in deciduous forests. ALWAYS on ground, NEVER on wood or in trees. Often returns to same spot yearly.",
+  "season": "Late summer to autumn. North America: July-September (most abundant mid-August to mid-October), Europe: August-November.",
   "regions": [
-    "North America"
+    "North America",
+    "Europe",
+    "Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Immature Amanita species (Destroying Angel, Death Cap) - DEADLY - shows developing cap and stem when cut vertically. NEVER eat puffballs smaller than adult palm size (could be deadly Amanita button stage)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CRITICAL: Always cut vertically from top to bottom before consuming. Interior must be completely pure white with NO structures. Any sign of gills, stem, or cap formation = DO NOT EAT. If soccer ball size or larger, very unlikely to be Amanita.",
   "images": [
     {
       "index": 0,

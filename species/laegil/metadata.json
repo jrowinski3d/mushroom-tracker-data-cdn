@@ -3,16 +3,16 @@
   "scientific_name": "Laetiporus gilbertsonii",
   "common_name": "Western Chicken of the Woods",
   "edibility": "E",
-  "description": "Western Chicken of the Woods (Laetiporus gilbertsonii) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Fan-shaped overlapping shelves 5-14 cm across with finely suede-like texture. Pale salmon orange to pinkish orange when young, fading over time. Lemon-yellow pore surface with tiny pores (2-3 per mm), pale yellow to white flesh.",
+  "habitat": "Dead or dying hardwood trees, especially oak and eucalyptus. Grows on stumps and logs in large overlapping clusters. Does NOT grow on conifers (unlike related species).",
+  "season": "Western US/California: Late summer to early fall (August-October). Most productive August through October.",
   "regions": [
     "North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "L. conifericola - grows on conifers (different species, edibility questionable)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "Must be thoroughly cooked. Some people experience digestive upset, especially from specimens on eucalyptus trees. Try small amounts first to test tolerance. Only harvest young, tender outer edges.",
   "images": [
     {
       "index": 0,
