@@ -12,7 +12,7 @@
   "lookalikes": [
     "Various species - expert identification recommended"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "INEDIBLE: Lactarius rufus, known as the Rufous Milkcap or Red Hot Milk Cap, has extremely hot, acrid-tasting milk (latex) that exudes when cut - described as the hottest of all Lactarius species, comparable to habanero pepper heat. While it has traditional culinary uses in some Northern European countries after extensive preparation, Western field guides universally classify it as inedible due to the intensely acrid, peppery taste. The mushroom is suspected of being mildly poisonous when consumed raw or improperly prepared. Not recommended for consumption.",
   "images": [
     {
       "index": 0,
@@ -37,6 +37,6 @@
       "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:09.323972"
+  "content_version": "1.1",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

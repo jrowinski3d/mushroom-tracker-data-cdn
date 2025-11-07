@@ -12,7 +12,7 @@
   "lookalikes": [
     "Various species - expert identification recommended"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "INEDIBLE: Russula sardonia has an intensely hot, peppery, acrid taste that makes it completely inedible. The species name 'sardonia' comes from Greek meaning bitter or acrid. While some sources debate whether it might be technically edible after extensive preparation, the extreme peppery heat makes it unpalatable and potentially causes gastrointestinal upset. Avoid consumption.",
   "images": [
     {
       "index": 0,
@@ -37,6 +37,6 @@
       "sha256": "dd9df0d9882a745a495036f89e4aa33404d26dd0d37ec6a7584e352b08bbd3ea"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:13.573273"
+  "content_version": "1.1",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

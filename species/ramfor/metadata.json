@@ -12,7 +12,7 @@
   "lookalikes": [
     "Various species - expert identification recommended"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "TOXIC: Ramaria formosa causes gastrointestinal distress including nausea, vomiting, diarrhea, and colicky abdominal pain. While rarely life-threatening, symptoms can be severe and unpleasant. Do not consume this mushroom.",
   "images": [
     {
       "index": 0,
@@ -37,6 +37,6 @@
       "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:19.601931"
+  "content_version": "1.1",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

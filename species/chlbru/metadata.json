@@ -12,7 +12,7 @@
   "lookalikes": [
     "Various species - expert identification recommended"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "TOXIC: Chlorophyllum brunneum causes gastrointestinal poisoning with symptoms including severe nausea, vomiting, diarrhea, and abdominal cramping. Symptoms typically occur within 1-6 hours of consumption and can be severe enough to require hospitalization in sensitive individuals. This mushroom is commonly mistaken for the edible true parasol (Macrolepiota procera). While some people may tolerate it when thoroughly cooked at high heat, the risk of severe gastric upset makes it unsafe for consumption. Do not eat this mushroom.",
   "images": [
     {
       "index": 0,
@@ -37,6 +37,6 @@
       "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:00.015728"
+  "content_version": "1.1",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

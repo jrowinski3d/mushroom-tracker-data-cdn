@@ -12,7 +12,7 @@
   "lookalikes": [
     "Various species - expert identification recommended"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "INEDIBLE: Tylopilus felleus, commonly called the Bitter Bolete, is intensely bitter - so bitter that a single specimen can ruin an entire meal of mushrooms. The bitterness persists and even intensifies during cooking. While not toxic, it is completely unpalatable and inedible. Often mistaken for prized edible boletes like porcini; check for pink pore surface and reticulated stem pattern to distinguish.",
   "images": [
     {
       "index": 0,
@@ -37,6 +37,6 @@
       "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:40.812351"
+  "content_version": "1.1",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }
