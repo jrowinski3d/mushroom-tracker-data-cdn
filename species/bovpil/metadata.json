@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "bovpil",
+  "scientific_name": "Bovista pila",
+  "common_name": "Bovista pila",
+  "edibility": "E",
+  "description": "Bovista pila (Bovista pila) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1746457.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-03-01",
+      "file_size_bytes": 39098,
+      "width": 640,
+      "height": 509,
+      "sha256": "31162c2df8adcc2b01da99e1297c38a85e8e0af2a48959a1b16d120868a42a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1746458.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-03-01",
+      "file_size_bytes": 32340,
+      "width": 640,
+      "height": 492,
+      "sha256": "25111fbe5c2a2dd4f4425e29c649c266d6e9015be4c80a62c8e072f9e254fc2c"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:46.984462"
+}

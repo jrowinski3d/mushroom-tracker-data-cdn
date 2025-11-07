@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lacsan",
+  "scientific_name": "Lactarius sanguifluus",
+  "common_name": "Lactarius sanguifluus",
+  "edibility": "E",
+  "description": "Lactarius sanguifluus (Lactarius sanguifluus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1512554.jpg",
+      "photographer": "Micah Courteau",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-29",
+      "file_size_bytes": 57538,
+      "width": 480,
+      "height": 640,
+      "sha256": "69d9fd1a7862763aeab529efa5337d0a1477dd758fefc40d1b468553ecdf5142"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/980994.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2018-12-15",
+      "file_size_bytes": 63930,
+      "width": 640,
+      "height": 480,
+      "sha256": "5adf5b9c0a2b9cfe7ed1a97dadc6fad4a73e8b1cdda03b85eb6ba2387bf0a5f6"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:05.609301"
+}

@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "morpun",
+  "scientific_name": "Morchella punctipes",
+  "common_name": "Morchella punctipes",
+  "edibility": "E",
+  "description": "Morchella punctipes (Morchella punctipes) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667024.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 57148,
+      "width": 640,
+      "height": 482,
+      "sha256": "cdf8ccaf8393ce574dd7fd3d4c03dac08f5ff6b765864d0b6bcfec1f864e38d4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667025.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 67512,
+      "width": 640,
+      "height": 482,
+      "sha256": "8caf59108b82c0f05597c420fa38a09720623411e13ec3515fe5c579095422c1"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:26.699837"
+}

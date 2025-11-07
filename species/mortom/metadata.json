@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "mortom",
+  "scientific_name": "Morchella tomentosa",
+  "common_name": "Morchella tomentosa",
+  "edibility": "E",
+  "description": "Morchella tomentosa (Morchella tomentosa) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1074986.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 182406,
+      "width": 640,
+      "height": 640,
+      "sha256": "0817ccd2ef62707eced0007c3b331d1feb697686f646e29b20266c2a36cbf7ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1074987.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 17824,
+      "width": 256,
+      "height": 480,
+      "sha256": "7357e1c34fca970cf9ed95cacd9bea0aee8a49fac418029b6d68666a8c1a17f9"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:27.651074"
+}

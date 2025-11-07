@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "copcom",
+  "scientific_name": "Coprinus comatus",
+  "common_name": "Coprinus comatus",
+  "edibility": "E",
+  "description": "Coprinus comatus (Coprinus comatus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722755.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-01",
+      "file_size_bytes": 76464,
+      "width": 491,
+      "height": 640,
+      "sha256": "8980c9ad2ade061eb0f4399b7be26bb415263cb5103eb81f8c08e920d6e612ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719565.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 99224,
+      "width": 640,
+      "height": 427,
+      "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:24.913584"
+}

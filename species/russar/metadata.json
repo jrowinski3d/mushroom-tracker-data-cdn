@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "russar",
+  "scientific_name": "Russula sardonia",
+  "common_name": "Russula sardonia",
+  "edibility": "E",
+  "description": "Russula sardonia (Russula sardonia) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1279557.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 63552,
+      "width": 640,
+      "height": 480,
+      "sha256": "be0573fb193d83ca13d213b80336d3193cb3074e717e73443062fc4c5b7346e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1279558.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 101028,
+      "width": 480,
+      "height": 640,
+      "sha256": "dd9df0d9882a745a495036f89e4aa33404d26dd0d37ec6a7584e352b08bbd3ea"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:13.573273"
+}

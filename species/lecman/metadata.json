@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lecman",
+  "scientific_name": "Leccinum manzanitae",
+  "common_name": "Leccinum manzanitae",
+  "edibility": "E",
+  "description": "Leccinum manzanitae (Leccinum manzanitae) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/510405.jpg",
+      "photographer": "Michael Cain",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-01-18",
+      "file_size_bytes": 30212,
+      "width": 640,
+      "height": 427,
+      "sha256": "d4ab296e6e86b90972ae40dd12b0932ceb73c6ce1018dfa648e1920657669819"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/510407.jpg",
+      "photographer": "Michael Cain",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-01-18",
+      "file_size_bytes": 37838,
+      "width": 640,
+      "height": 427,
+      "sha256": "d243ff699a47b4be618893c861cc6648c81e25f1f7b298859ec2abcb293950fc"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:37.476121"
+}

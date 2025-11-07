@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "canros",
+  "scientific_name": "Cantharellus roseocanus",
+  "common_name": "Cantharellus roseocanus",
+  "edibility": "E",
+  "description": "Cantharellus roseocanus (Cantharellus roseocanus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694228.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 107424,
+      "width": 480,
+      "height": 640,
+      "sha256": "8200b4001e0376a6ebd13187bf3762b1f1eab844a4746bcb46b89a71c86f69b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1694229.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 106984,
+      "width": 480,
+      "height": 640,
+      "sha256": "3af5792bb0538624c8a3cd973dc8beae579d306263b6990c372bc1d599017326"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:31.296896"
+}

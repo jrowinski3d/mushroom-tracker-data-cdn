@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "ruscas",
+  "scientific_name": "Russula cascadensis",
+  "common_name": "Russula cascadensis",
+  "edibility": "E",
+  "description": "Russula cascadensis (Russula cascadensis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1515362.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 96106,
+      "width": 640,
+      "height": 480,
+      "sha256": "80a360b89bb292bf9e445025b2536932d8451eae663609d677c69e8fe42cf3c5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1515363.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 120372,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1665ef87b0306cd7f9dc949b407a33a50feffb6cf95dfcd8508cd4ea3aa9131"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:14.885060"
+}

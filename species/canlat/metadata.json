@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "canlat",
+  "scientific_name": "Cantharellus lateritius",
+  "common_name": "Cantharellus lateritius",
+  "edibility": "E",
+  "description": "Cantharellus lateritius (Cantharellus lateritius) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493438.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-30",
+      "file_size_bytes": 75652,
+      "width": 640,
+      "height": 480,
+      "sha256": "26868116b9a57188a719e933355a0a3b937d610df76f46a7933a12e8bd97c699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1483380.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-09",
+      "file_size_bytes": 34422,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd03168f86a655c67f8d6caf255feaa08ecf9c6b8baf7645836380b32b7893c5"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:29.705718"
+}

@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hereri",
+  "scientific_name": "Hericium erinaceus",
+  "common_name": "Hericium erinaceus",
+  "edibility": "E",
+  "description": "Hericium erinaceus (Hericium erinaceus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1743539.jpg",
+      "photographer": "(c) Gordon C. Snelling, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2025-02-04",
+      "file_size_bytes": 98174,
+      "width": 384,
+      "height": 640,
+      "sha256": "ad1281635c3fe88358f31d5132c080f4460af6b8b108db6fc18942604974f098"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1712330.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 124150,
+      "width": 480,
+      "height": 640,
+      "sha256": "a54fa6e0dd7de2631f590b0e7581ef1e6d78f9e67baea4c9d288778e6950a718"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:53.528402"
+}

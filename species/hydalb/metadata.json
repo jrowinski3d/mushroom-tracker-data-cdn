@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hydalb",
+  "scientific_name": "Hydnum albidum",
+  "common_name": "Hydnum albidum",
+  "edibility": "E",
+  "description": "Hydnum albidum (Hydnum albidum) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1601564.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 54376,
+      "width": 640,
+      "height": 477,
+      "sha256": "56293c519adfb2d25da34b960ae4f8c169e13afc2f30e0c79aa7aac919b83ce1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1601565.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 38400,
+      "width": 640,
+      "height": 477,
+      "sha256": "03513469f6ff79ebad654a1dc0315f4b394e1643601683e5e1e38fd7646584f2"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:52.128361"
+}

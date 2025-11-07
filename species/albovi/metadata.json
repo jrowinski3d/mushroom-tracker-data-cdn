@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "albovi",
+  "scientific_name": "Albatrellus ovinus",
+  "common_name": "Albatrellus ovinus",
+  "edibility": "E",
+  "description": "Albatrellus ovinus (Albatrellus ovinus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501167.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 51260,
+      "width": 508,
+      "height": 640,
+      "sha256": "3ed0ad19b80a23f9c88ec0cb620cbcf5a0b9f3456fb4938cfc7a956d9422f37b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501168.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 100704,
+      "width": 480,
+      "height": 640,
+      "sha256": "ad9821e3ae8d123f25d72da39bd94b04234fb13913299cc03fddbb2641c3cec2"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:24.001523"
+}

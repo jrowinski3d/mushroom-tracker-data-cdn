@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hypchr",
+  "scientific_name": "Hypomyces chrysospermus",
+  "common_name": "Hypomyces chrysospermus",
+  "edibility": "E",
+  "description": "Hypomyces chrysospermus (Hypomyces chrysospermus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1734294.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 39908,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d2a43beb0f25fae1f93fa65a65aeac3aaa96ef17a4b27b67204441e40222ad7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1734295.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 62044,
+      "width": 640,
+      "height": 480,
+      "sha256": "541354ee51ac12cb5435c558ce390e1bed346b89eb64409571f7e2e42d3ac1e9"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:22.188445"
+}

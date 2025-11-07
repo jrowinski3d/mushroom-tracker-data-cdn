@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lecins",
+  "scientific_name": "Leccinum insigne",
+  "common_name": "Leccinum insigne",
+  "edibility": "E",
+  "description": "Leccinum insigne (Leccinum insigne) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1488161.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-21",
+      "file_size_bytes": 76548,
+      "width": 480,
+      "height": 640,
+      "sha256": "8c5d73a0b2a91de96a83317f55f23729071463c8350c4c2f27b21f30c41c5110"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1476740.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-07-19",
+      "file_size_bytes": 48106,
+      "width": 640,
+      "height": 480,
+      "sha256": "69ea5eb95fedcbc3f5687115b45c15b6a0aeecec49bb7d9b07cd713c5badb4cf"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:37.127918"
+}

@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "laehur",
+  "scientific_name": "Laetiporus huroniensis",
+  "common_name": "Laetiporus huroniensis",
+  "edibility": "E",
+  "description": "Laetiporus huroniensis (Laetiporus huroniensis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1350974.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-10",
+      "file_size_bytes": 103126,
+      "width": 640,
+      "height": 480,
+      "sha256": "0df314aefa46cac6defefc119c354d4312bbc0555697776c22c1fb4101c223ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1350971.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-09",
+      "file_size_bytes": 55286,
+      "width": 640,
+      "height": 459,
+      "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:49.510333"
+}

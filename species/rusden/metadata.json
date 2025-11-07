@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rusden",
+  "scientific_name": "Russula densifolia",
+  "common_name": "Russula densifolia",
+  "edibility": "E",
+  "description": "Russula densifolia (Russula densifolia) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714127.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-29",
+      "file_size_bytes": 70928,
+      "width": 640,
+      "height": 427,
+      "sha256": "8aff2c8839ac4152dde72b2b7b07ea8ed17b19b9a8bd921e95b6419ba4b60b98"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1644739.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-17",
+      "file_size_bytes": 67462,
+      "width": 640,
+      "height": 427,
+      "sha256": "8abc0be6a366ca5fcb6b67ae26230389bed72f12c82bf446ab568db283c66c53"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:14.413147"
+}

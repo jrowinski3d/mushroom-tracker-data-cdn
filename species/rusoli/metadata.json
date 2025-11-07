@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rusoli",
+  "scientific_name": "Russula olivacea",
+  "common_name": "Russula olivacea",
+  "edibility": "E",
+  "description": "Russula olivacea (Russula olivacea) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1701271.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-29",
+      "file_size_bytes": 51876,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb7533cc54577cdab5f8186a7e1e490bec9fe45de25dd08c41d4e93d2e90dd9f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1701268.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-27",
+      "file_size_bytes": 51182,
+      "width": 480,
+      "height": 640,
+      "sha256": "d756050d1f956f660f1ffd5c22bdaa3aa87bd59532fd3b83547b298269d7a780"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:13.988465"
+}

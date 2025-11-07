@@ -3,18 +3,16 @@
   "scientific_name": "Tricholoma matsutake",
   "common_name": "Matsutake",
   "edibility": "E",
-  "description": "Cap up to 35 cm across, initially white then discoloring brownish with dark fibrils. Firm stem up to 15 cm long with ring. White spore print. DISTINCTIVE cinnamon-spicy aroma is critical identifier, stem base always shows fine gritty sand from soil.",
-  "habitat": "Forms mycorrhiza with pine species in sandy spodosol/podzol soil. Found concealed under litter in dry pine forests (sugar pine, ponderosa, lodgepole) on Pacific coast.",
-  "season": "Pacific Northwest: October-January (especially West Coast), General: Late summer to early winter in cool, damp weather.",
+  "description": "Matsutake (Tricholoma matsutake) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
   "regions": [
-    "North America",
-    "Europe",
-    "Asia"
+    "North America"
   ],
   "lookalikes": [
-    "Amanita smithiana (Smith's Amanita) - CAUSES KIDNEY FAILURE - torpedo-shaped stem, breaks easily, mild odor (lacks cinnamon scent), 2-3 mushrooms can cause kidney failure requiring dialysis"
+    "Various species - expert identification recommended"
   ],
-  "safety_notes": "NOT a beginner mushroom due to deadly lookalikes. MUST verify strong cinnamon/spicy aroma (Amanita smithiana lacks this). Stem must be firm and solid (Amanita breaks easily). Can grow immediately next to deadly Amanita smithiana in same habitat.",
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
   "images": [
     {
       "index": 0,
@@ -40,5 +38,5 @@
     }
   ],
   "content_version": "1.0",
-  "last_updated": "2025-11-06T10:29:24.438248"
+  "last_updated": "2025-11-07T11:48:57.483466"
 }

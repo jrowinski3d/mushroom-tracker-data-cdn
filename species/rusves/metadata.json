@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rusves",
+  "scientific_name": "Russula vesca",
+  "common_name": "Russula vesca",
+  "edibility": "E",
+  "description": "Russula vesca (Russula vesca) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634353.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 56956,
+      "width": 640,
+      "height": 480,
+      "sha256": "94747d722675afcfef23d7474d503248e46f104e75083906f9b38a86977ef31a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634354.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 68208,
+      "width": 640,
+      "height": 480,
+      "sha256": "60eec0c2e05b5d829333d3b1b3529dbe6ad45777398c60d361ec1443034bf2d1"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:10.666773"
+}

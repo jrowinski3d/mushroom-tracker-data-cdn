@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "boledu",
+  "scientific_name": "Boletus edulis",
+  "common_name": "Boletus edulis",
+  "edibility": "E",
+  "description": "Boletus edulis (Boletus edulis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725981.jpg",
+      "photographer": "FunGuy Nate",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-23",
+      "file_size_bytes": 136488,
+      "width": 640,
+      "height": 536,
+      "sha256": "872e36198978de9c7bf4b55be54887355acd5b1877e6bd1e0b3ac7a4cb2de5c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718535.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-16",
+      "file_size_bytes": 58480,
+      "width": 640,
+      "height": 427,
+      "sha256": "da49ce350cf2577f05575095f339a6110739a88dd13234333f288fbf8f499058"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:33.733388"
+}

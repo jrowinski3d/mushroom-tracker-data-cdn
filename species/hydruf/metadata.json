@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hydruf",
+  "scientific_name": "Hydnum rufescens",
+  "common_name": "Hydnum rufescens",
+  "edibility": "E",
+  "description": "Hydnum rufescens (Hydnum rufescens) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/600174.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 76816,
+      "width": 640,
+      "height": 480,
+      "sha256": "167152d25d958cdd5654f38018fe7142d1a5e9270a76fecf665ade15d81da26c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/600175.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 73398,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc1df510fa831e5533c10dcaa932758470edcd4aab203d0d412a6e16e0899091"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:52.550386"
+}

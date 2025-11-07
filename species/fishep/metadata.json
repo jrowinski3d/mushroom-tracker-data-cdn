@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "fishep",
+  "scientific_name": "Fistulina hepatica",
+  "common_name": "Fistulina hepatica",
+  "edibility": "E",
+  "description": "Fistulina hepatica (Fistulina hepatica) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718206.jpg",
+      "photographer": "Penny Firth",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-20",
+      "file_size_bytes": 143434,
+      "width": 640,
+      "height": 521,
+      "sha256": "16bc5c63d3a1b2bef43f943930cade2fbc981e93d1d0aeeeab513d3ac5dfb233"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1597578.jpg",
+      "photographer": "Penny Firth",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-30",
+      "file_size_bytes": 116232,
+      "width": 640,
+      "height": 490,
+      "sha256": "9da59801ff1d3c914142d611d8f3740401903a1850b30cf3dca6b208d90222d3"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:23.144673"
+}

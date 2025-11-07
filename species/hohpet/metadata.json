@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hohpet",
+  "scientific_name": "Hohenbuehelia petaloides",
+  "common_name": "Hohenbuehelia petaloides",
+  "edibility": "E",
+  "description": "Hohenbuehelia petaloides (Hohenbuehelia petaloides) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1673553.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-07",
+      "file_size_bytes": 90032,
+      "width": 480,
+      "height": 640,
+      "sha256": "d9a7e97c8944a055d114a1e6ba83a6fbe394793435f396da9d452880111c9b60"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1613404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-22",
+      "file_size_bytes": 164390,
+      "width": 640,
+      "height": 480,
+      "sha256": "81fc8a77d1759e0311b09456745bb4b66cf4b8d3de9bd47c7ea466e5f08d87cb"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:44.229916"
+}

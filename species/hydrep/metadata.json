@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hydrep",
+  "scientific_name": "Hydnum repandum",
+  "common_name": "Hydnum repandum",
+  "edibility": "E",
+  "description": "Hydnum repandum (Hydnum repandum) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714441.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 99832,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3445093a421555636805635d3ce11d27c8e580b4ef979bccb1b9b4e7636568c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1714442.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 94190,
+      "width": 640,
+      "height": 480,
+      "sha256": "2173215b53eaf75f7c13ce67cc9606859150b929268875ddee7bd92644a45023"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:51.310898"
+}

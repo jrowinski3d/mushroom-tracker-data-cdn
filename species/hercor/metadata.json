@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hercor",
+  "scientific_name": "Hericium coralloides",
+  "common_name": "Hericium coralloides",
+  "edibility": "E",
+  "description": "Hericium coralloides (Hericium coralloides) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1651556.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 36894,
+      "width": 482,
+      "height": 640,
+      "sha256": "7605b8c55e765b1fe0cc47041cc270bbf7bdcb3029275df0eb2b25ae074f4b56"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651557.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 49898,
+      "width": 482,
+      "height": 640,
+      "sha256": "d2c6ed06d552240b64a0f9e3052ce002878adb57269b21d7609b28072c051234"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:54.309816"
+}

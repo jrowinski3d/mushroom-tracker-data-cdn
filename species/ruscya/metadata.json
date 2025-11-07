@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "ruscya",
+  "scientific_name": "Russula cyanoxantha",
+  "common_name": "Russula cyanoxantha",
+  "edibility": "E",
+  "description": "Russula cyanoxantha (Russula cyanoxantha) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1583712.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 127886,
+      "width": 480,
+      "height": 640,
+      "sha256": "cf39c2df4133405fd5f7d600686fbcf0229faf42054f084e29703cf4f8706217"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1583713.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 112990,
+      "width": 480,
+      "height": 640,
+      "sha256": "a0e8fcc9bbb17f04c8dadcb62a756fda2b1f1a84f9923aeb2a2397795bdc73d4"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:10.230963"
+}

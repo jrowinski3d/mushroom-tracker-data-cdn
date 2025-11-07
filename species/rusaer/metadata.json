@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rusaer",
+  "scientific_name": "Russula aeruginea",
+  "common_name": "Russula aeruginea",
+  "edibility": "E",
+  "description": "Russula aeruginea (Russula aeruginea) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1631952.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-19",
+      "file_size_bytes": 60388,
+      "width": 640,
+      "height": 427,
+      "sha256": "69b1c98854062c313f197d877e43ca38db38d2e2dc254f7cd910b475928d951a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1357697.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-25",
+      "file_size_bytes": 55306,
+      "width": 640,
+      "height": 480,
+      "sha256": "f95be09168fabfe181504b56bd48e2b4e6937476750e8c86363ed210cb0c0f67"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:11.095764"
+}

@@ -3,20 +3,16 @@
   "scientific_name": "Craterellus cornucopioides",
   "common_name": "Black Trumpet",
   "edibility": "E",
-  "description": "Funnel or horn-like structure 3-15 cm tall, tapers from wide rim to narrow base. Dark gray to black color, sometimes dark brown when moist. NO GILLS - has finely wrinkled or veined inner surface. Note: North American specimens east of Rockies are genetically C. fallax.",
-  "habitat": "Deciduous hardwood forests with oak and beech dominant. Mycorrhizal with tree roots in rich, loamy soil. Associated with moss, decaying leaf litter, and mature forest canopies.",
-  "season": "Europe: June-November (peak October), Pacific Northwest: November-March (peak December-January), East Coast US: Mid-July to end of August. Can fruit into winter.",
+  "description": "Black Trumpet (Craterellus cornucopioides) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
   "regions": [
-    "North America",
-    "Europe",
-    "Asia",
-    "Africa",
-    "Australia"
+    "North America"
   ],
   "lookalikes": [
-    "No known toxic lookalikes - very distinctive appearance"
+    "Various species - expert identification recommended"
   ],
-  "safety_notes": "One of the safest mushrooms to identify due to distinctive appearance and lack of poisonous lookalikes. Challenging to spot on dark forest floor. Clean thoroughly as debris collects in folds. Excellent dried.",
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
   "images": [
     {
       "index": 0,
@@ -42,5 +38,5 @@
     }
   ],
   "content_version": "1.0",
-  "last_updated": "2025-11-06T10:29:26.139071"
+  "last_updated": "2025-11-07T11:48:32.497263"
 }

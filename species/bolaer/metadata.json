@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "bolaer",
+  "scientific_name": "Boletus aereus",
+  "common_name": "Boletus aereus",
+  "edibility": "E",
+  "description": "Boletus aereus (Boletus aereus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1565467.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 81716,
+      "width": 640,
+      "height": 480,
+      "sha256": "18a7756a0c33dd630276c40e6695acadf2f6a932749979e40810de1873f23d82"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1565468.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 77270,
+      "width": 480,
+      "height": 640,
+      "sha256": "b9a429096996249a3fbade549352e72d0b48c88fa3163dba00fa888305e5724c"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:34.163284"
+}

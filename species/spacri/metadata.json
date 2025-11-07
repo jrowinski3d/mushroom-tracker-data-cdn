@@ -3,18 +3,16 @@
   "scientific_name": "Sparassis crispa",
   "common_name": "Cauliflower Mushroom",
   "edibility": "E",
-  "description": "Entangled globe up to 24 cm diameter of tightly curled ruffled branches. Flat wavy lobes resembling lasagna pasta or cauliflower, creamy white to pale yellow. Cream spore print. Note: North American species are S. americana (eastern) or S. radicata (Pacific Northwest/western).",
-  "habitat": "Parasitic/saprobic on roots and bases of conifer trees (pine, spruce, cedar, larch, fir) and hardwoods (especially oak). Prefers mature conifer stands with well-drained acidic soils, often on forest edges.",
-  "season": "Fall through early spring. Late summer and early fall (August-October) is prime season. Pacific Northwest: Fall, Southeastern US: September-October.",
+  "description": "Cauliflower Mushroom (Sparassis crispa) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
   "regions": [
-    "North America",
-    "Europe",
-    "Asia"
+    "North America"
   ],
   "lookalikes": [
-    "No known toxic lookalikes - very distinctive appearance"
+    "Various species - expert identification recommended"
   ],
-  "safety_notes": "Edible when young and fresh. Requires very thorough cleaning as debris traps in many folds. Older specimens become tough. Distinctive appearance makes identification relatively safe with no known poisonous lookalikes.",
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
   "images": [
     {
       "index": 0,
@@ -40,5 +38,5 @@
     }
   ],
   "content_version": "1.0",
-  "last_updated": "2025-11-06T10:29:26.645885"
+  "last_updated": "2025-11-07T11:49:20.852716"
 }

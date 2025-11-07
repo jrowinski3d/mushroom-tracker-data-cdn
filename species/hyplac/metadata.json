@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hyplac",
+  "scientific_name": "Hypomyces lactifluorum",
+  "common_name": "Hypomyces lactifluorum",
+  "edibility": "E",
+  "description": "Hypomyces lactifluorum (Hypomyces lactifluorum) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1704596.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-12",
+      "file_size_bytes": 63526,
+      "width": 640,
+      "height": 480,
+      "sha256": "acda8b6cd5e164f36ada0e732c42d1f2383bf7585c9742be453479f8e4951f0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1704580.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-10",
+      "file_size_bytes": 133344,
+      "width": 480,
+      "height": 640,
+      "sha256": "f1c7fc75c4e79e66f10e033cde7d397acadeb2d14cc68c045567a456685d10b9"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:21.786887"
+}

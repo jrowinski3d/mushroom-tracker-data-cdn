@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "agaaug",
+  "scientific_name": "Agaricus augustus",
+  "common_name": "Agaricus augustus",
+  "edibility": "E",
+  "description": "Agaricus augustus (Agaricus augustus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677157.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-23",
+      "file_size_bytes": 53230,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fedbb98433e14718bf6a8080e63f7ba7acc29081db375c34dbbc46df455d36"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677141.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-22",
+      "file_size_bytes": 143050,
+      "width": 480,
+      "height": 640,
+      "sha256": "7333e10890823e02c69a8ccac4470feba35fa843ffbcb98dc79e8a1dd424dfad"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:02.258463"
+}

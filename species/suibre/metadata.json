@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "suibre",
+  "scientific_name": "Suillus brevipes",
+  "common_name": "Suillus brevipes",
+  "edibility": "E",
+  "description": "Suillus brevipes (Suillus brevipes) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715638.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 115520,
+      "width": 640,
+      "height": 427,
+      "sha256": "5baf6a28695fc65eac987612eee3be7fd427df33eca270d1bebf6f58b6ad4d8b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713565.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 44206,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29048d548d1e15f2bc66daa9c5ed99bf2ec3b424f4b97b2bc38acb4925eaba2"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:38.704936"
+}

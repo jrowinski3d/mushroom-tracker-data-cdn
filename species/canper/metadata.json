@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "canper",
+  "scientific_name": "Cantharellus persicinus",
+  "common_name": "Cantharellus persicinus",
+  "edibility": "E",
+  "description": "Cantharellus persicinus (Cantharellus persicinus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1635909.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 56958,
+      "width": 640,
+      "height": 480,
+      "sha256": "7295ac8a4866890ab9982a94efb79501e768eda92f96bfd934a0855c793bf63f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635910.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 100608,
+      "width": 640,
+      "height": 480,
+      "sha256": "083c35ad5ed2b794d2310fc1d0b2f49737ee54427726dcdaf35b78ec102e55fb"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:31.718185"
+}

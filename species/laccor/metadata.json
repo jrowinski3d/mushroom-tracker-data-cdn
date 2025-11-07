@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "laccor",
+  "scientific_name": "Lactifluus corrugis",
+  "common_name": "Lactifluus corrugis",
+  "edibility": "E",
+  "description": "Lactifluus corrugis (Lactifluus corrugis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698325.jpg",
+      "photographer": "dario.z",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 122254,
+      "width": 480,
+      "height": 640,
+      "sha256": "692c751c0f7b578b5283dc38ec6b8e88391b67c08f3879050ef1e5676a8237a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698326.jpg",
+      "photographer": "dario.z",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 122904,
+      "width": 480,
+      "height": 640,
+      "sha256": "fad6dc37c33462b4af2a055c8df7190997ef5e83ba113c2c78eb8f44f6bc00f8"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:06.990671"
+}

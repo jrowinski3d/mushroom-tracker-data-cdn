@@ -3,17 +3,16 @@
   "scientific_name": "Morchella americana",
   "common_name": "American Morel",
   "edibility": "E",
-  "description": "Cap 3-10 cm tall, egg-shaped to conical with honeycomb pattern and primarily vertical ridges. Color gray to whitish to yellowish. Stem hollow, whitish, cap fully attached with no overhang.",
-  "habitat": "Most common under hardwoods (ash, elm, aspen, sycamore, apple) and occasionally white pine. Prefers damp pockets with non-acidic soil in forests and old orchards.",
-  "season": "Southern US: March-April, Midwest: April-May, Northeast: May-June. Generally March through June depending on region.",
+  "description": "American Morel (Morchella americana) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
   "regions": [
     "North America"
   ],
   "lookalikes": [
-    "Gyromitra esculenta - DEADLY - brain-like folded cap, associated with conifers",
-    "Verpa species - HIGHLY POISONOUS - cap partially attached to stem with cotton-like interior"
+    "Various species - expert identification recommended"
   ],
-  "safety_notes": "Must be thoroughly cooked, toxic when raw. Always verify cap fully attached to stem and completely hollow interior by cutting vertically. Cannot be distinguished from similar M. ulmaria without DNA analysis.",
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
   "images": [
     {
       "index": 0,
@@ -39,5 +38,5 @@
     }
   ],
   "content_version": "1.0",
-  "last_updated": "2025-11-06T10:29:23.074828"
+  "last_updated": "2025-11-07T11:48:25.891951"
 }

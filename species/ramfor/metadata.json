@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "ramfor",
+  "scientific_name": "Ramaria formosa",
+  "common_name": "Ramaria formosa",
+  "edibility": "E",
+  "description": "Ramaria formosa (Ramaria formosa) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1581352.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 44560,
+      "width": 640,
+      "height": 573,
+      "sha256": "9cb3b04fef0a9adeba4093d6864745b13963188cabfeb24b2f0856988ec56dd1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1581353.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 67020,
+      "width": 640,
+      "height": 536,
+      "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:19.601931"
+}

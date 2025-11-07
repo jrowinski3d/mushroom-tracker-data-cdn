@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "laecon",
+  "scientific_name": "Laetiporus conifericola",
+  "common_name": "Laetiporus conifericola",
+  "edibility": "E",
+  "description": "Laetiporus conifericola (Laetiporus conifericola) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1602787.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-01-14",
+      "file_size_bytes": 34208,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b97ee1ae6745baabad46a063aa20fd2097a9a3cb9033e40b031cce4cc2534fc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1602788.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-01-14",
+      "file_size_bytes": 34708,
+      "width": 640,
+      "height": 480,
+      "sha256": "83b991a65a88f9fc012b5dd1512d51c7b57828ad45825ff9175437db152a2f3b"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:49.081059"
+}

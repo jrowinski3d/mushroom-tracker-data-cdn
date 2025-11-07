@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rusbre",
+  "scientific_name": "Russula brevipes",
+  "common_name": "Russula brevipes",
+  "edibility": "E",
+  "description": "Russula brevipes (Russula brevipes) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 90422,
+      "width": 640,
+      "height": 427,
+      "sha256": "44daff7dcc494859d60cae368d1e47333f09a941ecd76444e2ef69ebc8c07ef9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720877.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 62368,
+      "width": 640,
+      "height": 427,
+      "sha256": "05b48730e8c844ff2516b290e6be0217096360c670b60ba6c9feda8b36789d5b"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:09.755695"
+}

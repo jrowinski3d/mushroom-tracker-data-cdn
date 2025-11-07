@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rambot",
+  "scientific_name": "Ramaria botrytis",
+  "common_name": "Ramaria botrytis",
+  "edibility": "E",
+  "description": "Ramaria botrytis (Ramaria botrytis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714687.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 29446,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc4845126cad5a597d358e912fddbbe5fa0c1b55aa2837a88713ddac9cc67245"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1714688.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 34460,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc67458e097361f0f3f6bf23374d7b10551d60426fb10171557abde9cb880cf8"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:18.712384"
+}

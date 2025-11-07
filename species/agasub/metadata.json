@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "agasub",
+  "scientific_name": "Agaricus subrutilescens",
+  "common_name": "Agaricus subrutilescens",
+  "edibility": "E",
+  "description": "Agaricus subrutilescens (Agaricus subrutilescens) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716382.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 80414,
+      "width": 640,
+      "height": 480,
+      "sha256": "2282913404fba100a85b46b81b99da6902789dc53d82cfe38e734143809ca12b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716373.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 92004,
+      "width": 640,
+      "height": 480,
+      "sha256": "d36a5a5cc111729564d1e8943cf126c3e8233ccf4dcede126b2a13cd99d81814"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:03.471420"
+}

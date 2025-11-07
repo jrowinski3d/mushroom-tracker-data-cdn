@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lacrub",
+  "scientific_name": "Lactarius rubrilacteus",
+  "common_name": "Lactarius rubrilacteus",
+  "edibility": "E",
+  "description": "Lactarius rubrilacteus (Lactarius rubrilacteus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1658712.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48660,
+      "width": 480,
+      "height": 640,
+      "sha256": "330d6d686c4c6eec82f184e2024bc25c9c78d3ccecdff9997803a1ae40d383e3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1658713.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 31802,
+      "width": 480,
+      "height": 640,
+      "sha256": "0bce35f2736dbb33df57f99f74ab1274a09686b7e8efbae0624786dd26908a96"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:04.744589"
+}

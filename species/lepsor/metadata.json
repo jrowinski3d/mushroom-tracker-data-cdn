@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lepsor",
+  "scientific_name": "Lepista sordida",
+  "common_name": "Lepista sordida",
+  "edibility": "E",
+  "description": "Lepista sordida (Lepista sordida) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1548011.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 31928,
+      "width": 480,
+      "height": 640,
+      "sha256": "8028f87a93744bb9101150c84d03670677f1580e148d30259312e525f7b55d76"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1548012.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 29522,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c618cc4b080f4a37b0ecd5fb16ac270616d9cb6bfc1137157b215b5295b0bd2"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:28.354629"
+}

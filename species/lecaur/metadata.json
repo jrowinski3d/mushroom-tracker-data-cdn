@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lecaur",
+  "scientific_name": "Leccinum aurantiacum",
+  "common_name": "Leccinum aurantiacum",
+  "edibility": "E",
+  "description": "Leccinum aurantiacum (Leccinum aurantiacum) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698286.jpg",
+      "photographer": "Paul V\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdzina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 191462,
+      "width": 640,
+      "height": 640,
+      "sha256": "960769b31fc623f0aab525e0fc0fd3302f856913829a4264d2671df9f66ca4ce"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698287.jpg",
+      "photographer": "Paul V\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdzina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 80824,
+      "width": 640,
+      "height": 640,
+      "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:36.730088"
+}

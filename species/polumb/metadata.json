@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "polumb",
+  "scientific_name": "Polyporus umbellatus",
+  "common_name": "Polyporus umbellatus",
+  "edibility": "E",
+  "description": "Polyporus umbellatus (Polyporus umbellatus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681947.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-11",
+      "file_size_bytes": 102498,
+      "width": 640,
+      "height": 427,
+      "sha256": "3567d6a3cd2846607f830eadf210f6931a23071d02d93dd1068e26f2fc95e056"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1675033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-13",
+      "file_size_bytes": 62674,
+      "width": 640,
+      "height": 482,
+      "sha256": "a60d23af0e0eae434c753cec153c6cee9717c908b574fd051734e3e569d8636c"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:50.862393"
+}

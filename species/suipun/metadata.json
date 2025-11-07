@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "suipun",
+  "scientific_name": "Suillus pungens",
+  "common_name": "Suillus pungens",
+  "edibility": "E",
+  "description": "Suillus pungens (Suillus pungens) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1526412.jpg",
+      "photographer": "Pgrunow",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-15",
+      "file_size_bytes": 70398,
+      "width": 480,
+      "height": 640,
+      "sha256": "72cad87592d9f9df52f40d1cdb38a94138701ba20937744ec694e4a7833a1aa6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1526413.jpg",
+      "photographer": "Pgrunow",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-15",
+      "file_size_bytes": 87794,
+      "width": 480,
+      "height": 640,
+      "sha256": "199566d60bf0a48ca1b044f01e1d3ba443ec6a4da8292df70020401db9c101b5"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:40.403339"
+}

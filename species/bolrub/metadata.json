@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "bolrub",
+  "scientific_name": "Boletus rubriceps",
+  "common_name": "Boletus rubriceps",
+  "edibility": "E",
+  "description": "Boletus rubriceps (Boletus rubriceps) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1481643.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-04",
+      "file_size_bytes": 128618,
+      "width": 480,
+      "height": 640,
+      "sha256": "db93347ab2186ed09f6f1c6dd39f3342e54ffcc1254cf180203f63010d9de5b5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1481244.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-02",
+      "file_size_bytes": 136752,
+      "width": 480,
+      "height": 640,
+      "sha256": "c7f4f683ae2f39eecd269be79c77e4a0d6a6af8b0bbdeba64757e9b57c4bff27"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:35.025964"
+}

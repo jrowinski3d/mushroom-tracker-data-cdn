@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "bolvar",
+  "scientific_name": "Boletus variipes",
+  "common_name": "Boletus variipes",
+  "edibility": "E",
+  "description": "Boletus variipes (Boletus variipes) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1630075.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-25",
+      "file_size_bytes": 63056,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea8b5347a5583d9f821dd1d4f1157f77fd0d845df7822f3a89c896442a49b6e9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1630076.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-25",
+      "file_size_bytes": 93278,
+      "width": 640,
+      "height": 480,
+      "sha256": "9bde5a00569a0816e84d2e6e7c730e34c3f0f32eccfa1aba485d7f683ae35a00"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:34.578244"
+}

@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "agaarv",
+  "scientific_name": "Agaricus arvensis",
+  "common_name": "Agaricus arvensis",
+  "edibility": "E",
+  "description": "Agaricus arvensis (Agaricus arvensis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713410.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 57694,
+      "width": 480,
+      "height": 640,
+      "sha256": "f2eda6a0aeaa603b8c41e35977d212f1f7010cfc9778cfd5390a93980e5c05fb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1629600.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-21",
+      "file_size_bytes": 111536,
+      "width": 640,
+      "height": 480,
+      "sha256": "0568abd08e8ed2565aa98202b0c6907b0bd4cb8761e6d47963b4d2fb4e554c17"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:01.353659"
+}

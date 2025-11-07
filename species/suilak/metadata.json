@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "suilak",
+  "scientific_name": "Suillus lakei",
+  "common_name": "Suillus lakei",
+  "edibility": "E",
+  "description": "Suillus lakei (Suillus lakei) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709514.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-26",
+      "file_size_bytes": 62464,
+      "width": 640,
+      "height": 480,
+      "sha256": "9579c5a5f755a3673e808110cdf4eec0260e4377a6a3996da18df50cc2a0b2fc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709502.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-24",
+      "file_size_bytes": 119214,
+      "width": 480,
+      "height": 640,
+      "sha256": "6675cb1f67829b3437f2b76ef7f0b720b7f7db65efe92c9d62381199da3bf13f"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:39.112370"
+}

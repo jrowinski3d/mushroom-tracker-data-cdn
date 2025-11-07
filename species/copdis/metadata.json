@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "copdis",
+  "scientific_name": "Coprinellus disseminatus",
+  "common_name": "Coprinellus disseminatus",
+  "edibility": "E",
+  "description": "Coprinellus disseminatus (Coprinellus disseminatus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751486.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 101340,
+      "width": 640,
+      "height": 480,
+      "sha256": "02efec69dfe340a43bc987ebbbda209c0a303c68f689250f54ea245e4d0f87e4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751487.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 122436,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcd77199817a9948da67d3201eb1a9c44cfda21deaee4bfa97050fb45e6b3aa0"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:26.257355"
+}

@@ -1,0 +1,31 @@
+{
+  "mushroom_id": "armost",
+  "scientific_name": "Armillaria ostoyae",
+  "common_name": "Armillaria ostoyae",
+  "edibility": "E",
+  "description": "Armillaria ostoyae (Armillaria ostoyae) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713954.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 45026,
+      "width": 480,
+      "height": 640,
+      "sha256": "11812fb3ce1687a77c36fefaeedb2c9efb22bca30d40c144f2c716e676ee0b08"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:55.429596"
+}

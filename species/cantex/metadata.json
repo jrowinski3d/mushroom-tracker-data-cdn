@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "cantex",
+  "scientific_name": "Cantharellus texensis",
+  "common_name": "Cantharellus texensis",
+  "edibility": "E",
+  "description": "Cantharellus texensis (Cantharellus texensis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/530735.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 35332,
+      "width": 640,
+      "height": 410,
+      "sha256": "039ad325445485a3265b7d7b1d48901e12f18bf2759d9161c264fc0efb326162"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530736.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 79722,
+      "width": 640,
+      "height": 499,
+      "sha256": "7ee8854f4821985cf10e9c7ab9d84a27f54691a06102293fa7f26d0817b47c2e"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:30.856643"
+}

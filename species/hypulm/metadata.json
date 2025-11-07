@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "hypulm",
+  "scientific_name": "Hypsizygus ulmarius",
+  "common_name": "Hypsizygus ulmarius",
+  "edibility": "E",
+  "description": "Hypsizygus ulmarius (Hypsizygus ulmarius) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649898.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 103612,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2ea476fbf77c1cc41bae7582c177d00e846814708cee474d76c6a0be666527d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649899.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95280,
+      "width": 640,
+      "height": 480,
+      "sha256": "2aa8419d2cca940219b5bdbcaf5a85f45d8e9f0a3b9f020e68a3b07088d4250c"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:43.779551"
+}

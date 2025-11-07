@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "cancas",
+  "scientific_name": "Cantharellus cascadensis",
+  "common_name": "Cantharellus cascadensis",
+  "edibility": "E",
+  "description": "Cantharellus cascadensis (Cantharellus cascadensis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1282798.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 118826,
+      "width": 640,
+      "height": 480,
+      "sha256": "58e1d21cb1d18435de5d1d1c8c7c05cda8d1ee0fa95d5b5f028725272ab56569"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1282799.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 129184,
+      "width": 480,
+      "height": 640,
+      "sha256": "2a36f1b24ec17de27e0c3efb15faaf7be7f697c1aebcb7c61d79c93e0439daaf"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:28.885796"
+}

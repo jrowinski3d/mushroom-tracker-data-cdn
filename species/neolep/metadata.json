@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "neolep",
+  "scientific_name": "Neolentinus lepideus",
+  "common_name": "Neolentinus lepideus",
+  "edibility": "E",
+  "description": "Neolentinus lepideus (Neolentinus lepideus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688175.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 33134,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d59439c5cfa87d28e63a33fd801f1447fa4f31f6650877bc7bfdaf889fe0546"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688176.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 62860,
+      "width": 480,
+      "height": 640,
+      "sha256": "fe6e8a1f10093c4ff50e8c12968ed53c32036e3eabfd84f5194e38aa5eff356c"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:30.000625"
+}

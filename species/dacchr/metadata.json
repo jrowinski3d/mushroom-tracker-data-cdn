@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "dacchr",
+  "scientific_name": "Dacrymyces chrysospermus",
+  "common_name": "Dacrymyces chrysospermus",
+  "edibility": "E",
+  "description": "Dacrymyces chrysospermus (Dacrymyces chrysospermus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751397.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 63394,
+      "width": 640,
+      "height": 427,
+      "sha256": "4f3d6fd2ee98ee79c3f97f3aa0ce9a66d5f6115c9f9127bfd0bec7b416d1c9d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751398.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 82544,
+      "width": 640,
+      "height": 427,
+      "sha256": "839863966225a75f0a4e3f0bbd4b6baf231f3f879cfdf0961bc574b6d120d434"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:18.319990"
+}

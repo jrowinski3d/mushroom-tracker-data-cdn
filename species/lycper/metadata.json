@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lycper",
+  "scientific_name": "Lycoperdon perlatum",
+  "common_name": "Lycoperdon perlatum",
+  "edibility": "E",
+  "description": "Lycoperdon perlatum (Lycoperdon perlatum) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723310.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 40870,
+      "width": 640,
+      "height": 427,
+      "sha256": "9bd78ffa68b85a9358b87ced4958d2bb98f4ca6f0d2a5d8f47f054e958c3f200"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723311.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 48344,
+      "width": 640,
+      "height": 427,
+      "sha256": "e1e4721679e9a34c106a965d67f391b1f9de88157371d5bf7ee579366346ce5b"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:45.902453"
+}

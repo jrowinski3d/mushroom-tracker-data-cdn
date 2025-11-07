@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "trimur",
+  "scientific_name": "Tricholoma murrillianum",
+  "common_name": "Tricholoma murrillianum",
+  "edibility": "E",
+  "description": "Tricholoma murrillianum (Tricholoma murrillianum) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725582.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 128318,
+      "width": 640,
+      "height": 563,
+      "sha256": "8c14cd406d0ca0a070dae5d0c8f599a5ab7b67bfb53aa9894c041ca397a82111"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651537.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 12316,
+      "width": 482,
+      "height": 640,
+      "sha256": "63aec1140a6c93f42d8ef6433c91074146579fb2ce078755fbb6bcf824f9ab11"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:58.333394"
+}

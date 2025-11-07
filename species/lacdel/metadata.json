@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lacdel",
+  "scientific_name": "Lactarius deliciosus",
+  "common_name": "Lactarius deliciosus",
+  "edibility": "E",
+  "description": "Lactarius deliciosus (Lactarius deliciosus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1425085.jpg",
+      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 79476,
+      "width": 640,
+      "height": 480,
+      "sha256": "500444773c3c9f6342878d1f78f4b384b3a3667e98ffac7efe527baf5e594239"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1425086.jpg",
+      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 112986,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffc9822fd7d75f11622408b47847ee3ded0ae1f040c9a529ef5c971535109240"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:04.364352"
+}

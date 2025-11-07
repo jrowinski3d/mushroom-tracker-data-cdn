@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "clatru",
+  "scientific_name": "Clavariadelphus truncatus",
+  "common_name": "Clavariadelphus truncatus",
+  "edibility": "E",
+  "description": "Clavariadelphus truncatus (Clavariadelphus truncatus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1260808.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-13",
+      "file_size_bytes": 65916,
+      "width": 640,
+      "height": 435,
+      "sha256": "b3e73fe1062f84de12e17846003ba46292b1ef06993bad8b68cb6ac45ef22656"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1260809.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-03",
+      "file_size_bytes": 31658,
+      "width": 640,
+      "height": 400,
+      "sha256": "5d1ca550cc37e7b992629accd6592c72648f01bb74233805253d038de54f9f20"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:20.045445"
+}

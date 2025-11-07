@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "tylfel",
+  "scientific_name": "Tylopilus felleus",
+  "common_name": "Tylopilus felleus",
+  "edibility": "E",
+  "description": "Tylopilus felleus (Tylopilus felleus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718850.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 50034,
+      "width": 640,
+      "height": 427,
+      "sha256": "e44a79ac4907688e85b892bc0db5944518b7238c1b1d7ef058f6f6b65db65502"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718851.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 51248,
+      "width": 640,
+      "height": 427,
+      "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:40.812351"
+}

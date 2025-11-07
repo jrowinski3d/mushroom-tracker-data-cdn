@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "rusint",
+  "scientific_name": "Russula integra",
+  "common_name": "Russula integra",
+  "edibility": "E",
+  "description": "Russula integra (Russula integra) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/580003.jpg",
+      "photographer": "James Baker",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-09-09",
+      "file_size_bytes": 10332,
+      "width": 204,
+      "height": 208,
+      "sha256": "7d2ad0481dae41fa5055b70ce1b65b48844b4716e0e8165ce71ae7544386d173"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/580004.jpg",
+      "photographer": "James Baker",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-09-09",
+      "file_size_bytes": 7092,
+      "width": 177,
+      "height": 180,
+      "sha256": "1b3b2d4190ca816989e194b579c3f8db936c8b2c3a7fe126818bea53ccde286d"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:12.291137"
+}

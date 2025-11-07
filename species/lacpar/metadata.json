@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lacpar",
+  "scientific_name": "Lactarius paradoxus",
+  "common_name": "Lactarius paradoxus",
+  "edibility": "E",
+  "description": "Lactarius paradoxus (Lactarius paradoxus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1531873.jpg",
+      "photographer": "beelime",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-12-12",
+      "file_size_bytes": 113234,
+      "width": 480,
+      "height": 640,
+      "sha256": "d131613c503a0eba91bc857b843c2839b6f8cfb2635388c82d2859c06b5e8fd8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1531874.jpg",
+      "photographer": "beelime",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-12-12",
+      "file_size_bytes": 109428,
+      "width": 640,
+      "height": 480,
+      "sha256": "0babad4ba5728a6edea081ac4f2ac8b04b787983a5ee556d0fde561c0300c649"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:08.522160"
+}

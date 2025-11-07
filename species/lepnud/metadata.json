@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "lepnud",
+  "scientific_name": "Lepista nuda",
+  "common_name": "Lepista nuda",
+  "edibility": "E",
+  "description": "Lepista nuda (Lepista nuda) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1729531.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 51382,
+      "width": 640,
+      "height": 427,
+      "sha256": "48030c7b7b53e03ab995d71e30dcdb4c1212999e9c208a3e605c861cc6744dd0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1729532.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 34452,
+      "width": 640,
+      "height": 427,
+      "sha256": "00ec1b3bf91a4164b77443db971fa27ebec3c4a254d394f51e8c9e9f3d435136"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:27.063856"
+}

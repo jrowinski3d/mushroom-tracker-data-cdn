@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "cancal",
+  "scientific_name": "Cantharellus californicus",
+  "common_name": "Cantharellus californicus",
+  "edibility": "E",
+  "description": "Cantharellus californicus (Cantharellus californicus) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1642142.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 24490,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4d3c1a990e345847d4669b5966cdbb34a2d001e2085e4c714b20182fe14493"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1642143.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 107254,
+      "width": 640,
+      "height": 480,
+      "sha256": "52dc637c1a89cd90b8a166176011a9685cad6b1a79e3bf11fc4383ba4aea79f6"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:29.287438"
+}

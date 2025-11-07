@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "herabi",
+  "scientific_name": "Hericium abietis",
+  "common_name": "Hericium abietis",
+  "edibility": "E",
+  "description": "Hericium abietis (Hericium abietis) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714426.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 59586,
+      "width": 640,
+      "height": 480,
+      "sha256": "64ad0f9013daa01c68572b668c9906b6093066007124fbd95e76e9cd73bc0db5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1658775.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 45632,
+      "width": 640,
+      "height": 480,
+      "sha256": "8df4a3bad659adc85c7166e5684a14c98f94895920a7cda2aca912c464780318"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:48:54.768836"
+}

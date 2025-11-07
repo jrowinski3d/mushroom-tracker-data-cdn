@@ -1,0 +1,42 @@
+{
+  "mushroom_id": "exigla",
+  "scientific_name": "Exidia glandulosa",
+  "common_name": "Exidia glandulosa",
+  "edibility": "E",
+  "description": "Exidia glandulosa (Exidia glandulosa) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
+  "regions": [
+    "North America"
+  ],
+  "lookalikes": [
+    "Various species - expert identification recommended"
+  ],
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1733297.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-01",
+      "file_size_bytes": 33576,
+      "width": 640,
+      "height": 532,
+      "sha256": "1d66c7232ec11f051027ebc7a5cc00cd7a6c466c692273896f458d7d388902ca"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1733298.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-01",
+      "file_size_bytes": 37262,
+      "width": 640,
+      "height": 527,
+      "sha256": "f528e39e3877f7b1d2bb0df7148c3d9b3284a87fa71a4427b57797587b462a54"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2025-11-07T11:49:17.507104"
+}

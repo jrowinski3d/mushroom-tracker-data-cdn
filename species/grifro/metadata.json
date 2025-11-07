@@ -3,19 +3,16 @@
   "scientific_name": "Grifola frondosa",
   "common_name": "Maitake",
   "edibility": "E",
-  "description": "Large layered clusters 10-60 cm wide with multi-branched central stem from underground tuber-like base. Grayish-brown fan or spoon-shaped caps in rosette pattern. Angular white to yellowish pores, short white branching stems.",
-  "habitat": "Primarily at base of oak trees (especially red oak), occasionally other hardwoods. Returns to same spot year after year. Most common in Northeastern US and Canada, found west to Idaho.",
-  "season": "North America: Late summer to early fall, specifically September 1 to early November. Most prolific September-October in Eastern North America.",
+  "description": "Maitake (Grifola frondosa) is a prized edible mushroom. Proper identification is essential before consumption.",
+  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
+  "season": "Seasonal availability varies by location and species.",
   "regions": [
-    "North America",
-    "Europe",
-    "Asia"
+    "North America"
   ],
   "lookalikes": [
-    "Meripilus sumstinei (Black-Staining Polypore) - EDIBLE but inferior - blackens when bruised (10-40 min), tougher/leathery texture, thicker fronds",
-    "Bondarzewia berkeleyi (Berkeley's Polypore) - EDIBLE - thick-fleshed, cream-colored, won't stain black"
+    "Various species - expert identification recommended"
   ],
-  "safety_notes": "No poisonous lookalikes. Key identifier: does NOT stain black when bruised (unlike Meripilus). Best when young and tender. Clean thoroughly as debris collects in layers.",
+  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
   "images": [
     {
       "index": 0,
@@ -41,5 +38,5 @@
     }
   ],
   "content_version": "1.0",
-  "last_updated": "2025-11-06T10:29:25.343535"
+  "last_updated": "2025-11-07T11:48:49.986989"
 }
