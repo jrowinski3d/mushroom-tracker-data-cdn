@@ -3,16 +3,24 @@
   "scientific_name": "Clavariadelphus pistillaris",
   "common_name": "Clavariadelphus pistillaris",
   "edibility": "E",
-  "description": "Clavariadelphus pistillaris (Clavariadelphus pistillaris) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Giant Club is a large impressive club fungus 10-30 cm tall and 3-8 cm wide. The fruitbody is pestle or club-shaped with a rounded to slightly pointed top (not flattened). Color is white when very young, becoming yellowish, ochre, tan, or pinkish-brown with age. The surface is smooth or finely wrinkled. The base is often whitish with white mycelial threads. The flesh is white, brittle when fresh, with a mild odor becoming unpleasant with age. Single unbranched structure, sometimes slightly compressed or grooved.",
+  "habitat": "Found in deciduous and mixed forests, particularly under beech, oak, and maple. Forms mycorrhizal associations with hardwood trees. Grows terrestrially from soil in rich humus. Fruits scattered or in small groups. Prefers mature forests with deep leaf litter. More common in mountainous or hilly terrain.",
+  "season": "Late summer through fall (August-November) in most regions. In Europe, primarily September-October. Peak fruiting in fall. Requires warm summer followed by fall rains and cool temperatures.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (uncommon)",
+    "Appalachian Mountains",
+    "Northeastern United States",
+    "Southeastern Canada",
+    "Temperate hardwood forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Clavariadelphus truncatus (edible) - similar size but flattened top, conifers",
+    "Clavariadelphus sachalinensis (edible) - more orange-brown, West Coast",
+    "Gomphus clavatus (edible) - purple-gray tones, pig ear-shaped top",
+    "Large Lycoperdon puffballs - similar but round, powdery spores when mature"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but mediocre: Considered edible when young but texture is poor and flavor bland to unpleasant. Becomes rubbery, tough, and bitter with age. Historically eaten in times of scarcity but not recommended. No toxic lookalikes. Young white specimens are best if attempting. The large size might be appealing but culinary quality is disappointing. The rounded top (not flat) and large size distinguish it from other club fungi. More notable as an impressive forest specimen than food. Safe but not worthwhile.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "2e8de2d8a0b2d2204727f6bdb137e5c81ae9c5e996140edce69b790b8db18c9a"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:20.460554"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

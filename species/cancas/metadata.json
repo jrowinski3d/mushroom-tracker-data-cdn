@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus cascadensis",
   "common_name": "Cantharellus cascadensis",
   "edibility": "E",
-  "description": "Cantharellus cascadensis (Cantharellus cascadensis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Cascade Chanterelle has a pale yellow to cream-colored cap 2-8 cm wide, notably paler than its lower-elevation cousin C. formosus. The cap is smooth, becoming funnel-shaped with age, with wavy, irregular margins. The underside features thick, blunt, forked ridges (NOT true gills) that are cream to pale yellow, widely spaced, and strongly decurrent down the stem. The stem is solid, 2-6 cm tall, white to pale cream, often tapering toward the base. Flesh is white to pale cream, firm, with a subtle fruity aroma. Spore print is white to pale cream.",
+  "habitat": "Mycorrhizal with high-elevation conifers including mountain hemlock, true firs (Abies species), and Engelmann spruce. Found in montane and subalpine coniferous forests, often in mossy areas near snowmelt zones. Prefers cool, moist mountain environments with well-drained soils.",
+  "season": "Late summer through fall (August-November), fruiting as the snowpack recedes and fall rains begin. Peak season is September-October at higher elevations. Season is shorter than lowland chanterelles due to colder mountain temperatures.",
   "regions": [
-    "North America"
+    "Cascade Range (Washington, Oregon)",
+    "Northern Rockies (Idaho, Montana)",
+    "High-elevation forests of British Columbia",
+    "Sierra Nevada mountains (Northern California)",
+    "Olympic Mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cantharellus formosus - Edible, darker golden-orange, found at lower elevations, larger fruitbodies",
+    "Cantharellus subalbidus - Edible, white to cream, very similar but typically paler and found in different regions",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more orange"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The Cascade Chanterelle is an excellent edible mushroom with delicate flavor and firm texture. Like all chanterelles, the key identification feature is the blunt, forked ridges on the underside rather than true gills. These ridges feel waxy and are continuous with the cap flesh. Always confirm the mushroom grows from soil in association with trees, never on wood. The pale coloration distinguishes it from toxic Jack-O'-Lanterns. Excellent in soups and sautés; the mild flavor pairs well with cream-based dishes.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "2a36f1b24ec17de27e0c3efb15faaf7be7f697c1aebcb7c61d79c93e0439daaf"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:28.885796"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

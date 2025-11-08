@@ -3,16 +3,21 @@
   "scientific_name": "Morchella snyderi",
   "common_name": "Morchella snyderi",
   "edibility": "E",
-  "description": "Morchella snyderi (Morchella snyderi) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cap 3-10 cm (1.2-4 in) tall, conical to elongated, honeycomb pattern of ridges and pits. Color distinctive: young fruiting bodies yellow to tan, maturing to brown or blackish-brown on cap ridges while pits remain paler; dried specimens turn dark brown to black. Despite light initial coloration, genetically groups with black morels (elata clade). Stem proportional to cap, pale, hollow, smooth to slightly wrinkled. Completely hollow from cap tip through stem when sectioned lengthwise. Spore print cream to yellowish.",
+  "habitat": "Found under conifers in western montane forests, particularly associated with Douglas fir (Pseudotsuga menziesii), ponderosa pine (Pinus ponderosa), and white fir (Abies concolor). Fruits in undisturbed old-growth conifer forest, lightly disturbed areas like campgrounds and forest roads, and areas with heavy machinery disturbance and woody debris. Unlike many western morels, NOT primarily fire-dependent; may appear several years after burns but commonly fruits in unburned forests. One of few western morels reliably found in natural settings without recent fire.",
+  "season": "Spring to early summer (April-June in most areas). Timing varies with elevation and snowmelt; higher elevation sites fruit later. In Sierra Nevada and Cascade ranges, emergence follows snowmelt as soil warms. Coastal ranges may see earlier fruiting (April-May), while high mountain sites fruit May-June.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California",
+    "Rocky Mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "False Morel (Gyromitra species) - TOXIC: brain-like wrinkled or lobed cap instead of honeycomb ridges, cap attached only at apex, chambered interior vs. completely hollow, reddish-brown color. Contains deadly gyromitrin toxin.",
+    "Morchella tomentosa (Gray Morel) - Edible: fuzzy/hairy texture especially on young stems, restricted to post-fire sites, thicker double-walled stem. Same preparation required.",
+    "Other black morels (M. elata group) - Edible: various western black morel species difficult to distinguish in field, all share similar ecology and culinary value, proper cooking essential for all.",
+    "Morchella importuna (Landscape Morel) - Edible: similar appearance but found in urban wood chip mulch vs. natural conifer forests, ladder-like ridge pattern."
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized culinary mushroom with excellent flavor, sought after by mushroom hunters in western mountains. Must be thoroughly cooked for 15-25 minutes; raw or undercooked morels contain hydrazine toxins causing severe nausea, vomiting, and gastric distress. Cook at temperatures above 160°F (71°C) to break down toxic compounds. Some individuals experience allergic reactions even when properly prepared; consume small portions on first trial. Rare adverse reactions with alcohol consumption have been reported. Critical to distinguish from deadly false morels (Gyromitra) which have brain-like wrinkled caps rather than honeycomb patterns and chambered (not hollow) interiors.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "ef847e0c1c4278192c4cf822dae33d3130dfa2cab3defbac8d80f41f0396b9b4"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:27.185399"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

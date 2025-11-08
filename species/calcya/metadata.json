@@ -3,16 +3,24 @@
   "scientific_name": "Calvatia cyathiformis",
   "common_name": "Calvatia cyathiformis",
   "edibility": "E",
-  "description": "Calvatia cyathiformis (Calvatia cyathiformis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Medium to large puffballs 3-8 inches tall and 2-6 inches wide, shaped like inverted pear, top, or vase with prominent thick sterile base comprising lower half. White to grayish-brown exterior becoming purple-brown with age. Interior pure white when edible, maturing to purple-brown spore mass. Distinguished by cup-like sterile base that persists after spores disperse.",
+  "habitat": "Saprobic in grasslands, pastures, meadows, lawns, fields, and open woods. Prefers disturbed areas with rich soil. Common in parks, golf courses, roadsides, and agricultural lands. Often grows in rings or scattered groups.",
+  "season": "Late summer through fall, typically August-October. Peak fruiting in September after late summer rains. Can appear into November in mild climates.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest and Great Plains",
+    "Pacific coast",
+    "Southern Canada",
+    "Widespread across North America",
+    "Cosmopolitan distribution"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Calvatia species with sterile base (similar edibility when white inside)",
+    "DEADLY: Immature Amanita buttons (ALWAYS CUT OPEN - will show developing gills/cap inside)",
+    "Scleroderma species/Earthballs (toxic, purple-black interior from start, no sterile base)",
+    "Handkea (Calvatia) excipuliformis (nearly identical, same edibility)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when pure white inside: CRITICAL - ALWAYS cut specimen completely in half from top to bottom before consuming. Edible ONLY if interior is completely pure white and firm throughout. If any purple, yellow, brown, or developing structures visible inside, DO NOT EAT. The purple-brown mature spores are harmless but inedible. This cutting rule prevents consuming toxic lookalikes and immature deadly Amanitas. The persistent cup-shaped base is distinctive. Cook thoroughly when white.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "cec43de6f829e776db61ff6efc95aa3911da73444fbdc60655ed8c16da167bab"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:45.519710"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

@@ -1,16 +1,23 @@
 {
   "mushroom_id": "lacruf",
   "scientific_name": "Lactarius rufus",
-  "common_name": "Lactarius rufus",
+  "common_name": "Red Hot Milk Cap",
   "edibility": "E",
-  "description": "Lactarius rufus (Lactarius rufus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Red Hot Milk Cap has a reddish-brown to rufous cap (4-10 cm) with a distinctive small central umbo (nipple). The cap surface is dry, smooth to slightly velvety. Gills are cream to pale pinkish, attached, crowded. The stem is similar color to cap, smooth, hollow. The KEY FEATURE is the copious WHITE LATEX (milk) that exudes when cut or broken - this latex is EXTREMELY ACRID and hot-tasting. The latex does not change color. Flesh is pale, fragile. Spore print is white to cream. The acrid latex is comparable to habanero pepper heat.",
+  "habitat": "Mycorrhizal with CONIFERS, especially pine and spruce. Grows on the ground in coniferous and mixed forests, often in acidic soils and sphagnum moss. Common in northern conifer forests. Prefers wet, boggy areas.",
+  "season": "Summer through fall (July-October), fruiting throughout the season.",
   "regions": [
-    "North America"
+    "Northeast",
+    "Pacific Northwest",
+    "Upper Midwest",
+    "Rocky Mountains",
+    "Canada",
+    "Northern Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Lactarius species - test latex taste to distinguish (nibble and spit - mild vs acrid)",
+    "Russula emetica - similar red color but NO LATEX, brittle flesh",
+    "Lactarius hepaticus - similar but darker brown, equally acrid"
   ],
   "safety_notes": "INEDIBLE: Lactarius rufus, known as the Rufous Milkcap or Red Hot Milk Cap, has extremely hot, acrid-tasting milk (latex) that exudes when cut - described as the hottest of all Lactarius species, comparable to habanero pepper heat. While it has traditional culinary uses in some Northern European countries after extensive preparation, Western field guides universally classify it as inedible due to the intensely acrid, peppery taste. The mushroom is suspected of being mildly poisonous when consumed raw or improperly prepared. Not recommended for consumption.",
   "images": [
@@ -37,6 +44,6 @@
       "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000"
 }

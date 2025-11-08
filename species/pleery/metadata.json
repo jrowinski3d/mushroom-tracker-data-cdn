@@ -3,16 +3,23 @@
   "scientific_name": "Pleurotus eryngii",
   "common_name": "Pleurotus eryngii",
   "edibility": "E",
-  "description": "Pleurotus eryngii (Pleurotus eryngii) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Distinctive mushroom with small tan to brown cap 1-4 inches wide and thick, white, meaty stem 2-6 inches tall. Unlike typical oyster mushrooms, the thick cylindrical stem is the prized portion. Cap has decurrent gills. Grows from roots of dead herbaceous plants, not wood. Unique among Pleurotus species in North America.",
+  "habitat": "Saprobic on roots of dead and dying herbaceous plants, particularly thistles (Eryngium species), sea holly, and other umbellifers in desert and arid grassland regions. NOT found on wood like other Pleurotus species. Grows from buried roots in sandy or disturbed soils.",
+  "season": "Fall through spring in arid regions, typically October-April. Fruits after winter and spring rains in desert and semi-arid environments. Can appear sporadically throughout cool season with adequate moisture.",
   "regions": [
-    "North America"
+    "Southwestern deserts",
+    "Southern California",
+    "Mediterranean-climate regions",
+    "Arid and semi-arid grasslands",
+    "Native to Mediterranean, established in North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Pleurotus species (all grow on wood, not roots)",
+    "Pleurotus nebrodensis (similar but different range)",
+    "Cultivated King Oyster (same species, widely sold in stores)",
+    "Young parasol mushrooms (different gill attachment, spore color)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized for its thick, meaty stem with excellent texture and mild flavor. One of the most popular cultivated specialty mushrooms sold as 'King Oyster' or 'King Trumpet' mushrooms. Wild specimens are choice edibles when properly identified. The thick stem is the most desirable part. Cook thoroughly to develop best flavor and texture.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "81d27168cf26c777b1997fbad54c80acaed53c24e15b7bcd027be23aeb19eab3"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:43.334041"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

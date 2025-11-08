@@ -3,16 +3,24 @@
   "scientific_name": "Agaricus subrutilescens",
   "common_name": "Agaricus subrutilescens",
   "edibility": "E",
-  "description": "Agaricus subrutilescens (Agaricus subrutilescens) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Wine-colored Agaricus is a medium to large species with a cap 8-20 cm across, initially rounded becoming broadly convex to flat. The cap is white to cream with brown to reddish-brown fibrillose scales, often developing wine-red to pinkish-red stains with age or handling. The gills are free, initially pale pink becoming dark chocolate brown. The stem is 6-15 cm tall, white above the ring, staining wine-red to pinkish especially at the base (diagnostic feature). The ring is large and pendant. The flesh is white, slowly staining pinkish to wine-red when cut, with a pleasant almond-anise odor.",
+  "habitat": "Found in coniferous and mixed forests, particularly under pine, fir, and spruce. Also in urban areas with conifers, landscaped areas with wood chips and bark mulch. Grows terrestrially in humus-rich soil and decomposing woody debris. Fruits scattered to gregarious, often in troops in wood chip beds.",
+  "season": "Fall through winter (October-February) in California and Mediterranean climates. Late summer through fall (August-November) in temperate regions. Peak fruiting occurs in late fall and early winter. More cold-tolerant than many Agaricus species.",
   "regions": [
-    "North America"
+    "California (very common)",
+    "Pacific Northwest (common)",
+    "Southwestern United States",
+    "Western North America (widespread)",
+    "Mediterranean climates",
+    "Coniferous forest regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Agaricus augustus (edible) - larger, more golden scales, less wine-red staining",
+    "Agaricus crocodilinus (edible) - similar but lacks distinctive wine-red stem base staining",
+    "Agaricus moelleri (toxic) - yellows intensely, phenolic odor instead of anise",
+    "Large Amanita species (some deadly) - have volva at base which Agaricus lacks"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible with good flavor and firm texture when cooked. Popular with foragers in California. Cook thoroughly. Critical identification: verify pleasant ALMOND-ANISE odor (not phenolic), WINE-RED to pinkish staining especially on stem base (diagnostic feature), FREE gills turning pink then chocolate brown, CHOCOLATE BROWN spore print, NO volva at base. Avoid specimens with intense yellow bruising or unpleasant phenolic odor. The wine-red staining on the stem base is the most distinctive feature. Excellent in soups and sautés.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "d36a5a5cc111729564d1e8943cf126c3e8233ccf4dcede126b2a13cd99d81814"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:03.471420"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

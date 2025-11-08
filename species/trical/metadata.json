@@ -1,18 +1,25 @@
 {
   "mushroom_id": "trical",
   "scientific_name": "Tricholoma caligatum",
-  "common_name": "Tricholoma caligatum",
+  "common_name": "California Matsutake",
   "edibility": "E",
-  "description": "Tricholoma caligatum (Tricholoma caligatum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "California Matsutake has a robust white to cream cap (5-15 cm) often with brownish stains or zones developing with age. The cap is convex, dry, smooth to slightly scaly or fibrillose. Gills are white to cream, attached, crowded, may stain brown. The stem is thick, firm, white, with a MEMBRANOUS TO COTTONY RING from the partial veil - ring characteristics can vary. The key feature is the DISTINCTIVE SPICY, CINNAMON, or aromatic ODOR. Flesh is white, firm. Spore print is white. Distinguished by California coastal range habitat and association with specific tree species.",
+  "habitat": "Mycorrhizal with CONIFERS and hardwoods in California, especially live oak (Quercus agrifolia), tanoak (Notholithocarpus), madrone (Arbutus), and Douglas fir. Forms mycorrhizal relationships in coastal California forests. Grows on the ground in duff or leaf litter. Found in mixed evergreen forests from coastal ranges to Sierra Nevada foothills.",
+  "season": "Late fall through winter (November-February), fruiting during California's rainy season - later than other matsutake.",
   "regions": [
-    "North America"
+    "California coast",
+    "Sierra Nevada foothills",
+    "Coastal ranges",
+    "Northern California",
+    "Oregon border region"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Tricholoma magnivelare - Pacific Northwest matsutake, conifer specific",
+    "Other Tricholoma species - various, lack cinnamon odor",
+    "Amanita species - TOXIC - have volva at base",
+    "Catathelasma - has double veil structure"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized, commercially harvested in California. The SPICY CINNAMON ODOR is diagnostic. Best when young and firm. Unique among matsutake for its hardwood associations (oak, tanoak, madrone) in addition to conifers. CRITICAL: Always verify absence of volva (cup at base) to rule out toxic Amanita species. The ring and distinctive aroma confirm identification.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "1342cf701d1c7ffb2a2df10c0f7671b8bb3dd32a98a987505432c3b3c9bf7046"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:58.722457"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000"
 }

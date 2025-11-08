@@ -3,16 +3,24 @@
   "scientific_name": "Laetiporus huroniensis",
   "common_name": "Laetiporus huroniensis",
   "edibility": "E",
-  "description": "Laetiporus huroniensis (Laetiporus huroniensis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bright orange to salmon bracket with sulfur-yellow to cream pore surface, forming large overlapping shelves 2-10 inches wide on hemlock. Often paler yellow pores than L. sulphureus. Soft and succulent when young. Distinguished by northeastern range and strict association with eastern hemlock. Forms rosettes on trunks and logs. Annual bracket.",
+  "habitat": "Parasitic and saprobic specifically on living and dead eastern hemlock (Tsuga canadensis). Strongly host-specific to hemlock in northeastern forests. Forms shelving brackets on trunks, stumps, and fallen logs. Causes brown cubical heart rot. Common where eastern hemlock occurs.",
+  "season": "Summer through fall, typically July-October. Peak fruiting in August-September. Flushes after warm summer rains. Similar timing to other northern Laetiporus species.",
   "regions": [
-    "North America"
+    "Northeastern United States",
+    "Great Lakes region",
+    "Appalachian Mountains",
+    "Southeastern Canada",
+    "Eastern hemlock range",
+    "New England to Georgia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Laetiporus conifericola (western mountains, different conifers)",
+    "Laetiporus sulphureus (on hardwoods, not conifers)",
+    "Other Laetiporus species (different hosts/ranges)",
+    "Jack-o'-lantern (Omphalotus) - toxic, has gills not pores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when young, but CAUTION: Like other conifer-dwelling Laetiporus, this species more commonly causes digestive upset than hardwood species. Hemlock specimens can cause stomach issues in sensitive individuals. Harvest only very young, tender specimens. Start with small amounts to test tolerance. Cook thoroughly. The hemlock host and northeastern range help identification. Some people tolerate it well, others experience problems.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:49.510333"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

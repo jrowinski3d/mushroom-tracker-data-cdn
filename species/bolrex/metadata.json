@@ -3,16 +3,25 @@
   "scientific_name": "Boletus rex-veris",
   "common_name": "Boletus rex-veris",
   "edibility": "E",
-  "description": "Boletus rex-veris (Boletus rex-veris) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Spring King Bolete displays a pinkish-brown to reddish-brown cap (5-25 cm) with smooth, often wrinkled surface when mature. Pores are white when young, becoming yellowish with age, showing no bruising reaction. The thick, white stem has white reticulation and often shows pinkish-red tones at the base. White flesh is firm and does not stain when cut. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with pine, Douglas fir, and other conifers in low to mid-elevation forests. Associated with snowmelt and spring moisture. Prefers sandy or gravelly soils under mature conifers.",
+  "season": "Spring through early summer (April-July), with peak fruiting in May-June. Known as 'Spring King' for early seasonal appearance, often fruiting when snow is still present at higher elevations.",
   "regions": [
-    "North America"
+    "Western United States",
+    "Pacific Northwest",
+    "California mountains",
+    "Rocky Mountains",
+    "Oregon",
+    "Washington",
+    "British Columbia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis - later season, different cap color",
+    "Boletus pinophilus - darker reddish-brown cap",
+    "Tylopilus felleus - pink pores, bitter taste",
+    "Other spring Boletus species - all edible"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Spring King is highly prized for its early appearance and excellent flavor. Firm texture and rich taste make it a favorite among foragers. The spring fruiting period and pinkish-toned cap help distinguish it from other species. Always cook thoroughly before eating.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "bd6ecd0e3cf80b45bb0612fd32833b55f0d92078b287e3bc8c877eb4955ff265"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:35.461199"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,25 @@
   "scientific_name": "Suillus luteus",
   "common_name": "Suillus luteus",
   "edibility": "E",
-  "description": "Suillus luteus (Suillus luteus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Slippery Jack features a chocolate-brown to purplish-brown cap (5-12 cm) with distinctively slimy, glutinous surface when wet - easily peeled. Pores are yellow, not bruising. A prominent white partial veil leaves a purplish-brown ring on the yellow stem. White to pale yellow flesh does not stain. The slimy cap and dark ring are diagnostic features. Spore print is cinnamon-brown.",
+  "habitat": "Mycorrhizal exclusively with two- and three-needle pines, especially Scots pine and Eastern white pine. Common in pine plantations and naturally regenerated pine stands. Found in disturbed areas with young pines.",
+  "season": "Summer through fall (July-November) with peak fruiting in September-October. Often fruits abundantly after autumn rains.",
   "regions": [
-    "North America"
+    "Northeastern United States",
+    "Great Lakes region",
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Anywhere with pine plantations",
+    "Canada",
+    "Alaska"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Suillus granulatus - lacks the dark ring on stem",
+    "Other Suillus species - various slimy-capped boletes with pines",
+    "Boletus species - not slimy, different habitat",
+    "Gomphidius species - have gills not pores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Slippery Jack is a good edible when young and firm. Remove the slimy cap cuticle before cooking as it can have a laxative effect. The slimy texture and purplish ring on yellow stem are distinctive. Some people experience digestive upset. Always cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "b5eb12ca74c4875c75f45097ea8581a8f1e41b464135995d4bda4dbfa0b0bab4"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:38.294127"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

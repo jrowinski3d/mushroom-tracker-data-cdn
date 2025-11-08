@@ -3,16 +3,24 @@
   "scientific_name": "Pholiota squarrosa",
   "common_name": "Pholiota squarrosa",
   "edibility": "E",
-  "description": "Pholiota squarrosa (Pholiota squarrosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Scaly Pholiota or Shaggy Scalycap is a medium to large mushroom with a cap 5-15 cm across, convex becoming broadly convex or flat. The cap is pale yellow to yellow-brown or ochre, densely covered with upturned recurved brown to reddish-brown scales, especially toward the center, giving a very shaggy appearance. The gills are adnate to subdecurrent, initially pale yellow becoming rust-brown with age. The stem is 5-15 cm tall, stout, pale yellow above the ring, covered with brown scales below the ring. The ring is thick and persistent. The flesh is pale yellow with a radish-like or somewhat unpleasant odor.",
+  "habitat": "Found on dead and living hardwood trees, particularly beech, maple, oak, and poplar. Grows in dense overlapping clusters at the base of trees, on stumps, or on fallen logs. Acts as a wood decomposer and sometimes a weak parasite. Very common on street trees and in parks. Fruits in tight clustered groups, often with dozens of individuals.",
+  "season": "Late summer through fall (August-November) in most regions. In mild climates may fruit into winter. Peak fruiting in September-October. Can produce multiple flushes in good years.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (very common)",
+    "Pacific Northwest (common)",
+    "California (occasional)",
+    "Temperate regions worldwide on hardwoods",
+    "Urban areas on street trees"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Pholiota species - many similar scaly species, difficult to distinguish",
+    "Armillaria species (edible with caution) - honey-colored, less scaly, different habitat",
+    "Hypholoma fasciculare (toxic) - clusters on wood but greenish gills, bitter taste",
+    "Gymnopilus species (some hallucinogenic) - orange-brown, bitter, rust spores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE BUT NOT RECOMMENDED: Considered edible by some sources but causes digestive upset in many people. Reports of both successful consumption and gastric distress are common. The texture is fibrous and tough. The flavor can be unpleasant with a radish-like or chemical taste. Must be thoroughly cooked. The possibility of confusion with toxic clustered mushrooms is a concern. Even when properly identified, the quality is poor and many people cannot tolerate it. Better edibles exist. The shaggy scaly appearance is distinctive. If attempting, try small amounts first and expect digestive issues. Not recommended due to widespread reports of GI upset and poor flavor. The dense clusters on hardwoods are distinctive but not appetizing.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "cf74f11b6803c798a105ba96bdcb7ec182982f54ee307acaee9372de457da2c2"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:30.804605"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

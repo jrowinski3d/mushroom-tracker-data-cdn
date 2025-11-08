@@ -1,18 +1,22 @@
 {
   "mushroom_id": "ruscla",
   "scientific_name": "Russula claroflava",
-  "common_name": "Russula claroflava",
+  "common_name": "Yellow Swamp Russula",
   "edibility": "E",
-  "description": "Russula claroflava (Russula claroflava) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Yellow Swamp Russula has bright yellow cap (3-10 cm), sticky. Gills white to cream. Stem white. KEY: BRIGHT YELLOW CAP, BRITTLE FLESH, grows in WET/BOGGY areas. Flesh white. Spore print white to cream. Mild to slightly acrid.",
+  "habitat": "Mycorrhizal with birch and willow in WET areas - swamps, bogs, wet woods. Distinctive wetland habitat. Northern species. Scattered.",
+  "season": "Summer through fall (July-September).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Upper Midwest",
+    "Canada",
+    "Northern Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other yellow Russulas - check habitat",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. BRIGHT YELLOW + WETLAND HABITAT + BRITTLE FLESH diagnostic. Taste test (mild specimens edible). Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "40b560f384bb490cd8305e722afeafd8634a91715bdc1637b162df8f4e37f12f"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:12.722994"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

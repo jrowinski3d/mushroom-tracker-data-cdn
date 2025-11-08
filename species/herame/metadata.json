@@ -1,18 +1,23 @@
 {
   "mushroom_id": "herame",
   "scientific_name": "Hericium americanum",
-  "common_name": "Hericium americanum",
+  "common_name": "Bear's Head",
   "edibility": "E",
-  "description": "Hericium americanum (Hericium americanum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bear's Head has a white, branched structure forming a large cluster (15-40 cm wide) with multiple SHORT BRANCHES that each bear clusters of hanging SPINES on their undersides. The main structure consists of thick, fleshy branches with spines (0.5-2 cm long) growing only on the lower surfaces of branches, not all around. Spines are white when fresh, yellowing with age. The entire fruiting body is attached to wood at a single point. Flesh is white, firm, with mild taste. Distinguished from H. erinaceus by its branched structure and from H. coralloides by shorter, thicker branches with spines only underneath.",
+  "habitat": "Saprobic on hardwood trees, especially oak, beech, and maple. Grows on dead or dying standing trees, logs, and stumps. Typically fruits from wounds or decay cavities. Not mycorrhizal. Usually appears singly on a tree.",
+  "season": "Late summer through fall (August-November), occasionally into early winter.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Midwest",
+    "Southeast",
+    "Rocky Mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hericium erinaceus (Lion's Mane) - unbranched pom-pom structure",
+    "Hericium coralloides (Coral Tooth) - extensively branched, spines all around branches",
+    "Hericium abietis - grows on conifers, more compact branching"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent flavor, similar to H. erinaceus with mild, sweet, seafood-like taste. No toxic lookalikes due to distinctive white spiny appearance. Best when fresh and pure white - yellowing indicates age. Clean gently to remove debris from spines. The branched structure distinguishes it from the compact Lion's Mane.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "e4f44d924b5441615ed855220bb55bdb42da4c4d242252f2b659c11ab0418b19"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:53.918640"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

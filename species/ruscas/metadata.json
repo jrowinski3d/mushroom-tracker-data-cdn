@@ -1,18 +1,22 @@
 {
   "mushroom_id": "ruscas",
   "scientific_name": "Russula cascadensis",
-  "common_name": "Russula cascadensis",
+  "common_name": "Cascade Russula",
   "edibility": "E",
-  "description": "Russula cascadensis (Russula cascadensis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cascade Russula has white cap (5-15 cm), becoming yellowish with age. Gills white, crowded. Stem white, thick. KEY: BRITTLE FLESH, NO LATEX, large white mushroom, Pacific Northwest. Flesh white. Spore print white. Mild taste.",
+  "habitat": "Mycorrhizal with CONIFERS in Pacific Northwest, especially Douglas fir, hemlock, true firs. Grows on ground in coniferous forests. Regional endemic. Scattered or groups.",
+  "season": "Fall (September-November), fruiting after fall rains.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "British Columbia",
+    "Northern California"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Russula brevipes - very similar",
+    "Other white Russulas",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. WHITE CAP + BRITTLE FLESH + NO LATEX + PNW CONIFERS diagnostic. Taste test confirms. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "e1665ef87b0306cd7f9dc949b407a33a50feffb6cf95dfcd8508cd4ea3aa9131"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:14.885060"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

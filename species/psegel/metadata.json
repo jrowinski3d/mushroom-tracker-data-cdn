@@ -3,21 +3,29 @@
   "scientific_name": "Pseudohydnum gelatinosum",
   "common_name": "Pseudohydnum gelatinosum",
   "edibility": "E",
-  "description": "Pseudohydnum gelatinosum (Pseudohydnum gelatinosum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Jelly Tooth is a unique mushroom combining features of toothed fungi and jelly fungi. Cap 2-8 cm across, spatula or fan-shaped, translucent gray-white to pale brown with a gelatinous texture. The upper surface is smooth and jelly-like. The underside bears soft white spines/teeth (0.5-3 mm long) instead of gills or pores. The stem is lateral (off-center) or absent, 1-4 cm when present. Texture is rubbery-gelatinous, firm but translucent, reviving when moistened after drying.",
+  "habitat": "Found on well-rotted conifer logs and stumps, particularly hemlock, spruce, fir, and pine. Grows on very decayed wood in advanced stages of decomposition. Common in mountain conifer forests. Fruits scattered to gregarious, often in overlapping groups on logs. Prefers cool moist forests with abundant woody debris.",
+  "season": "Late summer through fall (August-November) in mountain regions. In the Pacific Northwest and coastal areas, may fruit into winter (December-January). Peak fruiting occurs in fall during cool wet weather. Requires consistent moisture and cool temperatures.",
   "regions": [
-    "North America"
+    "Pacific Northwest (very common)",
+    "Northern California mountains",
+    "Rocky Mountains",
+    "Northeastern North America",
+    "Europe (widespread)",
+    "Northern temperate conifer forests worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Phlebia tremellosa (inedible) - jelly-like but lacks teeth, has wrinkles/folds",
+    "Hericium species (edible) - white teeth but firm flesh, not gelatinous",
+    "Tremella species (edible) - brain-like, no teeth",
+    "No toxic lookalikes"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but not choice: Considered edible and safe to eat but has little flavor and unusual texture. The gelatinous yet toothed structure makes it more novelty than food. Can be cooked in soups or sautéed. No toxic lookalikes exist. The combination of translucent gelatinous cap and white teeth is absolutely distinctive - no other mushroom shares this combination. Safe to try but most foragers pass it by. More interesting from a mycological perspective than culinary. The jelly-like texture and spines are unmistakable.",
   "images": [
     {
       "index": 0,
       "source_url": "https://mushroomobserver.org/images/640/1707931.jpg",
-      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "photographer": "Duï¿½ï¿½an",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "observation_date": "2024-09-16",
       "file_size_bytes": 91868,
@@ -28,7 +36,7 @@
     {
       "index": 1,
       "source_url": "https://mushroomobserver.org/images/640/1701347.jpg",
-      "photographer": "Paul V\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdzina",
+      "photographer": "Paul Vï¿½ï¿½zina",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "observation_date": "2024-08-30",
       "file_size_bytes": 86236,
@@ -37,6 +45,6 @@
       "sha256": "3e50e22dcbd0ebbd8f8a4e4295c0ddd6857f8b0efff85aec3b0eb890769555cf"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:17.047318"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

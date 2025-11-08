@@ -3,16 +3,24 @@
   "scientific_name": "Lepista nuda",
   "common_name": "Lepista nuda",
   "edibility": "E",
-  "description": "Lepista nuda (Lepista nuda) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Wood Blewit is a medium to large mushroom with a cap 5-15 cm across, initially convex becoming flat with age. The cap is lilac to purple-blue when young, fading to tan or buff-brown with age but retaining purple tones especially at the margin. The surface is smooth and slightly greasy when moist. The gills are adnate to sinuate, initially lilac-purple fading to tan but usually retaining some purple color. The stem is 4-10 cm tall, stout, fibrous, purple to lilac with a bulbous base. The flesh is thick, pale purple to white, with a sweet floral fragrance.",
+  "habitat": "Found in deciduous and mixed forests, woodland edges, hedgerows, parks, gardens, and compost piles. Grows as a leaf litter decomposer in rich organic soil. Common in areas with abundant leaf mold. Fruits scattered to gregarious, often in large troops or fairy rings. Prefers nitrogen-rich environments.",
+  "season": "Late summer through early winter (September-December) in temperate regions. One of the classic late-season mushrooms, fruiting after frosts. In mild climates may fruit into January. Peak in late fall (October-November).",
   "regions": [
-    "North America"
+    "Europe (very common)",
+    "Eastern North America (common)",
+    "Pacific Northwest (common)",
+    "California (occasional)",
+    "Temperate regions worldwide",
+    "Widely cultivated"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cortinarius species (some deadly) - have rusty brown spores and cobwebby veil, not pink spores",
+    "Laccaria amethystina (edible) - smaller, truly purple throughout, thinner flesh",
+    "Mycena pura (toxic) - smaller, more fragile, radish odor",
+    "Young Cortinarius violaceus (edible) - has cobwebby veil, rusty spores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Popular edible mushroom with good flavor, but requires proper preparation. CRITICAL: Must be thoroughly cooked - NEVER eat raw or undercooked as it can cause gastric upset. Some people have allergic reactions even when cooked. The sweet fragrance is distinctive but not everyone finds it pleasant in food. Try small amounts first. Verify PINK SPORE PRINT (not rusty brown like toxic Cortinarius). The purple color, attached gills, pink spores, and sweet smell distinguish it from Cortinarius. Popular in Europe and increasingly cultivated. Best sautéed or in stews. Discard stems as they're fibrous.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "00ec1b3bf91a4164b77443db971fa27ebec3c4a254d394f51e8c9e9f3d435136"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:27.063856"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

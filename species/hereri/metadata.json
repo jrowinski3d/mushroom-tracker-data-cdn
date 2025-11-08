@@ -1,18 +1,25 @@
 {
   "mushroom_id": "hereri",
   "scientific_name": "Hericium erinaceus",
-  "common_name": "Hericium erinaceus",
+  "common_name": "Lion's Mane",
   "edibility": "E",
-  "description": "Hericium erinaceus (Hericium erinaceus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Lion's Mane is a distinctive white fungus forming a large, globular, pom-pom-like mass (10-40 cm) covered with long, hanging ICICLE-LIKE SPINES that cascade downward (1-5 cm long). The spines are pure white when fresh, yellowing with age. The entire fruiting body is white, soft, fleshy, with no cap or stem structure - it's a single compact mass of spines. Flesh is white, firm but tender, with a mild taste and seafood-like texture. Unlike other toothed fungi, spines hang vertically in a waterfall pattern. Unmistakable appearance resembles a white lion's mane or shaggy beard.",
+  "habitat": "Saprobic on hardwood trees, especially oak, beech, maple, and walnut. Grows high on living or dead standing trees, typically fruiting from wounds or branch scars. Not mycorrhizal. Usually appears as a single large specimen per tree, though multiple fruiting bodies may occur.",
+  "season": "Late summer through fall (August-November), occasionally into winter in mild climates. Single flush fruiting.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Midwest",
+    "Southeast",
+    "Pacific Northwest",
+    "Asia",
+    "Europe (rare)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hericium americanum - branched structure with spines on branches",
+    "Hericium coralloides - highly branched coral-like structure",
+    "Hericium abietis - grows on conifers, more branched structure"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized for its mild, sweet, seafood-like flavor (often compared to lobster or crab). One of the safest wild mushrooms due to unmistakable appearance. Widely cultivated for culinary and medicinal use. Best when fresh and pure white - yellowing indicates age but is still edible. No toxic lookalikes exist. Clean gently to remove debris from spines.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "a54fa6e0dd7de2631f590b0e7581ef1e6d78f9e67baea4c9d288778e6950a718"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:53.528402"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

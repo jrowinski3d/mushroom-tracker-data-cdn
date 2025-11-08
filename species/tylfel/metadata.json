@@ -3,14 +3,23 @@
   "scientific_name": "Tylopilus felleus",
   "common_name": "Tylopilus felleus",
   "edibility": "E",
-  "description": "Tylopilus felleus (Tylopilus felleus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Bitter Bolete resembles King Bolete but has distinctive pink pores. Features a brown to tan cap (5-15 cm) with dry surface. Pores are white when very young, quickly becoming pinkish to flesh-colored - a key diagnostic feature. The thick stem has brown reticulation (net-like pattern). White flesh does not bruise but tastes INTENSELY BITTER. Spore print is pinkish-brown.",
+  "habitat": "Mycorrhizal with both conifers and hardwoods in mixed forests. Found with pine, spruce, oak, and beech. Prefers acidic soils and well-drained areas. Common in mature mixed forests.",
+  "season": "Summer through fall (July-October) with peak fruiting in August-September. Fruits during warm, humid weather after rainfall.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Northeastern forests",
+    "Great Lakes region",
+    "Appalachian Mountains",
+    "Southeastern states",
+    "Pacific Northwest",
+    "Widespread across North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis (King Bolete) - white to yellow pores, NOT pink, not bitter",
+    "Boletus subcaerulescens - yellow pores that bruise blue",
+    "Other Boletus species - check pore color carefully",
+    "If pores are pink and taste is bitter, it's Bitter Bolete"
   ],
   "safety_notes": "INEDIBLE: Tylopilus felleus, commonly called the Bitter Bolete, is intensely bitter - so bitter that a single specimen can ruin an entire meal of mushrooms. The bitterness persists and even intensifies during cooking. While not toxic, it is completely unpalatable and inedible. Often mistaken for prized edible boletes like porcini; check for pink pore surface and reticulated stem pattern to distinguish.",
   "images": [
@@ -37,6 +46,6 @@
       "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

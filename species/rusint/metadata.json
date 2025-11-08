@@ -1,18 +1,23 @@
 {
   "mushroom_id": "rusint",
   "scientific_name": "Russula integra",
-  "common_name": "Russula integra",
+  "common_name": "Entire Russula",
   "edibility": "E",
-  "description": "Russula integra (Russula integra) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Entire Russula has reddish-brown cap (5-12 cm), smooth. Gills yellowish. Stem white, often tinged reddish. KEY: BRITTLE FLESH, ENTIRE (non-peeling) cuticle, yellowish gills. Flesh white. Spore print yellow-ochre. Mild taste.",
+  "habitat": "Mycorrhizal with conifers, especially pine, fir, spruce. Grows on ground in coniferous forests. Northern species. Scattered.",
+  "season": "Summer through fall (July-October).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Upper Midwest",
+    "Rocky Mountains",
+    "Canada",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Russulas - check cuticle and spore print",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. REDDISH CAP + YELLOW GILLS + BRITTLE FLESH + MILD TASTE diagnostic. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "1b3b2d4190ca816989e194b579c3f8db936c8b2c3a7fe126818bea53ccde286d"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:12.291137"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

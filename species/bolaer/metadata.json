@@ -3,16 +3,23 @@
   "scientific_name": "Boletus aereus",
   "common_name": "Boletus aereus",
   "edibility": "E",
-  "description": "Boletus aereus (Boletus aereus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Bronze Bolete displays a distinctive dark brown to bronze-black cap (6-20 cm) with velvety texture when young, becoming smooth with age. Pores are white when young, aging to yellow-green, with no bruising reaction. The stout, bulbous stem is pale brown with white reticulation concentrated near the apex. White flesh does not change color when cut. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal primarily with oak trees, occasionally with beech and chestnut in mixed hardwood forests. Prefers warm, dry habitats with well-drained soils. Often found on hillsides and forest margins.",
+  "season": "Summer through fall (June-October), fruiting earlier than B. edulis in warmer climates. Peak production during warm periods following rain.",
   "regions": [
-    "North America"
+    "Southeastern United States",
+    "Mid-Atlantic states",
+    "Southern California",
+    "Southern Rocky Mountains",
+    "Pacific Southwest"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis - lighter brown cap, prefers conifers",
+    "Tylopilus felleus - pink pores, bitter taste",
+    "Other dark-capped Boletus species - all edible",
+    "Xerocomellus species - smaller with different habitat"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The Bronze Bolete is highly prized in Europe and considered equal to or better than King Bolete by some. Excellent firm texture and nutty flavor that intensifies when dried. Cook thoroughly for best results. The dark cap color is diagnostic and helps distinguish from other species.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "b9a429096996249a3fbade549352e72d0b48c88fa3163dba00fa888305e5724c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:34.163284"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

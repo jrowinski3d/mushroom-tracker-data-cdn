@@ -3,16 +3,24 @@
   "scientific_name": "Meripilus sumstinei",
   "common_name": "Meripilus sumstinei",
   "edibility": "E",
-  "description": "Meripilus sumstinei (Meripilus sumstinei) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Large compound rosette 8-24+ inches wide composed of many overlapping fan-shaped caps 2-6 inches wide arising from central base. Pale tan to brown caps that BLACKEN when bruised or with age - diagnostic feature. White to cream pore surface that also blackens. Soft and spongy texture. Can weigh 10-30+ pounds. Distinctive black staining.",
+  "habitat": "Saprobic and parasitic at bases of living and dead hardwood trees, particularly oak, maple, beech, and elm. Causes white rot of roots and lower trunk. Forms large rosettes at tree bases, stumps, and buried roots. Common in mature hardwood forests and urban settings.",
+  "season": "Late summer through fall, typically July-October. Peak fruiting in August-September. Can flush multiple times per season. Most abundant in late summer. Often in same location annually.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest",
+    "Southeastern United States",
+    "Great Lakes region",
+    "Pacific Northwest",
+    "Widespread across North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Grifola frondosa (gray-brown, doesn't blacken, different cap arrangement)",
+    "Bondarzewia berkeleyi (lighter, larger caps, doesn't blacken quickly)",
+    "Other large polypore rosettes (don't blacken when handled)",
+    "Polyporus umbellatus (smaller, different structure)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when very young but not choice: Only tender young specimens are palatable - older ones become tough and bitter. The rapid black staining when touched is distinctive but doesn't affect edibility of young specimens. Must be cooked thoroughly. Generally not sought after due to mediocre flavor and tendency to cause digestive upset in some people. Harvest only very young, white, tender portions. Better edible polypores exist.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "14784a9de79f16b8dd7a16e1acd87da31b87a5c26de5c66af1759e7beaa1afac"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:50.445793"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

@@ -1,18 +1,22 @@
 {
   "mushroom_id": "ruspal",
   "scientific_name": "Russula paludosa",
-  "common_name": "Russula paludosa",
+  "common_name": "Rosy Russula",
   "edibility": "E",
-  "description": "Russula paludosa (Russula paludosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Rosy Russula has red to pinkish-red cap (5-15 cm), often fading. Gills yellowish. Stem white with pink tones. KEY: RED CAP, YELLOW GILLS, BRITTLE FLESH, large size. Flesh white. Spore print yellow-ochre. Mild taste.",
+  "habitat": "Mycorrhizal with conifers, especially pine and spruce. Grows on ground in coniferous forests, especially northern bogs and wet areas. Scattered.",
+  "season": "Summer through fall (July-September).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Upper Midwest",
+    "Canada",
+    "Northern Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other red Russulas - check gill color",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. RED CAP + YELLOW GILLS + BRITTLE FLESH + MILD TASTE diagnostic. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:13.121079"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

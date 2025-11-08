@@ -1,18 +1,22 @@
 {
   "mushroom_id": "lacind",
   "scientific_name": "Lactarius indigo",
-  "common_name": "Lactarius indigo",
+  "common_name": "Indigo Milk Cap",
   "edibility": "E",
-  "description": "Lactarius indigo (Lactarius indigo) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Indigo Milk Cap has striking INDIGO-BLUE cap (5-15 cm), fading to grayish or greenish with age. Gills blue, close. Stem blue. KEY: DARK INDIGO-BLUE LATEX (milk) when cut - unmistakable! Latex and flesh slowly stain green. Entire mushroom is blue. Spore print cream. One of most distinctive mushrooms.",
+  "habitat": "Mycorrhizal with hardwoods and PINES in southeastern US, Mexico. Grows on ground in mixed forests, oak-pine. Scattered or groups. Common in southern forests.",
+  "season": "Summer through fall (June-November), long fruiting season in warm climates.",
   "regions": [
-    "North America"
+    "Southeast",
+    "Texas",
+    "Mexico",
+    "Mid-Atlantic",
+    "Gulf Coast"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "NO SIMILAR SPECIES - the blue color and blue latex are unique"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The unmistakable INDIGO-BLUE COLOR and BLUE LATEX make identification foolproof. Mild flavor, somewhat peppery. Stains food blue/green - normal. Best young. Popular in Mexico. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "d1253a27350141fbac8ed1de140874ff71ffbfced03ecdfdd64cc92a14fdf6d8"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:08.054825"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

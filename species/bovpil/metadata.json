@@ -3,16 +3,24 @@
   "scientific_name": "Bovista pila",
   "common_name": "Bovista pila",
   "edibility": "E",
-  "description": "Bovista pila (Bovista pila) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Small round puffballs 1-2.5 inches diameter, appearing as white balls in grass. Smooth white exterior skin that flakes off at maturity revealing thin papery brown inner skin. NO sterile base - just a small attachment point that breaks free. Interior pure white when edible, turning olive-brown. Mature specimens tumble freely in wind, dispersing spores. Opens with irregular tears.",
+  "habitat": "Saprobic in open grassy areas including pastures, meadows, lawns, parks, golf courses, and prairie grasslands. Prefers short grass and disturbed areas. Often in rings or scattered troops. Common in dry grasslands and well-maintained turf.",
+  "season": "Late summer through fall, typically August-October. Peak fruiting in September. Mature specimens persist through winter as brown tumbleweeds. Fruits after late summer rains.",
   "regions": [
-    "North America"
+    "Great Plains and prairies",
+    "Midwest",
+    "Western grasslands",
+    "Mountain parks and meadows",
+    "Widespread across North America",
+    "Cosmopolitan in grasslands"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Bovista species (similar, most edible when white inside)",
+    "DEADLY: Immature Amanita buttons (ALWAYS CUT OPEN - will show developing gills/cap inside)",
+    "Small Lycoperdon species (have sterile base, different habitat)",
+    "Scleroderma species (toxic, purple-black interior, thick warty rind)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when pure white inside: CRITICAL - ALWAYS cut specimen completely in half before consuming. Edible ONLY if interior is completely pure white and firm throughout. If any olive, yellow, brown, or developing structures visible inside, DO NOT EAT. This prevents consuming toxic lookalikes and immature deadly Amanitas. The lack of sterile base and tumbling mature form help identification. Best when very young and small. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "25111fbe5c2a2dd4f4425e29c649c266d6e9015be4c80a62c8e072f9e254fc2c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:46.984462"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

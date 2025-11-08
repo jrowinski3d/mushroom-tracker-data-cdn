@@ -1,18 +1,23 @@
 {
   "mushroom_id": "lacrub",
   "scientific_name": "Lactarius rubrilacteus",
-  "common_name": "Lactarius rubrilacteus",
+  "common_name": "Bleeding Milk Cap",
   "edibility": "E",
-  "description": "Lactarius rubrilacteus (Lactarius rubrilacteus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bleeding Milk Cap has an orange to orange-brown cap (5-15 cm) with darker concentric zones. Gills are pale orange, crowded, decurrent. Stem is orange with scrobiculations. KEY FEATURE: DARK RED to WINE-RED LATEX (milk) that exudes when cut - distinctive blood-red color. Latex slowly stains tissues reddish-purple. Flesh is pale. Spore print is pale cream to pinkish.",
+  "habitat": "Mycorrhizal with CONIFERS, especially fir, spruce, and hemlock in western North America. Grows on ground in coniferous forests, mountain forests. Prefers well-drained soil.",
+  "season": "Fall (September-November), fruiting after rains in mountains.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Northern California",
+    "British Columbia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lactarius deliciosus - orange latex not red",
+    "Lactarius sanguifluus - similar red latex, different host",
+    "Other orange Lactarius - check latex color"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized for its mild flavor. The distinctive DARK RED LATEX is diagnostic. Stains purple when cooked - this is normal. Best when young and firm. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "0bce35f2736dbb33df57f99f74ab1274a09686b7e8efbae0624786dd26908a96"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:04.744589"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000"
 }

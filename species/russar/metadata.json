@@ -1,16 +1,23 @@
 {
   "mushroom_id": "russar",
   "scientific_name": "Russula sardonia",
-  "common_name": "Russula sardonia",
+  "common_name": "Primrose Russula",
   "edibility": "E",
-  "description": "Russula sardonia (Russula sardonia) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Primrose Russula has purple to wine-red cap (3-10 cm), sticky. Gills yellowish. Stem white to pinkish. KEY: BRITTLE CHALKY FLESH, NO LATEX, INTENSELY ACRID/PEPPERY TASTE. Cap purple-red. Flesh white. Spore print ochre. The acrid taste is immediate and intense.",
+  "habitat": "Mycorrhizal with CONIFERS, especially pine and spruce. Grows on ground in coniferous and mixed forests. Often in acidic soil. Northern and mountain species. Scattered.",
+  "season": "Summer through fall (July-October).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Upper Midwest",
+    "Rocky Mountains",
+    "Pacific Northwest",
+    "Canada",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other purple/red Russulas - TASTE TEST (nibble and spit)",
+    "Russula emetica - similar acrid red",
+    "Lactarius rufus - has LATEX"
   ],
   "safety_notes": "INEDIBLE: Russula sardonia has an intensely hot, peppery, acrid taste that makes it completely inedible. The species name 'sardonia' comes from Greek meaning bitter or acrid. While some sources debate whether it might be technically edible after extensive preparation, the extreme peppery heat makes it unpalatable and potentially causes gastrointestinal upset. Avoid consumption.",
   "images": [
@@ -37,6 +44,6 @@
       "sha256": "dd9df0d9882a745a495036f89e4aa33404d26dd0d37ec6a7584e352b08bbd3ea"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

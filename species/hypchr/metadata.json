@@ -3,16 +3,23 @@
   "scientific_name": "Hypomyces chrysospermus",
   "common_name": "Hypomyces chrysospermus",
   "edibility": "E",
-  "description": "Hypomyces chrysospermus (Hypomyces chrysospermus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Golden Hypomyces is a parasitic fungus forming bright golden-yellow to orange-yellow powdery or velvety coatings on bolete mushrooms. The parasite covers the host pores and cap surface with bright yellow-gold powder (spores). Early infection shows yellow patches spreading to cover the entire mushroom. The host mushroom shape is recognizable but distorted. The yellow coating is initially velvety, becoming powdery. The host pores become completely obscured by yellow powder. Not a fleshy fruitbody like H. lactifluorum, but a surface coating.",
+  "habitat": "Found in forests where boletes occur, parasitizing various bolete species particularly in the genera Leccinum, Boletus, and Suillus. The fungus colonizes existing bolete fruitbodies. Appears on fresh boletes in various stages of growth. Distribution follows host distribution in coniferous and mixed forests.",
+  "season": "Summer through fall (June-November) when host boletes are fruiting. Most common in mid to late summer (July-September). Timing is tied to host availability. Can appear on boletes at any stage of development.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (uncommon)",
+    "Pacific Northwest (occasional)",
+    "Wherever suitable bolete hosts occur",
+    "Temperate forests with boletes"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletes with yellow pore surface - but natural pores, not powdery coating",
+    "Russula/Lactarius with H. chrysospermus - different parasite on different hosts",
+    "Yellow molds on mushrooms - but less uniformly colored, different texture",
+    "Uninfected yellow boletes - pores are natural, not powdery"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "NOT RECOMMENDED: While not known to be toxic, this fungus has no culinary value and the host bolete may be in various stages of decay. The infected boletes are typically degraded and unappetizing. Some sources suggest possible edibility but there is no tradition of consumption and no reason to eat it. The bright yellow powder is conspicuous but the underlying bolete may be toxic species. Avoid consuming. More interesting from a mycological perspective. The golden-yellow powdery coating on boletes is diagnostic but not useful for eating.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "541354ee51ac12cb5435c558ce390e1bed346b89eb64409571f7e2e42d3ac1e9"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:22.188445"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

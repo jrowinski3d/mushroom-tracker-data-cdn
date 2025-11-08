@@ -1,18 +1,25 @@
 {
   "mushroom_id": "sarimb",
   "scientific_name": "Sarcodon imbricatus",
-  "common_name": "Sarcodon imbricatus",
+  "common_name": "Scaly Hedgehog",
   "edibility": "E",
-  "description": "Sarcodon imbricatus (Sarcodon imbricatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Scaly Hedgehog has a large brown cap (5-25 cm) covered with distinctive LARGE, UPTURNED SCALES that create a shaggy, imbricated (overlapping) pattern - scales are dark brown to blackish-brown, giving a shingled appearance. The underside is covered with brittle, downward-pointing SPINES or TEETH instead of gills or pores - these spines are grayish to brown. The stem is thick, short, grayish-brown, smooth or slightly scaly. The flesh is whitish to grayish, thick, firm, with a bitter taste in older specimens. Spore print is brown. Much larger and darker than Hydnum species.",
+  "habitat": "Mycorrhizal with conifers, especially pine, spruce, and fir. Found on the ground in coniferous and mixed mountain forests. Often grows scattered or in small groups. Prefers acidic soils in northern and montane forests.",
+  "season": "Late summer through fall (August-October), earlier than many Hydnum species.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Northeast",
+    "Upper Midwest",
+    "Europe",
+    "Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Sarcodon scabrosus - similar but with different scale pattern",
+    "Hydnum species - much smaller, paler, lack large dark scales",
+    "Phaeolus schweinitzii (Dyer's Polypore) - grows on wood, has pores not spines"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE WHEN YOUNG but quality varies - young specimens are mild and edible, but older specimens develop BITTER TASTE that makes them inedible. Must collect very young, fresh specimens before bitterness develops. The large dark scales and spines/teeth on underside make identification straightforward. Some individuals find even young specimens slightly bitter. Not recommended for beginners due to variable quality.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "29edf671ea70a2af5871958d4ba2f294dad2398b28bb2d455534b0db4a015384"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:52.992885"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

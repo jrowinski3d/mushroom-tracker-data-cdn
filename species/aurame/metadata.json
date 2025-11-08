@@ -3,16 +3,24 @@
   "scientific_name": "Auricularia americana",
   "common_name": "Auricularia americana",
   "edibility": "E",
-  "description": "Auricularia americana (Auricularia americana) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The American Wood Ear is similar to A. auricula-judae but generally thicker and more robust. Fruitbodies 4-15 cm across, ear to shell-shaped, gelatinous-rubbery. The outer fertile surface is smooth to somewhat wrinkled, brown to reddish-brown or purple-brown. The inner surface is grayish and covered with minute velvety hairs (visible with lens). Texture is tough-gelatinous when fresh, shriveling when dry and reviving with moisture. Thicker flesh than the European Wood Ear.",
+  "habitat": "Found on dead hardwood logs, branches, and standing dead trees. Common hosts include maple, oak, elm, and other deciduous trees. Grows as a wood decomposer in forests, parks, and wooded areas. Fruits in overlapping clusters or rows. Prefers moist shaded locations with consistent humidity.",
+  "season": "Late spring through fall (May-November) with peaks in late summer and fall. In mild climates like the Pacific Northwest, may fruit year-round. Most abundant during warm humid weather. Can appear after heavy rains even in summer.",
   "regions": [
-    "North America"
+    "Eastern North America (very common)",
+    "Central United States",
+    "Pacific Northwest (common)",
+    "California",
+    "Southern Canada",
+    "Throughout temperate North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Auricularia auricula-judae (edible) - European species, thinner, primarily on elder",
+    "Exidia glandulosa (edible) - more brain-like, button-shaped, not ear-shaped",
+    "Tremella foliacea (edible) - more folded and brain-like structure",
+    "No toxic lookalikes"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Excellent edible mushroom with culinary uses identical to Asian Wood Ear. Prized for crunchy gelatinous texture that persists through cooking. Popular in Asian-American cuisine, soups, and stir-fries. Cook thoroughly - do not eat raw. The species absorbs flavors well while maintaining texture. No dangerous lookalikes exist among jelly fungi. Clean well before cooking. Can be dried and rehydrated like Asian varieties. The ear shape and growth on hardwoods are diagnostic. Increasingly harvested commercially.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "34035053592c400b146540f7b4d19fa43a71ceb7abd03512ea30029ac42d7d42"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:15.809079"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,22 @@
   "scientific_name": "Tricholoma matsutake",
   "common_name": "Matsutake",
   "edibility": "E",
-  "description": "Matsutake (Tricholoma matsutake) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Matsutake has a robust white cap (6-20 cm) that becomes brownish with age, often with brownish stains or patches. The cap is convex to flat, dry, smooth to slightly fibrillose. Gills are white, attached, crowded. The stem is thick, white, firm, with a DISTINCTIVE THICK PARTIAL VEIL that often leaves a COTTONY RING or torn remnants on the upper stem. The key feature is the STRONG SPICY, CINNAMON, or PINE-LIKE ODOR - instantly recognizable and diagnostic. Flesh is white, very firm, dense. Spore print is white. Often emerges pushing through soil/duff creating a distinctive 'mushroommatsu bump' before fully emerging.",
+  "habitat": "Mycorrhizal with CONIFERS, especially pine (Pinus), hemlock, and fir in Asia. Forms obligate relationships with specific host trees. Grows on the ground, often partially buried in duff or soil. Found in mature conifer forests, typically in specific 'shiro' (fairy rings). Requires specific soil conditions and undisturbed forest habitat.",
+  "season": "Fall (September-November) in Japan and Asia, fruiting in cool autumn weather.",
   "regions": [
-    "North America"
+    "Japan",
+    "Korea",
+    "China",
+    "Asia (native range)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Tricholoma magnivelare (American Matsutake) - North American species, very similar",
+    "Tricholoma murrillianum (Southwestern Matsutake) - southwestern US species",
+    "Amanita smithiana - TOXIC - white but has volva at base, different odor",
+    "Other Tricholoma species - lack distinctive cinnamon odor"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the most expensive and highly prized edible mushrooms in the world, especially in Japanese cuisine where it can sell for hundreds of dollars per pound. The strong SPICY CINNAMON ODOR is the key identification feature. Best when young and firm - older specimens become bitter. Clean gently to preserve the aromatic compounds. Never confuse with toxic white Amanita species - matsutake has no volva, has distinctive odor, and has an annulus.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "ccd70501e766a7b20042ccbf068e41759f221e4300395f3048ba11d8114c34a3"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:57.483466"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000"
 }

@@ -3,16 +3,21 @@
   "scientific_name": "Morchella tomentosa",
   "common_name": "Morchella tomentosa",
   "edibility": "E",
-  "description": "Morchella tomentosa (Morchella tomentosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cap 3-12 cm (1.2-4.7 in) tall, conical to elongated, densely pitted honeycomb pattern of ridges and pits. Color highly variable ranging from black and sooty-gray to brown, yellow, or whitish, typically progressing from darker to lighter with age. Distinctive feature: young specimens densely covered with fine hairs giving fuzzy or velvety appearance, especially visible with hand lens; hairs most prominent at stem base. Stem 3-12 cm tall, thick and sturdy with characteristic double-walled structure, darker than many morel species, hollow. Develops unique sclerotia-like underground structures. Spore print cream.",
+  "habitat": "Specialized fire-associated species found exclusively in burned conifer forests of western North America, particularly after moderate to high-intensity wildfires. Fruits in areas with standing dead conifers and woody debris. Prefers burn sites 1-3 years post-fire, though can appear in subsequent years. Found at various elevations from lowland forests to montane zones. Described from western North America in 2008 as distinct fire-adapted species. Does not fruit in unburned forests or disturbed non-fire sites.",
+  "season": "Late spring to early summer (May-July in most areas). Later-fruiting than many morels, emerging at higher elevations and later in mountain season as snowmelt recedes. Timing dependent on elevation, snowpack, and soil warming in burn sites. Lower elevation burns may fruit May-June, while high mountain burns fruit June-July following snowmelt.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California",
+    "Rocky Mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "False Morel (Gyromitra species) - TOXIC: brain-like wrinkled or convoluted cap instead of honeycomb ridges, cap attached only at top of stem, chambered interior vs. completely hollow, often reddish-brown. Deadly toxic containing gyromitrin.",
+    "Morchella snyderi - Edible: lacks fuzzy/hairy coating, found in unburned conifer forests (not fire-dependent), thinner stem wall, lighter coloration when young. Requires same cooking preparation.",
+    "Other black morels (M. elata group) - Edible: various fire-associated and natural morels, lack fuzzy coating and double-walled stem characteristic of M. tomentosa, field distinction difficult without experience.",
+    "Morchella importuna (Landscape Morel) - Edible: found in urban mulch settings vs. mountain burn sites, lacks fuzzy texture, ladder-like ridge pattern."
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized culinary mushroom, particularly valued by commercial pickers who harvest tons annually from western burn sites. Must be thoroughly cooked for 15-25 minutes minimum; raw or undercooked morels contain hydrazine toxins causing severe nausea, vomiting, and gastric upset. Cook at temperatures above 160°F (71°C) to destroy toxic compounds. Some individuals experience allergic reactions even when properly cooked; consume small portions initially. Avoid alcohol consumption with morels as rare adverse reactions documented. Critical to distinguish from deadly false morels (Gyromitra) which have brain-like caps instead of honeycomb patterns. When foraging in burn areas, be aware of unstable trees, ash pits, and other fire-related hazards.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "7357e1c34fca970cf9ed95cacd9bea0aee8a49fac418029b6d68666a8c1a17f9"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:27.651074"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

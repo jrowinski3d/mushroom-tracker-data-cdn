@@ -1,18 +1,23 @@
 {
   "mushroom_id": "hydruf",
   "scientific_name": "Hydnum rufescens",
-  "common_name": "Hydnum rufescens",
+  "common_name": "Terracotta Hedgehog",
   "edibility": "E",
-  "description": "Hydnum rufescens (Hydnum rufescens) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Terracotta Hedgehog has an orange-brown to reddish-brown cap (3-10 cm) with rusty, terracotta tones that distinguish it from paler Hydnum species. The cap is convex to irregular with wavy, lobed margins. The underside is covered with brittle, downward-pointing SPINES or TEETH instead of gills or pores - these spines are orange-brown to pale orange, easily detached when rubbed. The stem is orange-brown, central to off-center, often curved, smooth. The flesh is white to pale orange, thick, brittle, with a mild to slightly peppery taste. Spore print is white. More intensely colored than other Hydnum species.",
+  "habitat": "Mycorrhizal with both hardwoods and conifers. Found on the ground in mixed forests, under oak, beech, pine, and spruce. Often grows scattered or in troops. Prefers acidic soils and mossy areas.",
+  "season": "Summer through fall (July-November), with peak fruiting in fall. In California may fruit in winter.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California",
+    "Rocky Mountains",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hydnum repandum (Sweet Tooth) - paler, more cream to pale orange",
+    "Hydnum umbilicatum (Depressed Hedgehog) - smaller, has depressed center",
+    "Sarcodon species - larger, darker brown, often bitter"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Good flavor when cooked, though may be slightly more peppery than H. repandum. The distinctive rusty-orange spines/teeth on underside make identification straightforward. Clean thoroughly as spines trap debris. Collect young specimens for best quality - older specimens may develop bitter taste.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "fc1df510fa831e5533c10dcaa932758470edcd4aab203d0d412a6e16e0899091"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:52.550386"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

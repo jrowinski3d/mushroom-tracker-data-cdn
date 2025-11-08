@@ -3,16 +3,23 @@
   "scientific_name": "Coprinus comatus",
   "common_name": "Coprinus comatus",
   "edibility": "E",
-  "description": "Coprinus comatus (Coprinus comatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Shaggy Mane or Lawyers Wig is a distinctive mushroom 10-20 cm tall with an elongated cylindrical cap 5-15 cm tall and 2-5 cm wide. The cap is white covered with shaggy recurved scales that become brown toward the center. The cap margin is initially fringed. The gills are free, white becoming pink then black and deliquescing (autodigesting) into black ink from the bottom up. The stem is 10-20 cm tall, smooth, white, hollow, with a small movable ring that often disappears. Young buttons are egg-shaped and entirely white.",
+  "habitat": "Found in disturbed soil including lawns, roadsides, paths, construction sites, gardens, wood chips, and grassy areas. Prefers compacted or disturbed soil rich in organic matter. Grows on buried wood or rich humus. Fruits in dense clusters, often appearing overnight. Very common in urban and suburban areas.",
+  "season": "Spring through fall (April-November) with peaks in late spring and fall. In mild climates, may fruit year-round. Most abundant during cool moist weather. Can appear after heavy rains at any time.",
   "regions": [
-    "North America"
+    "North America (very common, all regions)",
+    "Europe (widespread)",
+    "Temperate regions worldwide",
+    "Cosmopolitan in disturbed habitats",
+    "Urban areas globally"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Young Amanita species (deadly) - have volva at base, gills don't deliquesce to ink",
+    "Coprinus sterquilinus (edible) - smaller, on dung, otherwise similar",
+    "Coprinopsis species (varied) - none with distinctive shaggy scales",
+    "CRITICAL: The shaggy white scales and black deliquescing gills are diagnostic"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the finest wild mushrooms when fresh and young. Must be collected and consumed within hours of picking as it autodigests rapidly. The gills turn to black ink within hours. Excellent flavor and texture when properly prepared. Cook thoroughly. Only collect young white specimens before gills turn pink or black. Once gills start turning black, the mushroom is past prime. The autodigestion process cannot be stopped. Cook immediately or refrigerate in ice water to slow deliquescence. No alcohol interaction like Coprinopsis atramentaria. The shaggy white appearance is unmistakable. Very safe - no toxic lookalikes. Best sautéed or in omelets. A forager favorite but requires quick processing.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:24.913584"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

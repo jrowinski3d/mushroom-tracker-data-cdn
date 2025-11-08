@@ -1,18 +1,23 @@
 {
   "mushroom_id": "lacdet",
   "scientific_name": "Lactarius deterrimus",
-  "common_name": "Lactarius deterrimus",
+  "common_name": "False Saffron Milk Cap",
   "edibility": "E",
-  "description": "Lactarius deterrimus (Lactarius deterrimus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "False Saffron Milk Cap has orange cap (4-12 cm) with concentric zones, greenish stains. Gills orange, crowded. Stem orange with pits. KEY: ORANGE LATEX turning GREEN quickly - faster than L. delicious. Like L. deliciosus but under SPRUCE not pine. Flesh pale. Spore print cream.",
+  "habitat": "Mycorrhizal with SPRUCE (Picea) in Europe and North America. Grows under spruce trees in coniferous forests. Prefers acidic soil.",
+  "season": "Fall (September-November), fruiting after rains.",
   "regions": [
-    "North America"
+    "Europe (native)",
+    "Introduced North America",
+    "Pacific Northwest",
+    "Northeast",
+    "Rocky Mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lactarius deliciosus - pine host not spruce",
+    "Other orange Lactarius - check tree host"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Good flavor, similar to L. deliciosus. ORANGE LATEX turning GREEN + SPRUCE host diagnostic. May stain green when cooked - normal. Best young. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "04c137c844da045a3b7f34f1bf6584202217e9912a3c86baab9980057c0692e7"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:06.065663"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

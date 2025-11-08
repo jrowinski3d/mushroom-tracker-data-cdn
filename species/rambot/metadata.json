@@ -3,16 +3,24 @@
   "scientific_name": "Ramaria botrytis",
   "common_name": "Ramaria botrytis",
   "edibility": "E",
-  "description": "Ramaria botrytis (Ramaria botrytis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Pink-tipped Coral is a large handsome coral fungus 8-15 cm tall and 7-12 cm wide. The fruitbody has a thick white to pale pink base (2-4 cm wide) supporting numerous upright branches. The branches are white to pale yellowish, with distinctive wine-red to rose-pink tips (diagnostic feature). Young specimens have more vibrant pink coloring. The branching is dense and compact. The flesh is white, brittle when fresh, with a mild pleasant odor. The entire structure is fleshy and cauliflower-like.",
+  "habitat": "Found in hardwood and coniferous forests, forming mycorrhizal associations particularly with beech, oak, and spruce. Grows terrestrially from soil or well-rotted wood. Fruits scattered to gregarious in rich humus. Prefers mature forests with abundant organic matter. Common in mixed forests.",
+  "season": "Late summer through fall (August-November) in temperate regions. In Europe, primarily September-October. Peak fruiting occurs in early fall. Requires warm summer followed by fall rains.",
   "regions": [
-    "North America"
+    "Europe (widespread, common)",
+    "Eastern North America (uncommon)",
+    "Pacific Northwest (rare)",
+    "Northern temperate forests",
+    "Particularly abundant in Europe",
+    "Rocky Mountains (occasional)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Ramaria formosa (toxic) - salmon-orange branches without distinct pink tips",
+    "Ramaria aurea (edible) - golden-yellow throughout, no pink tips",
+    "Ramaria rubripermanens (edible) - entire fruitbody stains red when handled",
+    "Other Ramaria species - many similar, identification difficult"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered one of the finest coral fungi with good flavor and texture when young. Highly regarded in Europe. Cook thoroughly. Only collect young firm specimens before they become waterlogged or wormy. The flavor is mild and mushroomy. Discard the tough base. CRITICAL: The wine-red to pink branch tips are diagnostic and help distinguish from toxic species. Some coral fungi cause digestive upset in sensitive people. Avoid bitter-tasting specimens. The pink tips must be clearly visible. Try small amounts first. More reliable and safer than many coral fungi.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "fc67458e097361f0f3f6bf23374d7b10551d60426fb10171557abde9cb880cf8"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:18.712384"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

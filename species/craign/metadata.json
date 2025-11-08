@@ -3,16 +3,22 @@
   "scientific_name": "Craterellus ignicolor",
   "common_name": "Craterellus ignicolor",
   "edibility": "E",
-  "description": "Craterellus ignicolor (Craterellus ignicolor) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Flame Chanterelle (also called Golden Chanterelle of the East or Flame-colored Chanterelle) has a golden-yellow to bright orange-yellow cap 2-8 cm wide that becomes deeply funnel-shaped with age. The cap margin is thin, wavy, and often perforated in the center, opening into the hollow stem. The underside features shallow, blunt, forked ridges (NOT true gills) that are golden-yellow to orange-yellow, widely spaced, and run down the stem. The stem is 3-10 cm tall, hollow, slender, bright yellow to orange-yellow throughout. Flesh is thin, yellow to orange, with a mild fruity odor. Spore print is white to pale yellow.",
+  "habitat": "Mycorrhizal with eastern hardwoods, particularly oak (especially white oak, red oak), American beech, and hickory. Found in mature deciduous forests, often in mossy areas or on well-drained slopes. Grows scattered or in troops on the forest floor among leaf litter.",
+  "season": "Summer through fall (July-October), fruiting during warm, humid periods after summer rains. Peak season is typically August-September in most of its range. Can produce multiple flushes throughout the season.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Southeastern states (especially Carolinas, Tennessee, Georgia)",
+    "Appalachian region",
+    "Mid-Atlantic states",
+    "Ohio River Valley"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Craterellus tubaeformis - Edible, more brownish cap with yellow stem, found further north with conifers",
+    "Small Cantharellus species (C. cinnabarinus, C. minor) - Edible, more solid stem (not hollow), otherwise similar",
+    "Hygrophoropsis aurantiaca (False Chanterelle) - Not toxic but poor quality, has true thin gills, more orange"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The Flame Chanterelle is an excellent edible mushroom with good flavor and a distinctive appearance. The combination of golden-yellow color, funnel shape, hollow stem, and blunt ridges (not true gills) makes it relatively easy to identify. The hollow stem throughout distinguishes it from solid-stemmed Cantharellus species. No toxic lookalikes exist. Often found in large numbers, making it a worthwhile forage. Flavor is pleasant and slightly fruity; excellent sautéed, in soups, or dried for later use.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "1836de388cd2ce82bb1b3fa93695bf67badd48b7368ce1dc8f5fc6c0d6565505"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:33.294191"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

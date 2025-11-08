@@ -3,16 +3,23 @@
   "scientific_name": "Tremella fuciformis",
   "common_name": "Tremella fuciformis",
   "edibility": "E",
-  "description": "Tremella fuciformis (Tremella fuciformis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Snow Fungus is a white to pale yellow jelly fungus forming soft frilly masses resembling sea coral or snow. Fruitbodies 5-15 cm across when fresh, composed of thin, branched, translucent lobes with a delicate ruffled appearance. Color is pure white to pale cream or light yellow. Texture is soft, gelatinous, and trembling. The lobes are thin and petal-like, creating an intricate lacey structure. Becomes hard and shrunken when dry, reviving when moistened.",
+  "habitat": "Found on dead branches and wood of broadleaf trees, typically high on standing dead trees or fallen logs. Often parasitic on other wood-decay fungi. In nature, found on hardwoods in forests. Widely cultivated commercially on hardwood sawdust substrate. Prefers warm humid environments.",
+  "season": "In the wild, primarily summer through fall (June-November) in warm climates. In tropical and subtropical regions, may fruit year-round. Cultivated year-round commercially. Peak wild fruiting occurs during warm humid weather after rains.",
   "regions": [
-    "North America"
+    "Asia (native, widespread)",
+    "Tropical and subtropical regions worldwide",
+    "Southern United States (rare in wild)",
+    "Cultivated commercially worldwide",
+    "Natural in warm temperate to tropical forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Tremella mesenterica (edible) - bright yellow, more compact brain-like",
+    "Tremella fuciformis cultivated strains - vary in color from white to cream",
+    "Exidia species (edible) - darker, more compact, not frilly",
+    "No toxic lookalikes"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Highly prized in Asian cuisine and traditional Chinese medicine. Mild sweet flavor and crunchy-gelatinous texture when prepared. Must be cooked - do not eat raw. Popular in sweet soups, desserts, and beverages. Believed to have health benefits including skin improvement and immune support. Almost always consumed as cultivated product rather than wild. Dried forms must be soaked to rehydrate. Safe with no toxic lookalikes. The white frilly appearance is distinctive. Expensive specialty ingredient in Asian markets.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "bbb8fd49a0a994ba488f9c69af2375975d1f8daf9b8396d3db7977a1292cce1c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:16.601124"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -1,18 +1,22 @@
 {
   "mushroom_id": "rusaer",
   "scientific_name": "Russula aeruginea",
-  "common_name": "Russula aeruginea",
+  "common_name": "Tacky Green Russula",
   "edibility": "E",
-  "description": "Russula aeruginea (Russula aeruginea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Tacky Green Russula has grass-green to olive-green cap (4-10 cm), sticky when wet. Gills white to cream. Stem white. KEY: GREEN CAP, BRITTLE CHALKY FLESH, NO LATEX, sticky cap. Flesh white. Spore print white to pale cream. Mild to slightly acrid.",
+  "habitat": "Mycorrhizal with birch and other hardwoods. Grows on ground in deciduous forests, especially near birch. European and North American. Scattered.",
+  "season": "Summer through fall (July-October).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Midwest",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Russula virescens - green but with cracked cap",
+    "Other green Russulas",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. GREEN STICKY CAP + BRITTLE FLESH + NO LATEX diagnostic. Taste test (mild specimens edible). Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "f95be09168fabfe181504b56bd48e2b4e6937476750e8c86363ed210cb0c0f67"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:11.095764"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Laetiporus gilbertsonii",
   "common_name": "Western Chicken of the Woods",
   "edibility": "E",
-  "description": "Western Chicken of the Woods (Laetiporus gilbertsonii) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bright orange to salmon-pink bracket fungus with sulfur-yellow pore surface, forming large overlapping shelves 2-10 inches wide. Very similar to L. sulphureus but typically more pink-orange tones. Soft and succulent when young, becoming tough with age. Distinguished from eastern species by western range and host trees, particularly eucalyptus and oak. Annual bracket.",
+  "habitat": "Parasitic and saprobic on living and dead hardwood trees in western North America, particularly eucalyptus, oak, and other hardwoods. Forms large rosettes on trunks and at bases of trees. Common on ornamental eucalyptus in California. Causes brown cubical heart rot.",
+  "season": "Late fall through spring in California, typically October-March, coinciding with rainy season. Can fruit year-round in mild coastal climates. Peak in December-February. Opposite seasonal pattern from eastern Laetiporus.",
   "regions": [
-    "North America"
+    "California coast",
+    "Pacific coastal areas",
+    "Southwestern deserts",
+    "Baja California",
+    "Western North America",
+    "Particularly common in urban California"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Laetiporus sulphureus (eastern, different season/hosts)",
+    "Laetiporus conifericola (on conifers, different region)",
+    "Other western Laetiporus species (similar edibility)",
+    "Jack-o'-lantern (Omphalotus olivascens) - toxic, has gills not pores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE when young and on proper hosts: Harvest only young, tender, pliable specimens. AVOID specimens growing on eucalyptus as these commonly cause digestive upset in many people. Specimens from oak and other native hardwoods are safer. Start with small amounts to test tolerance. Cook thoroughly. Best when soft and moist. Some individuals react poorly regardless of host tree.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "a8e4a312bb3db79fe35cb25936fd52ccc0bf8329cf077e77abb78ad9d880cf65"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:48.250062"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Laetiporus cincinnatus",
   "common_name": "Laetiporus cincinnatus",
   "edibility": "E",
-  "description": "Laetiporus cincinnatus (Laetiporus cincinnatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Orange to salmon-pink bracket with WHITE to pale cream pore surface (not yellow), forming rosettes of overlapping shelves 2-10 inches wide. Similar appearance to L. sulphureus but distinguished by white pores and ground-based fruiting. Soft and succulent when young. Multiple shelves emanate from central rooting attachment to buried wood or tree roots. Annual bracket.",
+  "habitat": "Saprobic on buried wood and roots of dead hardwood trees, particularly oak. Appears to grow from ground at tree bases or from buried roots and stumps. Forms large multi-tiered rosettes near or surrounding oak trees. Eastern hardwood forests. Causes white rot of buried wood.",
+  "season": "Late spring through fall, typically May-September. Peak fruiting in June-August. Similar timing to L. sulphureus but often appears slightly later in season. Flushes after warm rains.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest",
+    "Great Lakes region",
+    "Southeastern United States",
+    "Appalachian region",
+    "East of Great Plains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Laetiporus sulphureus (yellow pores, grows on trunk/logs)",
+    "Other Laetiporus species (yellow pores)",
+    "Meripilus sumstinei (darker brown, black staining, different texture)",
+    "Bondarzewia berkeleyi (cream-brown, different texture/pores)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE when young and tender: Generally causes fewer digestive issues than L. sulphureus for sensitive individuals. Harvest only young, soft, pliable specimens with moist texture. Avoid old, tough, dry specimens. Cook thoroughly. The white pore surface and ground-based growth help identify this milder species. Considered one of the safest Laetiporus for beginners. Excellent texture and flavor.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "4c8aa9fcaf1604f40898dd031118dab429d31bb1ba246b123438ea956c844655"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:48.719310"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Albatrellus ovinus",
   "common_name": "Albatrellus ovinus",
   "edibility": "E",
-  "description": "Albatrellus ovinus (Albatrellus ovinus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "White to cream colored mushroom with irregular depressed caps 2-6 inches wide, often fused together in clusters. Thick, central to off-center stem 1-3 inches tall. White to cream small pores on underside. Firm, brittle flesh. Often grows in fused clusters of multiple caps. Stains yellow with age or when handled. Distinctive shape and color.",
+  "habitat": "Mycorrhizal with conifer trees, particularly spruce, fir, and pine in mountainous regions. Grows on ground in coniferous forests, often in moss. Common in montane and subalpine spruce-fir forests. Prefers acidic soils. Found scattered or in small groups.",
+  "season": "Summer through fall in mountains, typically July-October. Peak fruiting in August-September. Fruits after summer rains in high-elevation conifer forests. Most common mid to late summer.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Cascade Range",
+    "Sierra Nevada",
+    "Northern montane forests",
+    "Pacific Northwest mountains",
+    "Circumboreal in northern regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Albatrellus confluens (more orange tones, similar habitat)",
+    "Other Albatrellus species (similar appearance and edibility)",
+    "Scutiger species (similar but different pore structure)",
+    "Young Bondarzewia (much larger, different habitat)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when young and fresh: Good edible mushroom with mild flavor when young and tender. Older specimens become tough, bitter, and develop laxative properties - avoid. Best when small and white with no yellowing. Cook thoroughly. The brittle texture and mild flavor are pleasant in young specimens. Generally safe but quality declines rapidly with age. Harvest only fresh, white specimens.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "ad9821e3ae8d123f25d72da39bd94b04234fb13913299cc03fddbb2641c3cec2"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:24.001523"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

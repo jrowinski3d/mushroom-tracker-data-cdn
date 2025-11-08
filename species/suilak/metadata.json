@@ -3,16 +3,25 @@
   "scientific_name": "Suillus lakei",
   "common_name": "Suillus lakei",
   "edibility": "E",
-  "description": "Suillus lakei (Suillus lakei) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Lake's Bolete features a distinctive reddish-orange to rusty-orange cap (5-15 cm) with slimy surface when wet and characteristic scaly appearance when dry. Pores are large and angular, bright yellow, bruising brownish. The yellow stem has reddish-brown glandular dots and lacks a ring. Yellow flesh stains reddish-brown when cut. The bright colors and glandular dots are diagnostic. Spore print is cinnamon-brown.",
+  "habitat": "Mycorrhizal exclusively with Douglas fir in Pacific Northwest forests. Forms obligate associations with Douglas fir. Found in pure Douglas fir stands and mixed conifer forests dominated by Douglas fir.",
+  "season": "Fall (September-November) with peak fruiting in October. Appears after autumn rains in Douglas fir habitats.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Oregon",
+    "Washington",
+    "Northern California",
+    "British Columbia",
+    "Vancouver Island",
+    "Coastal Douglas fir zone"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Suillus pungens - also with Douglas fir but more brown colors",
+    "Other Suillus species - different colors and tree associations",
+    "Leccinum species - have scabrous stems not glandular dots",
+    "Boletus species - not viscid, different appearance"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Lake's Bolete is edible with firm texture and mild flavor. Remove the slimy cap cuticle before cooking. The bright orange colors and exclusive Douglas fir association make identification straightforward. Some people may experience digestive upset. Always cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "6675cb1f67829b3437f2b76ef7f0b720b7f7db65efe92c9d62381199da3bf13f"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:39.112370"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

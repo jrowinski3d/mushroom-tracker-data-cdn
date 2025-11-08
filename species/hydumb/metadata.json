@@ -1,18 +1,24 @@
 {
   "mushroom_id": "hydumb",
   "scientific_name": "Hydnum umbilicatum",
-  "common_name": "Hydnum umbilicatum",
+  "common_name": "Depressed Hedgehog",
   "edibility": "E",
-  "description": "Hydnum umbilicatum (Hydnum umbilicatum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Depressed Hedgehog has a small orange to orange-brown cap (2-7 cm) with a distinctive DEPRESSED or SUNKEN CENTER (umbilicate), creating a funnel or vase shape. The underside is covered with brittle, downward-pointing SPINES or TEETH instead of gills or pores - these spines are orange to pale orange, shorter than H. repandum. The stem is central, slender, smooth, orange to pale orange, often darker at the base. The flesh is pale orange, thin, brittle, with a mild to slightly bitter taste. Spore print is white. Smaller and more orange-toned than the common Sweet Tooth.",
+  "habitat": "Mycorrhizal with both hardwoods and conifers. Found on the ground in mixed forests, mossy areas, under oak, beech, and conifers. Often grows scattered or in small groups. Prefers acidic soils and moss.",
+  "season": "Summer through fall (August-November), with peak fruiting in fall.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Northeast",
+    "Midwest",
+    "Rocky Mountains",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hydnum repandum (Sweet Tooth) - larger, paler, lacks depressed center",
+    "Hydnum rufescens (Terracotta Hedgehog) - similar but darker, more reddish-brown",
+    "Cantharellus species - have ridges not true teeth/spines"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor when cooked, though smaller and less substantial than H. repandum. May develop slight bitterness with age. The distinctive spines/teeth on underside and depressed center make identification straightforward. Clean thoroughly as spines trap debris. Collect young specimens for best quality.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "15a7c86a7263e1e486d238eaf346c57ba1b3bd5b7f90013743d422d417c6cd87"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:51.731265"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

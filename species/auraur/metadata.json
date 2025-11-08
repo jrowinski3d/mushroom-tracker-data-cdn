@@ -3,21 +3,29 @@
   "scientific_name": "Auricularia auricula-judae",
   "common_name": "Auricularia auricula-judae",
   "edibility": "E",
-  "description": "Auricularia auricula-judae (Auricularia auricula-judae) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Wood Ear is a distinctive jelly fungus with ear-shaped fruiting bodies 3-12 cm across. The fruitbody is thin, rubbery-gelatinous, initially cup-shaped becoming ear or shell-shaped with age. The outer (fertile) surface is smooth to wrinkled, reddish-brown to dark brown, often with a purple-gray tint. The inner surface is tan-gray and slightly velvety with fine hairs. The texture is tough and elastic when fresh, becoming hard and shrunken when dry but reviving when moistened. No distinct stem.",
+  "habitat": "Found on dead and dying hardwood branches and logs, particularly elder (Sambucus), but also on oak, willow, and other deciduous trees. Grows as a wood decomposer, typically on fallen branches or standing dead wood. Fruits in clusters or rows along branches. Common in moist forests and woodland edges.",
+  "season": "Year-round in mild climates, but most abundant in fall through spring (September-May). In temperate regions, primarily fall and spring (August-November, March-May). Can fruit during winter in areas with mild wet weather. Requires consistent moisture.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (common)",
+    "Pacific Northwest",
+    "California (occasional)",
+    "Asia (very common)",
+    "Temperate forests worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Auricularia americana (edible) - very similar, North American species, slightly thicker",
+    "Exidia species (edible) - more button or brain-like, not ear-shaped",
+    "Tremella species (edible) - more brain-like or folded structure",
+    "Bulgaria inquinans (inedible) - black, rubbery, hemispherical not ear-shaped"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Widely consumed in Asian cuisine, prized for its crunchy texture and ability to absorb flavors. Popular in soups, stir-fries, and salads. Must be cooked - do not eat raw. The texture remains crispy-chewy even after cooking. Rich in nutrients and commonly cultivated. Fresh specimens should be cleaned well as they trap debris. Dried specimens must be rehydrated before cooking. No toxic lookalikes. The ear shape and growth on elder/hardwoods are distinctive. Flavorless on its own but excellent at absorbing sauces.",
   "images": [
     {
       "index": 0,
       "source_url": "https://mushroomobserver.org/images/640/1493169.jpg",
-      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "photographer": "Duï¿½ï¿½an",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "observation_date": "2022-04-10",
       "file_size_bytes": 90872,
@@ -28,7 +36,7 @@
     {
       "index": 1,
       "source_url": "https://mushroomobserver.org/images/640/1493170.jpg",
-      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "photographer": "Duï¿½ï¿½an",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "observation_date": "2022-04-10",
       "file_size_bytes": 99828,
@@ -37,6 +45,6 @@
       "sha256": "53742276a39e5b60e6b660873c86789487ab34456dacbb2744b194aeb71f577b"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:15.338995"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

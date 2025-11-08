@@ -1,18 +1,20 @@
 {
   "mushroom_id": "lacpar",
   "scientific_name": "Lactarius paradoxus",
-  "common_name": "Lactarius paradoxus",
+  "common_name": "Paradoxical Milk Cap",
   "edibility": "E",
-  "description": "Lactarius paradoxus (Lactarius paradoxus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Paradoxical Milk Cap has gray-brown cap (3-8 cm), often with pink tones. Gills pale. Stem similar. KEY: WHITE LATEX turning SLOWLY GRAY or GREENISH-GRAY. Cap may have pinkish tones. Small species. Flesh pale. Spore print cream.",
+  "habitat": "Mycorrhizal with CONIFERS. Grows under pines and spruces. Northern forests. Scattered.",
+  "season": "Fall (September-October).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Upper Midwest",
+    "Canada"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other small Lactarius - check latex color change"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild. WHITE LATEX slowly turning gray diagnostic. Best young. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +39,6 @@
       "sha256": "0babad4ba5728a6edea081ac4f2ac8b04b787983a5ee556d0fde561c0300c649"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:08.522160"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

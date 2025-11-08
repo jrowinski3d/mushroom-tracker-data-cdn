@@ -3,16 +3,23 @@
   "scientific_name": "Hypsizygus ulmarius",
   "common_name": "Hypsizygus ulmarius",
   "edibility": "E",
-  "description": "Hypsizygus ulmarius (Hypsizygus ulmarius) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "White to cream-colored caps 2-6 inches wide with smooth to slightly hairy surface. Unlike true oyster mushrooms, has a more central to slightly off-center stem 2-4 inches long. White decurrent gills. Often grows in small clusters high on living or recently dead hardwood trees. White spore print.",
+  "habitat": "Saprobic and parasitic on living and dead hardwood trees, particularly elm, box elder, maple, and aspen. Typically fruits high up on tree trunks, often 10-40 feet above ground. Common on standing trees in urban and forest settings. Causes white rot of heartwood.",
+  "season": "Fall, primarily September-November. Can appear in late summer in northern regions. Fruits during cool autumn weather after rain. Most common in October.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Great Lakes region",
+    "Upper Midwest",
+    "Pacific Northwest",
+    "Northern temperate forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Pleurotus ostreatus (lateral/absent stem, more oyster-shaped)",
+    "Pleurotus populinus (no central stem, on aspen/cottonwood)",
+    "Angel wings (Pleurocybella porrigens) - toxic, pure white, on conifers",
+    "Armillaria species (has ring on stem, yellowish colors)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Good edible mushroom with firm texture and mild flavor when young. Cook thoroughly before eating. Older specimens can become tough and are best avoided. The central stem and high growth position on trees help distinguish it from Pleurotus species. Related to cultivated Hon-shimeji (H. tessulatus) grown commercially.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "2aa8419d2cca940219b5bdbcaf5a85f45d8e9f0a3b9f020e68a3b07088d4250c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:43.779551"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

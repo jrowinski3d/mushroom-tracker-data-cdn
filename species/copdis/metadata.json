@@ -3,16 +3,23 @@
   "scientific_name": "Coprinellus disseminatus",
   "common_name": "Coprinellus disseminatus",
   "edibility": "E",
-  "description": "Coprinellus disseminatus (Coprinellus disseminatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Trooping Crumble Cap or Fairies' Bonnets is a tiny delicate mushroom forming massive clusters. Individual caps are 0.5-1.5 cm across, oval to bell-shaped, pale cream to buff-gray with radial grooves. The surface is smooth, not scaly. The gills are adnate, white to pale gray, NOT strongly deliquescing into ink (key difference from other inky caps - gills crumble rather than turn to liquid). The stem is 2-4 cm tall, extremely thin (thread-like), white, fragile. Fruits in enormous dense clusters of hundreds to thousands.",
+  "habitat": "Found on dead wood including stumps, logs, and buried wood debris. Also on wood chips and mulch. Grows as a wood decomposer in spectacular dense clusters. Very common in forests, parks, and landscaped areas. The massive troops are often found on old hardwood stumps.",
+  "season": "Spring through fall (April-November) in temperate regions. In mild climates may fruit year-round. Can fruit continuously in suitable conditions. Very persistent throughout the season.",
   "regions": [
-    "North America"
+    "North America (very common, widespread)",
+    "Europe (very common)",
+    "Worldwide in temperate regions",
+    "Forests and urban areas",
+    "Cosmopolitan on wood"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Coprinellus micaceus (edible) - larger, tan-brown, mica particles when young",
+    "Psathyrella gracilis - similar tiny mushrooms but different spore color",
+    "Other tiny mushrooms - but none in such massive troops",
+    "The enormous clusters of hundreds of tiny mushrooms are distinctive"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but impractical: Technically edible and non-toxic but far too small to be worthwhile collecting. Individual mushrooms are tiny. The gills don't deliquesce as strongly as other inky caps but still deteriorate quickly. No flavor of note. Safe but pointless to harvest. No toxic lookalikes. More interesting as a spectacular natural phenomenon - the massive clusters of hundreds of tiny mushrooms on stumps are beautiful and impressive. Often appears like a gray fuzzy coating on logs. Better photographed than eaten. The sheer numbers compensate for small size in nature but not in the kitchen.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "fcd77199817a9948da67d3201eb1a9c44cfda21deaee4bfa97050fb45e6b3aa0"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:26.257355"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

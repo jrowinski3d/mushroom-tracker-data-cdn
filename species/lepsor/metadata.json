@@ -3,16 +3,23 @@
   "scientific_name": "Lepista sordida",
   "common_name": "Lepista sordida",
   "edibility": "E",
-  "description": "Lepista sordida (Lepista sordida) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Sordid Blewit is a smaller paler cousin of the Wood Blewit. Cap 3-8 cm across, convex becoming flat or slightly depressed, pale lilac-gray to brownish-lilac or buff-tan. The purple coloration is subtle and fades quickly to dingy tan-brown (hence \"sordid\"). The surface is smooth, dry to slightly greasy. The gills are adnate to slightly decurrent, pale lilac becoming tan-buff. The stem is 3-7 cm tall, slender, pale lilac to buff with a slightly enlarged base. The flesh is thin, pale, with a sweet slightly fruity odor (less pronounced than L. nuda).",
+  "habitat": "Found in grasslands, pastures, lawns, meadows, grassy woodland edges, and parks. Grows as a grass and humus decomposer in nitrogen-rich soil. Fruits scattered to gregarious, often in fairy rings or troops in grass. Prefers open grassy areas rather than forests.",
+  "season": "Late summer through fall (August-November) in temperate regions. Can fruit into early winter in mild climates. Peak fruiting in September-October.",
   "regions": [
-    "North America"
+    "Europe (common)",
+    "North America (less common)",
+    "Temperate grasslands worldwide",
+    "Parks and pastures",
+    "Cosmopolitan in suitable habitats"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lepista nuda (edible) - darker purple, larger, woodland habitat",
+    "Clitocybe species - some toxic, pale colors, different odors",
+    "Entoloma species (some toxic) - pink spores but angular, flesh fragile",
+    "Laccaria laccata (edible) - smaller, more hygrophanous, woodland"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE with caution: Considered edible but less desirable than L. nuda. Must be thoroughly cooked - NEVER eat raw. The pale colors and dingy appearance make it less appealing and harder to identify confidently. Some people report digestive upset. Try small amounts first. Verify PINK SPORE PRINT. The subtle purple tones, grassland habitat, and sweet odor are diagnostic but not distinctive. Not recommended for beginners due to pale colors and confusion risks. Cook thoroughly if attempting. The \"sordid\" dingy appearance is accurate. Better blewits exist.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "8c618cc4b080f4a37b0ecd5fb16ac270616d9cb6bfc1137157b215b5295b0bd2"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:28.354629"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

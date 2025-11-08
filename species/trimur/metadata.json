@@ -1,18 +1,25 @@
 {
   "mushroom_id": "trimur",
   "scientific_name": "Tricholoma murrillianum",
-  "common_name": "Tricholoma murrillianum",
+  "common_name": "Southwestern Matsutake",
   "edibility": "E",
-  "description": "Tricholoma murrillianum (Tricholoma murrillianum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Southwestern Matsutake has a robust white to cream cap (6-15 cm) that develops brownish tones with age. The cap is convex to flat, dry, smooth to slightly fibrillose. Gills are white to cream, attached, crowded. The stem is thick, white, firm, with a PARTIAL VEIL that leaves a COTTONY RING or fibrillose zone on the upper stem - often less prominent than T. magnivelare. The diagnostic feature is the SPICY, CINNAMON-LIKE ODOR, though sometimes less intense than the Pacific Northwest matsutake. Flesh is white, firm, dense. Spore print is white. Adapted to southwestern high elevation forests.",
+  "habitat": "Mycorrhizal with CONIFERS in southwestern mountains, especially ponderosa pine, white fir, and Douglas fir. Forms obligate mycorrhizal relationships. Grows on the ground in duff or needle litter in high elevation conifer forests (typically 6,000-10,000 feet). Requires mature forests with specific mycorrhizal networks.",
+  "season": "Late summer through fall (August-October) in southwestern mountains, fruiting after monsoon rains.",
   "regions": [
-    "North America"
+    "New Mexico",
+    "Arizona",
+    "Southern Colorado",
+    "Southern Rocky Mountains",
+    "Southwestern high mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Tricholoma magnivelare - Pacific Northwest species, very similar",
+    "Tricholoma matsutake - Asian species",
+    "Amanita smithiana - TOXIC - has volva at base",
+    "Other white Tricholoma species - lack cinnamon odor"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized in the Southwest, commercially harvested. The CINNAMON/SPICY ODOR is key for identification, though sometimes subtler than northern matsutake. Best when young and firm. CRITICAL: Always check for absence of volva (cup at base) to rule out toxic Amanita species. The ring and cinnamon odor are diagnostic. Some foragers consider it slightly less aromatic than T. magnivelare but still excellent.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "63aec1140a6c93f42d8ef6433c91074146579fb2ce078755fbb6bcf824f9ab11"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:58.333394"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000"
 }

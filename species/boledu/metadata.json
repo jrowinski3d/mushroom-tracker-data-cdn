@@ -3,16 +3,25 @@
   "scientific_name": "Boletus edulis",
   "common_name": "Boletus edulis",
   "edibility": "E",
-  "description": "Boletus edulis (Boletus edulis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The King Bolete or Porcini features a brown to reddish-brown cap (5-30 cm) with smooth, dry surface. Pores are white when young, aging to yellowish-green, and do not bruise when handled. The thick, bulbous white to tan stem displays fine white reticulation (net-like pattern) near the apex. White flesh remains unchanging when cut, with mild nutty flavor. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with spruce, pine, hemlock, and occasionally oak trees in mixed conifer and hardwood forests. Prefers well-drained soils in mature forests. Found along forest edges, trails, and under dense canopy.",
+  "season": "Late summer through fall (August-November) with occasional spring flushes (May-June) in some regions. Peak fruiting after heavy rains during warm weather.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Northeastern forests",
+    "Great Lakes region",
+    "Northern California",
+    "Alaska",
+    "British Columbia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Tylopilus felleus (Bitter Bolete) - has pinkish pores and intensely bitter taste",
+    "Boletus variipes - pores bruise blue, similar appearance",
+    "Boletus subcaerulescens - bluing reaction distinguishes it",
+    "Other Boletus species - all edible but vary in quality"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: King Bolete is one of the world's most prized edible mushrooms, renowned for its excellent flavor and meaty texture. Safe to eat raw in small amounts but best when cooked. Check that pores remain white to yellow (not pink) and do not bruise blue to avoid confusion with other species. Always cook thoroughly for best digestibility.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "da49ce350cf2577f05575095f339a6110739a88dd13234333f288fbf8f499058"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:33.733388"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

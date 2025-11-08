@@ -3,16 +3,25 @@
   "scientific_name": "Suillus granulatus",
   "common_name": "Suillus granulatus",
   "edibility": "E",
-  "description": "Suillus granulatus (Suillus granulatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Granulated Bolete features a cinnamon-brown to yellowish-brown cap (4-10 cm) with slimy, glutinous surface when wet. Pores are pale yellow, exuding milky droplets when young - a diagnostic feature. The pale yellow stem is covered with tiny brown granular dots (glandular dots) and lacks a ring. Pale yellow flesh does not stain. The milky pore droplets and granular stem are distinctive. Spore print is cinnamon-brown.",
+  "habitat": "Mycorrhizal exclusively with two- and three-needle pines in various habitats. Common in pine plantations, disturbed areas with young pines, and naturally regenerated pine stands. Widespread with planted pines.",
+  "season": "Late summer through fall (August-November) with peak fruiting in September-October. Often fruits prolifically after autumn rains.",
   "regions": [
-    "North America"
+    "Northeastern United States",
+    "Great Lakes region",
+    "Pacific Northwest",
+    "Southeastern pine plantations",
+    "Rocky Mountains",
+    "Anywhere with pine plantations",
+    "Canada"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Suillus luteus - has dark ring on stem, lacks milky droplets",
+    "Suillus brevipes - lacks the milky pore droplets",
+    "Other Suillus species - check for milky droplets on young pores",
+    "Boletus species - not viscid, different habitat"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Granulated Bolete is edible with mild flavor but soft texture. Remove the slimy cap cuticle before cooking. The milky droplets on young pores and granular stem dots are diagnostic. Some people experience digestive upset. Always cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "02918768915d5a8f5894ffac5d79ee1fb7f128668b01c42d7090b26a3abad8cb"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:39.559839"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -1,18 +1,21 @@
 {
   "mushroom_id": "rusden",
   "scientific_name": "Russula densifolia",
-  "common_name": "Russula densifolia",
+  "common_name": "Crowded Russula",
   "edibility": "E",
-  "description": "Russula densifolia (Russula densifolia) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Crowded Russula has white to cream cap (4-10 cm), sometimes with brownish tones. Gills white, VERY CROWDED. Stem white. KEY: BRITTLE FLESH, VERY CROWDED GILLS, white colors. Flesh white. Spore print white. Mild to slightly acrid.",
+  "habitat": "Mycorrhizal with conifers and hardwoods. Grows on ground in mixed forests. Pacific Northwest species. Scattered or groups.",
+  "season": "Fall (September-November).",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California",
+    "British Columbia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other white Russulas",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. WHITE CAP + VERY CROWDED GILLS + BRITTLE FLESH diagnostic. Taste test (mild specimens edible). Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +40,6 @@
       "sha256": "8abc0be6a366ca5fcb6b67ae26230389bed72f12c82bf446ab568db283c66c53"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:14.413147"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

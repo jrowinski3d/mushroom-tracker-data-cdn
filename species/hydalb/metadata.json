@@ -1,18 +1,23 @@
 {
   "mushroom_id": "hydalb",
   "scientific_name": "Hydnum albidum",
-  "common_name": "Hydnum albidum",
+  "common_name": "White Hedgehog",
   "edibility": "E",
-  "description": "Hydnum albidum (Hydnum albidum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "White Hedgehog has a pure white to cream-colored cap (3-10 cm) that may develop pale yellowish tones with age or bruising. The cap shape is convex to irregular with wavy margins. The underside is covered with brittle, downward-pointing SPINES or TEETH instead of gills or pores - these spines are white to cream, easily detached when rubbed. The stem is white, central to off-center, often curved, smooth, firm. The flesh is white, thick, brittle, with a mild taste and pleasant odor. Spore print is white. Distinguished by its consistently pale coloration.",
+  "habitat": "Mycorrhizal with conifers, especially pine and spruce. Found on the ground in coniferous and mixed forests. Often grows scattered or in small groups in needle duff or moss. Prefers well-drained acidic soils.",
+  "season": "Late summer through fall (September-November), occasionally into early winter in mild climates.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Northeast",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hydnum repandum (Sweet Tooth) - usually has orange or peachy tones",
+    "Hericium species - different growth form, longer cascading spines",
+    "Climacodon septentrionale - grows on wood, larger teeth"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild, pleasant flavor similar to H. repandum. The pure white color and distinctive spines/teeth make misidentification unlikely. Clean thoroughly as spines trap debris and pine needles. Collect young specimens for best texture - older specimens may develop slight bitterness.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "03513469f6ff79ebad654a1dc0315f4b394e1643601683e5e1e38fd7646584f2"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:52.128361"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Pleurotus populinus",
   "common_name": "Pleurotus populinus",
   "edibility": "E",
-  "description": "Pleurotus populinus (Pleurotus populinus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Fan to oyster-shaped caps 2-6 inches wide, white to cream or pale tan, sometimes with grayish tones. Smooth surface with decurrent white gills and short lateral or absent stem. Distinguished by its strong preference for aspen and cottonwood trees. Grows in dense overlapping clusters. White spore print.",
+  "habitat": "Saprobic specifically on dead and dying aspen (Populus tremuloides), cottonwood (Populus species), and occasionally other poplar trees. Forms dense clustered shelves on logs, stumps, and standing dead trees. Strongly associated with Populus species in mountainous and northern regions.",
+  "season": "Late spring through fall, with peak fruiting in May-October. Most common in early summer. Fruits after spring rains in aspen groves and riparian cottonwood areas.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Pacific Northwest",
+    "Northern Plains",
+    "Intermountain West",
+    "Western North America",
+    "Northern North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Pleurotus ostreatus (darker, wider range of hardwoods)",
+    "Pleurotus pulmonarius (nearly identical but different host trees)",
+    "Angel wings (Pleurocybella porrigens) - toxic, pure white, on conifers only",
+    "Hypsizygus ulmarius (more central stem, on elm)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Good edible mushroom with mild flavor, similar to cultivated oyster mushrooms. Cook thoroughly before eating. Safe when properly identified. The strong association with aspen and cottonwood trees is a helpful identification feature. Harvest young, fresh specimens for best quality.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "22e8f7ab52e7e0940cd7a073638fcdbbe292e5e914ef1dc3e769d327b0c6e10e"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:42.972905"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

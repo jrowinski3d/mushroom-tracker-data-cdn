@@ -1,18 +1,25 @@
 {
   "mushroom_id": "armtab",
   "scientific_name": "Armillaria tabescens",
-  "common_name": "Armillaria tabescens",
+  "common_name": "Ringless Honey Mushroom",
   "edibility": "E",
-  "description": "Armillaria tabescens (Armillaria tabescens) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Ringless Honey Mushroom has a honey-yellow to tawny-brown cap (3-10 cm) with small dark scales at center. Gills are white to cream, attached, staining brown. The KEY FEATURE is the ABSENCE OF A RING on the stem - this is the only common Armillaria species that consistently lacks a ring. Stem is yellowish to brown, smooth or slightly fibrous, no ring zone. Grows in DENSE CLUSTERS on hardwood stumps and roots. Flesh is white, firm. Spore print is white. Black rhizomorphs present. Distinctive for lacking the typical honey mushroom ring.",
+  "habitat": "Parasitic and saprobic on HARDWOODS in eastern North America, especially oak, hickory, maple, and other hardwoods. Grows in large clusters at the base of living or dying trees, stumps, and buried roots. Common in oak forests. Causes white rot and root disease. Rarely on conifers.",
+  "season": "Late summer through fall (August-November), sometimes earlier than ringed species.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Southeast",
+    "Midwest",
+    "Mid-Atlantic",
+    "Southern regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Armillaria mellea - HAS A RING, otherwise very similar",
+    "Xeromphalina species - much smaller, different habitat",
+    "Gymnopilus species - rusty-brown spores, bitter",
+    "Pholiota species - brown spores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE WITH CAUTION: Honey mushrooms (Armillaria species) are POISONOUS when raw and must be thoroughly cooked before consumption. Cook for at least 10-15 minutes at high heat. Even when properly cooked, some individuals experience allergic reactions or digestive upset. Try a small amount first to test your tolerance. Parboiling before cooking can help reduce gastrointestinal irritants and bitter taste. Do not consume with alcohol - honey mushrooms can cause adverse reactions when combined with alcohol (similar to Coprinopsis). Collect only young, firm specimens. The lack of a ring makes identification distinctive but verify with other Armillaria characteristics.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "6e8264b2d1c15eef591d615e93afaeb2cf2c9d9423255ea16458764bbbf23318"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:57.071009"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000"
 }

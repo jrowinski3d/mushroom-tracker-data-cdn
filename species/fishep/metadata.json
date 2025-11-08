@@ -3,16 +3,24 @@
   "scientific_name": "Fistulina hepatica",
   "common_name": "Fistulina hepatica",
   "edibility": "E",
-  "description": "Fistulina hepatica (Fistulina hepatica) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Distinctive tongue or bracket-shaped mushroom 3-10 inches wide resembling a slab of raw meat. Upper surface reddish-orange to liver-brown, rough and bumpy. UNIQUE: has individual tubes (not fused pores) that are cream colored, exuding red juice when cut. Flesh marbled red and white like meat, sour-acidic taste. Soft and moist texture. Unmistakable appearance.",
+  "habitat": "Parasitic on living oak and chestnut trees, causing brown cubical heart rot (brown oak). Forms shelf brackets on trunks and large branches of mature oaks. Strongly associated with oak species in eastern forests. Can persist on same tree for years. Usually solitary or few brackets.",
+  "season": "Late summer through fall, typically August-November. Peak fruiting in September-October. Can persist for several weeks. Most common in early fall on mature oaks.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Southeastern United States",
+    "Great Lakes region",
+    "Appalachian Mountains",
+    "Midwest oak forests",
+    "Europe and Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Chicken of the Woods (Laetiporus) - bright colors, fused pores, no red juice",
+    "Red-belted polypore (Fomitopsis) - tough, perennial, different texture",
+    "No dangerous lookalikes - quite distinctive",
+    "Resinous polypore - different color, no meat-like appearance"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE with caution: Strongly acidic/sour taste limits appeal - some people enjoy this tartness, others find it unpalatable. Young specimens are best. The acidity can cause digestive upset in sensitive individuals. Often pickled or used in small amounts for flavor. Can be blanched to reduce acidity. Cook thoroughly. Safe but an acquired taste. The meat-like texture and red juice are fascinating but flavor is very acidic.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "9da59801ff1d3c914142d611d8f3740401903a1850b30cf3dca6b208d90222d3"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:23.144673"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

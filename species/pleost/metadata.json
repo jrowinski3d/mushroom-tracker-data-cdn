@@ -3,16 +3,23 @@
   "scientific_name": "Pleurotus ostreatus",
   "common_name": "Pleurotus ostreatus",
   "edibility": "E",
-  "description": "Pleurotus ostreatus (Pleurotus ostreatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Fan to oyster-shaped caps 2-10 inches wide, typically gray-brown to tan when young, fading to white. Smooth, moist surface with decurrent white gills running down the short lateral or absent stem. Grows in dense overlapping shelves from dead or dying hardwood logs and stumps. White spore print.",
+  "habitat": "Saprobic on dead and dying hardwood trees, logs, and stumps, especially beech, oak, maple, and aspen. Forms dense clustered shelves growing from wood. Occasionally parasitic on stressed living trees. Common on fallen logs in mixed hardwood forests.",
+  "season": "Fall through spring in most regions, with peak fruiting in October-November. Can fruit year-round in mild coastal climates with adequate moisture. Often appears after heavy rains and cool temperatures.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Pacific Northwest",
+    "Great Lakes region",
+    "Appalachian Mountains",
+    "Temperate regions worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Pleurotus pulmonarius (nearly identical, paler, summer fruiting)",
+    "Angel wings (Pleurocybella porrigens) - toxic, smaller, pure white, on conifers",
+    "Crepidotus species - brown spores, smaller, different texture",
+    "Elm oyster (Hypsizygus ulmarius) - central stem, less pronounced oyster shape"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the most popular cultivated mushrooms worldwide with excellent flavor and texture. Wild specimens are safe and delicious when properly identified. Cook thoroughly before eating as raw oyster mushrooms can cause digestive upset in some people. Avoid older specimens that may be tough or insect-infested. Widely cultivated commercially, making it familiar to most people.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "440d644be0f31fba34ae26f88cf441151573f5b18ee03aeabbf3ef42375bfc37"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:42.126456"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

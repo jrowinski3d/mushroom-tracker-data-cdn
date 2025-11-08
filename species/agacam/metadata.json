@@ -3,16 +3,24 @@
   "scientific_name": "Agaricus campestris",
   "common_name": "Agaricus campestris",
   "edibility": "E",
-  "description": "Agaricus campestris (Agaricus campestris) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Meadow Mushroom is the classic wild ancestor of the cultivated button mushroom. Cap 5-12 cm across, initially rounded becoming broadly convex to flat. The cap is white to cream, smooth or with fine flat scales, often developing pinkish-brown tones with age. The gills are free, initially bright pink becoming dark chocolate brown (diagnostic - pink gills distinguish from white Amanitas). The stem is 3-8 cm tall, white, smooth, with a thin fragile ring that often disappears. The flesh is white, sometimes slightly pinkish, with a mild pleasant mushroomy odor.",
+  "habitat": "Found in open grassy areas including meadows, pastures, lawns, golf courses, and parks. Prefers nutrient-rich grasslands, often where livestock graze or in areas with organic fertilizer. Avoids woodland. Grows terrestrially, fruits scattered to gregarious, often in fairy rings. Common in maintained grasslands.",
+  "season": "Late summer through fall (July-November) in temperate regions. In mild climates may fruit spring and fall. Peak fruiting occurs in late summer and early fall after warm rains. One of the classic fall mushrooms of pastures.",
   "regions": [
-    "North America"
+    "Europe (native, widespread)",
+    "North America (widespread, all regions)",
+    "Eastern United States (very common)",
+    "California (common)",
+    "Pacific Northwest (common)",
+    "Temperate grasslands worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Destroying Angel Amanitas (deadly) - white with white gills (not pink), have volva at base",
+    "Agaricus xanthodermus (toxic) - yellows intensely when cut, phenolic odor",
+    "Agaricus arvensis (edible) - larger, anise odor, cogwheel ring",
+    "Chlorophyllum molybdites (toxic) - green spores, larger, gills eventually green"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The classic wild mushroom with excellent flavor similar to cultivated varieties. Cook thoroughly. CRITICAL identification to avoid deadly white Amanitas: verify PINK gills when young (Amanitas have white gills), gills turn CHOCOLATE BROWN with age, CHOCOLATE BROWN spore print, NO volva at stem base, mild pleasant odor (not phenolic). The pink gills are the most important feature - if gills are white, it's NOT this species. Avoid specimens that yellow intensely when cut. Very popular wild edible but requires careful identification.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "c1dd63a0a61f671647be7697f74475e2bfd753f007e551708cd67112dadbef1f"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:01.769866"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

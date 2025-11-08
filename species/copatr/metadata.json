@@ -3,14 +3,21 @@
   "scientific_name": "Coprinopsis atramentaria",
   "common_name": "Coprinopsis atramentaria",
   "edibility": "E",
-  "description": "Coprinopsis atramentaria (Coprinopsis atramentaria) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Common Inky Cap or Tippler's Bane is a medium-sized mushroom 5-15 cm tall with a cap 3-7 cm across. The cap is oval to bell-shaped, gray-brown to tan with a pale gray to brown scurfy surface (covered with tiny scales or fibers). The center is often slightly darker. The gills are free to adnate, white becoming gray then black and deliquescing into ink. The stem is 8-15 cm tall, smooth, white, hollow, with a small fragile ring zone. Fruits in dense clusters from buried wood or organic matter.",
+  "habitat": "Found in lawns, gardens, parks, wood chip mulch, compost areas, and near stumps or buried wood. Grows as a wood decomposer, often on buried hardwood debris. Very common in urban and suburban landscapes. Fruits in dense tight clusters, often in large numbers. Prefers nutrient-rich disturbed soils.",
+  "season": "Spring through fall (April-November) in temperate regions. In mild climates may fruit year-round. Most abundant in late summer and fall. Can appear in large flushes after rains.",
   "regions": [
-    "North America"
+    "North America (very common, widespread)",
+    "Europe (very common)",
+    "Worldwide in temperate regions",
+    "Urban areas globally",
+    "Cosmopolitan distribution"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Coprinus comatus (edible) - taller, shaggy white scales, no alcohol interaction",
+    "Coprinellus micaceus (edible) - mica-like particles on cap, smaller",
+    "Coprinopsis species - many similar gray inky caps",
+    "Psathyrella species - similar but don't deliquesce as readily"
   ],
   "safety_notes": "CAUTION - ALCOHOL INTERACTION: Coprinopsis atramentaria contains coprine, which blocks alcohol metabolism and causes severe reactions when combined with alcohol. DO NOT consume alcohol 24 hours before or up to 72 hours after eating this mushroom. Symptoms include facial flushing, nausea, vomiting, palpitations, tingling in limbs, headache, and chest pain. When properly cooked and consumed without alcohol, this mushroom is edible, but the serious interaction risk makes it unsuitable for most foragers.",
   "images": [
@@ -37,6 +44,6 @@
       "sha256": "12088e2b4db7392e9f130f8226745465e6db82993f1af81f2ec16efbdac39675"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

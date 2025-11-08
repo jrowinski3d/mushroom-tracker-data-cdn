@@ -3,14 +3,22 @@
   "scientific_name": "Chlorophyllum brunneum",
   "common_name": "Chlorophyllum brunneum",
   "edibility": "E",
-  "description": "Chlorophyllum brunneum (Chlorophyllum brunneum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The False Parasol or Brown Parasol is a medium to large mushroom with a cap 5-20 cm across, initially rounded becoming broadly convex. The cap is white to cream colored, covered with brown to reddish-brown scales that are flatter and more appressed than C. rhacodes, concentrating toward the center. The flesh stains orange-brown to reddish when cut but less intensely than C. rhacodes. The gills are free, white to cream, and close to crowded. The stem is 8-18 cm tall, smooth or finely scaly, with a prominent movable ring and a bulbous base.",
+  "habitat": "Found in urban and suburban areas including gardens, parks, landscaped beds, lawns, wood chip mulch, and compost-rich soil. Strongly associated with human cultivation and disturbed habitats. Grows terrestrially in nutrient-rich organic substrates. Fruits scattered to gregarious, often appearing in maintained landscapes and irrigated areas.",
+  "season": "Late summer through fall (August-December) in temperate regions. In California and mild climates, fruits year-round with peaks in fall and spring (October-May) after rains. Most common during warm weather with moisture.",
   "regions": [
-    "North America"
+    "California (very common, especially urban areas)",
+    "Pacific Northwest (common in gardens)",
+    "Southwestern United States",
+    "Texas and Gulf Coast states",
+    "Mediterranean climates",
+    "Increasingly widespread in North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Chlorophyllum rhacodes (edible with caution) - identical appearance, distinction requires microscopy or sequencing",
+    "Macrolepiota procera (choice edible) - much taller and more slender, snakeskin stem pattern, does not stain",
+    "Chlorophyllum molybdites (toxic) - green spore print diagnostic, greens when bruised",
+    "Lepiota species (some deadly) - much smaller, more delicate structure"
   ],
   "safety_notes": "TOXIC: Chlorophyllum brunneum causes gastrointestinal poisoning with symptoms including severe nausea, vomiting, diarrhea, and abdominal cramping. Symptoms typically occur within 1-6 hours of consumption and can be severe enough to require hospitalization in sensitive individuals. This mushroom is commonly mistaken for the edible true parasol (Macrolepiota procera). While some people may tolerate it when thoroughly cooked at high heat, the risk of severe gastric upset makes it unsafe for consumption. Do not eat this mushroom.",
   "images": [
@@ -37,6 +45,6 @@
       "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

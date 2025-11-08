@@ -3,16 +3,24 @@
   "scientific_name": "Phaeolus schweinitzii",
   "common_name": "Phaeolus schweinitzii",
   "edibility": "E",
-  "description": "Phaeolus schweinitzii (Phaeolus schweinitzii) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Large irregular bracket or rosette 2-12 inches wide with distinctive rusty-brown to orange-brown colors when young, becoming dark brown to black with age. Soft and spongy texture when fresh, developing bright yellow pore surface. Forms brackets, rosettes, or irregular shelves. Causes brown cubical rot. Dark brown context with yellow streaks. Ages to crumbly black.",
+  "habitat": "Parasitic and saprobic at bases and on roots of living and dead conifer trees, particularly pine, spruce, fir, and Douglas-fir. Causes brown cubical butt rot and root rot in conifers. Grows from ground near tree bases, on roots, and on lower trunks. Common in coniferous forests.",
+  "season": "Summer through fall, typically July-October. Annual fruiting bodies appear in late summer. Can persist into fall becoming dark and crumbly. Peak in August-September in conifer forests.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Pacific Northwest",
+    "Northern conifer forests",
+    "Great Lakes region",
+    "Cascade Range",
+    "Circumboreal in northern forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Laetiporus conifericola (brighter colors, different texture)",
+    "Inonotus tomentosus (similar habitat, different colors)",
+    "Onnia tomentosa (similar but zonate pattern)",
+    "Other brown conifer polypores (various species)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "NOT RECOMMENDED FOR EATING: Despite edibility classification, this species is generally considered INEDIBLE due to extremely tough, spongy texture and bitter taste even when young. Causes digestive upset in most people who attempt to eat it. Historically used for dyes (produces beautiful yellows, golds, and greens for wool). Best appreciated for ecological role and dyeing properties, not eating. Too tough and bitter for consumption.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "85795157976288edec84c0662da804ef1c76f232f6f7450bdd5e4cb580189d6c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:29.302252"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

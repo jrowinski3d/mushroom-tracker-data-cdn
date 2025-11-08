@@ -3,16 +3,24 @@
   "scientific_name": "Ramaria aurea",
   "common_name": "Ramaria aurea",
   "edibility": "E",
-  "description": "Ramaria aurea (Ramaria aurea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Golden Coral is a beautiful upright coral fungus 8-20 cm tall and 8-15 cm wide. The fruitbody consists of numerous upright branches emerging from a thick white to pale yellow base. Young branches are bright golden-yellow to orange-yellow, becoming ochre-brown with age. The branch tips are typically blunt and rounded. The branching is dense and compact, creating a cauliflower-like appearance. The flesh is white to pale yellow, brittle, with a mild pleasant odor. The entire mushroom has a fleshy not gelatinous texture.",
+  "habitat": "Found in hardwood and mixed forests, particularly under oak, beech, and other deciduous trees. Forms mycorrhizal associations with tree roots. Grows terrestrially from soil, typically scattered or in small groups. Prefers rich humus soil in mature forests. Common in leaf litter and near rotting wood.",
+  "season": "Late summer through fall (August-November) in most regions. Peak fruiting occurs in early to mid-fall. In warmer climates, may fruit as late as December. Requires warm soil temperatures followed by fall rains.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (common)",
+    "Pacific Northwest (occasional)",
+    "California (rare)",
+    "Temperate hardwood forests worldwide",
+    "Particularly common in the Southeast"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Ramaria botrytis (edible) - pink/wine-red branch tips, similar size",
+    "Ramaria formosa (toxic) - salmon-pink to orange branches, yellows when bruised",
+    "Ramaria rasilispora (edible) - very similar, microscopy needed to distinguish",
+    "Clavariadelphus species (edible) - simpler club shape, not intricately branched"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible and good when young and firm. One of the better coral fungi for eating. Cook thoroughly. The flavor is mild and pleasant. Only collect young fresh specimens - older specimens become tough and bitter. Discard any that are waterlogged or have insect damage. Some people report mild digestive upset from coral fungi. CRITICAL: Distinguish from toxic R. formosa which has more salmon-pink coloring and yellows when bruised. Also avoid bitter-tasting coral fungi. The golden-yellow color without pink tones is key. Try small amounts first.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "20bb95f5d78dacbcfa204ab28017d8ab1ced84bc147ee2ae6936b5ecc386d78a"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:19.172010"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,26 @@
   "scientific_name": "Morchella americana",
   "common_name": "American Morel",
   "edibility": "E",
-  "description": "American Morel (Morchella americana) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cap 3-10 cm (1-4 in) tall, cone-shaped to egg-shaped or pine cone-shaped with honeycomb network of ridges and pits arranged primarily vertically; color ranges from gray to whitish to yellowish, with paler ridges than pits. Stem shorter than cap, sometimes bulbous, 2-9 cm long, wrinkled and often stained yellow, white to yellowish, hollow. Completely hollow from cap apex through stem when cut lengthwise. Spore print off-white to cream.",
+  "habitat": "Widespread under hardwoods especially ash, elm (particularly dying or recently dead elms), aspen, balsam poplar, sycamore, tulip trees, and apple trees in old abandoned orchards. In western regions typically found with cottonwood in river bottoms. Occasionally associated with conifers, particularly white pine. Prefers moist, well-drained soil in woodlands and riparian areas.",
+  "season": "Spring (March-June, with peak fruiting April-May in most regions). Fruiting triggered by soil temperatures reaching approximately 50°F (10°C) combined with adequate moisture. Earlier in southern areas (March-April), later in northern regions and mountains (May-June).",
   "regions": [
-    "North America"
+    "Northeast",
+    "Mid-Atlantic",
+    "Midwest",
+    "Great Lakes",
+    "Southeast",
+    "Rocky Mountains",
+    "Pacific Northwest",
+    "California"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "False Morel (Gyromitra species) - TOXIC: brain-like wrinkled cap instead of honeycomb ridges, cap attached only at apex (not fused to stem), chambered rather than completely hollow, often reddish-brown. Contains deadly toxins that persist even after cooking.",
+    "Morchella ulmaria - Edible: nearly identical appearance, ranges overlap in Great Lakes region, cannot be reliably distinguished without DNA analysis, same edibility and preparation requirements.",
+    "Half-Free Morel (Morchella punctipes) - Edible: cap attaches halfway down stem vs. fused along entire length, skirt-like appearance, proportionally shorter cap.",
+    "Other Morchella species - Edible: M. esculenta (nearly identical yellow morel), M. importuna (darker, in landscape mulch), all true morels share same culinary value and cooking requirements."
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the most prized wild mushrooms in North America, highly valued for culinary use. Must be thoroughly cooked for at least 15-25 minutes at medium heat; raw or undercooked specimens contain hydrazine compounds that cause severe nausea, vomiting, and gastric distress. Cooking above 160°F (71°C) destroys toxic compounds. Some individuals may experience allergic reactions even when properly prepared; try small amounts first. Rare adverse reactions with alcohol consumption have been reported. Critical to distinguish from deadly false morels (Gyromitra) which have brain-like wrinkled caps rather than honeycomb patterns.",
   "images": [
     {
       "index": 0,
@@ -37,6 +47,6 @@
       "sha256": "65c699f6f9b0055e3654f3987b1070e6147d0da24fd69f93c28fb3d62cbd9ff8"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:25.891951"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

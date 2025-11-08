@@ -3,16 +3,24 @@
   "scientific_name": "Macrolepiota procera",
   "common_name": "Macrolepiota procera",
   "edibility": "E",
-  "description": "Macrolepiota procera (Macrolepiota procera) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Parasol Mushroom is a large, impressive species with a distinctive umbrella-shaped cap reaching 10-30 cm across, covered in upturned brown scales on a cream background forming a snakeskin pattern. The cap is mounted on a tall slender stem (15-35 cm) with a thick double-edged movable ring and brown snake-like scaly patterns below the ring. The gills are free (not attached to stem), white becoming cream with age, and crowded. The white flesh has a mild nutty flavor and does not bruise or change color when cut.",
+  "habitat": "Found in grassy areas including pastures, meadows, lawn edges, woodland clearings, parks, and roadsides. Grows terrestrially (not on wood) in nutrient-rich soil, often in disturbed areas. Typically fruits scattered or in small groups, sometimes in fairy rings. Prefers areas with moderate sun exposure and well-drained soil.",
+  "season": "Summer through fall (July-November in North America, May-November in warmer climates). Peak fruiting occurs in late summer to early fall, particularly after warm rains. In Mediterranean climates may fruit spring and fall.",
   "regions": [
-    "North America"
+    "Europe (native, widespread)",
+    "Eastern North America (naturalized)",
+    "Pacific Northwest (rare)",
+    "California (occasional)",
+    "Mediterranean regions",
+    "Temperate grasslands worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Chlorophyllum brunneum (toxic) - greenish spore print, reddens when cut, stockier build",
+    "Chlorophyllum molybdites (toxic) - green spores, greens when bruised, North American",
+    "Lepiota species (some deadly) - much smaller (<10 cm cap), fragile ring",
+    "Amanita species (deadly) - volva at base, gills attached or free but with volva"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the finest edible mushrooms with firm texture and nutty flavor. The cap is preferred (stem is fibrous). Cook thoroughly - do not eat raw. Critical identification: verify FREE white gills (not attached to stem), MOVABLE thick double-edged ring, snakeskin scaly stem, WHITE spore print, NO volva at base. Discard the tough fibrous stem. Some people report mild digestive upset - try small amounts first. The parasol must be clearly distinguished from toxic Chlorophyllum species which have greenish spores.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "ed4a5b15c67cad23f36c2d4f1e96ee10272c33b21580d35007412ea2982a36dd"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:59.177582"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

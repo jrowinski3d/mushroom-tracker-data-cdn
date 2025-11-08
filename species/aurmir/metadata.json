@@ -3,16 +3,25 @@
   "scientific_name": "Aureoboletus mirabilis",
   "common_name": "Aureoboletus mirabilis",
   "edibility": "E",
-  "description": "Aureoboletus mirabilis (Aureoboletus mirabilis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Admirable Bolete features a distinctive dark reddish-brown to burgundy cap (5-20 cm) with velvety, dry surface. Pores are bright golden-yellow, bruising blue-green. The yellow stem displays burgundy-red tones and has distinctive yellow reticulation. Yellow flesh stains blue when cut. Often grows on decaying hemlock wood - a unique habitat among boletes. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with hemlock trees but distinctively fruits on or near decaying hemlock wood, stumps, and logs. Found in old-growth and mature hemlock forests. The wood-associated growth habit is unusual for boletes and diagnostic for this species.",
+  "season": "Late summer through fall (August-October) with peak fruiting in September. Appears after late summer rains in hemlock habitats.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Northern California",
+    "Oregon",
+    "Washington",
+    "British Columbia",
+    "Coastal hemlock forests",
+    "Western hemlock zone"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus species - not on wood, different colors",
+    "Xerocomellus species - smaller, different habitat",
+    "Leccinum species - scabrous stems, not on wood",
+    "The wood-associated growth and burgundy colors are distinctive"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Admirable Bolete is a good edible with firm texture and pleasant flavor. The blue-staining is normal and safe. The unique growth on or near hemlock wood makes identification straightforward. Cook thoroughly before eating. Some people may experience mild digestive upset. Relatively uncommon species.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "a7dea91a17c0ee221a8abd93059d972fddf1117e4c021788e9398cd02170e32a"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:41.719546"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Lepiota clypeolaria",
   "common_name": "Lepiota clypeolaria",
   "edibility": "E",
-  "description": "Lepiota clypeolaria (Lepiota clypeolaria) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Shield Dapperling is a small delicate mushroom with a cap 2-6 cm across, bell-shaped becoming broadly convex with a prominent umbo. The cap is covered with woolly concentric rings of brown to tan scales on a pale cream to white background, giving a distinctive shaggy appearance. The flesh is thin, white, and fragile. The gills are free, white to cream, close to crowded. The stem is 3-8 cm tall, slender, white to cream with a cottony or woolly surface that often has brownish zones or bands below the fragile ring.",
+  "habitat": "Found in mixed hardwood and coniferous forests, particularly under oaks, beeches, and conifers. Grows in leaf litter and humus-rich soil, often on well-rotted logs or woody debris. Prefers moist shaded forest floors with acidic soil. Fruits scattered to gregarious, typically in small groups among forest duff.",
+  "season": "Summer through fall (July-November) in most of North America. In Europe, fruits late spring through fall (May-November). Peak fruiting occurs in late summer and early fall during periods of consistent moisture. Rare in early spring in warm climates.",
   "regions": [
-    "North America"
+    "Europe (widespread, native)",
+    "Eastern North America (common)",
+    "Pacific Northwest (occasional)",
+    "California (rare)",
+    "Northern temperate forests",
+    "Boreal and montane regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lepiota cristata (inedible) - similar size and appearance, unpleasant odor, redder-brown scales",
+    "Lepiota species (many deadly) - extremely difficult to distinguish, many contain amatoxins",
+    "Small Agaricus species (edible) - brown gills, chocolate spores, free gills similar",
+    "Small Chlorophyllum species (toxic) - larger, sturdier, greenish spores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE BUT NOT RECOMMENDED: While historically considered edible in Europe, this mushroom is NOT RECOMMENDED for consumption due to extreme danger of confusion with deadly Lepiota species. Many small Lepiotas contain amatoxins (same toxins as deadly Amanitas) and are indistinguishable without microscopy. Several deadly species including L. brunneoincarnata, L. helveola, and L. subincarnata look nearly identical. Even experienced mycologists struggle to distinguish small Lepiota species reliably. The small size means there's little reward for the enormous risk. AVOID ALL SMALL LEPIOTAS - the risk far outweighs any culinary value.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "e5919625a3c7ea7d40ccaae7a61c66522471a43f4328502a17d0008b5ff194dd"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:00.828257"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

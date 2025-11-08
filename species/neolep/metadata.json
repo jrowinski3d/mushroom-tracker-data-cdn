@@ -3,16 +3,24 @@
   "scientific_name": "Neolentinus lepideus",
   "common_name": "Neolentinus lepideus",
   "edibility": "E",
-  "description": "Neolentinus lepideus (Neolentinus lepideus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Medium to large mushroom with white to cream cap 2-6 inches wide covered in brown scales, especially concentrated toward center. White decurrent gills. Thick central white stem 2-5 inches tall with shaggy brown scales below partial ring. Has GILLS, not pores. Grows on conifer wood. Tough, fibrous texture. Strong anise or licorice smell when fresh.",
+  "habitat": "Saprobic on conifer wood including logs, stumps, railroad ties, telephone poles, and construction lumber. Causes brown cubical rot. Common on pine, fir, spruce, and other conifer wood. Famous for damaging railroad ties and wooden structures - hence 'Train Wrecker.' Found on processed and weathered conifer wood.",
+  "season": "Spring through fall, typically May-October. Can appear year-round on protected wood like railroad ties. Peak in summer. Fruits from same wood repeatedly over years.",
   "regions": [
-    "North America"
+    "Western North America",
+    "Rocky Mountains",
+    "Pacific Northwest",
+    "Northern conifer forests",
+    "Widespread in conifer regions",
+    "Circumboreal distribution"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lentinus tigrinus (similar but smaller, different wood, pattern)",
+    "Scaly Pholiota species (brown spores, gills not decurrent)",
+    "Other scaly wood mushrooms (different odors, spore colors)",
+    "No dangerous lookalikes with this combination of features"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when very young but not recommended: Only tender young buttons are soft enough to eat - specimens become very tough and fibrous quickly. Even young ones have tough texture requiring extensive cooking. Strong anise flavor is off-putting to many. Generally not worth eating due to toughness and strong flavor. Safe but unpalatable. The distinctive scales, anise odor, and conifer wood habitat aid identification.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "fe6e8a1f10093c4ff50e8c12968ed53c32036e3eabfd84f5194e38aa5eff356c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:30.000625"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Leccinum manzanitae",
   "common_name": "Leccinum manzanitae",
   "edibility": "E",
-  "description": "Leccinum manzanitae (Leccinum manzanitae) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Manzanita Bolete features a reddish-brown to dark brown cap (5-15 cm) with dry, velvety to smooth surface. Pores are white when young, aging to olive-gray, bruising brownish. The whitish to pale brown stem is covered with brown to dark brown scabers (rough scales). White flesh stains pinkish-brown when cut, eventually darkening to gray. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal exclusively with manzanita (Arctostaphylos species) in chaparral and mixed oak-madrone forests. Forms obligate associations with manzanita shrubs. Found in coastal forests and foothill woodlands with manzanita understory.",
+  "season": "Winter through spring (December-April) with peak fruiting in January-March. Unusual winter fruiting period associated with California rainy season.",
   "regions": [
-    "North America"
+    "California Coast Ranges",
+    "Northern California",
+    "Central California",
+    "San Francisco Bay Area",
+    "Sierra Nevada foothills",
+    "Southern Oregon"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Leccinum species - but different tree associations",
+    "Boletus species - lack the scabrous stem",
+    "Leccinum aurantiacum - more orange cap, different habitat",
+    "Suillus species - viscid cap, conifer association"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Manzanita Bolete is a good edible with firm texture. Must be cooked thoroughly for at least 15-20 minutes. The unique manzanita association and winter fruiting period distinguish it from other boletes. Flesh darkening is normal and safe.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "d243ff699a47b4be618893c861cc6648c81e25f1f7b298859ec2abcb293950fc"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:37.476121"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

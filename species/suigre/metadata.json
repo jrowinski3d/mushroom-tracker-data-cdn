@@ -3,16 +3,25 @@
   "scientific_name": "Suillus grevillei",
   "common_name": "Suillus grevillei",
   "edibility": "E",
-  "description": "Suillus grevillei (Suillus grevillei) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Larch Bolete displays a distinctive bright golden-yellow to orange-yellow cap (3-10 cm) with very slimy, glutinous surface when wet. Pores are bright yellow, bruising brownish. A prominent membranous ring on the yellow stem often becomes stained brown with spores. Yellow flesh does not stain. The bright yellow colors and larch association are diagnostic. Spore print is cinnamon-brown.",
+  "habitat": "Mycorrhizal exclusively with larch (Larix species) - cannot fruit without larch trees. Forms obligate associations with European larch, Western larch, and tamarack. Found in larch plantations and native larch forests.",
+  "season": "Late summer through fall (August-November) with peak fruiting in September-October. Fruits synchronously with larch in temperate regions.",
   "regions": [
-    "North America"
+    "Pacific Northwest (Western larch)",
+    "Rocky Mountains",
+    "Northeastern forests (tamarack)",
+    "Great Lakes region",
+    "Larch plantations throughout North America",
+    "Canada",
+    "Alaska"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Suillus luteus - darker cap, with pine not larch",
+    "Other Suillus species - none as bright yellow",
+    "Boletus species - not viscid, different habitat",
+    "No toxic lookalikes when found with larch"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Larch Bolete is a good edible with firm texture and mild flavor. Remove the very slimy cap cuticle before cooking. The obligate larch association makes identification straightforward - if no larch trees present, it's not this species. Some people experience digestive upset. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "63324e26cc0f1ce46d1f506e95ec446d2124bd4d7dfd867474f8d87d9e5f4991"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:39.985840"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

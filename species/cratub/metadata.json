@@ -3,16 +3,23 @@
   "scientific_name": "Craterellus tubaeformis",
   "common_name": "Craterellus tubaeformis",
   "edibility": "E",
-  "description": "Craterellus tubaeformis (Craterellus tubaeformis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Yellowfoot (Winter Chanterelle/Funnel Chanterelle) is a small mushroom with a brownish-yellow to grayish-brown cap 1-6 cm wide that becomes deeply funnel-shaped with age. The cap has a thin, wavy margin and is often perforated in the center, opening into the hollow stem. The underside has shallow, blunt, forked ridges (NOT true gills) that are yellowish-gray to pale yellow, widely spaced, and run down the stem. The distinctive stem is 2-8 cm tall, hollow, slender, and bright yellow to orange-yellow (giving it the name \"yellowfoot\"). Flesh is thin, yellowish, with a mild odor. Spore print is white to pale yellow.",
+  "habitat": "Mycorrhizal with conifers, particularly spruce, fir, and hemlock in northern and montane forests. Found in mossy coniferous forests, often in large troops on moss-covered ground, rotting wood, or among conifer needles. Prefers cool, moist environments at higher elevations or northern latitudes.",
+  "season": "Late fall through winter (October-February), one of the latest-fruiting edible mushrooms. Often appears after the first frosts and can fruit under snow. Peak season is typically November-January in the Pacific Northwest and northern regions.",
   "regions": [
-    "North America"
+    "Pacific Northwest (Oregon, Washington, British Columbia)",
+    "Northern United States (Maine to Minnesota)",
+    "Great Lakes region",
+    "Northern Rocky Mountains",
+    "Northeastern states",
+    "Northern Europe (also present)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Craterellus ignicolor - Edible, more golden-yellow overall, found in eastern North America",
+    "Small Cantharellus species - Edible, more robust, lack the distinctive yellow stem and hollow center",
+    "Hygrophoropsis aurantiaca (False Chanterelle) - Not toxic but poor quality, has true thin gills, more orange"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The Yellowfoot is an excellent edible mushroom despite its small size. The distinctive bright yellow hollow stem and brownish cap make it easy to identify. Like chanterelles, it has blunt ridges rather than true gills, though they are shallow and sometimes barely visible. No toxic lookalikes exist. The small size means you need to collect many for a meal, but they often fruit abundantly. Flavor is delicate and slightly peppery; excellent in soups, pasta, or sautéed. Can be dried successfully for later use.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "f91bd6be1fc4662333cd75708085d399ebe96caae4a04e3927a4f45985eb9c7c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:32.898196"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

@@ -1,18 +1,25 @@
 {
   "mushroom_id": "armsin",
   "scientific_name": "Armillaria sinapina",
-  "common_name": "Armillaria sinapina",
+  "common_name": "Mustard Honey Mushroom",
   "edibility": "E",
-  "description": "Armillaria sinapina (Armillaria sinapina) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Mustard Honey Mushroom has a YELLOW-BROWN to MUSTARD-COLORED cap (4-12 cm) with small dark brown scales, especially at center - the yellowish tones distinguish it from darker Armillaria species. Gills are white to cream, attached, staining brown with age. The stem has a PERSISTENT RING that is often thick and cottony. Stem is white to yellowish above ring, brownish below. Grows in DENSE CLUSTERS on conifers. Flesh is white, firm, with mild odor. Spore print is white. Black rhizomorphs present. Parasitic tree pathogen.",
+  "habitat": "Parasitic and saprobic on CONIFERS in western mountains, especially pine, fir, spruce, and larch. Grows in large clusters at the base of living or dead conifer trees and stumps. Common forest pathogen at higher elevations. Causes white rot and root disease.",
+  "season": "Late summer through fall (August-October), fruiting after rains at higher elevations.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Pacific Northwest mountains",
+    "British Columbia",
+    "Alberta",
+    "Northern Rockies"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Armillaria solidipes - similar, slightly more reddish",
+    "Other Armillaria species - all require cooking",
+    "Pholiota species - brown spores",
+    "Galerina species - DEADLY - smaller, brown spores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE WITH CAUTION: Honey mushrooms (Armillaria species) are POISONOUS when raw and must be thoroughly cooked before consumption. Cook for at least 10-15 minutes at high heat. Even when properly cooked, some individuals experience allergic reactions or digestive upset. Try a small amount first to test your tolerance. Parboiling before cooking can help reduce gastrointestinal irritants and bitter taste. Do not consume with alcohol - honey mushrooms can cause adverse reactions when combined with alcohol (similar to Coprinopsis). Collect only young, firm specimens.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "e2b1f6e4e281fa01f70012eec08302df296e628c748a533efc4fc44f6b13a5e5"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:56.621360"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000"
 }

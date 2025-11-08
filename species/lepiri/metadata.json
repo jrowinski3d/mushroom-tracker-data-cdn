@@ -3,16 +3,23 @@
   "scientific_name": "Lepista irina",
   "common_name": "Lepista irina",
   "edibility": "E",
-  "description": "Lepista irina (Lepista irina) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Flowery Blewit is similar to L. nuda but generally paler. Cap 4-12 cm across, convex becoming flat, pale lilac to pinkish-lilac or buff with subtle purple tones. The cap fades faster than L. nuda, often becoming entirely buff-tan. The surface is smooth. The gills are adnate, pale lilac to pinkish becoming pale tan. The stem is 4-8 cm tall, pale lilac to whitish with purple tones, with a slightly bulbous base. The flesh is pale, thin, with a distinctive sweet floral perfume-like odor (stronger and more flowery than L. nuda).",
+  "habitat": "Found in deciduous and coniferous forests, woodland edges, and grassy areas near trees. Grows in leaf litter and rich organic soil. Fruits scattered to gregarious, sometimes in rings. Prefers areas with good humus and moisture retention.",
+  "season": "Late summer through fall (August-November) in most regions. Earlier than L. nuda, typically fruiting before hard frosts. Peak in September-October.",
   "regions": [
-    "North America"
+    "Europe (common)",
+    "Eastern North America (uncommon)",
+    "Pacific Northwest (occasional)",
+    "Temperate forests worldwide",
+    "Less common than L. nuda overall"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lepista nuda (edible) - very similar, deeper purple color, later season",
+    "Clitocybe nuda (same species) - synonym for Lepista nuda",
+    "Cortinarius species (some deadly) - rusty brown spores not pink",
+    "Laccaria species (edible) - smaller, more uniformly purple"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE with same cautions as L. nuda: Must be thoroughly cooked - NEVER eat raw. Can cause allergic reactions in some people. The strong floral perfume odor can be overpowering in dishes. Try small amounts first to test tolerance. Verify PINK SPORE PRINT to distinguish from Cortinarius. The pale colors and strong sweet fragrance are diagnostic. Less commonly collected than L. nuda. Cook thoroughly and start with small portions. Some people find the perfume odor unpleasant. Edible but proceed with caution.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "70fa8fb81c58d229ce5ed118b93a56066f1f7d3f3c9e264d3bc7e2b39bd640b8"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:27.535119"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Clavariadelphus truncatus",
   "common_name": "Clavariadelphus truncatus",
   "edibility": "E",
-  "description": "Clavariadelphus truncatus (Clavariadelphus truncatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Flat-topped Coral is a large distinctive club fungus 7-15 cm tall and 2-6 cm wide at the top. The fruitbody is club-shaped to columnar with a distinctive flattened or truncated top (as if cut with a knife - diagnostic feature). Color is tan, ochre, or yellowish-brown to orange-brown, often becoming darker brown with age. The surface is smooth to slightly wrinkled. The base is often whitish and may have white mycelial threads. The flesh is white, brittle when fresh, with a mild odor. Single unbranched structure.",
+  "habitat": "Found in coniferous and mixed forests, particularly under spruce, fir, hemlock, and pine. Forms mycorrhizal associations with conifers. Grows terrestrially from soil, often in moss. Fruits scattered to gregarious, sometimes in troops or rows. Prefers cool moist mountain forests with abundant conifer debris.",
+  "season": "Late summer through fall (August-November) in mountain regions. In the Pacific Northwest, fruits September-November. Peak fruiting occurs in fall after the first rains. Requires cool temperatures and consistent moisture.",
   "regions": [
-    "North America"
+    "Pacific Northwest (very common)",
+    "Rocky Mountains",
+    "Northern California mountains",
+    "Northeastern North America",
+    "Europe (widespread)",
+    "Northern temperate and boreal conifer forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Clavariadelphus pistillaris (edible) - club-shaped but rounded top, not flat",
+    "Clavariadelphus ligula (edible) - smaller, more slender, violet-tinged base",
+    "Gomphus clavatus (edible) - pig ear-shaped top, purple tones, different structure",
+    "Old Lycoperdon puffballs - similar color but round, become powdery inside"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible but quality is mediocre. The texture becomes rubbery or tough when cooked. Mild flavor, not particularly appealing. Historically eaten but rarely collected today due to poor culinary quality. Safe with no toxic lookalikes. Cook thoroughly if attempting. Young firm specimens are better. The flattened top is absolutely diagnostic - no other large club fungus has this feature. More interesting as a specimen than as food. Often abundant in suitable habitats but not worth collecting.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "5d1ca550cc37e7b992629accd6592c72648f01bb74233805253d038de54f9f20"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:20.045445"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

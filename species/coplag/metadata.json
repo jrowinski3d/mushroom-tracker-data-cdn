@@ -3,16 +3,23 @@
   "scientific_name": "Coprinopsis lagopus",
   "common_name": "Coprinopsis lagopus",
   "edibility": "E",
-  "description": "Coprinopsis lagopus (Coprinopsis lagopus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Hare's Foot Inky Cap is a small delicate mushroom 4-10 cm tall with a cap 2-5 cm across. The cap is oval to bell-shaped, white to pale gray-brown, covered with dense white cottony or woolly hairs especially when young, giving a furry appearance (like a hare's foot, hence the name). The surface has long silky fibers. The gills are free, white becoming gray then black and deliquescing. The stem is 4-10 cm tall, slender, white, covered with similar woolly hairs, hollow. The entire mushroom has a shaggy hairy appearance.",
+  "habitat": "Found in grassy areas, lawns, pastures, parks, roadside verges, and disturbed ground. Prefers nutrient-rich soil, often where livestock graze or near dung. Grows terrestrially in grass, fruits scattered to gregarious. Common in maintained grasslands and grazed areas.",
+  "season": "Spring through fall (May-November) in temperate regions. Peak fruiting in late spring and summer. In warm climates may fruit into winter. Most common during warm humid weather.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "North America (less common)",
+    "Temperate grasslands worldwide",
+    "Grazed pastures",
+    "Cosmopolitan in suitable habitats"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Coprinus comatus (edible) - much larger, shaggy scales not cottony hairs",
+    "Coprinopsis lagopides - nearly identical, distinction requires microscopy",
+    "Young Agaricus or Amanita - but lack the cottony surface and black deliquescing gills",
+    "Parasola species - smaller, less hairy"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but poor: Considered edible when young but the flavor is bland and texture poor. The small size and delicate nature make it impractical. No toxic properties known but not commonly collected. No alcohol interaction. Must be used immediately as gills deliquesce quickly. Only young specimens before gills turn black are edible. The woolly-hairy appearance is charming but doesn't translate to culinary quality. Safe but not worthwhile. No toxic lookalikes. The cottony white hairs give it an attractive furry appearance. More interesting as a specimen than food.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "12799b2ca72edccdf51732a8de50992a20502b6b4f9c593c8dcde2c35988af72"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:26.681561"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

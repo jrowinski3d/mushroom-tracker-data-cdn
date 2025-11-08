@@ -3,16 +3,24 @@
   "scientific_name": "Tolypocladium ophioglossoides",
   "common_name": "Tolypocladium ophioglossoides",
   "edibility": "E",
-  "description": "Tolypocladium ophioglossoides (Tolypocladium ophioglossoides) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Vegetable Caterpillar or Cordyceps Goldenthread is a fascinating parasitic fungus that attacks underground-dwelling fungi (false truffles, particularly Elaphomyces). The fruitbody consists of a long slender club or spike 3-12 cm tall and 0.5-1.5 cm wide, emerging from the soil. The club is cylindrical, often curved, yellow-brown to olive-brown, with a slightly roughened surface. The fertile upper portion is slightly enlarged. The club emerges from an underground fungal host (Elaphomyces) which appears as a dark ball connected to the base. When dug up, the black to brown host ball is visible attached.",
+  "habitat": "Found in mixed hardwood and coniferous forests, emerging from soil where the host fungus Elaphomyces grows underground. The host is mycorrhizal with tree roots. The club pushes up through soil, moss, and leaf litter. Fruits scattered, often inconspicuous. Common in moist forests with rich organic soil.",
+  "season": "Summer through fall (July-November) in most regions. Peak fruiting in late summer and early fall (August-October). Can persist for weeks once emerged. More common in years with consistent moisture.",
   "regions": [
-    "North America"
+    "Eastern North America (widespread)",
+    "Pacific Northwest (common)",
+    "Northern California",
+    "Rocky Mountains",
+    "Europe (widespread)",
+    "Northern temperate forests worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cordyceps species on insects - parasitize insects not fungi, different substrate",
+    "Clavariadelphus ligula (edible) - club shape but larger, purple-tinged, not parasitic",
+    "Earth tongues (Geoglossum, Trichoglossum) - dark brown to black, not on fungal hosts",
+    "Xylaria hypoxylon (inedible) - antler-like, on wood not underground fungi"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "NOT EDIBLE: While technically not toxic, this fungus has no culinary value and is far too small and tough to be worthwhile. Historically not eaten in Western tradition. Some Cordyceps species are used in traditional Chinese medicine but this species is not commonly used. The rarity and ecological role make collection inappropriate. More valuable as an interesting ecological specimen showing fungus-on-fungus parasitism. The attachment to underground Elaphomyces truffle is distinctive and fascinating but not edible. Leave in place to observe this unique natural relationship.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "9b1b60be8962b17ec5d5a62e529b453d1553ba641e4af729a3fabca5aa254aad"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:22.636773"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

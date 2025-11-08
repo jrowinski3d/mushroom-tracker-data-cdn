@@ -3,16 +3,24 @@
   "scientific_name": "Agaricus arvensis",
   "common_name": "Agaricus arvensis",
   "edibility": "E",
-  "description": "Agaricus arvensis (Agaricus arvensis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Horse Mushroom is a robust species with a cap 8-20 cm across, initially rounded becoming broadly convex to flat. The cap is white to cream, smooth or with fine flattening scales, often yellowing slightly when bruised. The gills are free, initially pale pink becoming chocolate brown with age. The stem is 6-15 cm tall, stout, white, smooth, with a large pendant double-layered ring that has a cogwheel (toothed) pattern on the underside. The flesh is white and has a distinct pleasant anise or almond odor (diagnostic feature).",
+  "habitat": "Found in open grassy areas including pastures, meadows, lawns, agricultural fields, and grassy woodland edges. Prefers nutrient-rich soil, often in areas grazed by livestock or with manure enrichment. Grows terrestrially in groups, rings, or troops. Common in areas with nitrogen-rich soil.",
+  "season": "Late summer through fall (August-November) in temperate regions. In mild climates, may fruit in spring (April-May). Peak fruiting occurs in early to mid-fall after warm rains. Can be abundant in some years, absent in others.",
   "regions": [
-    "North America"
+    "Europe (native, widespread)",
+    "Eastern North America (common)",
+    "Pacific Northwest (common)",
+    "California (occasional)",
+    "Great Plains",
+    "Temperate grasslands worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Agaricus xanthodermus (toxic) - yellows intensely when bruised, unpleasant phenolic odor",
+    "Agaricus campestris (edible) - smaller, no anise odor, fragile fleeting ring",
+    "Agaricus silvicola (edible) - woodland species, otherwise very similar with anise odor",
+    "Destroying Angel Amanitas (deadly) - white but have a volva at base, no brown gills"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized for its firm texture and pleasant almond-anise flavor. Cook thoroughly. Critical identification: verify ANISE or ALMOND odor (not phenolic/chemical), FREE gills that turn pink then chocolate brown, cogwheel ring pattern, CHOCOLATE BROWN spore print, NO volva at base. Avoid specimens that yellow intensely when cut (indicates toxic A. xanthodermus). The pleasant anise odor is the key distinguishing feature. Some people find the flavor too strong. Discard the stem as it's often fibrous.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "0568abd08e8ed2565aa98202b0c6907b0bd4cb8761e6d47963b4d2fb4e554c17"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:01.353659"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,23 @@
   "scientific_name": "Morchella punctipes",
   "common_name": "Morchella punctipes",
   "edibility": "E",
-  "description": "Morchella punctipes (Morchella punctipes) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cap typically 1-4 cm (0.4-1.6 in) high, conical with honeycomb pattern of ridges and pits, yellow-brown to brown. Distinctive feature: cap attaches to stem approximately halfway down its length (not fully fused like true morels), creating characteristic skirt-like appearance where lower half flares away from stem. Stem 3-10 cm (1.2-4 in) tall, proportionally longer than cap, white to cream, granulose (covered with tiny granules), hollow. When sliced lengthwise, completely hollow through cap and stem. Spore print cream to yellowish.",
+  "habitat": "Found under various hardwoods in eastern North America including ash, elm, tulip poplar, apple, and other deciduous trees. Prefers rich, moist woodland soils, often in floodplains, riparian areas, and mesic forests. Commonly fruits in same locations as true morels but typically appears slightly earlier in season. Occasionally found in old orchards and parks with mature hardwood trees.",
+  "season": "Early to mid-spring (March-May in most areas, can begin in late February in southern regions). Often fruits 1-2 weeks before peak true morel season. Emergence coincides with soil warming to 45-50°F (7-10°C) and early spring ephemeral flowering plants. Southern regions March-April, northern areas and higher elevations April-May.",
   "regions": [
-    "North America"
+    "Northeast",
+    "Mid-Atlantic",
+    "Midwest",
+    "Great Lakes",
+    "Southeast"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Verpa bohemica (Early Morel) - Edible with caution: cap attached only at apex of stem with sides hanging completely free (vs. halfway attachment), cottony pith inside stem (vs. completely hollow), thimble-like smooth cap. Some people experience gastric upset; limit consumption.",
+    "Verpa conica - Edible with caution: similar to V. bohemica, cap completely free-hanging from top attachment only, smoother cap surface. Consume in moderation as reactions reported.",
+    "True morels (Morchella americana, M. esculenta) - Edible: cap fused to stem along entire length (vs. half-free), cap proportionally larger relative to stem, identical cooking requirements.",
+    "False Morel (Gyromitra species) - TOXIC: brain-like wrinkled cap instead of honeycomb, reddish-brown color, chambered interior. Deadly toxic."
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Good culinary mushroom, though generally considered less flavorful than fully-attached true morels. Must be thoroughly cooked for 15-25 minutes; never consume raw or undercooked as morels contain hydrazine toxins that cause severe nausea, vomiting, and gastric distress. Cooking above 160°F (71°C) destroys toxic compounds. Some individuals may experience allergic reactions even when properly prepared; consume small portions on first trial. Avoid alcohol consumption with morels as rare adverse reactions documented. Critical to distinguish from Verpa species by examining cap attachment point: half-free morels attach halfway down stem, while Verpa caps hang completely free from top attachment only.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "8caf59108b82c0f05597c420fa38a09720623411e13ec3515fe5c579095422c1"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:26.699837"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

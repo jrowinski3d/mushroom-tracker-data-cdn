@@ -1,18 +1,22 @@
 {
   "mushroom_id": "ruscya",
   "scientific_name": "Russula cyanoxantha",
-  "common_name": "Russula cyanoxantha",
+  "common_name": "Charcoal Burner",
   "edibility": "E",
-  "description": "Russula cyanoxantha (Russula cyanoxantha) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Charcoal Burner has variable colored cap (5-15 cm) - purple, green, gray, or mixed colors - often with multiple colors on same cap. Gills white to cream. Stem white. KEY: BRITTLE CHALKY FLESH, NO LATEX, MILD TASTE. Multi-colored cap diagnostic. Flesh white. Spore print white to pale cream.",
+  "habitat": "Mycorrhizal with hardwoods and conifers. Grows on ground in mixed forests. Widespread. Common species. Scattered or groups.",
+  "season": "Summer through fall (July-October).",
   "regions": [
-    "North America"
+    "Eastern US",
+    "Midwest",
+    "Pacific Northwest",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Russulas - check taste (mild vs acrid)",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent flavor, mild taste. Multi-colored cap + BRITTLE FLESH + MILD TASTE diagnostic. One of best edible Russulas. Taste test confirms edibility. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "a0e8fcc9bbb17f04c8dadcb62a756fda2b1f1a84f9923aeb2a2397795bdc73d4"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:10.230963"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

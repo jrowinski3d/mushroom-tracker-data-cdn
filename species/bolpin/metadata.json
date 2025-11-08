@@ -3,16 +3,25 @@
   "scientific_name": "Boletus pinophilus",
   "common_name": "Boletus pinophilus",
   "edibility": "E",
-  "description": "Boletus pinophilus (Boletus pinophilus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Pine Bolete features a dark reddish-brown to mahogany cap (7-30 cm) with smooth to slightly sticky surface when wet. Pores are white when young, aging to yellow-olive, with no bruising. The robust stem is reddish-brown with white to pinkish reticulation, often with vinaceous (wine-red) tones. White flesh may show slight pinkish tinge under cap cuticle but does not stain when cut. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with pine, spruce, and other conifers in montane and subalpine coniferous forests. Prefers acidic soils and higher elevations. Often fruits in large numbers under mature conifers.",
+  "season": "Late summer through fall (July-October), with peak fruiting in August-September at higher elevations. Appears after sustained rainfall during warm weather.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Pacific Northwest mountains",
+    "Cascade Range",
+    "Sierra Nevada",
+    "Northern California highlands",
+    "British Columbia",
+    "Alaska"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis - lighter cap color, less reddish tones",
+    "Boletus aereus - darker cap, prefers oak not pine",
+    "Tylopilus felleus - pink pores, bitter taste",
+    "Other reddish Boletus species - all edible"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Pine Bolete is considered by many to be the best tasting of all boletes, with rich, nutty flavor and firm texture. Highly prized for drying, as flavor intensifies. The reddish-brown coloration and pine association are key identification features. Always cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "4813deb8c9c8cd2c5dbc05c3b094fdb28dcacdc5daf6dcd9159ac6fb1b89fcd1"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:36.260922"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus roseocanus",
   "common_name": "Cantharellus roseocanus",
   "edibility": "E",
-  "description": "Cantharellus roseocanus (Cantharellus roseocanus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Rainbow Chanterelle (also called Rosy Chanterelle) has a distinctive pinkish to salmon-orange or rose-colored cap 3-12 cm wide, often with purple-pink tones that give it its common name. The cap surface is smooth to slightly wrinkled, becoming funnel-shaped with age, with wavy, irregular margins. The underside features thick, blunt, forked ridges (NOT true gills) that are pinkish-orange to salmon-pink, widely spaced, and run down the stem. The stem is solid, 3-9 cm tall, pinkish to white, often with purple-pink tones at the base. Flesh is white to pale pink, firm, with a mild fruity odor. Spore print is white to pale cream.",
+  "habitat": "Mycorrhizal with Pacific Northwest conifers including Douglas fir, western hemlock, and Sitka spruce in coastal forests. Also found with tanoak and madrone in mixed forests. Prefers well-drained slopes with thick moss and duff layers in coastal and montane coniferous forests.",
+  "season": "Fall through early winter (September-December), fruiting with the onset of fall rains. Peak season is typically October-November in the Pacific Northwest. Often fruits alongside C. formosus but tends to appear slightly later in the season.",
   "regions": [
-    "North America"
+    "Pacific Northwest (British Columbia to Northern California)",
+    "Coastal Oregon and Washington",
+    "Vancouver Island",
+    "Northern California coastal mountains",
+    "Olympic Peninsula"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cantharellus formosus - Edible, more golden-orange without pinkish tones, otherwise very similar",
+    "Cantharellus cascadensis - Edible, paler yellow-cream, lacks pink tones, higher elevation",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more orange"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The Rainbow Chanterelle is an excellent edible mushroom notable for its distinctive pinkish coloration. Like all chanterelles, the key identification feature is the thick, blunt, forked ridges on the underside that feel waxy and are fused to the cap flesh, rather than true gills. The unique rose-pink color makes it relatively easy to distinguish from other chanterelles and from toxic lookalikes. Always verify it grows from soil near trees. Has a mild, pleasant flavor similar to other chanterelles; excellent sautéed or in cream-based dishes.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "3af5792bb0538624c8a3cd973dc8beae579d306263b6990c372bc1d599017326"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:31.296896"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

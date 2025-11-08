@@ -3,16 +3,24 @@
   "scientific_name": "Grifola frondosa",
   "common_name": "Maitake",
   "edibility": "E",
-  "description": "Maitake (Grifola frondosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Distinctive large compound fruiting body 10-36+ inches wide composed of dozens of overlapping gray-brown spoon-shaped caps arising from a central branching white base. Individual caps 1-3 inches wide with wavy edges. White pore surface underneath. Grows in dense rosettes resembling a hen's feathers. Can weigh 10-50+ pounds. Unmistakable when mature.",
+  "habitat": "Parasitic at bases of living and dead hardwood trees, particularly oak, elm, maple, and beech. Causes white rot of heartwood and roots. Forms large rosettes at tree bases, often appearing from the same location annually. Common in mature hardwood forests. Grows from underground sclerotia.",
+  "season": "Late summer through fall, typically August-November. Peak fruiting in September-October. Most common in early fall. Can flush in same location for many years. Fruits after late summer rains.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Great Lakes region",
+    "Northeastern forests",
+    "Appalachian Mountains",
+    "Midwest hardwood forests",
+    "Asia and Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Meripilus sumstinei (darker, blackens when handled, different texture)",
+    "Bondarzewia berkeleyi (lighter colored, larger individual caps)",
+    "Berkeley's polypore complex (less organized rosette form)",
+    "Umbrella polypore (Polyporus) - different structure, not clustered"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized as one of the finest edible mushrooms with excellent flavor, meaty texture, and medicinal properties. Widely cultivated in Asia as 'Maitake.' Harvest while fresh and before insect damage. Best when young with white to pale gray colors. Cook thoroughly. The complex rosette form and oak association make identification straightforward. Very safe when properly identified. One of the most sought-after wild mushrooms.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "0140fb98a260129712883e87b2bfa756a52f9834955cee3fb9796b0351ebc719"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:49.986989"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

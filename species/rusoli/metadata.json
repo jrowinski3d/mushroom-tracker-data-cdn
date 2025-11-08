@@ -1,18 +1,20 @@
 {
   "mushroom_id": "rusoli",
   "scientific_name": "Russula olivacea",
-  "common_name": "Russula olivacea",
+  "common_name": "Olive Russula",
   "edibility": "E",
-  "description": "Russula olivacea (Russula olivacea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Olive Russula has olive-brown to olive-green cap (5-12 cm), sticky. Gills yellowish. Stem white. KEY: OLIVE CAP color, BRITTLE FLESH, yellowish gills. Flesh white. Spore print ochre. Mild to slightly acrid.",
+  "habitat": "Mycorrhizal with hardwoods, especially beech and oak. Grows on ground in deciduous forests. European species. Scattered.",
+  "season": "Summer through fall (July-October).",
   "regions": [
-    "North America"
+    "Europe",
+    "Eastern US"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other olive/green Russulas",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor. OLIVE CAP + YELLOW GILLS + BRITTLE FLESH diagnostic. Taste test (mild specimens edible). Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +39,6 @@
       "sha256": "d756050d1f956f660f1ffd5c22bdaa3aa87bd59532fd3b83547b298269d7a780"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:13.988465"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

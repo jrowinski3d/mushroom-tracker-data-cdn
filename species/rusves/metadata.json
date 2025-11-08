@@ -1,18 +1,20 @@
 {
   "mushroom_id": "rusves",
   "scientific_name": "Russula vesca",
-  "common_name": "Russula vesca",
+  "common_name": "The Flirt",
   "edibility": "E",
-  "description": "Russula vesca (Russula vesca) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Flirt has pinkish-brown to vinaceous cap (5-12 cm), often with darker center. Cap margin has RADIAL STRIATIONS (grooves). Gills white to cream. Stem white, tinged pink. KEY: BRITTLE CHALKY FLESH, NO LATEX, MILD TASTE, peeling cuticle. Flesh white. Spore print white.",
+  "habitat": "Mycorrhizal with hardwoods, especially oak and beech. Grows on ground in deciduous forests. European species, common. Groups or scattered.",
+  "season": "Summer through fall (July-October).",
   "regions": [
-    "North America"
+    "Europe",
+    "Eastern US (introduced)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other pinkish Russulas - check taste",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent mild flavor. PINK CAP + BRITTLE FLESH + MILD TASTE + PEELING CUTICLE diagnostic. Highly regarded in Europe. Taste test confirms. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +39,6 @@
       "sha256": "60eec0c2e05b5d829333d3b1b3529dbe6ad45777398c60d361ec1443034bf2d1"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:10.666773"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

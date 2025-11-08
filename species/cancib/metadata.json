@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus cibarius",
   "common_name": "Cantharellus cibarius",
   "edibility": "E",
-  "description": "Cantharellus cibarius (Cantharellus cibarius) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Golden Chanterelle has a golden-yellow to egg-yolk colored cap 2-12 cm wide with an irregular, wavy margin that becomes funnel-shaped with age. The underside features thick, blunt, forked ridges (NOT true gills) that run down the stem and are the same golden color as the cap. The stem is solid, 2-8 cm tall, tapering downward, and white to pale yellow. The flesh is firm, white to pale yellow, and emits a distinctive fruity apricot-like odor. Spore print is pale yellow to cream.",
+  "habitat": "Mycorrhizal with various tree species including oak, beech, birch, pine, spruce, and fir. Found in both coniferous and mixed hardwood forests, typically on well-drained slopes or mossy areas. Often fruits in the same locations year after year.",
+  "season": "Summer through fall (June-November in North America, July-December in Europe). Peak fruiting occurs after heavy summer or fall rains, with timing varying by latitude and elevation.",
   "regions": [
-    "North America"
+    "Northern and Central Europe",
+    "Northeastern North America",
+    "Great Lakes region",
+    "Pacific Northwest",
+    "Northern Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Jack-O'-Lantern (Omphalotus olearius/illudens) - TOXIC, has true sharp-edged gills, grows on wood, glows in the dark",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more orange color",
+    "Other Cantharellus species - All edible, similar appearance and preparation"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the most prized wild mushrooms with excellent flavor and firm texture. The key to safe identification is examining the underside - chanterelles have thick, blunt, forked ridges that are difficult to separate from the cap, while toxic Jack-O'-Lanterns have thin, sharp-edged true gills. Chanterelles grow from soil (mycorrhizal), never on wood. Some people experience mild digestive upset; try a small amount first. Excellent sautéed in butter with their natural peppery, fruity flavor.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "4f70a6f6b01279635a5685f9fc69eaab4fd42f22caa6f5543498006d662ba7e5"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:28.014452"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

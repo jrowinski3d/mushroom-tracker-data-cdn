@@ -1,18 +1,25 @@
 {
   "mushroom_id": "hercor",
   "scientific_name": "Hericium coralloides",
-  "common_name": "Hericium coralloides",
+  "common_name": "Coral Tooth",
   "edibility": "E",
-  "description": "Hericium coralloides (Hericium coralloides) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Coral Tooth has a white, extensively BRANCHED coral-like structure (10-30 cm wide) with numerous thin, delicate branches that repeatedly subdivide. The spines (0.5-1.5 cm long) grow ALL AROUND the branches in tufts or clusters, not just on undersides - creating a fuzzy, bristly appearance on all branch surfaces. Branches are slender, round in cross-section, intricately divided. The entire structure is white when fresh, yellowing with age. Flesh is white, tender, with mild taste. Distinguished by its highly branched coral-like form with spines completely encircling branches.",
+  "habitat": "Saprobic on hardwood trees, especially oak, beech, maple, and birch. Grows on dead logs, standing dead trees, and stumps. Typically fruits from well-decayed wood. Not mycorrhizal. Usually appears singly on a log or tree.",
+  "season": "Late summer through fall (August-October), occasionally into early winter in mild climates.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Midwest",
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Canada",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hericium americanum (Bear's Head) - spines only on branch undersides, thicker branches",
+    "Hericium erinaceus (Lion's Mane) - unbranched globular mass",
+    "Hericium abietis - grows on conifers, less extensively branched"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent mild, sweet flavor similar to other Hericium species. The distinctive white coral-like branching with spines all around branches makes misidentification unlikely. No toxic lookalikes exist. Best when fresh and pure white - yellowing indicates age but is still edible. Clean gently to remove debris from intricate branches and spines.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "d2c6ed06d552240b64a0f9e3052ce002878adb57269b21d7609b28072c051234"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:54.309816"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,25 @@
   "scientific_name": "Leccinum scabrum",
   "common_name": "Leccinum scabrum",
   "edibility": "E",
-  "description": "Leccinum scabrum (Leccinum scabrum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Birch Bolete displays a gray-brown to tan-brown cap (4-15 cm) with smooth to slightly wrinkled surface, sometimes becoming cracked with age. Pores are white when young, becoming dingy gray-brown, bruising slightly brownish. The whitish stem is covered with black to dark brown scabers (rough scales). White flesh does not change color or may show slight pinkish tinge when cut. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal exclusively with birch trees (Betula species) in mixed northern forests. Forms obligate associations with birches. Found in birch groves, mixed birch-conifer forests, and riparian areas with paper birch.",
+  "season": "Summer through fall (June-October) with peak fruiting in July-September. Common in late summer in northern birch forests.",
   "regions": [
-    "North America"
+    "Northern United States",
+    "Alaska",
+    "Canada",
+    "Great Lakes region",
+    "Northeastern forests",
+    "Pacific Northwest birch stands",
+    "Rocky Mountain birch zones"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Leccinum species - different cap colors and tree associations",
+    "Boletus species - lack the characteristic scabrous stem",
+    "Leccinum holopus - paler colors, also with birch",
+    "Tylopilus species - some have scabers but different pore colors"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Birch Bolete is a good edible with mild flavor and somewhat soft texture when mature. Must be cooked thoroughly - never eat raw. Best when young and firm. The obligate birch association and scabrous stem are diagnostic. Some people may experience mild digestive upset.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "8e7a4bebc027d8c8e72afac8c632f8b542311af4fbc5451a4f10f10ab6d20559"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:37.865472"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

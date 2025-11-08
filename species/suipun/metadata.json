@@ -3,16 +3,25 @@
   "scientific_name": "Suillus pungens",
   "common_name": "Suillus pungens",
   "edibility": "E",
-  "description": "Suillus pungens (Suillus pungens) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Pungent Slippery Jack features a brown to cinnamon-brown cap (5-12 cm) with very slimy, glutinous surface when wet. Pores are yellow to olive-yellow with angular shape. The yellow to brownish stem has brownish to reddish glandular dots and lacks a ring. Yellow flesh may stain pinkish-brown. Often has a distinctive aromatic or turpentine-like odor - hence the name. Spore print is cinnamon-brown.",
+  "habitat": "Mycorrhizal exclusively with Douglas fir in Pacific Northwest forests. Forms obligate associations with Douglas fir. Found in pure Douglas fir stands and mixed conifer forests where Douglas fir is dominant.",
+  "season": "Fall (September-November) with peak fruiting in October. Appears after autumn rains in Douglas fir habitats.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Oregon",
+    "Washington",
+    "Northern California",
+    "British Columbia",
+    "Vancouver Island",
+    "Coastal Douglas fir forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Suillus lakei - brighter orange colors, also with Douglas fir",
+    "Other Suillus species - different tree associations",
+    "Boletus species - not viscid, different appearance",
+    "Leccinum species - have scabrous stems not glandular dots"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Pungent Slippery Jack is edible with firm texture but distinctive aromatic odor that may be off-putting to some. Remove the slimy cap cuticle before cooking. The Douglas fir association and occasional pungent smell are distinctive. Some people experience digestive upset. Always cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "199566d60bf0a48ca1b044f01e1d3ba443ec6a4da8292df70020401db9c101b5"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:40.403339"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

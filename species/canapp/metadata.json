@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus appalachiensis",
   "common_name": "Cantharellus appalachiensis",
   "edibility": "E",
-  "description": "Cantharellus appalachiensis (Cantharellus appalachiensis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Appalachian Chanterelle has a golden-yellow to bright orange-yellow cap 3-12 cm wide with a smooth to slightly wrinkled surface. The cap becomes funnel-shaped with age and has wavy, irregular margins. The underside features well-defined, thick, blunt, forked ridges (NOT true gills) that are bright yellow to orange-yellow, widely spaced, and prominently run down the stem. The ridges are more pronounced than C. lateritius but similar to C. cibarius. The stem is solid, firm, 3-9 cm tall, yellow to orange-yellow, often club-shaped. Flesh is white to pale yellow, firm, with a fruity apricot aroma. Spore print is pale yellow to cream.",
+  "habitat": "Mycorrhizal with eastern hardwoods, particularly white oak, red oak, American beech, hickory, and tulip poplar. Found in mature mixed hardwood forests throughout the Appalachian region. Prefers well-drained mountain slopes, coves, and ridges with thick leaf litter and acidic soils.",
+  "season": "Summer through fall (June-October), with peak fruiting July-September. Often fruits prolifically after warm summer rains. Can produce multiple flushes throughout the season with adequate moisture.",
   "regions": [
-    "North America"
+    "Appalachian Mountains (Georgia to Maine)",
+    "Mid-Atlantic states (Virginia, West Virginia, Maryland)",
+    "Tennessee and North Carolina mountains",
+    "Pennsylvania and New York",
+    "Southern Ohio and Kentucky"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Jack-O'-Lantern (Omphalotus illudens) - TOXIC, has true sharp-edged gills, grows on wood or buried wood, glows in dark",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more intensely orange",
+    "Cantharellus cibarius - Edible, very similar, found in more northern regions, essentially identical in appearance"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The Appalachian Chanterelle is one of the most prized wild mushrooms in eastern North America, highly sought after for its excellent flavor and firm texture. Critical identification feature is the thick, blunt, forked ridges that feel waxy and are fused to the cap, versus the thin, knife-like true gills of the toxic Jack-O'-Lantern. Always verify it grows from soil near trees, never on wood. Has a delightful fruity, peppery flavor; excellent sautéed, in soups, or preserved by drying. Some individuals may experience mild digestive upset.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "0d643f4fa701f4b4b45e1ee889956eb3e6793e82ea4fb063547d712c44fbbd9b"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:30.479776"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Boletus rubriceps",
   "common_name": "Boletus rubriceps",
   "edibility": "E",
-  "description": "Boletus rubriceps (Boletus rubriceps) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Red-capped Bolete features a distinctive red to rose-red cap (7-20 cm) with smooth to slightly wrinkled surface. Pores are yellow from young age, aging to olive-yellow, with no bruising or slight yellowing. The yellow to pale yellow stem displays yellow reticulation and may show reddish tones toward base. Yellow flesh does not change color when cut or shows minimal yellowing. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with hardwoods, particularly oak and sometimes chestnut, in mixed deciduous forests. Prefers warm climates and well-drained soils. Found in oak woodlands and riparian areas.",
+  "season": "Summer through fall (July-October) with peak fruiting in August-September. Fruits during warm, humid weather following rainfall.",
   "regions": [
-    "North America"
+    "Southwestern United States",
+    "California",
+    "Arizona",
+    "New Mexico",
+    "Southern Rocky Mountains",
+    "Oak woodlands of the West"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis - white/tan cap, different habitat",
+    "Other red-capped boletes - various species, mostly edible",
+    "Boletus sensibilis - bruises blue strongly",
+    "Tylopilus species - pink pores in bitter species"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Red-capped Bolete is a good edible with firm texture and mild flavor, though not as highly prized as B. edulis. The bright red cap and association with oaks in warm climates are distinctive features. Cook thoroughly before eating. Some people may experience mild digestive upset.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "c7f4f683ae2f39eecd269be79c77e4a0d6a6af8b0bbdeba64757e9b57c4bff27"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:35.025964"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,25 @@
   "scientific_name": "Leccinum insigne",
   "common_name": "Leccinum insigne",
   "edibility": "E",
-  "description": "Leccinum insigne (Leccinum insigne) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Aspen Scaber Stalk displays an orange-red to brick-red cap (5-18 cm) with dry, slightly velvety texture. Pores are white when young, aging to dingy gray-brown, bruising brownish. The white to yellowish stem is densely covered with orange-brown to reddish-brown scabers (rough scales). White flesh stains pinkish to wine-red when cut, eventually darkening to purple-gray or black. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal exclusively with aspen trees (Populus tremuloides) in montane and subalpine forests. Forms obligate associations with quaking aspen. Common in aspen groves at higher elevations.",
+  "season": "Summer through fall (July-September) with peak fruiting in August at higher elevations. Appears after monsoon rains in mountain aspen forests.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Colorado high country",
+    "New Mexico mountains",
+    "Arizona high elevations",
+    "Utah aspen forests",
+    "Wyoming",
+    "Western montane regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Leccinum aurantiacum - similar appearance, also with aspen",
+    "Other Leccinum species - stem scabers are distinctive",
+    "Boletus species - lack rough stem scales",
+    "Suillus species - viscid cap, different habitat"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Aspen Scaber Stalk is a good edible with firm texture. Must be cooked thoroughly for at least 20 minutes - undercooked specimens can cause digestive upset. The dramatic flesh color changes are normal and safe. Most common in southwestern mountain aspen forests.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "69ea5eb95fedcbc3f5687115b45c15b6a0aeecec49bb7d9b07cd713c5badb4cf"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:37.127918"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Agaricus augustus",
   "common_name": "Agaricus augustus",
   "edibility": "E",
-  "description": "Agaricus augustus (Agaricus augustus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Prince is one of the largest and most impressive Agaricus species with a cap 10-30 cm across. The cap is covered with concentrically arranged golden-brown to ochre fibrillose scales on a white to pale yellow background, giving a distinctly patterned appearance. The gills are free, initially pale gray-pink becoming dark chocolate brown. The stem is 10-25 cm tall, stout, white to pale yellow, with brown fibrillose scales below the large pendant ring. The flesh is white, slowly bruising yellow-brown, with a strong pleasant almond-anise odor. This is one of the most aromatic Agaricus species.",
+  "habitat": "Found in coniferous and mixed forests, particularly under spruce, fir, and pine. Also in urban parks with conifers and landscaped areas with wood chips. Grows terrestrially on the ground or in woody debris, often near stumps. Fruits scattered to gregarious. Prefers cool temperate forests.",
+  "season": "Late summer through fall (August-November) in most regions. In the Pacific Northwest and California, may fruit in late fall and winter (November-January). Peak fruiting occurs in early fall. Requires cool temperatures and moisture.",
   "regions": [
-    "North America"
+    "Europe (native, widespread)",
+    "Pacific Northwest (common)",
+    "Northern California (occasional)",
+    "Eastern North America (uncommon)",
+    "Rocky Mountains (occasional)",
+    "Cool temperate coniferous forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Agaricus silvicola (edible) - smaller, white cap, woodland but less scaly",
+    "Agaricus moelleri (toxic) - yellows intensely, phenolic odor instead of pleasant anise",
+    "Agaricus praeclaresquamosus (edible) - very similar, flatter scales, western North America",
+    "Large Amanita species (some deadly) - have a volva at base which Agaricus lacks"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Considered one of the finest edible mushrooms with exceptional flavor and firm texture. Highly prized by foragers. Cook thoroughly. Critical identification: verify pleasant ALMOND-ANISE odor (very strong), brown fibrillose scales on cap, FREE gills turning chocolate brown, large pendant ring, CHOCOLATE BROWN spore print, NO volva at base. Avoid any specimens with strong phenolic or chemical odor. The large size and distinctive scaly appearance make this easier to identify than many Agaricus. Excellent sautéed or in soups.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "7333e10890823e02c69a8ccac4470feba35fa843ffbcb98dc79e8a1dd424dfad"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:02.258463"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

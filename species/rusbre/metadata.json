@@ -1,18 +1,23 @@
 {
   "mushroom_id": "rusbre",
   "scientific_name": "Russula brevipes",
-  "common_name": "Russula brevipes",
+  "common_name": "Short-stemmed Russula",
   "edibility": "E",
-  "description": "Russula brevipes (Russula brevipes) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Short-stemmed Russula has white cap (5-20 cm), becoming funnel-shaped. Gills white, crowded. Stem short, thick, white. KEY: BRITTLE CHALKY FLESH (snaps like chalk), NO LATEX. Large white mushroom. Often partially buried. Flesh white. Spore print white. Mild to slightly acrid taste.",
+  "habitat": "Mycorrhizal with CONIFERS in western North America, especially pine, fir, Douglas fir. Grows on ground, often partially buried. Common in Pacific Northwest forests. Scattered or groups.",
+  "season": "Fall (September-November), fruiting after rains.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California",
+    "Rocky Mountains",
+    "British Columbia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Russula cascadensis - similar white Russula",
+    "Lactarius species - have LATEX",
+    "White Amanitas - have volva"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Mild flavor when cooked. BRITTLE FLESH + NO LATEX distinguishes from Lactarius. Large size. Taste test (nibble and spit) - mild specimens edible, acrid ones inedible. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "05b48730e8c844ff2516b290e6be0217096360c670b60ba6c9feda8b36789d5b"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:09.755695"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

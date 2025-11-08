@@ -3,16 +3,23 @@
   "scientific_name": "Clitocybe nebularis",
   "common_name": "Clitocybe nebularis",
   "edibility": "E",
-  "description": "Clitocybe nebularis (Clitocybe nebularis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Clouded Clitocybe or Cloudy Funnel is a large robust mushroom with a cap 8-20 cm across, initially convex with inrolled margin becoming flat to funnel-shaped with age. The cap is grayish-brown, gray-tan, or clouded gray (like a cloudy sky), often with darker and lighter zones giving a streaky appearance. The surface is smooth, dry to greasy. The gills are adnate to slightly decurrent, crowded, white to cream. The stem is 6-12 cm tall, stout, pale gray to buff, fibrous. The flesh is thick, white, with a strong sweet floral or sickly-sweet odor (not always pleasant).",
+  "habitat": "Found in deciduous and coniferous forests, woodland edges, and leaf litter. Grows as a litter decomposer in rich humus. Fruits scattered to gregarious, often in large troops or fairy rings. Prefers areas with abundant organic matter and deep leaf litter.",
+  "season": "Late summer through fall and early winter (September-December). Fruits into winter in mild climates. One of the late-season mushrooms appearing after frosts. Peak in late fall (October-November).",
   "regions": [
-    "North America"
+    "Europe (very common)",
+    "Eastern North America (common)",
+    "Pacific Northwest (common)",
+    "Temperate forests worldwide",
+    "Cosmopolitan in leaf litter"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Clitocybe species (some deadly) - many similar gray-brown species, some toxic",
+    "Entoloma sinuatum (toxic) - similar size and colors but pink spores and no sweet odor",
+    "Lepista species - purple-toned, pink spores",
+    "Hygrophorus species - waxy gills, different habitat"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE BUT CAUTION: Considered edible by some but CAUSES DIGESTIVE UPSET in many people and is NOT RECOMMENDED. Can cause nausea, vomiting, and diarrhea even when properly cooked. Some sources consider it suspect or inedible. The risk of confusion with toxic Clitocybe species is high. The strong sweet odor is distinctive but not always pleasant. Even if correctly identified, many people cannot tolerate it. Better edibles exist. If attempting, cook thoroughly, try tiny amounts first, and prepare for possible upset. The clouded gray-brown cap and sweet odor are diagnostic. NOT recommended due to widespread reports of illness and confusion risks.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "69e102213907378df2fda9a002305293be980dd54056e379244b879f45102cd4"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:28.726089"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

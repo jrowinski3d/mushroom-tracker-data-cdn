@@ -3,16 +3,24 @@
   "scientific_name": "Boletus variipes",
   "common_name": "Boletus variipes",
   "edibility": "E",
-  "description": "Boletus variipes (Boletus variipes) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Two-colored Bolete features a reddish to pinkish-brown cap (5-15 cm) with smooth to wrinkled surface. Pores are yellow, instantly bruising blue when touched - a dramatic reaction. The yellow stem with reddish base displays reticulation and bruises blue-green. Yellow flesh immediately stains deep blue when cut, one of the most dramatic bluing reactions among boletes. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with oak, beech, and other hardwoods in mixed deciduous forests. Prefers acidic soils and well-established forest systems. Common in mature hardwood stands.",
+  "season": "Summer through fall (June-October) with peak fruiting in late summer. Fruits during warm, humid periods following rainfall.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Northeastern United States",
+    "Appalachian region",
+    "Great Lakes states",
+    "Mid-Atlantic forests",
+    "Southeastern hardwood forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis - no bluing, white pores, different cap color",
+    "Boletus subcaerulescens - less dramatic bluing reaction",
+    "Tylopilus felleus - pink pores, no bluing, bitter",
+    "Boletus sensibilis - extreme bluing, different stature"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Two-colored Bolete is a good edible with mild flavor and firm texture. The dramatic blue-staining reaction is completely normal and safe - it does NOT indicate toxicity. Some people may experience digestive upset. The striking bluing and two-toned stem (yellow/red) are diagnostic features. Always cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "9bde5a00569a0816e84d2e6e7c730e34c3f0f32eccfa1aba485d7f683ae35a00"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:34.578244"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

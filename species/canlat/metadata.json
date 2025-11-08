@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus lateritius",
   "common_name": "Cantharellus lateritius",
   "edibility": "E",
-  "description": "Cantharellus lateritius (Cantharellus lateritius) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Smooth Chanterelle has an orange to pinkish-orange or salmon-colored cap 2-10 cm wide with a notably smooth surface. The cap margin is wavy and becomes shallowly funnel-shaped with age. The underside features blunt, shallow, forked ridges (NOT true gills) that are pinkish-orange, well-spaced, and run down the stem. The ridges are less pronounced than in other chanterelles, sometimes barely visible. The stem is solid, 3-8 cm tall, smooth, orange to pinkish, often darker orange at the base. Flesh is white to pale orange, firm, with a mild odor. Spore print is white to pale pinkish.",
+  "habitat": "Mycorrhizal with eastern hardwoods, particularly oak (Quercus species), American beech, and hickory. Found in mature deciduous forests, often on well-drained slopes and ridges. Prefers areas with thick leaf litter and acidic soils in mixed hardwood forests.",
+  "season": "Summer (June-September), fruiting during warm, humid weather after summer rains. Peak season is typically July-August in most of its range. Can continue into early fall with adequate moisture.",
   "regions": [
-    "North America"
+    "Eastern United States (widespread)",
+    "Southeastern states (Alabama to Georgia)",
+    "Mid-Atlantic region (Virginia to Maryland)",
+    "Ohio River Valley",
+    "Appalachian region"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Jack-O'-Lantern (Omphalotus illudens) - TOXIC, has true sharp-edged gills, grows on wood, more intensely orange, glows in dark",
+    "Cantharellus cinnabarinus - Edible, deeper red-orange color, smaller, otherwise very similar",
+    "Cantharellus appalachiensis - Edible, yellow-orange, more pronounced ridges, often found in same habitat"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The Smooth Chanterelle is a good edible mushroom with mild flavor. The key safety feature is identifying the blunt, shallow ridges rather than true gills - though the ridges are less pronounced than other chanterelles, they still feel waxy and are fused to the cap. Always confirm it grows from soil near trees, never on wood. The smooth cap surface and pinkish-orange color help distinguish it from the toxic Jack-O'-Lantern. Flavor is mild and pleasant; best sautéed or used in mixed mushroom dishes.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "cd03168f86a655c67f8d6caf255feaa08ecf9c6b8baf7645836380b32b7893c5"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:29.705718"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

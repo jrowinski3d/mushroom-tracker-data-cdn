@@ -3,16 +3,24 @@
   "scientific_name": "Leucoagaricus leucothites",
   "common_name": "Leucoagaricus leucothites",
   "edibility": "E",
-  "description": "Leucoagaricus leucothites (Leucoagaricus leucothites) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Smooth Parasol is a small to medium white mushroom with a cap 4-10 cm across, initially rounded becoming broadly convex to nearly flat with age. The cap is entirely white to cream, smooth and silky without scales (key feature distinguishing it from Chlorophyllum species). The flesh is white and does not change color when cut. The gills are free, white becoming pinkish with age, close to crowded. The stem is 5-12 cm tall, smooth, white, with a thin fragile white ring that often disappears with age, and a slightly enlarged base.",
+  "habitat": "Found in grassy areas including lawns, parks, gardens, golf courses, pastures, and grassy woodland edges. Prefers nutrient-rich soil in maintained or disturbed areas with regular moisture. Grows terrestrially, often in areas with organic fertilizer or compost. Fruits scattered to gregarious, sometimes in arcs or fairy rings.",
+  "season": "Late spring through fall (May-November) in temperate regions. In warm climates like California and the South, may fruit year-round with peaks after rains. Most abundant in summer and early fall during warm humid weather.",
   "regions": [
-    "North America"
+    "Eastern North America (common)",
+    "California and West Coast",
+    "Southern United States",
+    "Pacific Northwest (occasional)",
+    "Europe (widespread)",
+    "Temperate grasslands worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Agaricus species (edible) - pink to brown gills, chocolate-brown spores, often anise odor",
+    "Leucoagaricus naucinus (edible) - very similar, gray-brown cap center when mature",
+    "Chlorophyllum molybdites (toxic) - develops green spores, larger, may have subtle scales",
+    "Amanita species (deadly) - have a volva (cup) at stem base which Leucoagaricus lacks"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible and collected by some foragers, but NOT RECOMMENDED for beginners due to serious confusion risks. The completely smooth white cap and lack of a volva distinguish it from deadly Amanitas, but identification requires experience. Verify: NO volva at base, FREE white gills that may pink slightly with age, WHITE spore print (not green), smooth cap without scales. There are reports of gastrointestinal upset in some individuals. The risk of confusing this with deadly white Amanitas or toxic Chlorophyllum molybdites makes this a risky choice. Many field guides advise against collecting white mushrooms from lawns.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "072a1c980d4fc308dfdeeb9f1d060891f6113ac231af9c9d9cefb66fd73d83c5"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:00.421831"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

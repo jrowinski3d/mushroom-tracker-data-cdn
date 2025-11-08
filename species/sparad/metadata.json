@@ -3,16 +3,23 @@
   "scientific_name": "Sparassis radicata",
   "common_name": "Sparassis radicata",
   "edibility": "E",
-  "description": "Sparassis radicata (Sparassis radicata) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Rooting Cauliflower is similar to S. crispa, forming cream to golden-yellow masses 10-30 cm across resembling cauliflower. The fruitbody consists of numerous thin frilled wavy lobes or flattened branches from a central base. Color is typically brighter yellow to golden-yellow than S. crispa. The texture is crisp when fresh. The base has a distinct rooting structure (radicating base) that extends deep into the soil to reach buried hardwood roots. The lobes are densely crisped and packed.",
+  "habitat": "Found at the base of hardwood trees, particularly oak, rarely on conifers. Grows as a root parasite on living trees or from buried roots of dead hardwoods. The rooting base extends deep to reach roots. Fruits at tree bases, appearing to emerge from the ground. Prefers mature hardwood forests.",
+  "season": "Late summer through fall (August-November) in most regions. Peak fruiting in fall. Can return to the same location for multiple years. Requires warm summer followed by fall rains.",
   "regions": [
-    "North America"
+    "Eastern North America (uncommon)",
+    "Europe (widespread but uncommon)",
+    "Temperate hardwood forests",
+    "Oak forests",
+    "Less common than S. crispa overall"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Sparassis crispa (edible) - very similar but on conifers, paler colored",
+    "Sparassis spathulata (edible) - western species, similar appearance",
+    "Hen of the Woods Grifola (edible) - gray-brown rosettes, different texture",
+    "No toxic lookalikes"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent edible mushroom with flavor and texture similar to S. crispa. Highly prized where found. The crisp texture and mild flavor are outstanding. Excellent in various dishes. Clean very thoroughly as the structure traps debris. Best when fresh and pale colored. Older specimens become tough. Cook thoroughly. The appearance is distinctive with no dangerous lookalikes. Uncommon but worth seeking. The rooting base (radicating) and association with hardwoods (especially oak) distinguish from S. crispa on conifers. Returns to same locations when conditions are right.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "6cd4eb6fcfc3e41a5c6b91f561a2396b6d38cef36f550bd9a10a4c641ca84782"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:21.316659"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

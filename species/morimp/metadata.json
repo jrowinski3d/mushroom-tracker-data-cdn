@@ -3,16 +3,23 @@
   "scientific_name": "Morchella importuna",
   "common_name": "Morchella importuna",
   "edibility": "E",
-  "description": "Morchella importuna (Morchella importuna) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Fruiting body 6-20 cm (2.4-8 in) high overall. Cap 3-15 cm (1.2-6 in) tall, 2-9 cm wide at widest point, conical to widely conical or occasionally egg-shaped, with distinctive ladder-like honeycomb pattern featuring 12-20 prominent primary vertical ridges intersected by numerous horizontal ridges creating rectangular pits. Color typically darker than yellow morels, ranging from tan to brown to grayish-brown. Stem hollow, proportional to cap. Completely hollow when sectioned. Spore print cream.",
+  "habitat": "Distinctive urban and landscape morel found in wood chip mulch beds, gardens, fire pits, planters, landscaped areas, and disturbed ground in residential and commercial settings. Unlike most morels which are mycorrhizal, M. importuna is largely saprotrophic (decomposes wood chips and organic matter independently). Strongly associated with fresh wood chip mulch in ornamental plantings, parks, and urban green spaces. Rarely found in natural forest settings.",
+  "season": "Spring (March-May in most regions, timing varies with local climate). In California and Pacific Northwest can fruit February-April. Emergence often triggered by moisture following wood chip application in previous season. May fruit in same mulched locations for multiple consecutive years.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California",
+    "Midwest",
+    "Northeast",
+    "Mid-Atlantic"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "False Morel (Gyromitra species) - TOXIC: brain-like lobed cap instead of ladder-like ridges, cap attached only at top of stem, chambered interior, reddish-brown color. Deadly toxic even when cooked.",
+    "Other black morels (Morchella elata group) - Edible: similar appearance but typically in natural forest settings rather than landscape mulch, difficult to distinguish visually, all edible with proper cooking.",
+    "Half-Free Morel (Morchella punctipes) - Edible: cap attached halfway down stem creating skirt, rather than fully attached along length.",
+    "Morchella tomentosa - Edible: fuzzy/hairy texture when young especially at stem base, found in post-fire conifer sites vs. urban landscapes."
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized culinary mushroom, now commercially cultivated in Asia producing hundreds of tons annually. Must be thoroughly cooked for 15-25 minutes minimum; raw or undercooked morels contain hydrazine toxins causing severe nausea, vomiting, and gastric upset. Cook at temperatures above 160°F (71°C) to destroy toxic compounds. Some individuals experience allergic reactions even when properly cooked; try small portions initially. Avoid consuming with alcohol due to rare documented adverse interactions. Ensure proper identification to distinguish from deadly false morels (Gyromitra) which have brain-like wrinkled caps. When foraging from landscape mulch, verify no pesticides or herbicides were applied to area.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "788ee443df988d03a975784a7e4493e160afd271619e90d83e1011258704f823"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:26.289915"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000"
 }

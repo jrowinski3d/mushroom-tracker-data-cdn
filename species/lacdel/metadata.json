@@ -1,18 +1,25 @@
 {
   "mushroom_id": "lacdel",
   "scientific_name": "Lactarius deliciosus",
-  "common_name": "Lactarius deliciosus",
+  "common_name": "Saffron Milk Cap",
   "edibility": "E",
-  "description": "Lactarius deliciosus (Lactarius deliciosus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Saffron Milk Cap has an orange cap (4-14 cm) with concentric zones of darker orange, often with greenish stains when old or bruised. The cap is convex to funnel-shaped with an inrolled margin when young. Gills are orange, crowded, decurrent, staining green. The stem is orange with darker orange pits or scrobiculations. The KEY FEATURE is the ORANGE TO CARROT-ORANGE LATEX (milk) that exudes when cut - this latex slowly stains green. Flesh is white to pale orange. Spore print is pale cream. The bright orange milk is diagnostic.",
+  "habitat": "Mycorrhizal with PINE (Pinus species), especially exotic planted pines. Grows on the ground under pine trees in plantations, parks, and ornamental plantings. Often found under Mediterranean stone pines and other introduced pines. Prefers sandy soils.",
+  "season": "Fall (September-December), fruiting after rains. In mild climates may fruit into winter.",
   "regions": [
-    "North America"
+    "Introduced in North America",
+    "California",
+    "Pacific Northwest",
+    "Europe (native)",
+    "Where pines are planted"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lactarius rubrilacteus - orange but latex is red not carrot-orange",
+    "Lactarius thyinos - similar, latex also orange but different tree host",
+    "Lactarius sanguifluus - latex wine-red",
+    "Russula species - NO LATEX, brittle flesh"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized in Europe, one of the best Lactarius species. The ORANGE LATEX that stains green is diagnostic. Mild, pleasant flavor. Best when young and firm. The mushroom itself may stain green when cooked or preserved - this is normal and safe. Some individuals may experience mild digestive upset. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "ffc9822fd7d75f11622408b47847ee3ded0ae1f040c9a529ef5c971535109240"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:04.364352"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000"
 }

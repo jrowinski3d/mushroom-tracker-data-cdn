@@ -3,16 +3,23 @@
   "scientific_name": "Pleurotus pulmonarius",
   "common_name": "Pleurotus pulmonarius",
   "edibility": "E",
-  "description": "Pleurotus pulmonarius (Pleurotus pulmonarius) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Fan to oyster-shaped caps 2-8 inches wide, white to pale cream or light tan. Smooth surface with decurrent white gills and lateral to absent stem. Very similar to P. ostreatus but generally paler in color and fruits during warmer months. Grows in dense overlapping clusters on hardwood. White spore print.",
+  "habitat": "Saprobic on dead and dying hardwood trees, logs, and stumps, particularly oak, beech, maple, elm, and other deciduous trees. Forms dense overlapping shelves from wood. Common on standing dead trees and fallen logs in hardwood and mixed forests.",
+  "season": "Late spring through early fall, with peak fruiting in June-August during warm weather. Warm-weather counterpart to P. ostreatus. Fruits when temperatures are above 60°F (15°C).",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest and Great Plains",
+    "Southern United States",
+    "Pacific coast",
+    "Temperate regions worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Pleurotus ostreatus (nearly identical, darker, fall-winter fruiting)",
+    "Angel wings (Pleurocybella porrigens) - toxic, smaller, pure white, on conifers",
+    "Elm oyster (Hypsizygus ulmarius) - more pronounced central stem",
+    "Crepidotus species - brown spores, smaller, thinner flesh"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent edible mushroom with mild, pleasant flavor similar to P. ostreatus. One of the most commonly cultivated species worldwide. Cook thoroughly before eating. Wild specimens are safe when properly identified. The summer fruiting season helps distinguish it from the similar P. ostreatus. Widely cultivated for commercial sale.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "5fb260ca9843e36cc986b17d7ce952eebf4de6a6ded63fb10206454b3d031d1e"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:42.551648"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

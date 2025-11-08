@@ -3,16 +3,23 @@
   "scientific_name": "Craterellus cornucopioides",
   "common_name": "Black Trumpet",
   "edibility": "E",
-  "description": "Black Trumpet (Craterellus cornucopioides) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Black Trumpet (Horn of Plenty) has a distinctive dark gray to black, deeply funnel-shaped or trumpet-shaped fruitbody 3-12 cm tall and 2-8 cm wide at the top. The cap is wavy and irregular with a thin, uplifted margin. The inner surface is dark gray to black, smooth or slightly scaly. The outer (spore-bearing) surface is smooth to slightly wrinkled, gray to brownish-gray, with NO ridges or gills. The entire fruitbody is hollow from top to bottom like a trumpet. Flesh is thin, brittle when dry, elastic when fresh, dark gray. Spore print is white to pale cream.",
+  "habitat": "Mycorrhizal with hardwood trees, particularly American beech, oak, and birch. Found in mature deciduous forests, often in mossy areas or near streams. Grows scattered or in large troops on the forest floor, often camouflaged among leaf litter. Prefers rich, moist soils.",
+  "season": "Summer through fall (July-November), with peak fruiting August-October in most regions. Often fruits in the same locations year after year. Can be abundant after periods of rain.",
   "regions": [
-    "North America"
+    "Eastern North America (widespread)",
+    "Northeastern United States",
+    "Appalachian region",
+    "Great Lakes region",
+    "Pacific Northwest (less common)",
+    "Europe (also present)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Craterellus fallax - Edible, very similar but more brownish, found in different regions, essentially same use",
+    "Craterellus foetidus - Edible, similar but with foul odor when dried, otherwise almost identical",
+    "Urnula craterium (Devil's Urn) - Not edible, cup-shaped not trumpet-shaped, grows on wood, rubbery texture"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The Black Trumpet is one of the most highly prized wild mushrooms, famous for its rich, smoky flavor. Despite its dark appearance, it is completely safe and delicious. The distinctive trumpet shape, hollow interior, and lack of gills or ridges make it relatively easy to identify once you know what to look for. However, the dark color makes them very difficult to spot on the forest floor - they blend in with leaf litter and shadows. Excellent fresh or dried; drying intensifies the flavor. No toxic lookalikes exist. Some people find them slightly indigestible; cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "be4937b4a1cd90402f0de8d14e52cb4fc9ad901538092f2b51f3892e0da41d82"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:32.497263"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

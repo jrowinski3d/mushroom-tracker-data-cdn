@@ -3,16 +3,24 @@
   "scientific_name": "Lycoperdon pyriforme",
   "common_name": "Lycoperdon pyriforme",
   "edibility": "E",
-  "description": "Lycoperdon pyriforme (Lycoperdon pyriforme) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Small pear-shaped puffballs 1-2 inches tall, 0.75-1.5 inches wide, with smooth to minutely granular surface, lacking spines. White to tan to brown with age. Grows in dense clusters connected by white mycelial strands (rhizomorphs). Interior pure white when edible, turning olive-yellow then brown. Distinguished by smooth surface and clustered growth on wood.",
+  "habitat": "Saprobic directly on well-decayed wood including logs, stumps, buried wood, and woody debris. Grows in dense clusters of dozens of fruiting bodies connected at base. Common on rotting hardwood and conifer wood in forests. Often appears to grow from soil but always connected to buried wood.",
+  "season": "Summer through fall, typically July-November. Can appear spring through fall in mild climates. Peak fruiting August-October. One of the latest-fruiting puffballs.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Great Lakes region",
+    "Widespread across North America",
+    "Cosmopolitan distribution worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lycoperdon perlatum (spiny surface, not clustered on wood)",
+    "DEADLY: Immature Amanita buttons (ALWAYS CUT OPEN - will show developing gills/cap inside)",
+    "Other small Lycoperdon species (different habitat, not clustered on wood)",
+    "Young Apioperdon (Lycoperdon) species (different surface texture)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when pure white inside: CRITICAL - ALWAYS cut specimen completely in half from top to bottom before consuming. Edible ONLY if interior is completely pure white and firm throughout. If any yellow, olive, brown, or developing structures visible inside, DO NOT EAT. This prevents consuming toxic lookalikes and immature deadly Amanitas. The clustered growth on wood and white mycelial strands help identification. Cook thoroughly - mild pleasant flavor when young.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "69d292fb21699cee44f79057132cff9d0cf638d5adf550166783c068eb52dfe5"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:46.547560"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

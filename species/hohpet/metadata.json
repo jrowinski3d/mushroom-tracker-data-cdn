@@ -3,16 +3,23 @@
   "scientific_name": "Hohenbuehelia petaloides",
   "common_name": "Hohenbuehelia petaloides",
   "edibility": "E",
-  "description": "Hohenbuehelia petaloides (Hohenbuehelia petaloides) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Small to medium fan or petal-shaped caps 1-4 inches wide, pale gray-brown to tan, often with a gelatinous or slimy cuticle when fresh. Decurrent white to grayish gills and very short lateral stem or no stem. Distinguished by slimy cap surface and nematode-trapping ability. Grows in small overlapping clusters on hardwood.",
+  "habitat": "Saprobic on dead hardwood logs, branches, and stumps, particularly oak, maple, beech, and other deciduous trees. Prefers well-rotted wood. Forms small overlapping clusters. Interesting biology: captures and digests nematodes (roundworms) from wood for supplemental nutrition.",
+  "season": "Spring through fall, with peak fruiting in May-October. Most common in late spring and summer. Fruits during warm, humid weather after rain.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Southeastern United States",
+    "Great Lakes region",
+    "Pacific Northwest",
+    "Widespread in temperate regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Pleurotus ostreatus (larger, no slimy cap, different season)",
+    "Panellus species (similar size but usually on conifers)",
+    "Resupinatus species (much smaller, different texture)",
+    "Crepidotus species (brown spores, no slimy cap)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible but not choice due to small size and gelatinous texture. Some sources report mild flavor similar to oyster mushrooms. Cook thoroughly before eating. The slimy cap cuticle should be removed if eating. Generally not actively sought by foragers due to small size and texture, but safe when properly identified. Better specimens exist in the oyster mushroom group.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "81fc8a77d1759e0311b09456745bb4b66cf4b8d3de9bd47c7ea466e5f08d87cb"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:44.229916"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

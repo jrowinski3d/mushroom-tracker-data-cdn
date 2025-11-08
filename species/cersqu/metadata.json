@@ -3,16 +3,24 @@
   "scientific_name": "Cerioporus squamosus",
   "common_name": "Cerioporus squamosus",
   "edibility": "E",
-  "description": "Cerioporus squamosus (Cerioporus squamosus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Large fan-shaped bracket 4-12 inches wide with distinctive cream to tan surface covered in dark brown overlapping scales resembling pheasant feathers. White to cream large angular pores underneath. Thick, off-center black-brown stem (when growing from vertical surfaces). Strong cucumber or watermelon rind odor. Soft when young, tough with age. Very distinctive scaly pattern.",
+  "habitat": "Saprobic on dead and dying hardwood trees, stumps, and logs, particularly elm, maple, ash, willow, and box elder. Causes white rot. Forms large brackets on trunks, branches, and fallen logs. Common on standing dead elms and other hardwoods in urban and forest settings.",
+  "season": "Spring through summer, typically April-July. Peak fruiting in May-June. One of the earliest large polypores. Short fruiting window - appears rapidly in spring. Can flush again in fall.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest",
+    "Pacific Northwest",
+    "Great Lakes region",
+    "Widespread across North America",
+    "Europe and Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Polyporus species (smaller, different scale pattern)",
+    "Other scaly polypores (different size, host trees)",
+    "Inonotus species (different color, no scales)",
+    "No dangerous lookalikes - very distinctive"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when very young only: Only tender young specimens (under 4 inches) with soft texture are worth eating - they have cucumber-like flavor. Older specimens rapidly become tough and inedible like rubber or leather. Must harvest at button stage for eating. Cook thoroughly. The strong cucumber smell is distinctive. Generally safe but window of edibility is very brief. Most encountered specimens are too old and tough to eat.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "d2f449e8570e864f434ce05a81072a3d2f52db49f2d507865e13ff76c0495dff"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:24.467098"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus californicus",
   "common_name": "Cantharellus californicus",
   "edibility": "E",
-  "description": "Cantharellus californicus (Cantharellus californicus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The California Chanterelle (also called Mud Puppy) has a white to pale cream cap 5-15 cm wide that often stains yellowish-brown or orange-brown, especially when handled or with age. The cap becomes deeply funnel-shaped with maturity and has wavy, irregular margins. The underside features thick, blunt, forked ridges (NOT true gills) that are white to cream, widely spaced, and run down the stem. The stem is solid, stout, 3-10 cm tall, white to cream, often quite robust. Flesh is white, very firm, with a mild to slightly peppery odor. Spore print is white to pale cream.",
+  "habitat": "Mycorrhizal primarily with coast live oak (Quercus agrifolia), also associates with tanoak, madrone, and Douglas fir in mixed coastal forests. Found in oak woodlands, mixed evergreen forests, and the coastal fog belt of California. Prefers well-drained slopes and areas with deep leaf litter.",
+  "season": "Winter rainy season (November-March), fruiting with the onset of winter rains in California. Peak season is typically December-February. Can continue fruiting into early spring if moisture persists. Unlike northern chanterelles, this is primarily a winter mushroom.",
   "regions": [
-    "North America"
+    "California Coast Ranges",
+    "San Francisco Bay Area",
+    "Northern California coastal forests",
+    "Sierra Nevada western foothills",
+    "Southern Oregon (rare)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cantharellus subalbidus - Edible, similar white color, found in Pacific Northwest with conifers, lacks brown staining",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more orange color",
+    "Hygrophorus species - Edible, has true gills that are more widely spaced, different texture"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The California Chanterelle is highly prized and one of the most important commercial wild mushrooms in California. The thick, blunt ridges are the critical identification feature - they feel waxy and cannot be easily separated from the cap, unlike the sharp-edged true gills of lookalikes. The robust, firm texture makes it excellent for cooking; it holds up well to sautéing and has a mild, pleasant flavor. The brown staining when handled is normal. Some people may experience mild digestive upset - start with small portions.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "52dc637c1a89cd90b8a166176011a9685cad6b1a79e3bf11fc4383ba4aea79f6"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:29.287438"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

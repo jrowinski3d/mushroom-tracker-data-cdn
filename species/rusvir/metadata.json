@@ -1,18 +1,21 @@
 {
   "mushroom_id": "rusvir",
   "scientific_name": "Russula virescens",
-  "common_name": "Russula virescens",
+  "common_name": "Green-cracking Russula",
   "edibility": "E",
-  "description": "Russula virescens (Russula virescens) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Green-cracking Russula has green cap (5-12 cm) with distinctive CRACKED or CHECKERED pattern exposing white flesh beneath - very characteristic. Gills white. Stem white, firm. KEY: GREEN CRACKED CAP, BRITTLE FLESH, NO LATEX, MILD TASTE. Flesh white. Spore print white.",
+  "habitat": "Mycorrhizal with hardwoods, especially oak, beech, chestnut. Grows on ground in deciduous forests. European species. Scattered or groups.",
+  "season": "Summer through fall (July-September).",
   "regions": [
-    "North America"
+    "Europe",
+    "Eastern US (possibly introduced)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Russula aeruginea - green but smooth",
+    "Other Russulas",
+    "Lactarius - have LATEX"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent mild, nutty flavor. CRACKED GREEN CAP pattern unmistakable. BRITTLE FLESH + MILD TASTE. Highly prized in Europe. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +40,6 @@
       "sha256": "d60f279b895b6e53ce3ebeb25006c468963e1e5b63c6fd6c606b67e877e604a7"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:11.519784"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

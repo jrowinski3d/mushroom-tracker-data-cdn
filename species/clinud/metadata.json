@@ -3,16 +3,24 @@
   "scientific_name": "Clitocybe nuda",
   "common_name": "Clitocybe nuda",
   "edibility": "E",
-  "description": "Clitocybe nuda (Clitocybe nuda) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "This is the same species as Lepista nuda (Wood Blewit) - the name Clitocybe nuda is a synonym. Cap 5-15 cm across, convex becoming flat, lilac to purple-blue when young, fading to tan with purple tones. The surface is smooth and slightly greasy. The gills are adnate to sinuate, lilac-purple fading to tan. The stem is 4-10 cm tall, stout, purple to lilac with bulbous base. The flesh is pale purple to white with sweet floral fragrance. Pink spore print.",
+  "habitat": "Found in deciduous and mixed forests, woodland edges, hedgerows, parks, gardens, and compost piles. Grows as a leaf litter decomposer in rich organic soil. Fruits scattered to gregarious in large troops or fairy rings. Prefers nitrogen-rich environments.",
+  "season": "Late summer through early winter (September-December). One of the classic late-season mushrooms fruiting after frosts. Peak in late fall (October-November). In mild climates may fruit into January.",
   "regions": [
-    "North America"
+    "Europe (very common)",
+    "Eastern North America (common)",
+    "Pacific Northwest (common)",
+    "California (occasional)",
+    "Temperate regions worldwide",
+    "Widely cultivated"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cortinarius species (some deadly) - rusty brown spores and cobwebby veil",
+    "Laccaria amethystina (edible) - smaller, truly purple, thinner",
+    "Mycena pura (toxic) - smaller, fragile, radish odor",
+    "Young Cortinarius violaceus (edible) - cobwebby veil, rusty spores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Popular edible mushroom but requires proper preparation. CRITICAL: Must be thoroughly cooked - NEVER eat raw or undercooked. Some people have allergic reactions even when cooked. Try small amounts first. Verify PINK SPORE PRINT (not rusty brown). The purple color, attached gills, pink spores, and sweet smell distinguish it from Cortinarius. Popular in Europe and increasingly cultivated. Best sautéed or in stews. Discard fibrous stems.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "d6973f9ba712e464981f6ea5d19f85f44facc4e2a22725e7bfbace9e8827b99b"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:27.978949"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

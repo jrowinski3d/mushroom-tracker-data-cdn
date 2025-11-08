@@ -1,18 +1,24 @@
 {
   "mushroom_id": "herabi",
   "scientific_name": "Hericium abietis",
-  "common_name": "Hericium abietis",
+  "common_name": "Conifer Coral Hedgehog",
   "edibility": "E",
-  "description": "Hericium abietis (Hericium abietis) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Conifer Coral Hedgehog has a white, branched structure (10-25 cm wide) with moderately branched coral-like appearance, distinguished by growing exclusively on CONIFER wood. The branches bear clusters of hanging SPINES (0.5-2 cm long) primarily on lower surfaces but sometimes partially around branches. Branches are white, fleshy, less extensively divided than H. coralloides. The entire fruiting body is white when fresh, yellowing or browning with age. Flesh is white, firm, with mild taste. Distinguished primarily by conifer host and intermediate branching between H. americanum and H. coralloides.",
+  "habitat": "Saprobic on CONIFER wood, especially fir, spruce, hemlock, and pine. Grows on dead logs, standing dead trees, and stumps of conifers. This is the only Hericium species that regularly grows on coniferous trees. Not mycorrhizal. Usually appears singly on a log or tree.",
+  "season": "Late summer through fall (September-November), often later than hardwood Hericium species.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "Northern United States",
+    "Canada",
+    "Northern Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hericium coralloides - grows on hardwoods, more extensively branched",
+    "Hericium americanum - grows on hardwoods, thicker branches",
+    "Climacodon septentrionalis - similar but has larger teeth, different structure"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Good flavor similar to other Hericium species, though sometimes slightly more bitter. The white spiny appearance and exclusive association with conifer wood makes identification straightforward. No toxic lookalikes exist. Best when fresh and pure white - yellowing or browning indicates age. Clean gently to remove conifer debris from spines.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "8df4a3bad659adc85c7166e5684a14c98f94895920a7cda2aca912c464780318"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:54.768836"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

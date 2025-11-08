@@ -1,16 +1,23 @@
 {
   "mushroom_id": "armgal",
   "scientific_name": "Armillaria gallica",
-  "common_name": "Armillaria gallica",
+  "common_name": "Bulbous Honey Mushroom",
   "edibility": "E",
-  "description": "Armillaria gallica (Armillaria gallica) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bulbous Honey Mushroom has a honey-yellow to brown cap (3-10 cm) with small DARK SCALES concentrated at center. Gills are white to cream, attached. The stem has a PERSISTENT RING and distinctive BULBOUS BASE - the swollen base is a key identifying feature distinguishing it from A. mellea. Stem is white above ring, darker below. Grows in DENSE CLUSTERS on wood or near trees. Flesh is white, firm. Spore print is white. Generally LESS AGGRESSIVE as a tree pathogen than A. mellea or A. ostoyae, often saprobic rather than parasitic.",
+  "habitat": "Saprobic and weakly parasitic on hardwoods, occasionally conifers. Grows in clusters at the base of dead trees, stumps, and buried wood. Less aggressive as a pathogen than other Armillaria species. Found on oak, maple, beech, and various hardwoods.",
+  "season": "Late summer through fall (August-November), fruiting after rains.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Midwest",
+    "Northeast",
+    "Pacific Northwest",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Armillaria mellea - lacks bulbous base, more aggressive pathogen",
+    "Other Armillaria species - all require cooking",
+    "Pholiota species - brown spores, different base",
+    "Galerina species - DEADLY - smaller, brown spores"
   ],
   "safety_notes": "EDIBLE WITH CAUTION: Honey mushrooms (Armillaria species) are POISONOUS when raw and must be thoroughly cooked before consumption. Cook for at least 10-15 minutes at high heat. Even when properly cooked, some individuals experience allergic reactions or digestive upset. Try a small amount first to test your tolerance. Parboiling before cooking can help reduce gastrointestinal irritants and bitter taste. Do not consume with alcohol - honey mushrooms can cause adverse reactions when combined with alcohol (similar to Coprinopsis). Collect only young, firm specimens.",
   "images": [
@@ -37,6 +44,6 @@
       "sha256": "7a504c92cd99e106f7e327ed456d959a02915920b376b3f7739c1ef4a6a59a8a"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000"
 }

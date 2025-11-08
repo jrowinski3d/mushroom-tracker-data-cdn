@@ -3,16 +3,24 @@
   "scientific_name": "Xerocomellus zelleri",
   "common_name": "Xerocomellus zelleri",
   "edibility": "E",
-  "description": "Xerocomellus zelleri (Xerocomellus zelleri) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Zeller's Bolete features a distinctive dark brown to blackish cap (4-12 cm) with velvety, dry surface that often cracks with age. Pores are bright yellow when young, bruising blue-green when handled. The yellow stem has no reticulation but may show reddish-brown stains at base. Yellow flesh instantly stains deep blue when cut - a dramatic reaction. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with tanoak, madrone, and Douglas fir in Pacific Coast forests. Prefers mixed hardwood-conifer forests with tanoak or madrone. Found in coastal forests and oak woodlands with evergreen hardwoods.",
+  "season": "Fall through winter (October-February) with peak fruiting in November-December. Late-season fruiting after autumn and winter rains along the coast.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Northern California",
+    "Oregon Coast Range",
+    "California Coast Ranges",
+    "Southern Oregon",
+    "Tanoak and madrone forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus species - most lack the dramatic bluing reaction",
+    "Other Xerocomellus species - different colors or distributions",
+    "Suillus species - viscid caps, different habitat",
+    "The dark velvety cap and strong blue staining are distinctive"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Zeller's Bolete is a good edible with firm texture and mild flavor. The dramatic blue-staining reaction is completely normal and safe. Cook thoroughly before eating. The dark velvety cap, bright yellow pores, and strong bluing distinguish this species. Some people may experience mild digestive upset.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "edbac5849057adacd51bd5de769ad519ca078bb0708a8ad35f58ab9218700777"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:41.261041"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

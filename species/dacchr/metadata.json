@@ -3,16 +3,24 @@
   "scientific_name": "Dacrymyces chrysospermus",
   "common_name": "Dacrymyces chrysospermus",
   "edibility": "E",
-  "description": "Dacrymyces chrysospermus (Dacrymyces chrysospermus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Orange Jelly Spot forms small bright orange to yellow-orange gelatinous blobs or cushions 2-10 mm across (rarely to 15 mm). Individual fruitbodies are button or disc-shaped, sometimes becoming slightly lobed or brain-like. Surface is smooth and shiny. Color is vivid orange to golden-orange when fresh, becoming darker orange and shriveled when dry. Texture is soft-gelatinous, trembling. Often appears in dense clusters creating orange patches on wood. Revives and swells when moistened.",
+  "habitat": "Found on dead conifer wood including logs, stumps, boards, and construction lumber. Particularly common on pine, spruce, and fir. Also appears on worked wood like fence posts and building timbers. Grows as a wood decomposer in forests and on wooden structures. Fruits in dense clusters, often creating orange patches several cm across. Very common on suitable substrates.",
+  "season": "Year-round but most abundant in fall through spring (September-May). In moist climates, can fruit continuously. Peaks in late fall and winter (October-March). Very tolerant of cold and can fruit under snow. Common in winter when few other fungi are active.",
   "regions": [
-    "North America"
+    "Europe (very common)",
+    "North America (widespread, all regions)",
+    "Pacific Northwest (abundant)",
+    "Eastern forests",
+    "Mountain conifer regions",
+    "Worldwide in coniferous forests"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Dacrymyces palmatus (edible) - larger, more brain-like and convoluted",
+    "Tremella mesenterica (edible) - yellow but on hardwoods, more brain-like",
+    "Calocera cornea (edible) - orange but coral-like branching",
+    "Bisporella citrina (not edible) - tiny yellow discs but firm not gelatinous"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but not worthwhile: Technically edible and non-toxic but far too small and bland to be of culinary interest. No flavor and minimal substance. Safe but pointless to collect. No toxic lookalikes. The tiny orange jelly spots on conifer wood are distinctive and extremely common. Often seen in such abundance that dead logs appear orange. More notable as a wood-decay indicator than as food. The bright orange color and occurrence on conifers distinguish it from yellow Tremella on hardwoods.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "839863966225a75f0a4e3f0bbd4b6baf231f3f879cfdf0961bc574b6d120d434"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:18.319990"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

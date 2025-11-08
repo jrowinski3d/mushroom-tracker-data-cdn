@@ -3,16 +3,24 @@
   "scientific_name": "Agaricus crocodilinus",
   "common_name": "Agaricus crocodilinus",
   "edibility": "E",
-  "description": "Agaricus crocodilinus (Agaricus crocodilinus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Crocodile Agaricus is a distinctive species with a cap 8-18 cm across, initially rounded becoming broadly convex to flat. The cap is white with a striking pattern of dark brown to gray-brown recurved scales arranged in a crocodile-skin pattern (diagnostic feature), more concentrated toward the center. The gills are free, initially pale pink becoming chocolate brown. The stem is 6-12 cm tall, white, smooth or with fine scales, with a large pendant ring. The flesh is white, bruising slowly yellow to brown, with a pleasant almond-anise odor.",
+  "habitat": "Found in mixed coniferous and hardwood forests, woodland edges, parks with mature trees, and landscaped areas with wood chips. Grows terrestrially in humus-rich soil and woody debris. Fruits scattered to gregarious, often in small groups. Prefers areas with decomposing organic matter.",
+  "season": "Late summer through fall (August-November) in most regions. In California and mild climates, may fruit in winter (December-February). Peak fruiting occurs in fall after warm rains. More common in years with consistent moisture.",
   "regions": [
-    "North America"
+    "California (common)",
+    "Pacific Northwest (occasional)",
+    "Southwestern United States",
+    "Mediterranean climates",
+    "Western North America (primarily)",
+    "Warm temperate regions"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Agaricus augustus (edible) - larger, more golden-brown scales, stronger anise odor",
+    "Agaricus subrutilescens (edible) - similar appearance, wine-red staining on stem base",
+    "Agaricus moelleri (toxic) - yellows intensely, phenolic odor instead of anise",
+    "Large Amanita species (some deadly) - have volva at base which Agaricus lacks"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible with good flavor and texture when cooked thoroughly. Less commonly collected than A. augustus but similar quality. Critical identification: verify pleasant ALMOND-ANISE odor (not phenolic), distinctive crocodile-skin scale pattern on cap, FREE gills turning pink then chocolate brown, CHOCOLATE BROWN spore print, NO volva at base. Avoid specimens with intense yellow bruising or phenolic chemical odor. The distinctive scaly pattern is helpful for identification. Cook thoroughly before consuming.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "b5ca0feb44040250d42aeb015502ef583b1dd53e55968d08ca16c5468222e3bb"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:03.922281"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

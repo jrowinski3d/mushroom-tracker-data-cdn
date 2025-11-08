@@ -3,16 +3,25 @@
   "scientific_name": "Leccinum aurantiacum",
   "common_name": "Leccinum aurantiacum",
   "edibility": "E",
-  "description": "Leccinum aurantiacum (Leccinum aurantiacum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Red-capped Scaber Stalk features a distinctive orange to reddish-orange cap (5-20 cm) with dry to slightly tacky surface. Pores are white when young, aging to grayish, bruising brownish. The tall, white stem is covered with dark brown to blackish scabers (rough scales) - a diagnostic feature. White flesh stains pink to reddish when cut, aging to gray or black. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal exclusively with aspen and poplar trees in mixed forests. Forms obligate associations with Populus species. Found in aspen groves, riparian areas with cottonwood, and mixed aspen-conifer forests.",
+  "season": "Summer through fall (June-October) with peak fruiting in July-August. Often appears soon after summer rains in aspen habitats.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Great Lakes region",
+    "Northeastern forests with aspen",
+    "Pacific Northwest aspen stands",
+    "Northern California",
+    "Alaska",
+    "Canada"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Leccinum insigne - orange-red cap, similar habitat with aspen",
+    "Other Leccinum species - stem scabers distinguish from Boletus",
+    "Boletus species - lack the distinctive scabrous stem",
+    "Lactarius species - have gills not pores, produce latex"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Red-capped Scaber Stalk is a good edible with firm texture, though not as highly prized as King Bolete. Must be cooked thoroughly - can cause digestive upset if undercooked or eaten raw. Flesh darkening is normal. The orange cap and rough-scaled stem are diagnostic features.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:36.730088"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

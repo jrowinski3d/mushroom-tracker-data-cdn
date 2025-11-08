@@ -3,16 +3,24 @@
   "scientific_name": "Bondarzewia berkeleyi",
   "common_name": "Bondarzewia berkeleyi",
   "edibility": "E",
-  "description": "Bondarzewia berkeleyi (Bondarzewia berkeleyi) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Massive rosette of large overlapping fan-shaped caps 4-12 inches wide, total fruiting body can reach 12-36+ inches across. Cream to tan to light brown upper surface with radial wrinkles. White to cream pore surface. Thick, tough, fibrous texture even when young. Individual caps larger and less organized than Grifola. Can weigh 20-50+ pounds. Strong musty odor.",
+  "habitat": "Parasitic and saprobic at bases of living and dead hardwood trees, particularly oak, causing butt rot and root rot. Forms massive rosettes at tree bases, from roots, and on stumps. Common in mature hardwood forests. Often appears from same location for several years.",
+  "season": "Summer through fall, typically July-October. Peak fruiting in August-September. Can persist for several weeks. Most abundant in late summer and early fall after rains.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest",
+    "Southeastern United States",
+    "Great Lakes region",
+    "Appalachian Mountains",
+    "Pacific Northwest"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Grifola frondosa (smaller individual caps, gray-brown, better organized rosette)",
+    "Meripilus sumstinei (darker, blackens when handled)",
+    "Other large polypore rosettes (different texture, organization)",
+    "Young Albatrellus (smaller, different habitat)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when very young but generally avoided: Only the tender growing edges of very young specimens are palatable - most of the fruiting body is too tough to eat even when young. Strong musty smell and fibrous texture make it unappealing. Can cause digestive upset. Must be cooked thoroughly. Generally not worth harvesting due to toughness. Better polypores exist for eating. Some people powder dried specimens for flavoring.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "78d3bea57198757ee2d96e32c3c6c4be2d9d9c54bb8f36074c19ebb323cd806f"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:23.580475"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

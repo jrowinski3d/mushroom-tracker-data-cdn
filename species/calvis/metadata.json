@@ -3,16 +3,24 @@
   "scientific_name": "Calocera viscosa",
   "common_name": "Calocera viscosa",
   "edibility": "E",
-  "description": "Calocera viscosa (Calocera viscosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Yellow Stagshorn is a bright yellow to orange jelly fungus forming small upright coral-like branches 2-6 cm tall. The fruitbody consists of multiple cylindrical to flattened branches that fork dichotomously (split into two equal parts repeatedly). Color is bright golden-yellow to orange-yellow. Texture is tough-gelatinous, somewhat rubbery and sticky (viscid) when fresh. The branches are 2-5 mm wide and may have pointed or forked tips. Base may be fused together or have short stems. Becomes dark orange and shriveled when dry.",
+  "habitat": "Found on dead conifer logs, stumps, and buried wood, particularly pine, spruce, and fir. Grows on well-rotted wood or emerging from woody debris in soil. Common in coniferous and mixed forests. Fruits scattered to gregarious, often on the same logs year after year. Prefers moist cool forests with abundant conifer debris.",
+  "season": "Late summer through fall (August-November) in most regions. In mild climates like the Pacific Northwest, may fruit year-round with peaks in fall and spring. Can appear after summer rains in mountain areas. Most common during cool wet periods.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (common)",
+    "Pacific Northwest (very common)",
+    "Rocky Mountains",
+    "Northern California",
+    "Northern temperate conifer forests worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Calocera cornea (edible) - smaller, simpler branching, on hardwoods",
+    "Dacryopinax spathularia (edible) - orange, more spatula-shaped tips",
+    "Clavulinopsis species (some edible) - yellow but not gelatinous, more fragile",
+    "Ramaria species (varied edibility) - coral fungi but fleshy not gelatinous"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but tough: Considered edible but too tough and gelatinous to be palatable. The rubbery texture and small size make it unappealing. No flavor of note. Safe to eat but not recommended. No toxic lookalikes among jelly fungi. The bright yellow color, coral-like branching, and gelatinous texture on conifer wood are distinctive. The viscid (sticky) surface helps distinguish from fleshy coral fungi. More interesting as a forest ornament than food. Commonly encountered but rarely collected for eating.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "db32c1af8a4e499e46fcb478923f761814086ef551fc335644b511de3efcd3da"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:17.874345"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -1,18 +1,26 @@
 {
   "mushroom_id": "hydrep",
   "scientific_name": "Hydnum repandum",
-  "common_name": "Hydnum repandum",
+  "common_name": "Sweet Tooth",
   "edibility": "E",
-  "description": "Hydnum repandum (Hydnum repandum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Sweet Tooth has an irregularly shaped cream to pale orange cap (3-15 cm) with a wavy, lobed margin. The distinctive feature is the underside covered with brittle, downward-pointing SPINES or TEETH instead of gills or pores - these spines are cream to pale orange, easily detached when rubbed. The stem is off-center to central, thick, white to pale orange, smooth, and often curved. The flesh is white, thick, brittle, with a mild taste and pleasant odor. Spore print is white. This easily identified edible has a slightly peppery taste when raw that disappears with cooking.",
+  "habitat": "Mycorrhizal with both hardwoods and conifers. Found on the ground in mixed forests, under oak, beech, pine, and spruce. Often grows scattered or in small groups. Prefers well-drained soil, commonly found in moss or leaf litter.",
+  "season": "Summer through fall (July-November), with peak fruiting in fall. In milder climates may fruit into early winter.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Northeast",
+    "Midwest",
+    "Southeast",
+    "Rocky Mountains",
+    "Europe"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Hydnum umbilicatum (Depressed Hedgehog) - smaller, more orange, depressed center",
+    "Hydnum albidum (White Hedgehog) - pure white color",
+    "Hydnum rufescens (Terracotta Hedgehog) - darker orange-brown color",
+    "Sarcodon species - larger, darker, often bitter taste"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Sweet and mild flavor when cooked, though may be slightly peppery when raw. Collect young specimens for best texture - older specimens can become tough or develop bitter taste. The distinctive spines/teeth on the underside make misidentification with toxic species unlikely. Clean thoroughly as spines trap debris. May cause mild digestive upset in sensitive individuals if consumed in large quantities.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "2173215b53eaf75f7c13ce67cc9606859150b929268875ddee7bd92644a45023"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:51.310898"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

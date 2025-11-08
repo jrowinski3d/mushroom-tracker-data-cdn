@@ -3,16 +3,24 @@
   "scientific_name": "Sparassis crispa",
   "common_name": "Cauliflower Mushroom",
   "edibility": "E",
-  "description": "Cauliflower Mushroom (Sparassis crispa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Cauliflower Mushroom is a large spectacular fungus forming cream to pale yellow masses 10-40 cm across (sometimes to 60 cm) resembling a cauliflower or sea sponge. The fruitbody consists of numerous thin wavy leaf-like lobes or ribbon-like branches arising from a central stem-like base. The lobes are crisped, frilled, and densely packed. Color is cream, pale yellow, or buff when fresh, becoming darker yellowish-brown with age. The texture is crisp and brittle when fresh. The base attaches to roots or wood. Very distinctive appearance.",
+  "habitat": "Found at the base of old conifer trees, particularly pine, fir, spruce, and larch. Grows as a root parasite on living trees or from buried roots of dead conifers. Typically appears at the same tree location year after year. Fruits on or near tree bases, sometimes appearing to grow from the ground. Prefers mature conifer forests.",
+  "season": "Late summer through fall (August-November) in most regions. In the Pacific Northwest and mountains, primarily September-October. Peak fruiting in fall. Can fruit spring and fall in some locations. Perennial, returning to same spots annually.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Pacific Northwest (common)",
+    "Rocky Mountains",
+    "Northeastern North America",
+    "Northern California mountains",
+    "Northern temperate conifer forests worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Sparassis radicata (edible) - very similar, hardwoods not conifers, more yellow",
+    "Sparassis spathulata (edible) - western North America, similar appearance",
+    "Hen of the Woods Grifola (edible) - rosettes of gray-brown spoons, different structure",
+    "No toxic lookalikes - appearance is unique"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized with excellent flavor and unique texture. One of the finest wild mushrooms. The crisp noodle-like texture is distinctive. Excellent in soups, stir-fries, and pasta dishes. Clean thoroughly - the frilled structure traps debris and insects. Best when young and cream-colored. Older specimens become tough and yellowed. Cook thoroughly. Can be quite large, providing substantial harvest. The appearance is absolutely unmistakable - no dangerous lookalikes exist. Highly sought after by foragers. Can be dried or frozen. Returns to the same location annually.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "f27081bca45016950cd1230a0e65c328dab21d3a386eb6faba9715df6b35c6d3"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:20.852716"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

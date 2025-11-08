@@ -1,18 +1,23 @@
 {
   "mushroom_id": "lacthy",
   "scientific_name": "Lactarius thyinos",
-  "common_name": "Lactarius thyinos",
+  "common_name": "Aromatic Milk Cap",
   "edibility": "E",
-  "description": "Lactarius thyinos (Lactarius thyinos) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Aromatic Milk Cap has an orange cap (4-12 cm) with concentric zones, often with greenish stains. Gills are pale orange, crowded. Stem is orange with pits. KEY FEATURE: ORANGE LATEX (milk) and distinctive AROMATIC CEDAR or INCENSE-LIKE ODOR. Latex may stain green. Flesh is pale. Spore print is cream. The aromatic odor distinguishes it from similar species.",
+  "habitat": "Mycorrhizal with CEDAR and CYPRESS (Cupressaceae family) in western North America. Grows under incense cedar, western red cedar, and Port Orford cedar. Found in coniferous forests.",
+  "season": "Fall (September-November), fruiting in coniferous forests.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "Northern California",
+    "Western Oregon",
+    "British Columbia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lactarius deliciosus - pine host, less aromatic",
+    "Lactarius rubrilacteus - red latex",
+    "Other orange Lactarius - check tree host and odor"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent flavor. The ORANGE LATEX and CEDAR ODOR combined with cedar/cypress host are diagnostic. May stain green - this is normal. Best young. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:05.187798"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000"
 }

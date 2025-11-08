@@ -3,16 +3,23 @@
   "scientific_name": "Exidia glandulosa",
   "common_name": "Exidia glandulosa",
   "edibility": "E",
-  "description": "Exidia glandulosa (Exidia glandulosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Black Jelly Roll forms black button or disc-shaped gelatinous masses 0.5-3 cm across, often in crowded groups. Individual buttons are initially top-shaped, becoming flattened disc or brain-like with maturity. The surface is smooth to wrinkled, jet black to dark brown-black when fresh and moist, becoming hard and shiny when dry. Texture is firm-gelatinous, rubbery. The fruitbodies are covered with translucent glandular dots (visible with magnification). Revives and swells when rehydrated.",
+  "habitat": "Found on dead branches and logs of hardwood trees, particularly oak, beech, hazel, and other deciduous species. Common on fallen branches on the forest floor and standing deadwood. Grows in dense clusters along branches. Abundant in deciduous forests, woodland edges, and parks. Fruits prolifically on suitable substrates.",
+  "season": "Year-round but most abundant in fall through spring (September-May). In temperate regions, peaks in late fall and winter (November-March). Can fruit during summer in moist conditions. Very common in winter when few other fungi are active.",
   "regions": [
-    "North America"
+    "Europe (very common)",
+    "Eastern North America (widespread)",
+    "Pacific Northwest (common)",
+    "California",
+    "Temperate deciduous forests worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Bulgaria inquinans (inedible) - larger (2-4 cm), hemispherical, rubbery but not glandular",
+    "Exidia nigricans (edible) - very similar, distinction requires microscopy",
+    "Exidia recisa (edible) - similar buttons but smaller",
+    "No toxic lookalikes"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE but bland: Considered edible and safe but has virtually no flavor. The gelatinous texture is the only notable characteristic. Eaten in some European countries but not commonly collected. Safe to taste raw but typically cooked. No nutritional or culinary value. More interesting as a winter curiosity than food. The black button-like appearance and growth in clusters on hardwood branches are distinctive. No dangerous lookalikes - all similar black jelly fungi are harmless. Often abundant in winter when few other mushrooms are available.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "f528e39e3877f7b1d2bb0df7148c3d9b3284a87fa71a4427b57797587b462a54"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:17.507104"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

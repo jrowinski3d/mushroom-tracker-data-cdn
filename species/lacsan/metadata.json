@@ -1,18 +1,23 @@
 {
   "mushroom_id": "lacsan",
   "scientific_name": "Lactarius sanguifluus",
-  "common_name": "Lactarius sanguifluus",
+  "common_name": "Bloody Milk Cap",
   "edibility": "E",
-  "description": "Lactarius sanguifluus (Lactarius sanguifluus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bloody Milk Cap has an orange to pinkish-orange cap (4-12 cm) with darker concentric zones and greenish stains. Gills are orange-pink, crowded. Stem is orange with darker pits. KEY FEATURE: BLOOD-RED to WINE-RED LATEX (milk) when cut - very distinctive dark red color. Latex darkens to purple-red. Flesh is pale to pinkish. Spore print is pale pinkish. The blood-red latex is diagnostic.",
+  "habitat": "Mycorrhizal with PINE (Pinus) in Europe and introduced to North America. Grows under pine trees, especially Mediterranean pines. Found in pine plantations, parks. Prefers sandy soils.",
+  "season": "Fall (September-December), fruiting after rains in pine areas.",
   "regions": [
-    "North America"
+    "Europe (native)",
+    "Introduced to North America",
+    "California",
+    "Where pines planted"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lactarius rubrilacteus - similar red latex, western native",
+    "Lactarius deliciosus - orange latex not red",
+    "Other orange Lactarius - check latex color"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized in Europe. The BLOOD-RED LATEX is diagnostic. Mild, excellent flavor. May stain purple when cooked - normal. Best when young. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +42,6 @@
       "sha256": "5adf5b9c0a2b9cfe7ed1a97dadc6fad4a73e8b1cdda03b85eb6ba2387bf0a5f6"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:05.609301"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000"
 }

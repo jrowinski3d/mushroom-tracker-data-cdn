@@ -3,16 +3,24 @@
   "scientific_name": "Polyporus umbellatus",
   "common_name": "Polyporus umbellatus",
   "edibility": "E",
-  "description": "Polyporus umbellatus (Polyporus umbellatus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Umbrella Polypore is a large striking polypore forming compound rosettes 20-50 cm across consisting of multiple overlapping fan-shaped caps. Individual caps are 5-15 cm across, thin and flexible, attached to a common branching base. The caps are tan to brown, smooth to slightly hairy with zones of color. The pore surface is white to cream, very small pores. The flesh is white, tough-flexible when fresh, with a mild odor. The entire structure has a central or eccentric thick stem 3-8 cm tall connecting to buried sclerotia (hard underground tuber).",
+  "habitat": "Found at the base of hardwood trees, particularly oak, growing from buried sclerotia (hardened underground structures). The sclerotia are connected to tree roots underground. Fruits scattered, typically one rosette per location. Appears at the same location annually if the sclerotium persists. Common in mature hardwood forests.",
+  "season": "Summer through fall (June-November) in most regions. Peak fruiting in late summer and fall (August-October). Can fruit multiple times per season from the same sclerotium.",
   "regions": [
-    "North America"
+    "Eastern North America (common)",
+    "Central United States",
+    "Pacific Northwest (occasional)",
+    "Europe (widespread)",
+    "Temperate hardwood forests",
+    "Particularly common with oak"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Grifola frondosa Hen of Woods (edible) - gray-brown spoon-shaped caps, different structure",
+    "Meripilus sumstinei (edible young) - fans but blackens when handled",
+    "Bondarzewia berkeleyi (edible young) - cream-tan rosettes but massive, musty odor",
+    "Polyporus tuberaster - similar but smaller, Mediterranean region"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when very young but tough: Only the youngest most tender parts are edible - older specimens are too tough and fibrous. The texture is similar to chicken when young. Must be thoroughly cooked. Only collect when the caps are still soft and pliable. The flavor is mild. As the mushroom matures, it becomes increasingly tough and leathery. Most specimens encountered are too old to be palatable. The sclerotia (tuber) can be cultivated to produce mushrooms. Historical cultivation in Italy using sclerotia. Interesting more for its growth from a sclerotium than culinary value. If attempting, cook thoroughly and expect chewy texture even when young.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "a60d23af0e0eae434c753cec153c6cee9717c908b574fd051734e3e569d8636c"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:50.862393"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

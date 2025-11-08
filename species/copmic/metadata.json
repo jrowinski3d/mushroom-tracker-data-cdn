@@ -3,16 +3,23 @@
   "scientific_name": "Coprinellus micaceus",
   "common_name": "Coprinellus micaceus",
   "edibility": "E",
-  "description": "Coprinellus micaceus (Coprinellus micaceus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Mica Cap or Glistening Inky Cap is a small delicate mushroom 2-6 cm tall with a cap 1-4 cm across. The cap is oval to bell-shaped, tan to yellow-brown or reddish-brown with distinctive glistening mica-like particles on the surface when young (diagnostic feature - particles wash off with rain). The cap has radial grooves from margin partway to center. The gills are adnate, white becoming gray then black and deliquescing. The stem is 3-7 cm tall, smooth, white, fragile, hollow. Fruits in dense clusters.",
+  "habitat": "Found on and around dead hardwood stumps, logs, and buried wood. Very common on decaying wood in forests, parks, and yards. Grows as a wood decomposer in dense clusters or troops. Particularly abundant on old stumps and at tree bases. Prefers moist shaded locations.",
+  "season": "Spring through fall (April-November) with some fruiting in winter in mild climates. Peak abundance in late spring through fall. Can fruit year-round in warm regions. Very persistent and common.",
   "regions": [
-    "North America"
+    "North America (very common, widespread)",
+    "Europe (very common)",
+    "Worldwide in temperate regions",
+    "Forests and urban areas",
+    "Cosmopolitan on decaying wood"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Coprinellus disseminatus (edible) - much smaller, pale gray, no mica particles",
+    "Psathyrella species - similar but lack mica particles and deliquesce less",
+    "Other Coprinellus species - difficult to distinguish without microscopy",
+    "No toxic lookalikes"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Considered edible and safe when young and fresh, but the small size makes collection tedious. The flavor is mild and unremarkable. No alcohol interaction like Coprinopsis atramentaria. Must be used immediately as gills deliquesce quickly. Only collect young fresh specimens. The small size and rapid deliquescence make it impractical for most foragers. Safe with no toxic lookalikes. The mica-like sparkles when young are diagnostic and charming. Often abundant but not worth the effort to collect. The species is more interesting ecologically than culinarily.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "04b8ac4eead336dafb401fa91130915d85a5a17a21fe8da3b20b38ab86026638"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:25.770922"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

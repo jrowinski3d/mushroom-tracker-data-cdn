@@ -3,16 +3,24 @@
   "scientific_name": "Laetiporus conifericola",
   "common_name": "Laetiporus conifericola",
   "edibility": "E",
-  "description": "Laetiporus conifericola (Laetiporus conifericola) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bright orange to salmon bracket with sulfur-yellow pore surface, forming large overlapping shelves 2-12 inches wide on conifers. Similar appearance to L. sulphureus but distinguished by conifer hosts in western mountains. Soft and succulent when young, tough with age. Multiple brackets form rosettes on conifer trunks and logs. Annual bracket with bright colors.",
+  "habitat": "Parasitic and saprobic specifically on living and dead conifer trees in western mountains, particularly Douglas-fir, western larch, hemlock, and other conifers. Forms large shelving brackets on trunks, stumps, and logs. Causes brown cubical heart rot in conifers. Montane and subalpine coniferous forests.",
+  "season": "Summer through fall in mountains, typically June-October. Peak fruiting in July-September. Appears after summer monsoons and warm rains. Later season than lower elevation species.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Cascade Range",
+    "Sierra Nevada",
+    "Northern Rockies",
+    "Western montane forests",
+    "British Columbia to New Mexico"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Laetiporus sulphureus (on hardwoods, not conifers)",
+    "Laetiporus huroniensis (northeastern, on hemlock)",
+    "Other western Laetiporus on conifers",
+    "Jack-o'-lantern (Omphalotus) - toxic, has gills not pores"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when young, but CAUTION: Specimens growing on conifers (including this species) more commonly cause digestive upset than those from hardwoods. Many people report stomach issues from conifer-dwelling Laetiporus. Harvest only very young, tender specimens. Start with very small amounts to test tolerance. Some individuals tolerate it fine, others react poorly. Cook thoroughly. Consider avoiding if sensitive to sulfur compounds.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "83b991a65a88f9fc012b5dd1512d51c7b57828ad45825ff9175437db152a2f3b"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:49.081059"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

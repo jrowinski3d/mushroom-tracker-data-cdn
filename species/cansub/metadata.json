@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus subalbidus",
   "common_name": "Cantharellus subalbidus",
   "edibility": "E",
-  "description": "Cantharellus subalbidus (Cantharellus subalbidus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The White Chanterelle has a white to cream or pale buff-colored cap 4-15 cm wide, sometimes developing yellowish tones with age or when bruised. The cap is smooth, becoming deeply funnel-shaped with maturity, with wavy, irregular margins that often become uplifted. The underside features thick, blunt, forked ridges (NOT true gills) that are white to cream, widely spaced, and prominently run down the stem. The stem is solid, stout, 3-12 cm tall, white to cream, often quite robust and club-shaped. Flesh is white, very firm, with a mild to slightly fruity odor. Spore print is white to pale cream.",
+  "habitat": "Mycorrhizal primarily with Pacific Northwest conifers including Douglas fir, western hemlock, Sitka spruce, and true firs. Found in coastal and montane coniferous forests, often in areas with thick moss and duff. Prefers well-drained slopes and mature forest habitats.",
+  "season": "Fall through winter (September-February), fruiting with the onset of fall rains and continuing through the wet season. Peak harvest typically occurs October-January. One of the later-season chanterelles in the Pacific Northwest.",
   "regions": [
-    "North America"
+    "Pacific Northwest (Washington, Oregon, Northern California)",
+    "British Columbia",
+    "Cascade Range",
+    "Coastal Oregon and Washington",
+    "Sierra Nevada mountains (Northern California)"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cantharellus californicus - Edible, similar white color but stains brown/orange, found further south with oak",
+    "Cantharellus cascadensis - Edible, pale yellow to cream, higher elevation, very similar",
+    "Hygrophorus species (waxcaps) - Edible, have true gills that are waxy but distinct, different texture"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The White Chanterelle is an excellent edible mushroom prized for its mild flavor and firm texture. Like all chanterelles, the critical identification feature is the thick, blunt, forked ridges that feel waxy and are continuous with the cap flesh, rather than the thin, blade-like true gills of other mushrooms. The white to cream coloration makes it distinctive among chanterelles but requires careful attention to the ridge structure for positive identification. Always verify it grows from soil near conifers. Flavor is mild and delicate; excellent sautéed or in cream-based dishes.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "1f7976d4f0fbe820123466bd7948e5178f42fe36f78897f041037ab93c8216cf"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:32.157843"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

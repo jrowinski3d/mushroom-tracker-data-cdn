@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus cinnabarinus",
   "common_name": "Cantharellus cinnabarinus",
   "edibility": "E",
-  "description": "Cantharellus cinnabarinus (Cantharellus cinnabarinus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Cinnabar Chanterelle (Red Chanterelle) is a small, distinctive mushroom with a bright cinnabar-red to pinkish-red cap 1-4 cm wide. The cap is smooth to slightly velvety, becoming shallowly funnel-shaped with age, with wavy margins. The underside features blunt, shallow, forked ridges (NOT true gills) that are pinkish-red to salmon-pink, often paler than the cap, and run down the stem. The stem is solid, slender, 2-5 cm tall, same color as cap or slightly paler. Flesh is pinkish-white, thin but firm, with a mild odor. Spore print is white to pale pink.",
+  "habitat": "Mycorrhizal with eastern hardwoods, particularly oak (Quercus species), American beech, and hickory. Found in mature deciduous and mixed forests, often in the same habitats as other eastern chanterelles. Prefers well-drained slopes with rich, acidic leaf litter.",
+  "season": "Summer (June-September), fruiting during warm, humid periods after summer rains. Peak season is typically July-August. Often fruits alongside C. lateritius and C. appalachiensis in eastern forests.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Southeastern states (especially Carolinas, Tennessee)",
+    "Appalachian region",
+    "Mid-Atlantic states",
+    "Ohio River Valley"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cantharellus lateritius - Edible, larger, more orange-pink than red, similar habitat and season",
+    "Jack-O'-Lantern (Omphalotus illudens) - TOXIC, has true sharp-edged gills, grows on wood, more orange than red",
+    "Hygrocybe species (waxcaps) - Variable edibility, have true gills, more fragile texture, smaller"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The Cinnabar Chanterelle is an edible mushroom notable for its small size and distinctive bright red color. Like all chanterelles, the key identification feature is the blunt, forked ridges rather than true gills. These ridges are shallow but distinctly waxy and fused to the cap. The bright cinnabar-red color and small size make it relatively easy to identify among chanterelles. Due to its small size, it's often collected along with other chanterelle species. Flavor is mild; best used fresh or combined with other mushrooms.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "5cbe77df51c2eb2f433f2f537ca28b74a956cf29511aa7a93ef36483ee482530"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:30.075510"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

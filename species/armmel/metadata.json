@@ -3,14 +3,23 @@
   "scientific_name": "Armillaria mellea",
   "common_name": "Honey Mushroom",
   "edibility": "E",
-  "description": "Honey Mushroom (Armillaria mellea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Honey Mushroom has a honey-yellow to tawny-brown cap (3-15 cm) covered with small DARK SCALES concentrated at center, becoming scattered toward margins. Gills are white to cream, attached to stem, often developing brown spots with age. The stem has a PERSISTENT WHITE RING (annulus) near the top - a key identification feature. Stem is white above ring, darker below, often with dark scales or fibers. Grows in DENSE CLUSTERS at the base of trees or on stumps. The cap is sticky when wet. Flesh is white, firm, with mild odor. Spore print is white. Black rhizomorphs (shoestring-like structures) often visible in soil or under bark.",
+  "habitat": "Parasitic and saprobic on both hardwoods and conifers. Grows in large clusters at the base of living trees, dead stumps, and buried roots. Causes white rot and can kill host trees. Found on oak, maple, birch, pine, and many other tree species. One of the most common tree pathogens in forests.",
+  "season": "Fall (September-November), with peak fruiting after fall rains. Occasionally fruits in spring.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Midwest",
+    "Pacific Northwest",
+    "Rocky Mountains",
+    "California",
+    "Europe",
+    "Asia"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Armillaria species - very similar, all require cooking",
+    "Gymnopilus species - bitter taste, rusty-orange spores",
+    "Pholiota species - brown spore print, different habitat",
+    "Galerina species - DEADLY - smaller, brown spores, on wood not soil/roots"
   ],
   "safety_notes": "EDIBLE WITH CAUTION: Honey mushrooms (Armillaria species) are POISONOUS when raw and must be thoroughly cooked before consumption. Cook for at least 10-15 minutes at high heat. Even when properly cooked, some individuals experience allergic reactions or digestive upset. Try a small amount first to test your tolerance. Parboiling before cooking can help reduce gastrointestinal irritants and bitter taste. Do not consume with alcohol - honey mushrooms can cause adverse reactions when combined with alcohol (similar to Coprinopsis). Collect only young, firm specimens.",
   "images": [
@@ -37,6 +46,6 @@
       "sha256": "70a5d56d5c39a6061d328040d5578fb2b56b5789de7702de08045cf7bbd19e93"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000"
 }

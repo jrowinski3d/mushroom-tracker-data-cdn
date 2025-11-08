@@ -3,16 +3,25 @@
   "scientific_name": "Suillus brevipes",
   "common_name": "Suillus brevipes",
   "edibility": "E",
-  "description": "Suillus brevipes (Suillus brevipes) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Short-stalked Suillus displays a tawny to reddish-brown cap (3-12 cm) with slimy surface when wet, often with streaky or mottled appearance. Pores are large and angular, yellow to olive-yellow, not bruising. The short, stocky yellow stem lacks a ring - a key feature. White to pale yellow flesh does not stain. The viscid cap and ringless stem distinguish it. Spore print is cinnamon-brown.",
+  "habitat": "Mycorrhizal exclusively with two- and three-needle pines, especially ponderosa pine, lodgepole pine, and Jeffrey pine in western forests. Common in pine-dominated forests and open pine woodlands.",
+  "season": "Late summer through fall (August-November) with peak fruiting in September-October. Fruits after late summer and fall rains.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "California mountains",
+    "Rocky Mountains",
+    "Southwestern pine forests",
+    "Arizona high country",
+    "New Mexico mountains",
+    "Western montane zones"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Suillus luteus - has prominent dark ring on stem",
+    "Suillus granulatus - pores exude milky droplets when young",
+    "Other Suillus species - check for ring presence/absence",
+    "Boletus species - not viscid, different habitat"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Short-stalked Suillus is edible with mild flavor but somewhat soft texture. Remove slimy cap cuticle before cooking. The ringless stem and pine association are diagnostic. Some people experience mild digestive upset. Cook thoroughly before eating.",
   "images": [
     {
       "index": 0,
@@ -37,6 +46,6 @@
       "sha256": "c29048d548d1e15f2bc66daa9c5ed99bf2ec3b424f4b97b2bc38acb4925eaba2"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:38.704936"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

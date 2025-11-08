@@ -3,16 +3,24 @@
   "scientific_name": "Hypomyces lactifluorum",
   "common_name": "Hypomyces lactifluorum",
   "edibility": "E",
-  "description": "Hypomyces lactifluorum (Hypomyces lactifluorum) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Lobster Mushroom is not actually a mushroom but a bright orange parasitic fungus that transforms its host mushrooms (Russula and Lactarius species) into edible specimens. The infected mushroom becomes entirely covered with a hard bright orange to red-orange crust. The shape retains the form of the host (often showing gills or pores), but the surface is rough, pimpled, or warty. Size varies 5-15 cm depending on host. The flesh is white marbled with orange, firm and dense. The entire structure becomes rigid and heavy. Has a seafood-like aroma resembling cooked lobster or shrimp.",
+  "habitat": "Found in coniferous and mixed forests where its host species (Russula and Lactarius milk caps) grow. The parasite colonizes underground buttons and young mushrooms of susceptible species. Most commonly parasitizes white or pale Russula species and Lactarius species. Fruits where hosts are abundant, scattered to gregarious. Prefers areas with rich soil and host mycorrhizal associations.",
+  "season": "Late summer through fall (July-November) depending on host fruiting. Peak occurrence in late summer and early fall (August-October). Timing follows host mushroom emergence. More common in years with good host fruiting.",
   "regions": [
-    "North America"
+    "Eastern North America (common)",
+    "Pacific Northwest (very common)",
+    "Rocky Mountains",
+    "Northern California",
+    "Southeastern United States",
+    "Throughout North America where hosts occur"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Russula emetica infected by other fungi - toxic host, could be dangerous",
+    "Lactarius species without Hypomyces - may be toxic milk caps",
+    "Other orange fungi - but none have the hard crust and deformed appearance",
+    "CRITICAL: Must verify the hard orange crust covering the entire mushroom"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: One of the safest and most sought-after wild mushrooms. The Hypomyces parasitism transforms even toxic host species into edible specimens. The parasite neutralizes host toxins and produces its own edible fruitbody. Highly prized for firm texture and seafood-like flavor. Popular in restaurants. CRITICAL identification: verify COMPLETE coverage with hard orange crust, NO exposed gills or pores (host completely covered), firm dense flesh, mild seafood aroma. Partial coverage may indicate early parasitism with toxic host still present - avoid. Cook thoroughly. Excellent sautéed, in soups, or as lobster substitute. Very safe with no toxic lookalikes when properly identified.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "f1c7fc75c4e79e66f10e033cde7d397acadeb2d14cc68c045567a456685d10b9"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:21.786887"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

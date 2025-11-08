@@ -3,16 +3,24 @@
   "scientific_name": "Boletus subcaerulescens",
   "common_name": "Boletus subcaerulescens",
   "edibility": "E",
-  "description": "Boletus subcaerulescens (Boletus subcaerulescens) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Bluing Bolete displays a brown to reddish-brown cap (5-15 cm) with smooth surface. Pores are yellow to olive-yellow, slowly bruising blue-green when handled - a diagnostic feature. The yellowish stem shows reticulation and also bruises blue. White to pale yellow flesh stains blue when cut, especially near pore surface. This bluing reaction distinguishes it from similar species. Spore print is olive-brown.",
+  "habitat": "Mycorrhizal with oak and other hardwoods in deciduous and mixed forests. Prefers rich, well-drained soils in mature forests. Common in oak-dominated habitats.",
+  "season": "Summer through fall (July-October) with peak fruiting in late summer. Appears after warm rains during humid weather.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Southeastern states",
+    "Mid-Atlantic region",
+    "Appalachian Mountains",
+    "Great Lakes region",
+    "Oak forests throughout eastern North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Boletus edulis - white pores, no bluing reaction",
+    "Boletus variipes - more dramatic bluing, different range",
+    "Tylopilus felleus - pink pores, bitter, no blue",
+    "Boletus sensibilis - bruises blue very strongly"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: Bluing Bolete is a good edible mushroom with firm texture and mild flavor. The blue-staining reaction is normal and safe - this is NOT an indication of toxicity. Cook thoroughly before eating. The bluing helps distinguish it from non-bluing species like B. edulis.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "392e0e070bd16a650927fcbac5642d898e2e348fcb7a42e33c509e08ac29cf59"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:35.864487"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

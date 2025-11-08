@@ -3,16 +3,23 @@
   "scientific_name": "Calvatia gigantea",
   "common_name": "Giant Puffball",
   "edibility": "E",
-  "description": "Giant Puffball (Calvatia gigantea) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Massive round to oblong puffballs 8-20+ inches (can reach 5 feet), appearing like giant white soccer balls or pillows in fields. Smooth white exterior becoming yellowish-tan with age. Interior pure white and firm when edible, turning yellow-green then brown as spores mature. No stem or sterile base. Unmistakable when full-size.",
+  "habitat": "Saprobic in rich soil of open fields, meadows, pastures, lawns, and forest edges. Prefers nutrient-rich areas near decomposing organic matter. Common in agricultural areas, parks, and disturbed grasslands. Often appears in same location annually.",
+  "season": "Late summer through fall, typically August-October. Peak fruiting after heavy late summer rains. Most abundant in September. Can appear earlier in southern regions.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Midwest and Great Plains",
+    "Pacific Northwest",
+    "Southern Canada",
+    "Widespread across temperate North America"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Other Calvatia species (smaller, similar edibility when white inside)",
+    "DEADLY: Immature Amanita buttons (ALWAYS CUT OPEN - will show developing gills/cap inside)",
+    "Scleroderma species/Earthballs (toxic, purple-black interior, thick warty skin)",
+    "Other large puffballs (generally edible when pure white inside)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE when pure white inside: CRITICAL - ALWAYS cut specimen completely in half from top to bottom. Edible ONLY if interior is completely pure white and firm like marshmallow throughout. If any yellow, brown, purple, or developing structures visible inside, DO NOT EAT. This rule prevents consuming toxic lookalikes and immature deadly Amanitas that can appear puffball-like. Discard if any hint of gills, cap, or stem structure visible inside. Cook thoroughly - excellent breaded and fried or sauteed.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "19fa36a1c78915de64224dd0c2fa81fcf906c890be7b9bccd277095dee97c971"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:44.626762"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

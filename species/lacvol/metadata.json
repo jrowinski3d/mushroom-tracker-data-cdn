@@ -1,18 +1,22 @@
 {
   "mushroom_id": "lacvol",
   "scientific_name": "Lactifluus volemus",
-  "common_name": "Lactifluus volemus",
+  "common_name": "Bradley",
   "edibility": "E",
-  "description": "Lactifluus volemus (Lactifluus volemus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Bradley has orange-brown to reddish-brown cap (5-12 cm), dry, velvety. Gills cream, close, staining brown. Stem similar to cap. KEY: ABUNDANT WHITE LATEX, FISHY ODOR when old. Latex does not change color. Flesh firm, white. Spore print white. The copious latex and fishy smell diagnostic.",
+  "habitat": "Mycorrhizal with HARDWOODS, especially oak. Grows on ground in mixed and hardwood forests. Common in eastern forests. Scattered or groups.",
+  "season": "Summer through fall (July-October), fruiting throughout season.",
   "regions": [
-    "North America"
+    "Eastern United States",
+    "Midwest",
+    "Southeast",
+    "South Central"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Lactifluus corrugis - similar but larger, corrugated cap",
+    "Other Lactifluus - check odor and latex abundance"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Excellent nutty flavor despite fishy odor (disappears when cooked). ABUNDANT WHITE LATEX + FISHY ODOR diagnostic. One of best Lactarius for eating. Best young. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +41,6 @@
       "sha256": "5ee558641d816d1e4d4d17fd656481c977ca91568cbd39ab8da7f573934640ea"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:06.498322"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
 }

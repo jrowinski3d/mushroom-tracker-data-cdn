@@ -3,14 +3,22 @@
   "scientific_name": "Ramaria formosa",
   "common_name": "Ramaria formosa",
   "edibility": "E",
-  "description": "Ramaria formosa (Ramaria formosa) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Beautiful Coral is an attractive but toxic coral fungus 10-20 cm tall and 10-15 cm wide. The fruitbody consists of numerous upright branches from a thick white to pale base. The branches are salmon-pink to peachy-orange when young, becoming more orange-yellow with age. When bruised or handled, the flesh yellows distinctly (diagnostic feature). The branch tips are typically yellow. The branching is dense and intricate. The flesh is white to pale yellow, brittle, often with an unpleasant odor. Despite the name, this is not edible.",
+  "habitat": "Found in hardwood and mixed forests, forming mycorrhizal associations with oak, beech, and other deciduous trees. Grows terrestrially from soil, typically in rich humus. Fruits scattered to gregarious. Prefers mature forests with good organic soil. Common in leaf litter.",
+  "season": "Late summer through fall (August-November) in most regions. In Europe, primarily August-October. Peak fruiting in early to mid-fall. Requires warm soil followed by consistent fall moisture.",
   "regions": [
-    "North America"
+    "Europe (widespread)",
+    "Eastern North America (common)",
+    "Pacific Northwest (occasional)",
+    "California (rare)",
+    "Temperate deciduous forests",
+    "Particularly common in the Northeast"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Ramaria aurea (edible) - golden-yellow, does not yellow when bruised",
+    "Ramaria botrytis (edible) - pink-tipped but white/yellow base, no yellowing reaction",
+    "Ramaria flava (edible) - pale yellow throughout, no salmon-pink tones",
+    "Other Ramaria species - many similar toxic and edible species"
   ],
   "safety_notes": "TOXIC: Ramaria formosa causes gastrointestinal distress including nausea, vomiting, diarrhea, and colicky abdominal pain. While rarely life-threatening, symptoms can be severe and unpleasant. Do not consume this mushroom.",
   "images": [
@@ -37,6 +45,6 @@
       "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
     }
   ],
-  "content_version": "1.1",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

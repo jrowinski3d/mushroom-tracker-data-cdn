@@ -1,18 +1,25 @@
 {
   "mushroom_id": "trimag",
   "scientific_name": "Tricholoma magnivelare",
-  "common_name": "Tricholoma magnivelare",
+  "common_name": "American Matsutake",
   "edibility": "E",
-  "description": "Tricholoma magnivelare (Tricholoma magnivelare) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "American Matsutake has a robust white to cream cap (7-20 cm) that develops brownish fibrillose patches or stains with age, especially at center. The cap is convex to flat, dry, smooth to fibrillose. Gills are white, attached, crowded, staining brown. The stem is thick, white, very firm and solid, with a DISTINCTIVE THICK PARTIAL VEIL that leaves a LARGE COTTONY RING on the upper stem. The diagnostic feature is the STRONG SPICY, CINNAMON, or RED HOT candy-like ODOR - unmistakable and powerful. Flesh is white, very dense and firm. Spore print is white. Often partially buried, creating soil mounds.",
+  "habitat": "Mycorrhizal with CONIFERS in western North America, especially pine, Douglas fir, hemlock, and true firs. Forms obligate mycorrhizal relationships. Grows on the ground, often deeply buried in duff, needle litter, or sandy soil. Found in mature conifer forests from sea level to high mountains. Prefers well-drained soils.",
+  "season": "Fall (September-November), fruiting in cool autumn weather after rains. Prime season October in Pacific Northwest.",
   "regions": [
-    "North America"
+    "Pacific Northwest",
+    "British Columbia",
+    "Northern California",
+    "Rocky Mountains",
+    "Alaska"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Tricholoma matsutake - Asian species, virtually identical",
+    "Tricholoma murrillianum - southwestern species, similar",
+    "Amanita smithiana - TOXIC - has volva at base, sickly sweet odor not cinnamon",
+    "Catathelasma - similar but has double veil, different odor"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: Highly prized and commercially harvested, selling for $20-100+ per pound. The strong CINNAMON/SPICY ODOR is the key identification feature - once smelled, never forgotten. Best when young and firm ('buttons' or half-emerged). Clean carefully to preserve delicate flavor. CRITICAL: Never confuse with toxic Amanita smithiana - check for absence of volva (cup at base) and verify cinnamon odor. The thick cottony ring and absence of volva distinguish it from deadly Amanitas.",
   "images": [
     {
       "index": 0,
@@ -37,6 +44,6 @@
       "sha256": "7916660a2d94152ffd8f39f242604094222ba8708ef19f62821eea3b280c2d84"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:57.925720"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000"
 }

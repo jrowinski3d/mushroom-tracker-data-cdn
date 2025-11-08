@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus formosus",
   "common_name": "Pacific Golden Chanterelle",
   "edibility": "E",
-  "description": "Pacific Golden Chanterelle (Cantharellus formosus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Pacific Golden Chanterelle features a golden-orange to deep yellow cap 3-15 cm wide, often larger and more robustly colored than European chanterelles. The cap margin is wavy and irregular, becoming deeply funnel-shaped with maturity. The underside has thick, blunt, well-spaced forked ridges (NOT true gills) that are the same color or slightly paler than the cap and run down the stem. The stem is solid, firm, 3-10 cm tall, often thick and club-shaped. Flesh is white to pale yellow, firm, with a mild fruity apricot aroma. Spore print is white to pale yellow.",
+  "habitat": "Mycorrhizal primarily with Douglas fir, but also associates with western hemlock, Sitka spruce, and grand fir in coastal coniferous forests. Prefers well-drained slopes with thick moss and duff layers. Often found in second-growth forests and along logging roads in the Pacific Northwest.",
+  "season": "Fall through winter (September-February), fruiting with the onset of fall rains and continuing through the wet season. Peak harvest typically occurs October-December. Can fruit year-round in mild coastal climates with adequate moisture.",
   "regions": [
-    "North America"
+    "Pacific Northwest (British Columbia to Northern California)",
+    "Coastal Oregon and Washington",
+    "Vancouver Island",
+    "Cascade Range",
+    "Northern California coastal mountains"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Jack-O'-Lantern (Omphalotus olivascens) - TOXIC, has true sharp-edged gills, grows on wood or buried wood, orange color",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more intense orange",
+    "Cantharellus cascadensis - Edible, paler yellow, smaller, higher elevation, otherwise very similar"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "CHOICE EDIBLE: The Pacific Golden Chanterelle is one of the most sought-after wild mushrooms in North America, prized for its firm texture and fruity, peppery flavor. Critical identification feature is the blunt, forked ridges that feel waxy and are difficult to separate from the cap flesh, versus the thin, knife-like true gills of toxic lookalikes. Always verify the mushroom grows from soil, not wood. Sauté to concentrate flavor; holds up well to cooking. Some individuals may experience mild digestive upset - test with small amounts first.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "7ab193f467d64ceebfc9493be4052476e454a1dc8c285797973833e9a671c959"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:28.448288"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }

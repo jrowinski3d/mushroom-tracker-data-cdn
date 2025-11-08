@@ -3,16 +3,24 @@
   "scientific_name": "Lentinus tigrinus",
   "common_name": "Lentinus tigrinus",
   "edibility": "E",
-  "description": "Lentinus tigrinus (Lentinus tigrinus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Small to medium mushroom with white cap 1-3 inches wide covered in concentric rings of brown to black scales giving tiger-stripe appearance. White serrated (saw-toothed) gills - diagnostic feature. Central white stem 1-3 inches tall, often scaly. Has GILLS with distinctive serrated edges, not pores. Grows on hardwood. Tough, leathery texture. Distinctive tiger-striped pattern.",
+  "habitat": "Saprobic on dead hardwood including logs, stumps, branches, and woody debris, particularly willow, alder, poplar, and other riparian hardwoods. Common along streams and rivers. Prefers wet or waterlogged wood. Often on small branches and twigs. Causes white rot.",
+  "season": "Spring through fall, typically May-October. Peak in summer. Most common in warm, wet weather. Can appear year-round in mild climates. Fruits prolifically during humid periods.",
   "regions": [
-    "North America"
+    "Eastern North America",
+    "Pacific Northwest",
+    "Widespread across North America",
+    "Great Lakes region",
+    "Riparian areas nationwide",
+    "Cosmopolitan distribution"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Neolentinus lepideus (larger, conifer wood, anise odor, different scales)",
+    "Lentinus arcularius (similar but smaller scales, different pattern)",
+    "Pleurotus dryinus (scales but no serrated gills)",
+    "Panellus species (smooth gill edges, different growth)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when very young but not recommended: Only tender young buttons are palatable - rapidly becomes tough and leathery. Even young specimens have chewy texture requiring extensive cooking or drying and powdering. Small size and toughness make it not worth harvesting. Generally safe but unpalatable due to texture. The distinctive serrated gill edges and tiger-striped cap are unique. Better edible mushrooms available.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "d9734262995f308da3b0255496f7b5ef96a142c44bbfa98a54bb62f1f1460f5a"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:49:30.409265"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

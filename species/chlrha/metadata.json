@@ -3,16 +3,24 @@
   "scientific_name": "Chlorophyllum rhacodes",
   "common_name": "Chlorophyllum rhacodes",
   "edibility": "E",
-  "description": "Chlorophyllum rhacodes (Chlorophyllum rhacodes) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Shaggy Parasol is a medium to large mushroom with a cap 5-15 cm across, initially egg-shaped becoming broadly convex with a low umbo. The cap is cream to buff colored and covered with shaggy reddish-brown to tan upturned scales that are more concentrated toward the center. The flesh stains reddish-orange to red-brown when cut or bruised (diagnostic feature). The gills are free, white, and crowded. The stem is 8-20 cm tall, smooth to scaly below the large movable ring, with a swollen bulbous base but no volva.",
+  "habitat": "Found in rich soil in disturbed areas including gardens, compost piles, wood chip mulch, landscaped areas, and forest edges with woody debris. Also in coniferous and mixed forests. Grows terrestrially, often in nutrient-rich substrates with decomposing organic matter. Fruits scattered to gregarious, sometimes in fairy rings.",
+  "season": "Late summer through fall (August-November) in most regions. In California and Mediterranean climates, may fruit in winter and spring (November-March) following rains. Peak fruiting occurs after warm autumn rains.",
   "regions": [
-    "North America"
+    "Europe (native)",
+    "Pacific Northwest (common)",
+    "California (common, especially in gardens)",
+    "Eastern North America (occasional)",
+    "Australia and New Zealand",
+    "Temperate regions worldwide"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Chlorophyllum brunneum (toxic) - nearly identical but greenish spore print, more intense GI symptoms",
+    "Chlorophyllum molybdites (toxic) - green spores, greens when bruised, grasslands",
+    "Macrolepiota procera (edible) - taller, more slender, snakeskin stem, does not stain red",
+    "Lepiota species (some deadly) - smaller size, more delicate"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE WITH CAUTION: Some people tolerate this mushroom well when thoroughly cooked, but it causes gastrointestinal distress in others (10-20% of consumers). Symptoms include nausea and stomach upset 1-3 hours after eating. The closely related C. brunneum is more toxic. Cook thoroughly at high heat - never eat raw. Try a small amount first to test tolerance. Verify WHITE to pale gray spore print (not green). The reddening reaction when cut is helpful but not definitive. Due to the high rate of adverse reactions and confusion with C. brunneum, many experts recommend avoiding this species.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "4acbeebde1334184676d41a225f2309dc2ec3492fb3c1137657a8ef7e9f9d5be"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:59.564386"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000"
 }

@@ -3,16 +3,24 @@
   "scientific_name": "Calvatia booniana",
   "common_name": "Calvatia booniana",
   "edibility": "E",
-  "description": "Calvatia booniana (Calvatia booniana) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "Large round to oval puffballs 4-12 inches diameter with distinctive thick, polygonal plates or scales on white to tan surface, giving areolate (cracked tile) appearance. Interior pure white when edible, turning olive-yellow then brown. Has small basal attachment but no distinct sterile base. Unique scaled surface pattern.",
+  "habitat": "Saprobic in mountainous coniferous and mixed forests, particularly under ponderosa pine, Douglas-fir, and in montane meadows. Prefers well-drained soils at higher elevations. Common in mountain parks, open woods, and forest edges in western mountains.",
+  "season": "Late summer through fall, typically August-October. Peak fruiting after monsoon rains in Southwest. Most abundant September-October in mountain regions.",
   "regions": [
-    "North America"
+    "Rocky Mountains",
+    "Sierra Nevada",
+    "Cascade Range",
+    "Southwestern mountains",
+    "Western montane forests",
+    "British Columbia south to Arizona"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Calvatia sculpta (similar scales but different pattern)",
+    "DEADLY: Immature Amanita buttons (ALWAYS CUT OPEN - will show developing gills/cap inside)",
+    "Scleroderma species/Earthballs (toxic, purple-black interior, much thicker rind)",
+    "Other Calvatia species (different surface patterns)"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE when pure white inside: CRITICAL - ALWAYS cut specimen completely in half from top to bottom before consuming. Edible ONLY if interior is completely pure white and firm throughout. If any yellow, brown, purple, or developing structures visible inside, DO NOT EAT. This prevents consuming toxic lookalikes and immature deadly Amanitas. The distinctive scaled surface helps identification, but internal white color is the definitive edibility test. Cook thoroughly.",
   "images": [
     {
       "index": 0,
@@ -37,6 +45,6 @@
       "sha256": "30b4968b62116544e4e011334daf73bf46b1327c8337a15de0d3e46fc70b0850"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:45.057408"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000"
 }

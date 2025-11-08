@@ -3,16 +3,22 @@
   "scientific_name": "Cantharellus persicinus",
   "common_name": "Cantharellus persicinus",
   "edibility": "E",
-  "description": "Cantharellus persicinus (Cantharellus persicinus) is a prized edible mushroom. Proper identification is essential before consumption.",
-  "habitat": "Various forest environments. Specific habitat depends on the species and region.",
-  "season": "Seasonal availability varies by location and species.",
+  "description": "The Peach Chanterelle has a distinctive peach to pale pinkish-orange or salmon-colored cap 2-8 cm wide with a smooth, slightly velvety surface. The cap becomes shallowly funnel-shaped with age and has wavy, irregular margins. The underside features blunt, shallow, forked ridges (NOT true gills) that are pale peach to pinkish-cream, widely spaced, and run down the stem. The ridges are less pronounced than many chanterelles. The stem is solid, 2-6 cm tall, smooth, white to pale peach. Flesh is white to pale cream, firm, with a mild odor. Spore print is white to pale cream.",
+  "habitat": "Mycorrhizal with southeastern hardwoods, particularly oak species (especially water oak, willow oak), sweetgum, and hickory. Found in bottomland hardwood forests, mixed pine-hardwood forests, and riparian areas throughout the southeastern coastal plain. Prefers moist, sandy soils and areas near streams.",
+  "season": "Summer (June-September), fruiting during warm, humid periods after heavy summer rains. Peak season is typically July-August in most of its range. More tolerant of heat and humidity than northern chanterelle species.",
   "regions": [
-    "North America"
+    "Southeastern United States",
+    "Georgia and Florida",
+    "Carolinas",
+    "Gulf Coast states (Alabama, Mississippi, Louisiana)",
+    "Eastern Texas"
   ],
   "lookalikes": [
-    "Various species - expert identification recommended"
+    "Cantharellus lateritius - Edible, more orange-pink, larger, more pronounced ridges, overlapping range",
+    "Cantharellus cinnabarinus - Edible, brighter red-pink color, smaller, otherwise similar",
+    "False Chanterelle (Hygrophoropsis aurantiaca) - Not toxic but poor quality, has true thin gills, more orange"
   ],
-  "safety_notes": "Always verify identification with multiple sources before consuming wild mushrooms.",
+  "safety_notes": "EDIBLE: The Peach Chanterelle is a good edible mushroom with mild flavor, notable for its delicate peach coloration. Like all chanterelles, the key identification feature is the blunt, forked ridges on the underside that feel waxy and are fused to the cap, rather than true gills. The pale peach color and southeastern distribution help distinguish it from other species. Always verify it grows from soil in association with trees, never on wood. Flavor is mild and pleasant; best sautéed or used in combination with other mushrooms.",
   "images": [
     {
       "index": 0,
@@ -37,6 +43,6 @@
       "sha256": "083c35ad5ed2b794d2310fc1d0b2f49737ee54427726dcdaf35b78ec102e55fb"
     }
   ],
-  "content_version": "1.0",
-  "last_updated": "2025-11-07T11:48:31.718185"
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000"
 }
