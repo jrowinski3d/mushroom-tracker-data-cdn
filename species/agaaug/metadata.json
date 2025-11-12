@@ -1,7 +1,7 @@
 {
   "mushroom_id": "agaaug",
   "scientific_name": "Agaricus augustus",
-  "common_name": "Agaricus augustus",
+  "common_name": "The Prince",
   "edibility": "E",
   "description": "The Prince is one of the largest and most impressive Agaricus species with a cap 10-30 cm across. The cap is covered with concentrically arranged golden-brown to ochre fibrillose scales on a white to pale yellow background, giving a distinctly patterned appearance. The gills are free, initially pale gray-pink becoming dark chocolate brown. The stem is 10-25 cm tall, stout, white to pale yellow, with brown fibrillose scales below the large pendant ring. The flesh is white, slowly bruising yellow-brown, with a strong pleasant almond-anise odor. This is one of the most aromatic Agaricus species.",
   "habitat": "Found in coniferous and mixed forests, particularly under spruce, fir, and pine. Also in urban parks with conifers and landscaped areas with wood chips. Grows terrestrially on the ground or in woody debris, often near stumps. Fruits scattered to gregarious. Prefers cool temperate forests.",
@@ -46,5 +46,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.264902"
 }

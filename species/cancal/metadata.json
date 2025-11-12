@@ -1,7 +1,7 @@
 {
   "mushroom_id": "cancal",
   "scientific_name": "Cantharellus californicus",
-  "common_name": "Cantharellus californicus",
+  "common_name": "California Chanterelle",
   "edibility": "E",
   "description": "The California Chanterelle (also called Mud Puppy) has a white to pale cream cap 5-15 cm wide that often stains yellowish-brown or orange-brown, especially when handled or with age. The cap becomes deeply funnel-shaped with maturity and has wavy, irregular margins. The underside features thick, blunt, forked ridges (NOT true gills) that are white to cream, widely spaced, and run down the stem. The stem is solid, stout, 3-10 cm tall, white to cream, often quite robust. Flesh is white, very firm, with a mild to slightly peppery odor. Spore print is white to pale cream.",
   "habitat": "Mycorrhizal primarily with coast live oak (Quercus agrifolia), also associates with tanoak, madrone, and Douglas fir in mixed coastal forests. Found in oak woodlands, mixed evergreen forests, and the coastal fog belt of California. Prefers well-drained slopes and areas with deep leaf litter.",
@@ -44,5 +44,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T00:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.203001"
 }

@@ -23,27 +23,27 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1652638.jpg",
-      "photographer": "",
+      "source_url": "https://mushroomobserver.org/images/640/1287208.jpg",
+      "photographer": "Drew Henderson",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2024-01-13",
-      "file_size_bytes": 47984,
-      "width": 482,
-      "height": 640,
-      "sha256": "9357280f31b80446c625546da1e89679046e574c2766edc95236f843e988521f"
+      "observation_date": "2020-12-05",
+      "file_size_bytes": 139082,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e66523defb49e3d2c804e6864497805e46688a9beaed94dd7d8ec51ef870eb0"
     },
     {
       "index": 1,
-      "source_url": "https://mushroomobserver.org/images/640/1652639.jpg",
-      "photographer": "",
+      "source_url": "https://mushroomobserver.org/images/640/1287208.jpg",
+      "photographer": "Drew Henderson",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2024-01-13",
-      "file_size_bytes": 34270,
-      "width": 482,
-      "height": 640,
-      "sha256": "e2b1f6e4e281fa01f70012eec08302df296e628c748a533efc4fc44f6b13a5e5"
+      "observation_date": "2020-12-05",
+      "file_size_bytes": 139082,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e66523defb49e3d2c804e6864497805e46688a9beaed94dd7d8ec51ef870eb0"
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:30:00.000000"
+  "last_updated": "2025-11-10T11:47:55.208473"
 }

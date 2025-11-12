@@ -1,7 +1,7 @@
 {
   "mushroom_id": "suilak",
   "scientific_name": "Suillus lakei",
-  "common_name": "Suillus lakei",
+  "common_name": "Western Painted Suillus",
   "edibility": "E",
   "description": "Lake's Bolete features a distinctive reddish-orange to rusty-orange cap (5-15 cm) with slimy surface when wet and characteristic scaly appearance when dry. Pores are large and angular, bright yellow, bruising brownish. The yellow stem has reddish-brown glandular dots and lacks a ring. Yellow flesh stains reddish-brown when cut. The bright colors and glandular dots are diagnostic. Spore print is cinnamon-brown.",
   "habitat": "Mycorrhizal exclusively with Douglas fir in Pacific Northwest forests. Forms obligate associations with Douglas fir. Found in pure Douglas fir stands and mixed conifer forests dominated by Douglas fir.",
@@ -47,5 +47,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.555992"
 }

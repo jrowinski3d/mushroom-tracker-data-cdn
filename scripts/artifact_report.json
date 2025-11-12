@@ -1,0 +1,348 @@
+[
+  {
+    "species_id": "armsin",
+    "scientific_name": "Armillaria sinapina",
+    "image_type": "thumb",
+    "artifact_score": 85,
+    "quality_score": 89,
+    "flags": [
+      "HIGH white regions (37.8%)",
+      "Extreme brightness (21.1%)",
+      "Low saturation (62.3%)",
+      "Many straight lines (ruler/paper?)"
+    ],
+    "path": "species/armsin/thumb.webp"
+  },
+  {
+    "species_id": "herame",
+    "scientific_name": "Hericium americanum",
+    "image_type": "image_1",
+    "artifact_score": 45,
+    "quality_score": 67,
+    "flags": [
+      "Low saturation (45.7%)",
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (52.0%)"
+    ],
+    "path": "species/herame/image_1.webp"
+  },
+  {
+    "species_id": "hydalb",
+    "scientific_name": "Hydnum albidum",
+    "image_type": "image_1",
+    "artifact_score": 45,
+    "quality_score": 53,
+    "flags": [
+      "Low saturation (45.5%)",
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (62.1%)"
+    ],
+    "path": "species/hydalb/image_1.webp"
+  },
+  {
+    "species_id": "leuleu",
+    "scientific_name": "Leucoagaricus leucothites",
+    "image_type": "image_1",
+    "artifact_score": 45,
+    "quality_score": 58,
+    "flags": [
+      "Low saturation (77.1%)",
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (57.7%)"
+    ],
+    "path": "species/leuleu/image_1.webp"
+  },
+  {
+    "species_id": "ramfor",
+    "scientific_name": "Ramaria formosa",
+    "image_type": "image_0",
+    "artifact_score": 45,
+    "quality_score": 62,
+    "flags": [
+      "Low saturation (41.0%)",
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (52.4%)"
+    ],
+    "path": "species/ramfor/image_0.webp"
+  },
+  {
+    "species_id": "tremes",
+    "scientific_name": "Tremella mesenterica",
+    "image_type": "image_1",
+    "artifact_score": 45,
+    "quality_score": 55,
+    "flags": [
+      "Low saturation (43.2%)",
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (61.8%)"
+    ],
+    "path": "species/tremes/image_1.webp"
+  },
+  {
+    "species_id": "trimur",
+    "scientific_name": "Tricholoma murrillianum",
+    "image_type": "image_1",
+    "artifact_score": 45,
+    "quality_score": 51,
+    "flags": [
+      "Low saturation (87.0%)",
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (86.1%)"
+    ],
+    "path": "species/trimur/image_1.webp"
+  },
+  {
+    "species_id": "canapp",
+    "scientific_name": "Cantharellus appalachiensis",
+    "image_type": "image_0",
+    "artifact_score": 35,
+    "quality_score": 61,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (55.0%)",
+      "Limited colors (331)"
+    ],
+    "path": "species/canapp/image_0.webp"
+  },
+  {
+    "species_id": "cancin",
+    "scientific_name": "Cantharellus cinnabarinus",
+    "image_type": "image_1",
+    "artifact_score": 35,
+    "quality_score": 63,
+    "flags": [
+      "Low saturation (54.0%)",
+      "Many straight lines (ruler/paper?)"
+    ],
+    "path": "species/cancin/image_1.webp"
+  },
+  {
+    "species_id": "rambot",
+    "scientific_name": "Ramaria botrytis",
+    "image_type": "image_1",
+    "artifact_score": 35,
+    "quality_score": 67,
+    "flags": [
+      "Low saturation (42.8%)",
+      "Many straight lines (ruler/paper?)"
+    ],
+    "path": "species/rambot/image_1.webp"
+  },
+  {
+    "species_id": "ruscla",
+    "scientific_name": "Russula claroflava",
+    "image_type": "image_0",
+    "artifact_score": 35,
+    "quality_score": 47,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (82.8%)",
+      "Limited colors (256)"
+    ],
+    "path": "species/ruscla/image_0.webp"
+  },
+  {
+    "species_id": "cancib",
+    "scientific_name": "Cantharellus cibarius",
+    "image_type": "image_1",
+    "artifact_score": 30,
+    "quality_score": 53,
+    "flags": [
+      "Low saturation (42.2%)",
+      "Uniform background (74.7%)"
+    ],
+    "path": "species/cancib/image_1.webp"
+  },
+  {
+    "species_id": "trefuc",
+    "scientific_name": "Tremella fuciformis",
+    "image_type": "image_0",
+    "artifact_score": 30,
+    "quality_score": 61,
+    "flags": [
+      "Low saturation (66.3%)",
+      "Uniform background (78.4%)"
+    ],
+    "path": "species/trefuc/image_0.webp"
+  },
+  {
+    "species_id": "agaaug",
+    "scientific_name": "Agaricus augustus",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 65,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (54.1%)"
+    ],
+    "path": "species/agaaug/image_0.webp"
+  },
+  {
+    "species_id": "bovpil",
+    "scientific_name": "Bovista pila",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 65,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (69.3%)"
+    ],
+    "path": "species/bovpil/image_0.webp"
+  },
+  {
+    "species_id": "bovpil",
+    "scientific_name": "Bovista pila",
+    "image_type": "image_1",
+    "artifact_score": 25,
+    "quality_score": 65,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (75.2%)"
+    ],
+    "path": "species/bovpil/image_1.webp"
+  },
+  {
+    "species_id": "canapp",
+    "scientific_name": "Cantharellus appalachiensis",
+    "image_type": "image_1",
+    "artifact_score": 25,
+    "quality_score": 45,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (77.8%)"
+    ],
+    "path": "species/canapp/image_1.webp"
+  },
+  {
+    "species_id": "cancal",
+    "scientific_name": "Cantharellus californicus",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 66,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (53.0%)"
+    ],
+    "path": "species/cancal/image_0.webp"
+  },
+  {
+    "species_id": "cancib",
+    "scientific_name": "Cantharellus cibarius",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 57,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (54.8%)"
+    ],
+    "path": "species/cancib/image_0.webp"
+  },
+  {
+    "species_id": "cancin",
+    "scientific_name": "Cantharellus cinnabarinus",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 64,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (52.5%)"
+    ],
+    "path": "species/cancin/image_0.webp"
+  },
+  {
+    "species_id": "canlat",
+    "scientific_name": "Cantharellus lateritius",
+    "image_type": "image_1",
+    "artifact_score": 25,
+    "quality_score": 69,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (55.2%)"
+    ],
+    "path": "species/canlat/image_1.webp"
+  },
+  {
+    "species_id": "cantex",
+    "scientific_name": "Cantharellus texensis",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 46,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (69.7%)"
+    ],
+    "path": "species/cantex/image_0.webp"
+  },
+  {
+    "species_id": "hydalb",
+    "scientific_name": "Hydnum albidum",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 60,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (52.5%)"
+    ],
+    "path": "species/hydalb/image_0.webp"
+  },
+  {
+    "species_id": "lacdet",
+    "scientific_name": "Lactarius deterrimus",
+    "image_type": "image_1",
+    "artifact_score": 25,
+    "quality_score": 66,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (66.8%)"
+    ],
+    "path": "species/lacdet/image_1.webp"
+  },
+  {
+    "species_id": "ruscla",
+    "scientific_name": "Russula claroflava",
+    "image_type": "image_1",
+    "artifact_score": 25,
+    "quality_score": 44,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (84.2%)"
+    ],
+    "path": "species/ruscla/image_1.webp"
+  },
+  {
+    "species_id": "ruspal",
+    "scientific_name": "Russula paludosa",
+    "image_type": "image_0",
+    "artifact_score": 25,
+    "quality_score": 66,
+    "flags": [
+      "Many straight lines (ruler/paper?)",
+      "Uniform background (65.2%)"
+    ],
+    "path": "species/ruspal/image_0.webp"
+  },
+  {
+    "species_id": "canapp",
+    "scientific_name": "Cantharellus appalachiensis",
+    "image_type": "thumb",
+    "artifact_score": 20,
+    "quality_score": 42,
+    "flags": [
+      "Uniform background (88.7%)",
+      "Limited colors (250)"
+    ],
+    "path": "species/canapp/thumb.webp"
+  },
+  {
+    "species_id": "ruscla",
+    "scientific_name": "Russula claroflava",
+    "image_type": "thumb",
+    "artifact_score": 20,
+    "quality_score": 42,
+    "flags": [
+      "Uniform background (82.1%)",
+      "Limited colors (205)"
+    ],
+    "path": "species/ruscla/thumb.webp"
+  }
+]

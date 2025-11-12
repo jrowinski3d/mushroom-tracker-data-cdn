@@ -1,7 +1,7 @@
 {
   "mushroom_id": "phosqu",
   "scientific_name": "Pholiota squarrosa",
-  "common_name": "Pholiota squarrosa",
+  "common_name": "Shaggy Scalycap",
   "edibility": "E",
   "description": "Scaly Pholiota or Shaggy Scalycap is a medium to large mushroom with a cap 5-15 cm across, convex becoming broadly convex or flat. The cap is pale yellow to yellow-brown or ochre, densely covered with upturned recurved brown to reddish-brown scales, especially toward the center, giving a very shaggy appearance. The gills are adnate to subdecurrent, initially pale yellow becoming rust-brown with age. The stem is 5-15 cm tall, stout, pale yellow above the ring, covered with brown scales below the ring. The ring is thick and persistent. The flesh is pale yellow with a radish-like or somewhat unpleasant odor.",
   "habitat": "Found on dead and living hardwood trees, particularly beech, maple, oak, and poplar. Grows in dense overlapping clusters at the base of trees, on stumps, or on fallen logs. Acts as a wood decomposer and sometimes a weak parasite. Very common on street trees and in parks. Fruits in tight clustered groups, often with dozens of individuals.",
@@ -24,14 +24,14 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1706134.jpg",
-      "photographer": "Huafang",
+      "source_url": "https://mushroomobserver.org/images/640/1694482.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2024-09-09",
-      "file_size_bytes": 28108,
-      "width": 640,
-      "height": 491,
-      "sha256": "548cd8649ee8eaccc80e4de10eecf41fdf720daa9dd777a22e2dd43b1daa0c33"
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 132484,
+      "width": 480,
+      "height": 640,
+      "sha256": "3d084ecd15ffe19ff9895f7eb226bc1aa8c2869cf25c8f0bd05b5612f5085c25"
     },
     {
       "index": 1,
@@ -46,5 +46,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:49:48.480026"
 }

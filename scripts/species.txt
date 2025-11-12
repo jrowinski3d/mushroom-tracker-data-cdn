@@ -1,0 +1,255 @@
+# Mushroom Species List for CDN Expansion
+# Comments start with # and are ignored
+# One scientific name per line
+# Focus: Edible species for North American foragers
+
+# ============================================
+# MORELS (Morchella) - 8 species
+# ============================================
+Morchella esculenta
+Morchella americana
+Morchella importuna
+Morchella punctipes
+Morchella elata
+Morchella semilibera
+Morchella snyderi
+Morchella tomentosa
+
+# ============================================
+# CHANTERELLES (Cantharellus) - 12 species
+# ============================================
+Cantharellus cibarius
+Cantharellus formosus
+Cantharellus cascadensis
+Cantharellus californicus
+Cantharellus lateritius
+Cantharellus cinnabarinus
+Cantharellus appalachiensis
+Cantharellus texensis
+Cantharellus roseocanus
+Cantharellus persicinus
+Cantharellus subalbidus
+Craterellus cornucopioides
+Craterellus tubaeformis
+Craterellus ignicolor
+
+# ============================================
+# BOLETES (Boletus, Leccinum, Suillus) - 20 species
+# ============================================
+Boletus edulis
+Boletus aereus
+Boletus variipes
+Boletus rubriceps
+Boletus rex-veris
+Boletus subcaerulescens
+Boletus pinophilus
+Leccinum aurantiacum
+Leccinum insigne
+Leccinum manzanitae
+Leccinum scabrum
+Suillus luteus
+Suillus brevipes
+Suillus lakei
+Suillus granulatus
+Suillus grevillei
+Suillus pungens
+Tylopilus felleus
+Xerocomellus zelleri
+Aureoboletus mirabilis
+
+# ============================================
+# OYSTER MUSHROOMS & RELATIVES - 8 species
+# ============================================
+Pleurotus ostreatus
+Pleurotus pulmonarius
+Pleurotus populinus
+Pleurotus eryngii
+Hypsizygus ulmarius
+Hohenbuehelia petaloides
+Panellus serotinus
+
+# ============================================
+# PUFFBALLS (Calvatia, Lycoperdon, Bovista) - 10 species
+# ============================================
+Calvatia gigantea
+Calvatia booniana
+Calvatia cyathiformis
+Calvatia fragilis
+Lycoperdon perlatum
+Lycoperdon pyriforme
+Lycoperdon curtisii
+Handkea utriformis
+Bovista pila
+Calbovista subsculpta
+
+# ============================================
+# CHICKEN & HEN OF THE WOODS - 8 species
+# ============================================
+Laetiporus sulphureus
+Laetiporus gilbertsonii
+Laetiporus cincinnatus
+Laetiporus conifericola
+Laetiporus huroniensis
+Grifola frondosa
+Meripilus sumstinei
+Polyporus umbellatus
+
+# ============================================
+# HEDGEHOG MUSHROOMS (Hydnum) - 6 species
+# ============================================
+Hydnum repandum
+Hydnum umbilicatum
+Hydnum albidum
+Hydnum rufescens
+Sarcodon imbricatus
+Hericium erinaceus
+Hericium americanum
+Hericium coralloides
+Hericium abietis
+
+# ============================================
+# HONEY MUSHROOMS (Armillaria) - 6 species
+# ============================================
+Armillaria mellea
+Armillaria ostoyae
+Armillaria gallica
+Armillaria solidipes
+Armillaria sinapina
+Armillaria tabescens
+
+# ============================================
+# MATSUTAKE & RELATIVES - 4 species
+# ============================================
+Tricholoma matsutake
+Tricholoma magnivelare
+Tricholoma murrillianum
+Tricholoma caligatum
+
+# ============================================
+# PARASOLS & RELATIVES (Macrolepiota, Chlorophyllum) - 6 species
+# ============================================
+Macrolepiota procera
+Macrolepiota americana
+Chlorophyllum rhacodes
+Chlorophyllum brunneum
+Leucoagaricus leucothites
+Lepiota clypeolaria
+
+# ============================================
+# MEADOW & FIELD MUSHROOMS (Agaricus) - 10 species
+# ============================================
+Agaricus arvensis
+Agaricus campestris
+Agaricus augustus
+Agaricus bitorquis
+Agaricus bernardii
+Agaricus blazei
+Agaricus silvicola
+Agaricus subrufescens
+Agaricus subrutilescens
+Agaricus crocodilinus
+
+# ============================================
+# MILKCAPS (Lactarius, Lactifluus) - 12 species
+# ============================================
+Lactarius deliciosus
+Lactarius rubrilacteus
+Lactarius thyinos
+Lactarius sanguifluus
+Lactarius deterrimus
+Lactifluus volemus
+Lactifluus corrugis
+Lactifluus hygrophoroides
+Lactarius indigo
+Lactarius paradoxus
+Lactarius subpurpureus
+Lactarius rufus
+
+# ============================================
+# BRITTLEGILLS (Russula) - 15 species
+# ============================================
+Russula brevipes
+Russula cyanoxantha
+Russula vesca
+Russula aeruginea
+Russula virescens
+Russula xerampelina
+Russula integra
+Russula claroflava
+Russula paludosa
+Russula laurocerasi
+Russula sanguinaria
+Russula sardonia
+Russula olivacea
+Russula densifolia
+Russula cascadensis
+
+# ============================================
+# WOOD EARS & JELLY FUNGI - 8 species
+# ============================================
+Auricularia auricula-judae
+Auricularia americana
+Tremella mesenterica
+Tremella fuciformis
+Pseudohydnum gelatinosum
+Exidia glandulosa
+Calocera viscosa
+Dacrymyces chrysospermus
+
+# ============================================
+# CORAL & CLUB FUNGI - 8 species
+# ============================================
+Ramaria botrytis
+Ramaria aurea
+Ramaria formosa
+Clavariadelphus truncatus
+Clavariadelphus pistillaris
+Clavulina cristata
+Sparassis crispa
+Sparassis radicata
+
+# ============================================
+# LOBSTER MUSHROOM & PARASITIC - 3 species
+# ============================================
+Hypomyces lactifluorum
+Hypomyces chrysospermus
+Tolypocladium ophioglossoides
+
+# ============================================
+# SULFUR SHELF & BRACKET FUNGI - 6 species
+# ============================================
+Fistulina hepatica
+Bondarzewia berkeleyi
+Albatrellus ovinus
+Albatrellus confluens
+Cerioporus squamosus
+Laetiporus miniatus
+
+# ============================================
+# SHAGGY MANE & INK CAPS - 5 species
+# ============================================
+Coprinus comatus
+Coprinopsis atramentaria
+Coprinellus micaceus
+Coprinellus disseminatus
+Coprinopsis lagopus
+
+# ============================================
+# BLEWITS & RELATIVES - 5 species
+# ============================================
+Lepista nuda
+Lepista irina
+Clitocybe nuda
+Lepista sordida
+Clitocybe nebularis
+
+# ============================================
+# BEEFSTEAK POLYPORE & OTHERS - 4 species
+# ============================================
+Phaeolus schweinitzii
+Neolentinus lepideus
+Lentinus tigrinus
+Pholiota squarrosa
+
+# Total: 175+ edible species
+# All commonly found in North America with good Mushroom Observer coverage

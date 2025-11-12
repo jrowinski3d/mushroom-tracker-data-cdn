@@ -1,7 +1,7 @@
 {
   "mushroom_id": "macpro",
   "scientific_name": "Macrolepiota procera",
-  "common_name": "Macrolepiota procera",
+  "common_name": "Parasol Mushroom",
   "edibility": "E",
   "description": "The Parasol Mushroom is a large, impressive species with a distinctive umbrella-shaped cap reaching 10-30 cm across, covered in upturned brown scales on a cream background forming a snakeskin pattern. The cap is mounted on a tall slender stem (15-35 cm) with a thick double-edged movable ring and brown snake-like scaly patterns below the ring. The gills are free (not attached to stem), white becoming cream with age, and crowded. The white flesh has a mild nutty flavor and does not bruise or change color when cut.",
   "habitat": "Found in grassy areas including pastures, meadows, lawn edges, woodland clearings, parks, and roadsides. Grows terrestrially (not on wood) in nutrient-rich soil, often in disturbed areas. Typically fruits scattered or in small groups, sometimes in fairy rings. Prefers areas with moderate sun exposure and well-drained soil.",
@@ -25,7 +25,7 @@
     {
       "index": 0,
       "source_url": "https://mushroomobserver.org/images/640/1707981.jpg",
-      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "photographer": "Duï¿½ï¿½an",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "observation_date": "2024-09-16",
       "file_size_bytes": 126726,
@@ -36,7 +36,7 @@
     {
       "index": 1,
       "source_url": "https://mushroomobserver.org/images/640/1590126.jpg",
-      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "photographer": "Duï¿½ï¿½an",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
       "observation_date": "2022-10-03",
       "file_size_bytes": 126206,

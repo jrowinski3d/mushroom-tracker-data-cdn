@@ -1,7 +1,7 @@
 {
   "mushroom_id": "morsny",
   "scientific_name": "Morchella snyderi",
-  "common_name": "Morchella snyderi",
+  "common_name": "Snyder's Morel",
   "edibility": "E",
   "description": "Cap 3-10 cm (1.2-4 in) tall, conical to elongated, honeycomb pattern of ridges and pits. Color distinctive: young fruiting bodies yellow to tan, maturing to brown or blackish-brown on cap ridges while pits remain paler; dried specimens turn dark brown to black. Despite light initial coloration, genetically groups with black morels (elata clade). Stem proportional to cap, pale, hollow, smooth to slightly wrinkled. Completely hollow from cap tip through stem when sectioned lengthwise. Spore print cream to yellowish.",
   "habitat": "Found under conifers in western montane forests, particularly associated with Douglas fir (Pseudotsuga menziesii), ponderosa pine (Pinus ponderosa), and white fir (Abies concolor). Fruits in undisturbed old-growth conifer forest, lightly disturbed areas like campgrounds and forest roads, and areas with heavy machinery disturbance and woody debris. Unlike many western morels, NOT primarily fire-dependent; may appear several years after burns but commonly fruits in unburned forests. One of few western morels reliably found in natural settings without recent fire.",
@@ -43,5 +43,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "last_updated": "2025-11-10T11:18:57.300097"
 }

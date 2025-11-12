@@ -1,7 +1,7 @@
 {
   "mushroom_id": "canapp",
   "scientific_name": "Cantharellus appalachiensis",
-  "common_name": "Cantharellus appalachiensis",
+  "common_name": "Appalachian Chanterelle",
   "edibility": "E",
   "description": "The Appalachian Chanterelle has a golden-yellow to bright orange-yellow cap 3-12 cm wide with a smooth to slightly wrinkled surface. The cap becomes funnel-shaped with age and has wavy, irregular margins. The underside features well-defined, thick, blunt, forked ridges (NOT true gills) that are bright yellow to orange-yellow, widely spaced, and prominently run down the stem. The ridges are more pronounced than C. lateritius but similar to C. cibarius. The stem is solid, firm, 3-9 cm tall, yellow to orange-yellow, often club-shaped. Flesh is white to pale yellow, firm, with a fruity apricot aroma. Spore print is pale yellow to cream.",
   "habitat": "Mycorrhizal with eastern hardwoods, particularly white oak, red oak, American beech, hickory, and tulip poplar. Found in mature mixed hardwood forests throughout the Appalachian region. Prefers well-drained mountain slopes, coves, and ridges with thick leaf litter and acidic soils.",
@@ -44,5 +44,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T00:00:00.000000"
+  "last_updated": "2025-11-10T11:54:26.207174"
 }

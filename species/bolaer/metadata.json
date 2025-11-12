@@ -1,7 +1,7 @@
 {
   "mushroom_id": "bolaer",
   "scientific_name": "Boletus aereus",
-  "common_name": "Boletus aereus",
+  "common_name": "Bronze Bolete",
   "edibility": "E",
   "description": "The Bronze Bolete displays a distinctive dark brown to bronze-black cap (6-20 cm) with velvety texture when young, becoming smooth with age. Pores are white when young, aging to yellow-green, with no bruising reaction. The stout, bulbous stem is pale brown with white reticulation concentrated near the apex. White flesh does not change color when cut. Spore print is olive-brown.",
   "habitat": "Mycorrhizal primarily with oak trees, occasionally with beech and chestnut in mixed hardwood forests. Prefers warm, dry habitats with well-drained soils. Often found on hillsides and forest margins.",
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.585198"
 }

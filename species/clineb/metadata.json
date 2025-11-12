@@ -1,7 +1,7 @@
 {
   "mushroom_id": "clineb",
   "scientific_name": "Clitocybe nebularis",
-  "common_name": "Clitocybe nebularis",
+  "common_name": "Clouded Funnel",
   "edibility": "E",
   "description": "The Clouded Clitocybe or Cloudy Funnel is a large robust mushroom with a cap 8-20 cm across, initially convex with inrolled margin becoming flat to funnel-shaped with age. The cap is grayish-brown, gray-tan, or clouded gray (like a cloudy sky), often with darker and lighter zones giving a streaky appearance. The surface is smooth, dry to greasy. The gills are adnate to slightly decurrent, crowded, white to cream. The stem is 6-12 cm tall, stout, pale gray to buff, fibrous. The flesh is thick, white, with a strong sweet floral or sickly-sweet odor (not always pleasant).",
   "habitat": "Found in deciduous and coniferous forests, woodland edges, and leaf litter. Grows as a litter decomposer in rich humus. Fruits scattered to gregarious, often in large troops or fairy rings. Prefers areas with abundant organic matter and deep leaf litter.",
@@ -23,14 +23,14 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1651551.jpg",
-      "photographer": "",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2024-01-13",
-      "file_size_bytes": 20638,
-      "width": 482,
+      "source_url": "https://mushroomobserver.org/images/640/1725219.jpg",
+      "photographer": "(c) Myles McSweeney, all rights reserved",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "observation_date": "2024-10-19",
+      "file_size_bytes": 81968,
+      "width": 480,
       "height": 640,
-      "sha256": "62bc7f1d4105bbafb211871b04fc2cf8fbf52774708c3f16fe85f993017d9aae"
+      "sha256": "f8ae6f9c3be27230a239ee41370dc50235addd10926c1999c368e9f9a4ba2f91"
     },
     {
       "index": 1,
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:54:26.271746"
 }

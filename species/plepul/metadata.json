@@ -1,7 +1,7 @@
 {
   "mushroom_id": "plepul",
   "scientific_name": "Pleurotus pulmonarius",
-  "common_name": "Pleurotus pulmonarius",
+  "common_name": "Phoenix Oyster",
   "edibility": "E",
   "description": "Fan to oyster-shaped caps 2-8 inches wide, white to pale cream or light tan. Smooth surface with decurrent white gills and lateral to absent stem. Very similar to P. ostreatus but generally paler in color and fruits during warmer months. Grows in dense overlapping clusters on hardwood. White spore print.",
   "habitat": "Saprobic on dead and dying hardwood trees, logs, and stumps, particularly oak, beech, maple, elm, and other deciduous trees. Forms dense overlapping shelves from wood. Common on standing dead trees and fallen logs in hardwood and mixed forests.",
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T18:30:00.000000"
+  "last_updated": "2025-11-10T11:18:57.352015"
 }

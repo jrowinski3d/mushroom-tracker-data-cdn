@@ -1,7 +1,7 @@
 {
   "mushroom_id": "hyplac",
   "scientific_name": "Hypomyces lactifluorum",
-  "common_name": "Hypomyces lactifluorum",
+  "common_name": "Lobster Mushroom",
   "edibility": "E",
   "description": "Lobster Mushroom is not actually a mushroom but a bright orange parasitic fungus that transforms its host mushrooms (Russula and Lactarius species) into edible specimens. The infected mushroom becomes entirely covered with a hard bright orange to red-orange crust. The shape retains the form of the host (often showing gills or pores), but the surface is rough, pimpled, or warty. Size varies 5-15 cm depending on host. The flesh is white marbled with orange, firm and dense. The entire structure becomes rigid and heavy. Has a seafood-like aroma resembling cooked lobster or shrimp.",
   "habitat": "Found in coniferous and mixed forests where its host species (Russula and Lactarius milk caps) grow. The parasite colonizes underground buttons and young mushrooms of susceptible species. Most commonly parasitizes white or pale Russula species and Lactarius species. Fruits where hosts are abundant, scattered to gregarious. Prefers areas with rich soil and host mycorrhizal associations.",
@@ -46,5 +46,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.452340"
 }

@@ -1,7 +1,7 @@
 {
   "mushroom_id": "morimp",
   "scientific_name": "Morchella importuna",
-  "common_name": "Morchella importuna",
+  "common_name": "Landscape Morel",
   "edibility": "E",
   "description": "Fruiting body 6-20 cm (2.4-8 in) high overall. Cap 3-15 cm (1.2-6 in) tall, 2-9 cm wide at widest point, conical to widely conical or occasionally egg-shaped, with distinctive ladder-like honeycomb pattern featuring 12-20 prominent primary vertical ridges intersected by numerous horizontal ridges creating rectangular pits. Color typically darker than yellow morels, ranging from tan to brown to grayish-brown. Stem hollow, proportional to cap. Completely hollow when sectioned. Spore print cream.",
   "habitat": "Distinctive urban and landscape morel found in wood chip mulch beds, gardens, fire pits, planters, landscaped areas, and disturbed ground in residential and commercial settings. Unlike most morels which are mycorrhizal, M. importuna is largely saprotrophic (decomposes wood chips and organic matter independently). Strongly associated with fresh wood chip mulch in ornamental plantings, parks, and urban green spaces. Rarely found in natural forest settings.",
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T19:30:00.000000"
+  "last_updated": "2025-11-10T11:18:57.697677"
 }

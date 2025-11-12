@@ -1,7 +1,7 @@
 {
   "mushroom_id": "sparad",
   "scientific_name": "Sparassis radicata",
-  "common_name": "Sparassis radicata",
+  "common_name": "Rooting Cauliflower Mushroom",
   "edibility": "E",
   "description": "Rooting Cauliflower is similar to S. crispa, forming cream to golden-yellow masses 10-30 cm across resembling cauliflower. The fruitbody consists of numerous thin frilled wavy lobes or flattened branches from a central base. Color is typically brighter yellow to golden-yellow than S. crispa. The texture is crisp when fresh. The base has a distinct rooting structure (radicating base) that extends deep into the soil to reach buried hardwood roots. The lobes are densely crisped and packed.",
   "habitat": "Found at the base of hardwood trees, particularly oak, rarely on conifers. Grows as a root parasite on living trees or from buried roots of dead hardwoods. The rooting base extends deep to reach roots. Fruits at tree bases, appearing to emerge from the ground. Prefers mature hardwood forests.",
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.522645"
 }

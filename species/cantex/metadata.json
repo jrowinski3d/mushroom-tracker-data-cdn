@@ -1,7 +1,7 @@
 {
   "mushroom_id": "cantex",
   "scientific_name": "Cantharellus texensis",
-  "common_name": "Cantharellus texensis",
+  "common_name": "Texas Chanterelle",
   "edibility": "E",
   "description": "The Texas Chanterelle has a smooth, orange-yellow to golden-yellow cap 3-10 cm wide with a slightly velvety texture when young. The cap becomes shallowly funnel-shaped with age and has wavy, irregular margins. The underside features thick, blunt, forked ridges (NOT true gills) that are yellow to orange-yellow, moderately spaced, and run down the stem. The stem is solid, 3-8 cm tall, smooth, yellow to orange-yellow, often tapering downward. Flesh is white to pale yellow, firm, with a mild fruity aroma. Spore print is white to pale yellow.",
   "habitat": "Mycorrhizal primarily with oak species (especially post oak, live oak, and red oak), also found with hickory and pecan in bottomland hardwood forests. Common in oak-dominated woodlands, riparian forests, and parks throughout its range. Prefers sandy, well-drained soils typical of the Gulf Coast plain.",
@@ -44,5 +44,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T00:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.230118"
 }

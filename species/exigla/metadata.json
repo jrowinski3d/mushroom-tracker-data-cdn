@@ -1,7 +1,7 @@
 {
   "mushroom_id": "exigla",
   "scientific_name": "Exidia glandulosa",
-  "common_name": "Exidia glandulosa",
+  "common_name": "Black Witch's Butter",
   "edibility": "E",
   "description": "Black Jelly Roll forms black button or disc-shaped gelatinous masses 0.5-3 cm across, often in crowded groups. Individual buttons are initially top-shaped, becoming flattened disc or brain-like with maturity. The surface is smooth to wrinkled, jet black to dark brown-black when fresh and moist, becoming hard and shiny when dry. Texture is firm-gelatinous, rubbery. The fruitbodies are covered with translucent glandular dots (visible with magnification). Revives and swells when rehydrated.",
   "habitat": "Found on dead branches and logs of hardwood trees, particularly oak, beech, hazel, and other deciduous species. Common on fallen branches on the forest floor and standing deadwood. Grows in dense clusters along branches. Abundant in deciduous forests, woodland edges, and parks. Fruits prolifically on suitable substrates.",
@@ -23,27 +23,27 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1733297.jpg",
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
       "photographer": "Dave W",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2025-01-01",
-      "file_size_bytes": 33576,
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
       "width": 640,
-      "height": 532,
-      "sha256": "1d66c7232ec11f051027ebc7a5cc00cd7a6c466c692273896f458d7d388902ca"
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
     },
     {
       "index": 1,
-      "source_url": "https://mushroomobserver.org/images/640/1733298.jpg",
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
       "photographer": "Dave W",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2025-01-01",
-      "file_size_bytes": 37262,
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
       "width": 640,
-      "height": 527,
-      "sha256": "f528e39e3877f7b1d2bb0df7148c3d9b3284a87fa71a4427b57797587b462a54"
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:35:46.206842"
 }

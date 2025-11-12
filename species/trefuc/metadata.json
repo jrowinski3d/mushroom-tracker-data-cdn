@@ -1,7 +1,7 @@
 {
   "mushroom_id": "trefuc",
   "scientific_name": "Tremella fuciformis",
-  "common_name": "Tremella fuciformis",
+  "common_name": "Snow Fungus",
   "edibility": "E",
   "description": "Snow Fungus is a white to pale yellow jelly fungus forming soft frilly masses resembling sea coral or snow. Fruitbodies 5-15 cm across when fresh, composed of thin, branched, translucent lobes with a delicate ruffled appearance. Color is pure white to pale cream or light yellow. Texture is soft, gelatinous, and trembling. The lobes are thin and petal-like, creating an intricate lacey structure. Becomes hard and shrunken when dry, reviving when moistened.",
   "habitat": "Found on dead branches and wood of broadleaf trees, typically high on standing dead trees or fallen logs. Often parasitic on other wood-decay fungi. In nature, found on hardwoods in forests. Widely cultivated commercially on hardwood sawdust substrate. Prefers warm humid environments.",
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.173269"
 }

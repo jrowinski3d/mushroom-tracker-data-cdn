@@ -1,7 +1,7 @@
 {
   "mushroom_id": "lecman",
   "scientific_name": "Leccinum manzanitae",
-  "common_name": "Leccinum manzanitae",
+  "common_name": "Manzanita Bolete",
   "edibility": "E",
   "description": "The Manzanita Bolete features a reddish-brown to dark brown cap (5-15 cm) with dry, velvety to smooth surface. Pores are white when young, aging to olive-gray, bruising brownish. The whitish to pale brown stem is covered with brown to dark brown scabers (rough scales). White flesh stains pinkish-brown when cut, eventually darkening to gray. Spore print is olive-brown.",
   "habitat": "Mycorrhizal exclusively with manzanita (Arctostaphylos species) in chaparral and mixed oak-madrone forests. Forms obligate associations with manzanita shrubs. Found in coastal forests and foothill woodlands with manzanita understory.",
@@ -24,27 +24,27 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/510405.jpg",
-      "photographer": "Michael Cain",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2015-01-18",
-      "file_size_bytes": 30212,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
       "width": 640,
-      "height": 427,
-      "sha256": "d4ab296e6e86b90972ae40dd12b0932ceb73c6ce1018dfa648e1920657669819"
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
     },
     {
       "index": 1,
-      "source_url": "https://mushroomobserver.org/images/640/510407.jpg",
-      "photographer": "Michael Cain",
-      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2015-01-18",
-      "file_size_bytes": 37838,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
       "width": 640,
-      "height": 427,
-      "sha256": "d243ff699a47b4be618893c861cc6648c81e25f1f7b298859ec2abcb293950fc"
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:54:26.240957"
 }

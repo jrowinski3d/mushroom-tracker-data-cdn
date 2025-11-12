@@ -1,7 +1,7 @@
 {
   "mushroom_id": "laecon",
   "scientific_name": "Laetiporus conifericola",
-  "common_name": "Laetiporus conifericola",
+  "common_name": "Chicken of the Woods",
   "edibility": "E",
   "description": "Bright orange to salmon bracket with sulfur-yellow pore surface, forming large overlapping shelves 2-12 inches wide on conifers. Similar appearance to L. sulphureus but distinguished by conifer hosts in western mountains. Soft and succulent when young, tough with age. Multiple brackets form rosettes on conifer trunks and logs. Annual bracket with bright colors.",
   "habitat": "Parasitic and saprobic specifically on living and dead conifer trees in western mountains, particularly Douglas-fir, western larch, hemlock, and other conifers. Forms large shelving brackets on trunks, stumps, and logs. Causes brown cubical heart rot in conifers. Montane and subalpine coniferous forests.",
@@ -24,27 +24,27 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1602787.jpg",
-      "photographer": "",
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2023-01-14",
-      "file_size_bytes": 34208,
-      "width": 640,
-      "height": 480,
-      "sha256": "2b97ee1ae6745baabad46a063aa20fd2097a9a3cb9033e40b031cce4cc2534fc"
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
     },
     {
       "index": 1,
-      "source_url": "https://mushroomobserver.org/images/640/1602788.jpg",
-      "photographer": "",
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2023-01-14",
-      "file_size_bytes": 34708,
-      "width": 640,
-      "height": 480,
-      "sha256": "83b991a65a88f9fc012b5dd1512d51c7b57828ad45825ff9175437db152a2f3b"
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T18:30:00.000000"
+  "last_updated": "2025-11-10T11:54:26.139829"
 }

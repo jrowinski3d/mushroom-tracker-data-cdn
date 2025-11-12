@@ -1,7 +1,7 @@
 {
   "mushroom_id": "laesul",
   "scientific_name": "Laetiporus sulphureus",
-  "common_name": "Laetiporus sulphureus",
+  "common_name": "Chicken of the Woods",
   "edibility": "E",
   "description": "Striking bright sulfur-yellow to orange bracket fungus forming large overlapping shelves 2-12 inches wide. Upper surface bright orange to salmon, lower pore surface bright sulfur-yellow. Soft, succulent, and chicken-like texture when young, becoming tough and crumbly with age. No stem. Annual fruiting body. White rot fungus with sulfur-yellow pore surface distinctive.",
   "habitat": "Parasitic and saprobic on living and dead hardwood trees, particularly oak, cherry, willow, and other deciduous species. Forms large rosettes or shelving brackets on trunks, stumps, and fallen logs. Causes brown cubical heart rot. Common on oaks in eastern forests.",
@@ -46,5 +46,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T18:30:00.000000"
+  "last_updated": "2025-11-10T11:18:57.487276"
 }

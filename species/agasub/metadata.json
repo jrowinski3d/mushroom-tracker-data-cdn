@@ -1,7 +1,7 @@
 {
   "mushroom_id": "agasub",
   "scientific_name": "Agaricus subrutilescens",
-  "common_name": "Agaricus subrutilescens",
+  "common_name": "Wine-colored Agaricus",
   "edibility": "E",
   "description": "The Wine-colored Agaricus is a medium to large species with a cap 8-20 cm across, initially rounded becoming broadly convex to flat. The cap is white to cream with brown to reddish-brown fibrillose scales, often developing wine-red to pinkish-red stains with age or handling. The gills are free, initially pale pink becoming dark chocolate brown. The stem is 6-15 cm tall, white above the ring, staining wine-red to pinkish especially at the base (diagnostic feature). The ring is large and pendant. The flesh is white, slowly staining pinkish to wine-red when cut, with a pleasant almond-anise odor.",
   "habitat": "Found in coniferous and mixed forests, particularly under pine, fir, and spruce. Also in urban areas with conifers, landscaped areas with wood chips and bark mulch. Grows terrestrially in humus-rich soil and decomposing woody debris. Fruits scattered to gregarious, often in troops in wood chip beds.",
@@ -46,5 +46,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:18:57.615608"
 }

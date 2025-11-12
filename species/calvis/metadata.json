@@ -1,7 +1,7 @@
 {
   "mushroom_id": "calvis",
   "scientific_name": "Calocera viscosa",
-  "common_name": "Calocera viscosa",
+  "common_name": "Yellow Stagshorn",
   "edibility": "E",
   "description": "Yellow Stagshorn is a bright yellow to orange jelly fungus forming small upright coral-like branches 2-6 cm tall. The fruitbody consists of multiple cylindrical to flattened branches that fork dichotomously (split into two equal parts repeatedly). Color is bright golden-yellow to orange-yellow. Texture is tough-gelatinous, somewhat rubbery and sticky (viscid) when fresh. The branches are 2-5 mm wide and may have pointed or forked tips. Base may be fused together or have short stems. Becomes dark orange and shriveled when dry.",
   "habitat": "Found on dead conifer logs, stumps, and buried wood, particularly pine, spruce, and fir. Grows on well-rotted wood or emerging from woody debris in soil. Common in coniferous and mixed forests. Fruits scattered to gregarious, often on the same logs year after year. Prefers moist cool forests with abundant conifer debris.",
@@ -24,27 +24,27 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1606342.jpg",
-      "photographer": "",
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2023-01-15",
-      "file_size_bytes": 12936,
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
       "width": 640,
       "height": 480,
-      "sha256": "0f76d33b6167d2908975c452d9a554e99c8bff8d404915e22e22e0a9114890fc"
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
     },
     {
       "index": 1,
-      "source_url": "https://mushroomobserver.org/images/640/1606343.jpg",
-      "photographer": "",
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2023-01-15",
-      "file_size_bytes": 14994,
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
       "width": 640,
       "height": 480,
-      "sha256": "db32c1af8a4e499e46fcb478923f761814086ef551fc335644b511de3efcd3da"
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T20:00:00.000000"
+  "last_updated": "2025-11-10T11:54:26.101594"
 }

@@ -1,7 +1,7 @@
 {
   "mushroom_id": "pleost",
   "scientific_name": "Pleurotus ostreatus",
-  "common_name": "Pleurotus ostreatus",
+  "common_name": "Oyster Mushroom",
   "edibility": "E",
   "description": "Fan to oyster-shaped caps 2-10 inches wide, typically gray-brown to tan when young, fading to white. Smooth, moist surface with decurrent white gills running down the short lateral or absent stem. Grows in dense overlapping shelves from dead or dying hardwood logs and stumps. White spore print.",
   "habitat": "Saprobic on dead and dying hardwood trees, logs, and stumps, especially beech, oak, maple, and aspen. Forms dense clustered shelves growing from wood. Occasionally parasitic on stressed living trees. Common on fallen logs in mixed hardwood forests.",
@@ -23,14 +23,14 @@
   "images": [
     {
       "index": 0,
-      "source_url": "https://mushroomobserver.org/images/640/1733339.jpg",
-      "photographer": "Dave W",
+      "source_url": "https://mushroomobserver.org/images/640/1670345.jpg",
+      "photographer": "Huafang",
       "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "observation_date": "2025-01-01",
-      "file_size_bytes": 30648,
+      "observation_date": "2024-05-20",
+      "file_size_bytes": 67850,
       "width": 640,
-      "height": 599,
-      "sha256": "adf1af7e4d5f55a3316e39bfb3b1ff3d4723e8c1e49e356b5719e61fe7d25b99"
+      "height": 482,
+      "sha256": "4251e7d8ec1831c63cd96dc3e16d0730735f7b0eff7fb476e4b838cf3d599a1e"
     },
     {
       "index": 1,
@@ -45,5 +45,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T18:30:00.000000"
+  "last_updated": "2025-11-10T11:35:46.261591"
 }
