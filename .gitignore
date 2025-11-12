@@ -17,3 +17,4 @@ __pycache__/**
 scripts/.cache/**
 scripts/image_quality_report.json
 scripts/QUALITY_RECOMMENDATIONS.md
+scripts/mo_dataset_cache.csv
