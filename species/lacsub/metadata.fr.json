@@ -1,19 +1,22 @@
 {
   "mushroom_id": "lacsub",
   "scientific_name": "Lactarius subpurpureus",
-  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
-  "edibility": "E",
-  "description": "Le lactaire du groupe subdulcis présente un chapeau brun-rougeâtre (3-8 cm), lisse. Lames rose pâle. Pied de couleur similaire. CLÉ : LAIT BLANC, goût doux. Petite espèce aux couleurs rose-beige. Chair pâle. Sporée crème rosâtre.",
-  "habitat": "Mycorhizien des CONIFÈRES et des feuillus. Pousse dans les forêts mixtes. Dispersé.",
-  "season": "De l'été à l'automne (juillet-octobre).",
+  "common_name": "Lactarius subpurpureus",
+  "edibility": "U",
+  "description": "Lactarius subpurpureus est un lactaire de taille moyenne dont le chapeau mesure 3-10 cm de diamètre, d'abord convexe, puis plat à légèrement en entonnoir. Le chapeau est zoné ou tacheté de rouge vineux et de rose pâle, pâlit en chamois rosé et verdit au toucher. Les lames sont adnées à légèrement décurrentes, presque espacées, rouge vineux, et se tachent de vert à la manipulation ou avec l'âge. Le pied mesure 3-8 cm de long, est de la couleur du chapeau ou plus pâle, parfois scrobiculé, et devient creux. La chair est blanchâtre à rose. CLÉ : lait peu abondant, rouge vineux foncé, qui verdit lentement ; saveur douce à légèrement poivrée. Sporée crème pâle.",
+  "habitat": "Mycorhizien avec la pruche du Canada (Tsuga canadensis) et peut-être d'autres conifères, comme le pin blanc. Pousse au sol, isolé, dispersé ou en groupes, dans les forêts de conifères et les forêts mixtes.",
+  "season": "Été et automne.",
   "regions": [
-    "Est des États-Unis",
-    "Midwest"
+    "Nord-est de l'Amérique du Nord",
+    "Haut-Midwest",
+    "Appalaches",
+    "Est du Canada (y compris l'Ontario)"
   ],
   "lookalikes": [
-    "Autres petits lactaires — vérifier la couleur et le goût"
+    "Lactarius paradoxus - a aussi un lait rouge vineux, mais ses lames sont couleur mastic plutôt que rouge vineux",
+    "Groupe de Lactarius deliciosus - lait orange et chapeau orange qui verdissent aussi"
   ],
-  "safety_notes": "COMESTIBLE : Saveur douce. Le LAIT BLANC + le GOÛT DOUX sont diagnostiques pour ce sous-groupe. Meilleur jeune. Bien cuire.",
+  "safety_notes": "COMESTIBILITÉ NON CONFIRMÉE : Les sources consultées pour cette espèce n'évaluent pas sa comestibilité. Identifiez-la grâce à son lait peu abondant rouge vineux foncé et au verdissement du chapeau et des lames. Ne consommez aucun lactaire sans qu'un expert ait confirmé l'identification.",
   "images": [
     {
       "index": 0,
@@ -39,6 +42,6 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T22:00:00.000000",
+  "last_updated": "2026-10-14T00:00:00.000000",
   "source_language": "en"
 }

@@ -1,19 +1,22 @@
 {
   "mushroom_id": "lacsub",
   "scientific_name": "Lactarius subpurpureus",
-  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
-  "edibility": "E",
-  "description": "El níscalo del grupo subdulcis presenta un sombrero pardo-rojizo (3-8 cm), liso. Láminas de color rosa pálido. Pie de color similar. CLAVE: LÁTEX BLANCO, sabor suave. Especie pequeña de colores rosado-parduzcos. Carne pálida. Esporada de color crema rosado.",
-  "habitat": "Micorrícico con CONÍFERAS y frondosas. Crece en bosques mixtos. Disperso.",
-  "season": "Del verano al otoño (julio-octubre).",
+  "common_name": "Lactarius subpurpureus",
+  "edibility": "U",
+  "description": "Lactarius subpurpureus es un níscalo de tamaño mediano con un sombrero de 3-10 cm de ancho, convexo al principio y luego plano o en forma de embudo poco profundo. El sombrero presenta zonas o manchas de color rojo vino y rosa pálido, se decolora a beige rosado y se mancha de verde al tocarlo. Las láminas son adnatas a ligeramente decurrentes, casi espaciadas, de color rojo vino, y se manchan de verde al manipularlas o con la edad. El pie mide 3-8 cm de largo, es del color del sombrero o más pálido, a veces con hoyuelos, y se vuelve hueco. La carne es blanquecina a rosada. CLAVE: látex escaso, de color rojo vino intenso, que se mancha lentamente de verde; sabor suave a ligeramente picante. Esporada crema pálido.",
+  "habitat": "Micorrícico con el tsuga del este (Tsuga canadensis) y posiblemente otras coníferas, como el pino blanco del este. Crece en el suelo, solitario, disperso o en grupos, en bosques de coníferas y mixtos.",
+  "season": "Verano y otoño.",
   "regions": [
-    "este de EE. UU.",
-    "Medio Oeste"
+    "Noreste de Norteamérica",
+    "Alto Medio Oeste",
+    "Montes Apalaches",
+    "Este de Canadá (incluido Ontario)"
   ],
   "lookalikes": [
-    "Otros Lactarius pequeños: compruebe el color y el sabor"
+    "Lactarius paradoxus - también tiene látex rojo vino, pero sus láminas son de color masilla en lugar de rojo vino",
+    "Grupo de Lactarius deliciosus - látex naranja y sombrero naranja que también se manchan de verde"
   ],
-  "safety_notes": "COMESTIBLE: sabor suave. El LÁTEX BLANCO + SABOR SUAVE es diagnóstico del subgrupo. Mejor joven. Cocine bien.",
+  "safety_notes": "COMESTIBILIDAD NO CONFIRMADA: Las fuentes consultadas para esta especie no evalúan su comestibilidad. Identifícala por el látex escaso de color rojo vino intenso y por las manchas verdes del sombrero y las láminas. No comas ningún Lactarius a menos que un experto haya confirmado la identificación.",
   "images": [
     {
       "index": 0,
@@ -39,6 +42,6 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T22:00:00.000000",
+  "last_updated": "2026-10-14T00:00:00.000000",
   "source_language": "en"
 }

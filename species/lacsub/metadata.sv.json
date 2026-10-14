@@ -1,19 +1,22 @@
 {
   "mushroom_id": "lacsub",
   "scientific_name": "Lactarius subpurpureus",
-  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
-  "edibility": "E",
-  "description": "Subdulcis Group Milk Cap har en rödbrun hatt (3-8 cm), slät. Skivor blekt rosa. Fot liknande färg. NYCKEL: VIT MJÖLKSAFT, mild smak. Liten art med rosa-bruna toner. Kött blekt. Sporfällning rosaaktigt krämfärgad.",
-  "habitat": "Bildar mykorrhiza med BARRTRÄD och lövträd. Växer i blandskog. Spridd.",
-  "season": "Sommar till höst (juli-oktober).",
+  "common_name": "Lactarius subpurpureus",
+  "edibility": "U",
+  "description": "Lactarius subpurpureus är en medelstor riska med en hatt som är 3-10 cm bred, först välvd och sedan platt till grunt trattformad. Hatten är zonerad eller fläckig i vinrött och blekrosa, bleknar till rosaaktigt gulbeige och blir grön vid beröring. Skivorna är fastvuxna till något nedlöpande, ganska glesa, vinröda och får gröna fläckar vid hantering eller med åldern. Foten är 3-8 cm lång, i hattens färg eller blekare, ibland gropig, och blir ihålig. Köttet är vitaktigt till rosa. NYCKEL: sparsam, mörkt vinröd mjölksaft som långsamt blir grön; smaken mild till svagt pepprig. Sporavtryck blekt krämfärgat.",
+  "habitat": "Bildar mykorrhiza med kanadahemlock (Tsuga canadensis) och möjligen andra barrträd, till exempel weymouthtall. Växer på marken ensam, spritt eller i grupper i barr- och blandskog.",
+  "season": "Sommar och höst.",
   "regions": [
-    "östra USA",
-    "mellanvästern"
+    "Nordöstra Nordamerika",
+    "Övre Mellanvästern",
+    "Appalacherna",
+    "Östra Kanada (inklusive Ontario)"
   ],
   "lookalikes": [
-    "Andra små riskor – kontrollera färg och smak"
+    "Lactarius paradoxus - har också vinröd mjölksaft, men skivorna är kittfärgade i stället för vinröda",
+    "Läckerriska-gruppen (Lactarius deliciosus) - orange mjölksaft och orange hatt som också blir gröna"
   ],
-  "safety_notes": "ÄTLIG: Mild smak. VIT MJÖLKSAFT + MILD SMAK diagnostiskt för undergruppen. Bäst som ung. Tillaga ordentligt.",
+  "safety_notes": "ÄTLIGHET EJ BEKRÄFTAD: De källor som granskats för denna art bedömer inte dess ätlighet. Känn igen den på den sparsamma, mörkt vinröda mjölksaften och på att hatten och skivorna blir gröna. Ät aldrig en riska om inte en expert har bekräftat artbestämningen.",
   "images": [
     {
       "file_size_bytes": 44232,
@@ -39,6 +42,6 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T22:00:00.000000",
+  "last_updated": "2026-10-14T00:00:00.000000",
   "source_language": "en"
 }

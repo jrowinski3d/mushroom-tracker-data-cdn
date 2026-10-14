@@ -1,19 +1,22 @@
 {
   "mushroom_id": "lacsub",
   "scientific_name": "Lactarius subpurpureus",
-  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
-  "edibility": "E",
-  "description": "Subdulcis Group Milk Cap ma czerwonobrązowy kapelusz (3–8 cm), gładki. Blaszki blado różowe. Trzon w podobnym kolorze. KLUCZ: BIAŁE MLECZKO, łagodny smak. Mały gatunek o różowawo-płowych barwach. Miąższ blady. Wysyp zarodników różowokremowy.",
-  "habitat": "Mikoryzowy z DRZEWAMI IGLASTYMI i liściastymi. Rośnie w lasach mieszanych. Rozproszony.",
-  "season": "Od lata do jesieni (lipiec–październik).",
+  "common_name": "Lactarius subpurpureus",
+  "edibility": "U",
+  "description": "Lactarius subpurpureus to mleczaj średniej wielkości o kapeluszu średnicy 3-10 cm, początkowo wypukłym, później płaskim lub płytko lejkowatym. Kapelusz jest strefowany lub plamisty w kolorze winnoczerwonym i bladoróżowym, blaknie do różowawo-płowego i zielenieje po dotknięciu. Blaszki są przyrośnięte do lekko zbiegających, dość rzadkie, winnoczerwone i pokrywają się zielonymi plamami po dotknięciu lub z wiekiem. Trzon ma 3-8 cm długości, jest w kolorze kapelusza lub jaśniejszy, czasem z dołkami, i staje się pusty. Miąższ białawy do różowego. KLUCZ: skąpe, ciemnowinnoczerwone mleczko, które powoli zielenieje; smak łagodny do lekko pieprznego. Wysyp zarodników bladokremowy.",
+  "habitat": "Tworzy mikoryzę z choiną kanadyjską (Tsuga canadensis) i prawdopodobnie innymi drzewami iglastymi, takimi jak sosna wejmutka. Rośnie na ziemi pojedynczo, w rozproszeniu lub w grupach w lasach iglastych i mieszanych.",
+  "season": "Lato i jesień.",
   "regions": [
-    "Wschodnie USA",
-    "Środkowy Zachód"
+    "Północno-wschodnia Ameryka Północna",
+    "Północna część Środkowego Zachodu USA",
+    "Appalachy",
+    "Wschodnia Kanada (w tym Ontario)"
   ],
   "lookalikes": [
-    "Inne małe mleczaje (Lactarius) — sprawdź barwę i smak"
+    "Lactarius paradoxus - również ma winnoczerwone mleczko, ale jego blaszki są kitowe, a nie winnoczerwone",
+    "Grupa mleczaja rydza (Lactarius deliciosus) - pomarańczowe mleczko i pomarańczowy kapelusz, które również zielenieją"
   ],
-  "safety_notes": "JADALNY: Łagodny smak. BIAŁE MLECZKO + ŁAGODNY SMAK diagnostyczne dla podgrupy. Najlepszy młody. Gotować dokładnie.",
+  "safety_notes": "JADALNOŚĆ NIEPOTWIERDZONA: Źródła przejrzane dla tego gatunku nie oceniają jego jadalności. Rozpoznasz go po skąpym, ciemnowinnoczerwonym mleczku i zielenieniu kapelusza oraz blaszek. Nie jedz żadnego mleczaja, dopóki ekspert nie potwierdzi oznaczenia.",
   "images": [
     {
       "index": 0,
@@ -39,6 +42,6 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T22:00:00.000000",
+  "last_updated": "2026-10-14T00:00:00.000000",
   "source_language": "en"
 }

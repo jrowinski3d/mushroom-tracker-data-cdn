@@ -1,19 +1,22 @@
 {
   "mushroom_id": "lacsub",
   "scientific_name": "Lactarius subpurpureus",
-  "common_name": "Subdulcis Group Milk Cap",
-  "edibility": "E",
-  "description": "Subdulcis Group Milk Cap has reddish-brown cap (3-8 cm), smooth. Gills pale pink. Stem similar color. KEY: WHITE LATEX, mild taste. Small species with pinkish-tan colors. Flesh pale. Spore print pinkish-cream.",
-  "habitat": "Mycorrhizal with CONIFERS and hardwoods. Grows in mixed forests. Scattered.",
-  "season": "Summer through fall (July-October).",
+  "common_name": "Lactarius subpurpureus",
+  "edibility": "U",
+  "description": "Lactarius subpurpureus is a medium-sized milk cap with a cap 3-10 cm across, convex at first, becoming flat to shallowly vase-shaped. The cap is zoned or spotted with wine-red and pale pink, fades to pinkish buff, and bruises green. The gills are attached to slightly decurrent, nearly distant, wine-red, and spot green when handled or with age. The stem is 3-8 cm long, colored like the cap or paler, sometimes pitted, and becomes hollow. The flesh is whitish to pink. KEY: scanty, deep wine-red latex that slowly stains green; taste mild to faintly peppery. Spore print pale cream.",
+  "habitat": "Mycorrhizal with eastern hemlock and possibly other conifers, such as eastern white pine. Grows on the ground alone, scattered or in groups in conifer and mixed forests.",
+  "season": "Summer and fall.",
   "regions": [
-    "Eastern US",
-    "Midwest"
+    "Northeastern North America",
+    "Upper Midwest",
+    "Appalachian Mountains",
+    "Eastern Canada (including Ontario)"
   ],
   "lookalikes": [
-    "Other small Lactarius - check color and taste"
+    "Lactarius paradoxus - also has wine-red latex, but its gills are putty-colored rather than wine-red",
+    "Lactarius deliciosus group - orange latex and orange cap that also stain green"
   ],
-  "safety_notes": "EDIBLE: Mild flavor. WHITE LATEX + MILD TASTE diagnostic for subgroup. Best young. Cook thoroughly.",
+  "safety_notes": "EDIBILITY NOT CONFIRMED: The sources reviewed for this species do not assess its edibility. Identify it by the scanty deep wine-red latex and the green staining of the cap and gills. Do not eat any milk cap unless an expert has confirmed the identification.",
   "images": [
     {
       "index": 0,
@@ -39,5 +42,5 @@
     }
   ],
   "content_version": "2.0",
-  "last_updated": "2025-11-07T22:00:00.000000"
+  "last_updated": "2026-10-14T00:00:00.000000"
 }

@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "generated_at": "2025-11-10T11:54:33.560985",
   "total_species": 152,
-  "total_size_bytes": 25797478,
+  "total_size_bytes": 25798316,
   "species": [
     {
       "mushroom_id": "agaarv",
@@ -2591,10 +2591,10 @@
     {
       "mushroom_id": "lacsub",
       "scientific_name": "Lactarius subpurpureus",
-      "common_name": "Subdulcis Group Milk Cap",
-      "edibility": "edible",
+      "common_name": "Lactarius subpurpureus",
+      "edibility": "unknown",
       "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/lacsub/metadata.json",
-      "metadata_size_bytes": 1674,
+      "metadata_size_bytes": 2512,
       "thumbnail_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/lacsub/thumb.webp",
       "thumbnail_sha256": "ba70c5b79e9f42c21703f2b73e9cc1cddd1ce26532aa321eb0631f4614811d98",
       "thumbnail_size_bytes": 8594,
@@ -2618,7 +2618,7 @@
           "height": 427
         }
       ],
-      "total_size_bytes": 97334
+      "total_size_bytes": 98172
     },
     {
       "mushroom_id": "lacthy",
@@ -4861,5 +4861,5 @@
       "total_size_bytes": 277824
     }
   ],
-  "sha256": "ea741c99e4cf1badfa9bd163dae2969302342cdbdcd83898b49cf657217a1945"
+  "sha256": "8e41cf5e4b091782e36d81eab74c342b277c25902b25e362e9e09cbe0deb9974"
 }

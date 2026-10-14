@@ -493,8 +493,8 @@
     {
       "mushroom_id": "lacsub",
       "scientific_name": "Lactarius subpurpureus",
-      "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
-      "edibility": "edible"
+      "common_name": "Lactarius subpurpureus",
+      "edibility": "unknown"
     },
     {
       "mushroom_id": "lacthy",
