@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramaur",
+  "scientific_name": "Ramaria aurea",
+  "common_name": "Golden Coral (Ramaria aurea)",
+  "edibility": "E",
+  "description": "El coral dorado es un hermoso hongo coral erguido de 8 a 20 cm de alto y de 8 a 15 cm de ancho. El cuerpo fructífero consta de numerosas ramas erguidas que emergen de una base gruesa de color blanco a amarillo pálido. Las ramas jóvenes son de color amarillo dorado brillante a amarillo anaranjado, tornándose de color marrón ocre con la edad. Las puntas de las ramas suelen ser romas y redondeadas. La ramificación es densa y compacta, creando un aspecto similar a la coliflor. La carne es de color blanco a amarillo pálido, quebradiza, con un olor suave y agradable. Toda la seta tiene una textura carnosa, no gelatinosa.",
+  "habitat": "Se encuentra en bosques de frondosas y mixtos, en particular bajo robles, hayas y otros árboles caducifolios. Forma asociaciones micorrícicas con las raíces de los árboles. Crece en el suelo desde la tierra, normalmente de forma dispersa o en grupos pequeños. Prefiere suelos ricos en humus en bosques maduros. Común en la hojarasca y cerca de madera en descomposición.",
+  "season": "Desde finales de verano hasta el otoño (agosto-noviembre) en la mayoría de las regiones. La fructificación máxima ocurre a principios y mediados de otoño. En climas más cálidos, puede fructificar hasta diciembre. Requiere temperaturas cálidas del suelo seguidas de lluvias de otoño.",
+  "regions": [
+    "Europa (ampliamente distribuida)",
+    "este de Norteamérica (común)",
+    "Pacífico Noroeste (ocasional)",
+    "California (raro)",
+    "bosques templados de frondosas de todo el mundo",
+    "Particularmente común en el sureste"
+  ],
+  "lookalikes": [
+    "Ramaria botrytis (comestible) — puntas de las ramas rosas/rojo vino, tamaño similar",
+    "Ramaria formosa (tóxica) — ramas de color rosa salmón a naranja, que amarillean al magullarse",
+    "Ramaria rasilispora (comestible) — muy similar, se necesita microscopía para distinguirla",
+    "Especies de Clavariadelphus (comestibles) — forma de porra más simple, no intrincadamente ramificada"
+  ],
+  "safety_notes": "COMESTIBLE: se considera comestible y buena cuando es joven y firme. Uno de los mejores hongos coral para comer. Cocinar bien. El sabor es suave y agradable. Recolectar solo ejemplares jóvenes y frescos; los ejemplares más viejos se vuelven duros y amargos. Desechar los que estén encharcados o tengan daños de insectos. Algunas personas reportan leves molestias digestivas por los hongos coral. CRÍTICO: distinguirla de la tóxica R. formosa, que presenta un color más rosa salmón y amarillea al magullarse. Evitar también los hongos coral de sabor amargo. La clave es el color amarillo dorado sin tonos rosados. Probar primero en pequeñas cantidades.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388061.jpg",
+      "photographer": "Michael",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-27",
+      "file_size_bytes": 91920,
+      "width": 480,
+      "height": 640,
+      "sha256": "9c1c0893dc78a533f9bc522ce2c89b42a9dd00f30f4adc88cdb30a4ac7ea3f96"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530391.jpg",
+      "photographer": "Ann B.",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-20",
+      "file_size_bytes": 48046,
+      "width": 640,
+      "height": 640,
+      "sha256": "20bb95f5d78dacbcfa204ab28017d8ab1ced84bc147ee2ae6936b5ecc386d78a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laesul",
+  "scientific_name": "Laetiporus sulphureus",
+  "common_name": "Svavelmusseron",
+  "edibility": "E",
+  "description": "Slående ljus svavelgul till orange ticka som bildar stora överlappande hyllor 5-30 cm breda. Ovansidan ljusorange till laxfärgad, undersidans porskikt ljus svavelgult. Mjuk, saftig och kycklinglik i konsistensen som ung, blir seg och smulig med åldern. Ingen fot. Ettårig fruktkropp. Vitrötesvamp med svavelgult porskikt som är distinkt.",
+  "habitat": "Parasitisk och saprofytisk på levande och döda lövträd, särskilt ek, körsbär, vide och andra lövfällande arter. Bildar stora rosetter eller hylltickor på stammar, stubbar och fallna stockar. Orsakar brun kubisk kärnröta. Vanlig på ekar i östra skogar.",
+  "season": "Vår till höst beroende på region, med toppfruktkroppar maj-september. Kan bära frukt flera gånger per säsong. Vanligast i sen vår och tidig sommar. Unga, mjuka exemplar dyker upp tidigare på säsongen.",
+  "regions": [
+    "östra Nordamerika",
+    "mellanvästern",
+    "södra USA",
+    "Stora sjöarna-regionen",
+    "vitt spridd öster om Klippiga bergen",
+    "Europa och Asien"
+  ],
+  "lookalikes": [
+    "Laetiporus cincinnatus (vitt porskikt, växer från mark/rötter)",
+    "Laetiporus gilbertsonii (västerländsk, eukalyptusvärd)",
+    "Omphalotus (giftig, har skivor inte porer, annan växt)",
+    "Andra Laetiporus-arter (alla ätliga, andra värdar/regioner)"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP som ung och mjuk: Plocka endast unga, mjuka, böjbara exemplar med fuktig konsistens. Undvik gamla, torra, smuliga exemplar. VIKTIGT: Vissa får magbesvär, särskilt från exemplar som växer på barrträd, eukalyptus eller ceder – undvik dessa värdar. Börja med små mängder för att testa tolerans. Tillaga ordentligt. Bäst när kanterna fortfarande växer och är ljust färgade. Utmärkt kycklinglik konsistens när den är rätt tillredd.",
+  "images": [
+    {
+      "file_size_bytes": 143724,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "photographer": "Jeff  Guillemette",
+      "sha256": "96ecc15722b354ccdb58b90e11a997df2f8e07812f5581037ef20111ec94ac0e",
+      "source_url": "https://mushroomobserver.org/images/640/1717527.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 75342,
+      "height": 640,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-03",
+      "photographer": "Crystal (Squirrelgirl)",
+      "sha256": "cced2e82c7075ceb4a44c2c7c8fea1b49ed2b614b53cc34dc6f1d1dc5dc4f3d4",
+      "source_url": "https://mushroomobserver.org/images/640/1711715.jpg",
+      "width": 482
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.487276",
+  "source_language": "en"
+}

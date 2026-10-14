@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscya",
+  "scientific_name": "Russula cyanoxantha",
+  "common_name": "Brokkremla",
+  "edibility": "E",
+  "description": "Brokkremla har en variabelt färgad hatt (5–15 cm) – lila, grön, grå eller blandade färger – ofta med flera färger på samma hatt. Skivorna vita till krämfärgade. Foten vit. NYCKEL: SKÖRT KRITARTAT KÖTT, INGEN LATEX, MILD SMAK. Flerfärgad hatt diagnostiskt. Köttet vitt. Vit till blekt krämfärgad sporfällning.",
+  "habitat": "Bildar mykorrhiza med lövträd och barrträd. Växer på marken i blandskog. Vitt spridd. Vanlig art. Spridd eller i grupper.",
+  "season": "Sommar till höst (juli–oktober).",
+  "regions": [
+    "Östra USA",
+    "Mellanvästern",
+    "Nordvästra USA",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Andra kremlor – kontrollera smaken (mild kontra skarp)",
+    "Riskor – har LATEX"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt smak, mild. Flerfärgad hatt + SKÖRT KÖTT + MILD SMAK diagnostiskt. En av de bästa ätliga kremlorna. Smakuprov bekräftar ätligheten. Stek ordentligt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1583712.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 127886,
+      "width": 480,
+      "height": 640,
+      "sha256": "cf39c2df4133405fd5f7d600686fbcf0229faf42054f084e29703cf4f8706217"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1583713.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 112990,
+      "width": 480,
+      "height": 640,
+      "sha256": "a0e8fcc9bbb17f04c8dadcb62a756fda2b1f1a84f9923aeb2a2397795bdc73d4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

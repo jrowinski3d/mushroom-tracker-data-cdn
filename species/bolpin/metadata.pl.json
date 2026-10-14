@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolpin",
+  "scientific_name": "Boletus pinophilus",
+  "common_name": "borowik sosnowy",
+  "edibility": "E",
+  "description": "Borowik sosnowy wyróżnia się ciemnym czerwonobrązowym do mahoniowego kapeluszem (7-30 cm) o gładkiej do lekko lepkiej powierzchni, gdy mokra. Pory białe, gdy młode, z wiekiem przechodzące w żółto-oliwkowe, bez sinienia. Masywny trzon jest czerwonobrązowy z białą do różowawej siateczką, często z winnymi (winno-czerwonymi) odcieniami. Biały miąższ może mieć lekko różowawy odcień pod skórką kapelusza, ale nie przebarwia się w przekroju. Wysyp zarodników oliwkowo-brązowy.",
+  "habitat": "Mikoryzowy z sosną, świerkiem i innymi drzewami iglastymi w górskich i subalpejskich lasach iglastych. Preferuje kwaśne gleby i wyższe położenia. Często owocuje licznie pod dojrzałymi drzewami iglastymi.",
+  "season": "Od późnego lata do jesieni (lipiec-październik), ze szczytem owocowania w sierpniu-wrześniu na wyższych wysokościach. Pojawia się po długotrwałych opadach w ciepłą pogodę.",
+  "regions": [
+    "Góry Skaliste",
+    "Góry północno-zachodniego wybrzeża Pacyfiku",
+    "Góry Kaskadowe",
+    "Sierra Nevada",
+    "Wyżyny północnej Kalifornii",
+    "Kolumbia Brytyjska",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Boletus edulis - jaśniejszy kolor kapelusza, mniej czerwonawych odcieni",
+    "Boletus aereus - ciemniejszy kapelusz, preferuje dąb, nie sosnę",
+    "Tylopilus felleus - różowe pory, gorzki smak",
+    "Inne czerwonawe gatunki borowików - wszystkie jadalne"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Borowik sosnowy przez wielu uważany jest za najsmaczniejszy ze wszystkich borowików, o bogatym orzechowym smaku i zwartej konsystencji. Wysoce ceniony do suszenia, gdyż smak się nasila. Czerwonobrązowe zabarwienie i związek z sosną to kluczowe cechy rozpoznawcze. Zawsze dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388373.jpg",
+      "photographer": "Vasco Fachada",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-05",
+      "file_size_bytes": 106414,
+      "width": 640,
+      "height": 427,
+      "sha256": "71eac4183b7f7c447c6ce606c4755435a97cc13cca6b91391f03840c6cf27e06"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/27980.jpg",
+      "photographer": "Irene Andersson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2008-11-05",
+      "file_size_bytes": 40752,
+      "width": 640,
+      "height": 415,
+      "sha256": "4813deb8c9c8cd2c5dbc05c3b094fdb28dcacdc5daf6dcd9159ac6fb1b89fcd1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

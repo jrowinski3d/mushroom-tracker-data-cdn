@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacrub",
+  "scientific_name": "Lactarius rubrilacteus",
+  "common_name": "Bleeding Milk Cap (Lactarius rubrilacteus)",
+  "edibility": "E",
+  "description": "Bleeding Milk Cap har en orange till orangebrun hatt (5-15 cm) med mörkare koncentriska zoner. Skivorna är blekt orange, täta, nedlöpande. Foten är orange med gropar. NYCKELFUNKTION: MÖRKRÖD till VINRÖD MJÖLKSAFT som tränger fram vid snitt – distinkt blodröd färg. Mjölksaften fläckar långsamt vävnaderna rödaktigt lila. Köttet är blekt. Sporfällningen är blekt krämfärgad till rosaaktig.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD, särskilt ädelgran, gran och hemlock i västra Nordamerika. Växer på marken i barrskog, bergsskog. Föredrar väldränerad jord.",
+  "season": "Höst (september-november), fruktkroppar efter regn i bergen.",
+  "regions": [
+    "nordvästra Stillahavsregionen",
+    "Klippiga bergen",
+    "norra Kalifornien",
+    "British Columbia"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus – orange mjölksaft, inte röd",
+    "Lactarius sanguifluus – liknande röd mjölksaft, annan värd",
+    "Andra orange riskor – kontrollera mjölksaftens färg"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad för sin milda smak. Den distinkta MÖRKRÖDA MJÖLKSAFTEN är diagnostisk. Fläckar lila vid tillagning – detta är normalt. Bäst som ung och fast. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 48660,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "photographer": "Aaron Miller",
+      "sha256": "330d6d686c4c6eec82f184e2024bc25c9c78d3ccecdff9997803a1ae40d383e3",
+      "source_url": "https://mushroomobserver.org/images/640/1658712.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 118808,
+      "height": 433,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-09",
+      "photographer": "Joe Mat",
+      "sha256": "ba2520b53037757160ff97986ba5a026033f1816e35e91e7e692e4cfa1760b21",
+      "source_url": "https://mushroomobserver.org/images/640/1577192.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:48:51.384959",
+  "source_language": "en"
+}

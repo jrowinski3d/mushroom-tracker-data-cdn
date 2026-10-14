@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepnud",
+  "scientific_name": "Lepista nuda",
+  "common_name": "Blåmusseron",
+  "edibility": "E",
+  "description": "Blåmusseron är en medelstor till stor svamp med en hatt på 5–15 cm, först välvd och sedan utbredd med åldern. Hatten är lila till blå-lila när den är ung och bleknar med åldern till beige eller beige-brun men behåller ofta lila toner, särskilt vid kanten. Ytan är slät och något fet när den är fuktig. Skivorna är vidfästa till buktiga, först lila-violetta och bleknar till beige men behåller vanligtvis en del lila färg. Foten är 4–10 cm hög, kraftig, fiberaktig, lila till ljuslila med en lökformig bas. Svampköttet är tjockt, blekt lila till vitt och har en söt blomdoft.",
+  "habitat": "Växer i löv- och blandskogar, skogsbryn, häckar, parker, trädgårdar och komposthögar. Växer som lövförnanedbrytare i näringsrik jord. Vanlig i områden med riklig lövförna. Fruktkropparna sitter utspridda till flockvis, ofta i stora flockar eller häxringar. Föredrar kväverika miljöer.",
+  "season": "Sensommar till tidig vinter (september–december) i tempererade regioner. En av de klassiska sensäsongssvamparna som fruktar efter frost. I milda klimat kan den frukta in i januari. Högsäsong sen höst (oktober–november).",
+  "regions": [
+    "Europa (mycket vanlig)",
+    "Östra Nordamerika (vanlig)",
+    "Stillahavsnordväst (vanlig)",
+    "Kalifornien (enstaka)",
+    "Tempererade regioner världen över",
+    "Vida odlad"
+  ],
+  "lookalikes": [
+    "Cortinarius-arter (vissa dödliga) – har rostbruna sporer och spindelvävsliknande slöja, inte rosa sporer",
+    "Laccaria amethystina (ätlig) – mindre, helt lila igenom, tunnare svampkött",
+    "Mycena pura (giftig) – mindre, bräckligare, rättikdoft",
+    "Unga Cortinarius violaceus (ätlig) – har spindelvävsliknande slöja, rostiga sporer"
+  ],
+  "safety_notes": "ÄTLIG: Populär matsvamp med god smak, men kräver korrekt tillagning. KRITISKT: Måste tillagas ordentligt – ät ALDRIG rå eller otillräckligt tillagad eftersom den kan orsaka magbesvär. Vissa personer får allergiska reaktioner även när den är tillagad. Den söta doften är karakteristisk men inte alla tycker att den passar i mat. Prova små mängder först. Kontrollera att SPORFÄLLNINGEN ÄR ROSA (inte rostbrun som giftiga Cortinarius). Den lila färgen, de fastsittande skivorna, de rosa sporerna och den söta doften skiljer den från Cortinarius. Populär i Europa och odlas alltmer. Bäst sauterad eller i grytor. Kasta foten eftersom den är fiberaktig.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1729531.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 51382,
+      "width": 640,
+      "height": 427,
+      "sha256": "48030c7b7b53e03ab995d71e30dcdb4c1212999e9c208a3e605c861cc6744dd0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1729532.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 34452,
+      "width": 640,
+      "height": 427,
+      "sha256": "00ec1b3bf91a4164b77443db971fa27ebec3c4a254d394f51e8c9e9f3d435136"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

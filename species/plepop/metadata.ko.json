@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "plepop",
+  "scientific_name": "Pleurotus populinus",
+  "common_name": "Aspen Oyster (Pleurotus populinus)",
+  "edibility": "E",
+  "description": "부채 모양 또는 굴조개 모양의 갓이 너비 2~6인치이며, 흰색에서 크림색 또는 연한 황갈색이고 때로는 회색빛이 돈다. 표면은 매끄러우며, 흰색 주름살이 대 아래쪽으로 길게 내려붙고, 대는 짧게 측생하거나 거의 없다. 사시나무와 미루나무(포플러류)에 강하게 의존한다는 점이 특징이다. 촘촘히 겹친 다발을 이루며 자란다. 포자문은 흰색이다.",
+  "habitat": "죽거나 죽어가는 사시나무(Populus tremuloides), 미루나무(Populus속), 때로는 다른 포플러류에 특이적으로 부생한다. 통나무, 그루터기, 서 있는 고목에 촘촘한 선반 모양 다발을 이룬다. 산악지대와 북부 지역에서 포플러속(Populus) 나무와 강하게 연관되어 나타난다.",
+  "season": "늦봄부터 가을까지 발생하며, 5~10월에 가장 많이 발생한다. 초여름에 가장 흔하다. 사시나무 숲과 하천변 미루나무 지대의 봄비 뒤에 발생한다.",
+  "regions": [
+    "로키산맥",
+    "태평양 북서부",
+    "북부 대평원",
+    "인터마운틴 서부",
+    "북아메리카 서부",
+    "북아메리카 북부"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (색이 더 진하고, 더 다양한 활엽수에서 발생)",
+    "Pleurotus pulmonarius (거의 동일하지만 기주 나무가 다름)",
+    "Angel wings (Pleurocybella porrigens) - 유독, 순백색, 침엽수에서만 발생",
+    "Hypsizygus ulmarius (대가 더 중앙에 위치, 느릅나무에서 발생)"
+  ],
+  "safety_notes": "식용: 온화한 맛의 좋은 식용 버섯으로, 재배 느타리버섯과 비슷하다. 먹기 전에 반드시 충분히 익혀 먹는다. 정확히 동정되었을 때 안전하다. 사시나무와 미루나무에 강하게 의존한다는 점이 동정에 유용한 특징이다. 품질이 가장 좋은 어리고 신선한 개체를 채취한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1671361.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 92202,
+      "width": 480,
+      "height": 640,
+      "sha256": "ab584c44a19e8be388c08b68b220b44f70bc572f672fa8c98da3dabd01292b21"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1671362.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 117926,
+      "width": 480,
+      "height": 640,
+      "sha256": "22e8f7ab52e7e0940cd7a073638fcdbbe292e5e914ef1dc3e769d327b0c6e10e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

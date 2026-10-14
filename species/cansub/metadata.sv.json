@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cansub",
+  "scientific_name": "Cantharellus subalbidus",
+  "common_name": "White Chanterelle (Cantharellus subalbidus)",
+  "edibility": "E",
+  "description": "Vit kantarell har en vit till gräddvit eller blekt beigefärgad hatt 4–15 cm bred, ibland med gulaktiga toner med åldern eller vid skada. Hatten är slät, blir djupt trattformad med mognaden, med vågiga, oregelbundna kanter som ofta blir uppvikta. Undersidan har tjocka, trubbiga, gaffelformade åsar (INTE äkta skivor) som är vita till gräddvita, glest stående och löper tydligt nedför foten. Foten är fast, kraftig, 3–12 cm hög, vit till gräddvit, ofta tämligen robust och klubbformad. Köttet är vitt, mycket fast, med mild till svagt fruktig doft. Sporfällningen är vit till blekt gräddvit.",
+  "habitat": "Lever i mykorrhiza främst med barrträd i nordvästra Stillahavsområdet, bland annat douglasgran, västamerikansk hemlock, sitkagran och ädelgranar. Växer i kustnära och bergiga barrskogar, ofta i områden med tjock mossa och förna. Föredrar väldränerade sluttningar och mogna skogsmiljöer.",
+  "season": "Höst till vinter (september–februari), fruktsätter i samband med höstregnen och fortsätter genom den våta säsongen. Skördetoppen infaller vanligen oktober–januari. En av de senare kantarellarterna i nordvästra Stillahavsområdet.",
+  "regions": [
+    "Nordvästra Stillahavsområdet (Washington, Oregon, norra Kalifornien)",
+    "British Columbia",
+    "Kaskadkedjan",
+    "Kustnära Oregon och Washington",
+    "Sierra Nevada-bergen (norra Kalifornien)"
+  ],
+  "lookalikes": [
+    "Cantharellus californicus – ätlig, liknande vit färg men färgas brunt/orange vid skada, finns längre söderut med ekar",
+    "Cantharellus cascadensis – ätlig, blekt gul till gräddvit, högre höjder, mycket lik",
+    "Hygrophorus-arter (vaxskivlingar) – ätliga, har äkta vaxartade men tydliga skivor, annan konsistens"
+  ],
+  "safety_notes": "ÄTLIG: Vit kantarell är en utmärkt matsvamp uppskattad för sin milda smak och fasta konsistens. Liksom hos alla kantareller är det avgörande kännetecknet de tjocka, trubbiga, gaffelformade åsarna som känns vaxartade och är sammanvuxna med hattköttet, till skillnad från de tunna, knivbladsliknande äkta skivorna hos andra svampar. Den vita till gräddvita färgen gör den distinkt bland kantarellerna men kräver noggrann uppmärksamhet på åsstrukturen för säker bestämning. Kontrollera alltid att den växer från mark nära barrträd. Smaken är mild och finstämd; utmärkt stekt eller i gräddbaserade rätter.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725764.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 88178,
+      "width": 640,
+      "height": 454,
+      "sha256": "7f20af0347d62bca6726dc4dc738619761e24a7bcf1250253d9eeb233018e452"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691129.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 77272,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7976d4f0fbe820123466bd7948e5178f42fe36f78897f041037ab93c8216cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

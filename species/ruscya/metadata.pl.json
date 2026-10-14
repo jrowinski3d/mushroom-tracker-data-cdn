@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscya",
+  "scientific_name": "Russula cyanoxantha",
+  "common_name": "gołąbek modrozielony",
+  "edibility": "E",
+  "description": "Gołąbek modrozielony ma kapelusz o zmiennej barwie (5–15 cm) – fioletowej, zielonej, szarej lub mieszanej – często z wieloma kolorami na jednym kapeluszu. Blaszki białe do kremowych. Trzon biały. KLUCZ: KRUCHY KREDOWATY MIĄŻSZ, BRAK MLECZKA, ŁAGODNY SMAK. Wielobarwny kapelusz diagnostyczny. Miąższ biały. Wysyp zarodników biały do blado kremowego.",
+  "habitat": "Mikoryzowa z drzewami liściastymi i iglastymi. Rośnie na ziemi w lasach mieszanych. Szeroko rozpowszechniona. Gatunek powszechny. Rozproszona lub w grupach.",
+  "season": "Lato do jesieni (lipiec–październik).",
+  "regions": [
+    "Wschodnie Stany Zjednoczone",
+    "Środkowy Zachód",
+    "Północno-Zachodni Pacyfik",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Inne gołąbki – sprawdź smak (łagodny czy piekący)",
+    "Mleczaje – mają MLECZKO"
+  ],
+  "safety_notes": "WYBORNY GRZYB JADALNY: Doskonały smak, łagodny. Wielobarwny kapelusz + KRUCHY MIĄŻSZ + ŁAGODNY SMAK – diagnostyczne. Jeden z najlepszych jadalnych gołąbków. Próba smaku potwierdza jadalność. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1583712.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 127886,
+      "width": 480,
+      "height": 640,
+      "sha256": "cf39c2df4133405fd5f7d600686fbcf0229faf42054f084e29703cf4f8706217"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1583713.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 112990,
+      "width": 480,
+      "height": 640,
+      "sha256": "a0e8fcc9bbb17f04c8dadcb62a756fda2b1f1a84f9923aeb2a2397795bdc73d4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

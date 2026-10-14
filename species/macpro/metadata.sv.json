@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "macpro",
+  "scientific_name": "Macrolepiota procera",
+  "common_name": "Stolt fjällskivling",
+  "edibility": "E",
+  "description": "Den stolta fjällskivlingen är en stor, imponerande art med en karakteristisk paraplyformad hatt på 10–30 cm, täckt med uppåtböjda bruna fjäll på en krämfärgad botten som bildar ett ormskinnsmönster. Hatten sitter på en hög slank fot (15–35 cm) med en tjock dubbelkantad rörlig ring och bruna ormliknande fjällmönster nedanför ringen. Skivorna är fria (inte fästa vid foten), vita och blir krämfärgade med åldern, och täta. Det vita svampköttet har en mild nötsmak och missfärgas inte vid skärning.",
+  "habitat": "Växer i gräsområden som betesmarker, ängar, gräsmattskanter, skogsgläntor, parker och vägkanter. Växer på marken (inte på ved) i näringsrik jord, ofta i störda områden. Fruktar vanligtvis utspritt eller i små grupper, ibland i häxringar. Föredrar områden med måttlig solexponering och väldränerad jord.",
+  "season": "Sommar till höst (juli–november i Nordamerika, maj–november i varmare klimat). Högsäsong i sensommar till tidig höst, särskilt efter varma regn. I medelhavsklimat kan den frukta vår och höst.",
+  "regions": [
+    "Europa (inhemsk, utbredd)",
+    "Östra Nordamerika (naturaliserad)",
+    "Stillahavsnordväst (sällsynt)",
+    "Kalifornien (enstaka)",
+    "Medelhavsregioner",
+    "Tempererade gräsmarker världen över"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (giftig) – grönaktig sporfällning, rodnar vid skärning, kraftigare byggd",
+    "Chlorophyllum molybdites (giftig) – gröna sporer, grönnar vid tryck, nordamerikansk",
+    "Lepiota-arter (vissa dödliga) – mycket mindre (hatt <10 cm), bräcklig ring",
+    "Amanita-arter (dödliga) – volva vid basen, skivorna fästa eller fria men med volva"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av de finaste matsvamparna med fast konsistens och nötsmak. Hatten är att föredra (foten är fiberaktig). Tillaga ordentligt – ät inte rå. Kritisk identifiering: kontrollera att skivorna är FRIA och vita (inte fästa vid foten), att ringen är RÖRLIG, tjock och dubbelkantad, att foten har ormskinnslika fjäll, att sporfällningen är VIT och att det INGEN volva finns vid basen. Kasta den sega fiberaktiga foten. Vissa rapporterar milda magbesvär – prova små mängder först. Parasollsvampen måste tydligt skiljas från giftiga Chlorophyllum-arter som har grönaktiga sporer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707981.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 126726,
+      "width": 640,
+      "height": 482,
+      "sha256": "48092b17e14085dc876a1c9286a5ce96d9c77732fe4e537500c55825c70e16de"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590126.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-03",
+      "file_size_bytes": 126206,
+      "width": 640,
+      "height": 482,
+      "sha256": "ed4a5b15c67cad23f36c2d4f1e96ee10272c33b21580d35007412ea2982a36dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigre",
+  "scientific_name": "Suillus grevillei",
+  "common_name": "Larch Bolete (Suillus grevillei)",
+  "edibility": "E",
+  "description": "낙엽송 그물버섯은 독특한 밝은 황금빛 노란색~주황노란색 갓(지름 3–10cm)으로, 젖으면 표면이 매우 끈적거리고 질척거린다. 관공은 밝은 노란색으로 갈색으로 변색된다. 노란색 대의 뚜렷한 막질 턱받이는 포자로 인해 갈색으로 얼룩지는 경우가 많다. 노란색 살은 변색되지 않는다. 밝은 노란색과 낙엽송 공생이 진단 포인트. 포자문은 계피갈색.",
+  "habitat": "낙엽송(Larix 종)과만 균근을 이룬다 - 낙엽송 없이는 열매를 맺을 수 없다. 유럽낙엽송·서부낙엽송·타마락과 절대적 공생을 이룬다. 낙엽송 조림지와 자생 낙엽송림에서 발견된다.",
+  "season": "늦여름~가을(8~11월)로 9~10월에 열매를 가장 많이 맺는다. 온대 지역의 낙엽송과 동시에 열매를 맺는다.",
+  "regions": [
+    "태평양 북서부 (서부 낙엽송)",
+    "로키산맥",
+    "북동부 삼림 (타마락)",
+    "오대호 지역",
+    "북미 전역의 낙엽송 조림지",
+    "캐나다",
+    "알래스카"
+  ],
+  "lookalikes": [
+    "Suillus luteus - 갓이 더 짙고 낙엽송이 아닌 소나무와 공생",
+    "다른 Suillus 종들 - 이렇게 밝은 노란색은 없음",
+    "Boletus 종들 - 끈적거리지 않고 서식지가 다름",
+    "낙엽송과 함께 발견되면 독성 있는 유사종 없음"
+  ],
+  "safety_notes": "식용 가능: 낙엽송 그물버섯은 조직이 단단하고 맛이 순한 좋은 식용버섯이다. 요리 전에 매우 끈적거리는 갓 표피를 제거할 것. 절대적인 낙엽송 공생 덕분에 동정이 쉽다 - 낙엽송이 없으면 이 종이 아니다. 일부 사람은 소화불량을 겪을 수 있다. 반드시 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1514245.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 81080,
+      "width": 480,
+      "height": 640,
+      "sha256": "2107c1ba7397ae9b012d8dde6e396d9ab6720ac9ad6b0d69cceb47499a0eb10b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1514246.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 102390,
+      "width": 480,
+      "height": 640,
+      "sha256": "63324e26cc0f1ce46d1f506e95ec446d2124bd4d7dfd867474f8d87d9e5f4991"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

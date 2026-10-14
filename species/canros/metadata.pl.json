@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "canros",
+  "scientific_name": "Cantharellus roseocanus",
+  "common_name": "Rainbow Chanterelle (Cantharellus roseocanus)",
+  "edibility": "E",
+  "description": "Pieprznik tęczowy (zwany też pieprznikiem różanym) ma charakterystyczny kapelusz o szerokości 3–12 cm, różowawy do łososiowo-pomarańczowego lub różanego, często z fioletowo-różowymi odcieniami, od których pochodzi jego nazwa zwyczajowa. Powierzchnia kapelusza jest gładka do lekko pomarszczonej, z wiekiem staje się lejkowata, o falistym, nieregularnym brzegu. Spodnia strona ma grube, tępe, rozwidlone listewki (NIE są to prawdziwe blaszki), różowo-pomarańczowe do łososiowo-różowych, rzadko rozstawione, zbiegające po trzonie. Trzon jest pełny, wysoki na 3–9 cm, różowawy do białego, często z fioletowo-różowymi odcieniami u podstawy. Miąższ biały do bladoróżowego, zwarty, o łagodnym owocowym zapachu. Wysyp zarodników biały do blado kremowego.",
+  "habitat": "Mikoryzowy z drzewami iglastymi Północnego Zachodu Pacyfiku, w tym daglezją, choiną zachodnią i świerkiem sitkajskim w lasach nadbrzeżnych. Występuje także z tanoakiem i madrone w lasach mieszanych. Preferuje dobrze przepuszczalne zbocza z grubą warstwą mchu i ściółki w nadbrzeżnych i górskich lasach iglastych.",
+  "season": "Od jesieni do wczesnej zimy (wrzesień–grudzień), owocnikuje wraz z nadejściem jesiennych deszczy. Szczyt sezonu przypada zwykle na październik–listopad na Północnym Zachodzie Pacyfiku. Często owocnikuje obok C. formosus, ale zwykle pojawia się nieco później w sezonie.",
+  "regions": ["Północny Zachód Pacyfiku (od Kolumbii Brytyjskiej po północną Kalifornię)", "Wybrzeże Oregonu i Waszyngtonu", "Wyspa Vancouver", "Nadbrzeżne góry północnej Kalifornii", "Półwysep Olimpijski"],
+  "lookalikes": ["Cantharellus formosus – jadalny, bardziej złocisto-pomarańczowy, bez różowawych odcieni, poza tym bardzo podobny", "Cantharellus cascadensis – jadalny, bledszy żółto-kremowy, bez różowych odcieni, wyższe położenia", "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) – nietrująca, ale słabej jakości, ma prawdziwe cienkie blaszki, bardziej pomarańczowa"],
+  "safety_notes": "JADALNY: Pieprznik tęczowy to znakomity grzyb jadalny, wyróżniający się charakterystycznym różowawym zabarwieniem. Jak u wszystkich pieprzników, kluczową cechą rozpoznawczą są grube, tępe, rozwidlone listewki na spodniej stronie, które w dotyku są woskowate i zrośnięte z miąższem kapelusza, a nie są prawdziwymi blaszkami. Unikalny różowo-różany kolor sprawia, że stosunkowo łatwo odróżnić go od innych pieprzników i od trujących gatunków podobnych. Zawsze sprawdzaj, czy rośnie z gleby w pobliżu drzew. Ma łagodny, przyjemny smak podobny do innych pieprzników; doskonały duszony lub w potrawach na bazie śmietany.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694228.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 107424,
+      "width": 480,
+      "height": 640,
+      "sha256": "8200b4001e0376a6ebd13187bf3762b1f1eab844a4746bcb46b89a71c86f69b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1694229.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 106984,
+      "width": 480,
+      "height": 640,
+      "sha256": "3af5792bb0538624c8a3cd973dc8beae579d306263b6990c372bc1d599017326"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

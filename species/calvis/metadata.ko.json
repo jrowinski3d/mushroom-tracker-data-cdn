@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calvis",
+  "scientific_name": "Calocera viscosa",
+  "common_name": "Yellow Stagshorn (Calocera viscosa)",
+  "edibility": "E",
+  "description": "노랑사슴뿔버섯은 높이 2~6cm의 작고 곧게 선 산호 모양 가지를 이루는 선명한 노란색~주황색의 젤리 버섯이다. 자실체는 여러 개의 원통형~납작한 가지로 이루어지며 이분지(두 갈래로 반복해서 갈라짐)한다. 색은 선명한 황금노랑에서 주황노랑이다. 질감은 질기고 젤라틴 같으며, 신선할 때는 다소 고무 같고 끈적끈적하다(점성). 가지는 너비 2~5mm이며 끝이 뾰족하거나 갈라질 수 있다. 밑동은 서로 붙어 있거나 짧은 대를 가질 수 있다. 마르면 짙은 주황색으로 오그라든다.",
+  "habitat": "죽은 침엽수 통나무, 그루터기, 묻힌 목재, 특히 소나무, 가문비나무, 전나무에서 발견된다. 잘 썩은 목재나 토양 속 목재 잔해에서 나온다. 침엽수림과 혼합림에서 흔하다. 흩어지거나 무리 지어 자실체를 내며, 해마다 같은 통나무에서 나는 경우가 많다. 침엽수 잔해가 풍부한 습하고 서늘한 삼림을 선호한다.",
+  "season": "대부분 지역에서 늦여름부터 가을(8월~11월). 태평양 북서부처럼 기후가 온화한 곳에서는 가을과 봄에 최성기를 이루며 연중 자실체를 낼 수 있다. 산악 지대에서는 여름 비가 내린 뒤 나타날 수 있다. 서늘하고 습한 시기에 가장 흔하다.",
+  "regions": [
+    "유럽 (널리 분포)",
+    "북아메리카 동부 (흔함)",
+    "태평양 북서부 (매우 흔함)",
+    "로키산맥",
+    "북부 캘리포니아",
+    "전 세계 북온대 침엽수림"
+  ],
+  "lookalikes": [
+    "Calocera cornea (식용 가능) - 작고 가지가 단순하며 활엽수에서 자람",
+    "Dacryopinax spathularia (식용 가능) - 주황색, 끝이 더 주걱 모양",
+    "Clavulinopsis 종 (일부 식용 가능) - 노란색이나 젤라틴 같지 않고 더 부서지기 쉬움",
+    "Ramaria 종 (식용 가능성 다양) - 산호버섯이나 살이 많고 젤라틴 같지 않음"
+  ],
+  "safety_notes": "식용 가능하나 질김: 식용 가능한 것으로 여겨지나 너무 질기고 젤라틴 같아 먹기엔 별로다. 고무 같은 질감과 작은 크기 때문에 매력적이지 않다. 특별한 맛이 없다. 먹어도 안전하나 권장하지 않는다. 젤리 버섯 중 독성 유사종은 없다. 선명한 노란색, 산호 모양 가지, 침엽수 목재 위의 젤라틴 질감이 독특하다. 점성(끈적한) 표면이 살이 많은 산호버섯과의 구분에 도움이 된다. 먹기보다는 숲의 장식품으로 더 흥미롭다. 흔히 마주치지만 식용으로 채집하는 경우는 드물다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.101594",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilak",
+  "scientific_name": "Suillus lakei",
+  "common_name": "Western Painted Suillus (Suillus lakei)",
+  "edibility": "E",
+  "description": "El boleto de Lake presenta un distintivo sombrero de color naranja rojizo a naranja herrumbroso (5-15 cm) con superficie viscosa cuando está húmedo y aspecto escamoso característico cuando está seco. Los poros son grandes y angulosos, de color amarillo brillante, con manchas parduzcas por el roce. El pie amarillo tiene puntos glandulares de color marrón rojizo y carece de anillo. La carne amarilla se mancha de marrón rojizo al cortarla. Los colores brillantes y los puntos glandulares son diagnósticos. Esporada de color marrón canela.",
+  "habitat": "Micorrícico exclusivamente con el abeto de Douglas en los bosques del Pacífico Noroeste. Forma asociaciones obligadas con el abeto de Douglas. Se encuentra en rodales puros de abeto de Douglas y en bosques mixtos de coníferas dominados por el abeto de Douglas.",
+  "season": "Otoño (septiembre-noviembre), con fructificación máxima en octubre. Aparece tras las lluvias otoñales en hábitats de abeto de Douglas.",
+  "regions": [
+    "Pacífico Noroeste",
+    "Oregón",
+    "Washington",
+    "norte de California",
+    "Columbia Británica",
+    "isla de Vancouver",
+    "zona costera de abeto de Douglas"
+  ],
+  "lookalikes": [
+    "Suillus pungens — también con abeto de Douglas pero de colores más marrones",
+    "Otras especies de Suillus — colores y asociaciones arbóreas diferentes",
+    "especies de Leccinum — tienen pies escabrosos, no puntos glandulares",
+    "especies de Boletus — no son viscosas, aspecto diferente"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto de Lake es comestible, de textura firme y sabor suave. Retirar la cutícula viscosa del sombrero antes de cocinar. Los colores naranja brillantes y la asociación exclusiva con el abeto de Douglas hacen que la identificación sea sencilla. Algunas personas pueden sufrir molestias digestivas. Cocinar siempre bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709514.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-26",
+      "file_size_bytes": 62464,
+      "width": 640,
+      "height": 480,
+      "sha256": "9579c5a5f755a3673e808110cdf4eec0260e4377a6a3996da18df50cc2a0b2fc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709502.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-24",
+      "file_size_bytes": 119214,
+      "width": 480,
+      "height": 640,
+      "sha256": "6675cb1f67829b3437f2b76ef7f0b720b7f7db65efe92c9d62381199da3bf13f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.555992",
+  "source_language": "en"
+}

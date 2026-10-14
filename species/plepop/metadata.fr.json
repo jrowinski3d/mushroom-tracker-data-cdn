@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "plepop",
+  "scientific_name": "Pleurotus populinus",
+  "common_name": "Pleurote du tremble",
+  "edibility": "E",
+  "description": "Chapeaux en éventail ou en forme d'huître de 5 à 15 cm de largeur, blancs à crème ou beige pâle, parfois à reflets grisâtres. Surface lisse avec lames blanches décurrentes et pied court latéral ou absent. Se distingue par sa forte préférence pour les trembles et les peupliers. Pousse en touffes denses et imbriquées. Sporée blanche.",
+  "habitat": "Saprotrophe spécifiquement sur les trembles (Populus tremuloides), peupliers (espèces de Populus) et occasionnellement d'autres peupliers, morts ou dépérissants. Forme des étagères denses et imbriquées sur les troncs, souches et arbres morts sur pied. Fortement associé aux espèces de Populus dans les régions montagneuses et septentrionales.",
+  "season": "De la fin du printemps à l'automne, avec un pic de fructification de mai à octobre. Le plus commun en début d'été. Fructifie après les pluies printanières dans les tremblaies et les zones riveraines de peupliers.",
+  "regions": [
+    "montagnes Rocheuses",
+    "Pacifique Nord-Ouest",
+    "plaines du Nord",
+    "Ouest intermontagnard",
+    "ouest de l'Amérique du Nord",
+    "nord de l'Amérique du Nord"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (plus foncé, gamme plus large de feuillus)",
+    "Pleurotus pulmonarius (presque identique mais hôtes différents)",
+    "Pleurocybelle des conifères (Pleurocybella porrigens) — toxique, blanc pur, sur conifères uniquement",
+    "Hypsizygus ulmarius (pied plus central, sur orme)"
+  ],
+  "safety_notes": "COMESTIBLE : bon champignon comestible à la saveur douce, semblable aux pleurotes cultivées. Cuire soigneusement avant de manger. Sans danger lorsqu'il est correctement identifié. La forte association avec les trembles et les peupliers est un bon indice d'identification. Récolter des spécimens jeunes et frais pour une meilleure qualité.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1671361.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 92202,
+      "width": 480,
+      "height": 640,
+      "sha256": "ab584c44a19e8be388c08b68b220b44f70bc572f672fa8c98da3dabd01292b21"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1671362.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 117926,
+      "width": 480,
+      "height": 640,
+      "sha256": "22e8f7ab52e7e0940cd7a073638fcdbbe292e5e914ef1dc3e769d327b0c6e10e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

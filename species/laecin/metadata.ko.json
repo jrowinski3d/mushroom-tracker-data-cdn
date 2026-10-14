@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecin",
+  "scientific_name": "Laetiporus cincinnatus",
+  "common_name": "흰닭벼슬버섯 (Laetiporus cincinnatus)",
+  "edibility": "E",
+  "description": "흰색~연한 크림색 관공면(노란색 아님)을 지닌 주황색~연어분홍색 선반균으로, 폭 2~10인치의 겹겹이 쌓인 선반이 장미꽃 모양(로제트)으로 난다. 외형은 L. sulphureus와 비슷하나 흰색 관공과 지면 기반 결실로 구분된다. 어릴 때는 부드럽고 즙이 많다. 여러 선반이 땅에 묻힌 목재나 나무뿌리에 박힌 중심 고착부에서 뻗어 나온다. 일년생 선반균이다.",
+  "habitat": "죽은 활엽수, 특히 참나무의 땅에 묻힌 목재와 뿌리에 부생성. 나무 밑둥의 지면이나 땅에 묻힌 뿌리와 그루터기에서 자라는 것처럼 보인다. 참나무 근처에서 큰 다층 로제트를 이룬다. 동부 활엽수림. 묻힌 목재에 백색부후를 일으킨다.",
+  "season": "늦봄부터 가을까지, 보통 5~9월. 6~8월에 결실 최성기. L. sulphureus와 비슷한 시기이나 흔히 약간 늦게 나타난다. 따뜻한 비 온 뒤 다발로 난다.",
+  "regions": [
+    "북아메리카 동부",
+    "중서부",
+    "오대호 지역",
+    "미국 남동부",
+    "애팔래치아 지역",
+    "그레이트플레인스 동부"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (노란 관공, 줄기/통나무에 발생)",
+    "기타 Laetiporus 종 (노란 관공)",
+    "Meripilus sumstinei (갈색 더 진함, 흑색 변색, 질감 다름)",
+    "Bondarzewia berkeleyi (크림갈색, 질감/관공 다름)"
+  ],
+  "safety_notes": "어리고 부드러울 때 최상급 식용: 예민한 사람에게 L. sulphureus보다 소화장애를 덜 일으키는 편이다. 어리고 부드러우며 촉촉한 질감의 개체만 채취하라. 늙고 질기며 마른 개체는 피하라. 충분히 익혀 먹으라. 흰색 관공면과 지면 기반 생장이 온화한 이 종의 동정을 돕는다. 초보자에게 가장 안전한 Laetiporus 중 하나로 꼽힌다. 훌륭한 질감과 맛.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 64984,
+      "width": 480,
+      "height": 640,
+      "sha256": "cfcfc8e6929b6b7b186c9d8b7f453a52eafdab1c72b10833292eaae440b74631"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1707085.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-06",
+      "file_size_bytes": 85890,
+      "width": 640,
+      "height": 482,
+      "sha256": "4c8aa9fcaf1604f40898dd031118dab429d31bb1ba246b123438ea956c844655"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

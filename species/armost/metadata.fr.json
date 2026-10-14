@@ -1,0 +1,40 @@
+{
+  "mushroom_id": "armost",
+  "scientific_name": "Armillaria ostoyae",
+  "common_name": "Armillaire sombre",
+  "edibility": "E",
+  "description": "L'armillaire sombre a un chapeau brun foncé à brun-noirâtre (3 à 12 cm) densément couvert de SQUAMES BRUN FONCÉ À NOIRES, surtout au centre — plus sombre que les autres espèces d'Armillaria. Les lames sont blanches à crème, adnées, développant des taches brunes. Le pied porte un ANNEAU PERSISTANT pouvant présenter des plaques cotonneuses et jaunâtres sur la face inférieure. Le pied est blanchâtre au-dessus de l'anneau, brunâtre en dessous avec des fibres ou des squames sombres. Pousse en TOUFFES DENSES sur les conifères. La chair est blanche, ferme. La sporée est blanche. Rhizomorphes noirs présents. Célèbre pour être le plus grand organisme sur Terre — un seul clone dans l'Oregon couvre 2 400 acres (environ 970 hectares).",
+  "habitat": "Parasite et saprotrophe des CONIFÈRES, en particulier le pin, le sapin, l'épicéa et la pruche. Pousse en grandes touffes à la base des conifères vivants ou morts et des souches. Pathogène des arbres très destructeur provoquant le pourridié. Moins fréquente sur les feuillus. Répandue dans les forêts de conifères.",
+  "season": "Automne (septembre-novembre), fructifiant après les pluies d'automne. Plus tardive que de nombreux champignons.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "Nord-Est",
+    "Upper Midwest",
+    "Canada",
+    "Europe du Nord"
+  ],
+  "lookalikes": [
+    "Armillaria mellea — semblable mais moins sombre, gamme d'hôtes plus large",
+    "Autres espèces d'Armillaria — toutes exigent une cuisson",
+    "Espèces de Pholiota — spores brunes",
+    "Espèces de Galerina — MORTELLES — plus petites, spores brunes, habitat différent"
+  ],
+  "safety_notes": "COMESTIBLE AVEC PRÉCAUTION : les armillaires (espèces d'Armillaria) sont VÉNÉNEUSES crues et doivent être soigneusement cuites avant consommation. Cuire au moins 10 à 15 minutes à feu vif. Même bien cuites, certaines personnes présentent des réactions allergiques ou des troubles digestifs. Essayer d'abord une petite quantité pour tester votre tolérance. Blanchir avant la cuisson peut aider à réduire les irritants gastro-intestinaux et l'amertume. Ne pas consommer avec de l'alcool — les armillaires peuvent provoquer des réactions indésirables en combinaison avec l'alcool (comme chez Coprinopsis). Ne récolter que des spécimens jeunes et fermes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713954.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 45026,
+      "width": 480,
+      "height": 640,
+      "sha256": "11812fb3ce1687a77c36fefaeedb2c9efb22bca30d40c144f2c716e676ee0b08"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

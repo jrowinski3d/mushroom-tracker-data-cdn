@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "aurame",
+  "scientific_name": "Auricularia americana",
+  "common_name": "Wood Ear (Auricularia americana)",
+  "edibility": "E",
+  "description": "Den amerikanska judasöran liknar A. auricula-judae men är generellt tjockare och kraftigare. Fruktkroppar 4–15 cm breda, öron- till musselformade, geléartade-gummiaktiga. Den yttre fertila ytan är slät till något rynkig, brun till rödbrun eller purpurbrun. Den inre ytan är gråaktig och täckt med minimala sammetiska hår (synliga med lupp). Konsistensen är seg-geléartad när den är färsk, skrumpnar vid torka och återhämtar sig med fukt. Tjockare kött än det europeiska judasörat.",
+  "habitat": "Växer på döda lövträdstockar, grenar och stående döda träd. Vanliga värdträd är lönn, ek, alm och andra lövträd. Växer som vednedbrytare i skogar, parker och skogsområden. Växer i överlappande kluster eller rader. Föredrar fuktiga skuggiga platser med jämn luftfuktighet.",
+  "season": "Sen vår till höst (maj–november) med toppar sensommar och höst. I milda klimat som nordvästra USA kan den komma året runt. Rikligast i varmt fuktigt väder. Kan dyka upp efter kraftiga regn även på sommaren.",
+  "regions": [
+    "östra Nordamerika (mycket vanlig)",
+    "centrala USA",
+    "nordvästra USA (vanlig)",
+    "Kalifornien",
+    "södra Kanada",
+    "hela tempererade Nordamerika"
+  ],
+  "lookalikes": [
+    "Auricularia auricula-judae (ätlig) – europeisk art, tunnare, främst på fläder",
+    "Exidia glandulosa (ätlig) – mer hjärnlik, knappformad, inte öronformad",
+    "Tremella foliacea (ätlig) – mer veckad och hjärnlik struktur",
+    "inga giftiga dubbelgångare"
+  ],
+  "safety_notes": "ÄTLIG: Utmärkt matsvamp med kulinarisk användning identisk med asiatiskt judasöra. Uppskattad för krispig geléartad konsistens som består genom tillagning. Populär i asiatisk-amerikansk matlagning, soppor och wokade rätter. Tillaga ordentligt – ät inte rå. Arten absorberar smaker väl samtidigt som den behåller konsistensen. Inga farliga dubbelgångare finns bland gelésvampar. Rengör väl före tillagning. Kan torkas och återhydreras som asiatiska sorter. Öronformen och växten på lövträd är diagnostiska. Skördas alltmer kommersiellt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1529622.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 108454,
+      "width": 640,
+      "height": 480,
+      "sha256": "feb8d0b7fa0f9d7834066e8f605377bb4ed08e38816d0e953c62bdb67c943230"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1529623.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 89374,
+      "width": 480,
+      "height": 640,
+      "sha256": "34035053592c400b146540f7b4d19fa43a71ceb7abd03512ea30029ac42d7d42"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

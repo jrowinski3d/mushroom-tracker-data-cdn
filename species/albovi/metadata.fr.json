@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "albovi",
+  "scientific_name": "Albatrellus ovinus",
+  "common_name": "Polypore des brebis",
+  "edibility": "E",
+  "description": "Champignon blanc à crème, aux chapeaux irréguliers et déprimés de 5 à 15 cm de diamètre, souvent soudés entre eux en touffes. Pied épais, central à excentré, de 2,5 à 7,5 cm de hauteur. Petits pores blancs à crème sur la face inférieure. Chair ferme et cassante. Pousse souvent en touffes soudées de plusieurs chapeaux. Jaunit avec l'âge ou à la manipulation. Forme et couleur distinctives.",
+  "habitat": "Mycorhizien des conifères, en particulier l'épicéa, le sapin et le pin dans les régions montagneuses. Pousse au sol dans les forêts de conifères, souvent dans la mousse. Fréquente dans les forêts montagnardes et subalpines d'épicéas et de sapins. Préfère les sols acides. Pousse de manière dispersée ou en petits groupes.",
+  "season": "De l'été à l'automne en montagne, typiquement de juillet à octobre. Fructification maximale en août-septembre. Fructifie après les pluies d'été dans les forêts de conifères de haute altitude. Plus fréquent au milieu et à la fin de l'été.",
+  "regions": [
+    "montagnes Rocheuses",
+    "Chaîne des Cascades",
+    "Sierra Nevada",
+    "Forêts montagnardes du Nord",
+    "Montagnes du Pacifique Nord-Ouest",
+    "Circumboréale dans les régions nordiques"
+  ],
+  "lookalikes": [
+    "Albatrellus confluens (tons plus orangés, habitat semblable)",
+    "Autres espèces d'Albatrellus (aspect et comestibilité semblables)",
+    "Espèces de Scutiger (semblables mais structure des pores différente)",
+    "Jeunes Bondarzewia (bien plus grands, habitat différent)"
+  ],
+  "safety_notes": "COMESTIBLE jeune et frais : bon champignon comestible à la saveur douce quand il est jeune et tendre. Les spécimens âgés deviennent coriaces, amers et développent des propriétés laxatives — à éviter. Meilleur quand il est petit et blanc, sans jaunissement. Bien cuire. La texture cassante et la saveur douce sont agréables chez les jeunes spécimens. Généralement sans danger mais la qualité décline rapidement avec l'âge. Ne récolter que des spécimens frais et blancs.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501167.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 51260,
+      "width": 508,
+      "height": 640,
+      "sha256": "3ed0ad19b80a23f9c88ec0cb620cbcf5a0b9f3456fb4938cfc7a956d9422f37b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501168.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 100704,
+      "width": 480,
+      "height": 640,
+      "sha256": "ad9821e3ae8d123f25d72da39bd94b04234fb13913299cc03fddbb2641c3cec2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

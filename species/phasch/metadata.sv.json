@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phasch",
+  "scientific_name": "Phaeolus schweinitzii",
+  "common_name": "Grovticka",
+  "edibility": "E",
+  "description": "Stor oregelbunden konsol eller rosett, 5–30 cm bred, med karakteristiska rostbruna till orangebruna färger när den är ung och blir mörkbrun till svart med åldern. Mjuk och svampig konsistens när den är färsk, utvecklar en klar gul porsyta. Bildar konsoler, rosetter eller oregelbundna hyllor. Orsakar brun kubisk röta. Mörkbrunt svampkött med gula strimmor. Åldras till smulig svart.",
+  "habitat": "Parasitisk och saprofytisk vid basen och på rötter av levande och döda barrträd, särskilt tall, gran, ädelgran och douglasgran. Orsakar brun kubisk stubb- och rotröta i barrträd. Växer från marken nära trädbaser, på rötter och på nedre stammar. Vanlig i barrskogar.",
+  "season": "Sommar till höst, vanligtvis juli–oktober. Årliga fruktkroppar dyker upp i sensommar. Kan bestå in i hösten och bli mörk och smulig. Högsäsong i augusti–september i barrskogar.",
+  "regions": [
+    "Klippiga bergen",
+    "Stillahavsnordväst",
+    "Norra barrskogar",
+    "Området kring Stora sjöarna",
+    "Kaskadbergen",
+    "Cirkumboreal i norra skogar"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (klarare färger, annan konsistens)",
+    "Inonotus tomentosus (liknande habitat, andra färger)",
+    "Onnia tomentosa (liknande men zonerat mönster)",
+    "Andra bruna barrtickor (olika arter)"
+  ],
+  "safety_notes": "REKOMMENDERAS INTE FÖR FÖRTÄRING: Trots ätlighetsklassificeringen anses denna art generellt vara OÄTLIG på grund av extremt seg, svampig konsistens och bitter smak även när den är ung. Orsakar magbesvär hos de flesta som försöker äta den. Har historiskt använts för färgning (ger vackra gula, guld- och gröna färger för ull). Uppskattas bäst för sin ekologiska roll och sina färgningsegenskaper, inte för mat. För seg och bitter för förtäring.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1735596.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 114742,
+      "width": 480,
+      "height": 640,
+      "sha256": "3928b93ec106fb8d79f9607b03de0dd8bd425be03e42df494f0eade96c49af13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1735597.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 138586,
+      "width": 480,
+      "height": 640,
+      "sha256": "85795157976288edec84c0662da804ef1c76f232f6f7450bdd5e4cb580189d6c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "herabi",
+  "scientific_name": "Hericium abietis",
+  "common_name": "Bear’s Head Tooth (Hericium abietis)",
+  "edibility": "E",
+  "description": "L’hydne des conifères a une structure blanche et ramifiée (10-25 cm de large), d’aspect corallien moyennement ramifié, qui se distingue par sa croissance exclusivement sur le bois de CONIFÈRES. Les branches portent des touffes d’AIGUILLONS pendants (0,5-2 cm de long), principalement sur les faces inférieures, parfois partiellement autour des branches. Les branches sont blanches, charnues, moins abondamment divisées que chez H. coralloides. Toute la fructification est blanche à l’état frais, jaunissant ou brunissant avec l’âge. Chair blanche, ferme, au goût doux. Se distingue surtout par son hôte conifère et sa ramification intermédiaire entre H. americanum et H. coralloides.",
+  "habitat": "Saprotrophe sur le bois de CONIFÈRES, en particulier le sapin, l’épinette, la pruche et le pin. Pousse sur les troncs morts, les arbres morts debout et les souches de conifères. C’est la seule espèce d’Hericium qui pousse régulièrement sur les conifères. Non mycorhizienne. Apparaît généralement seule sur un tronc ou un arbre.",
+  "season": "De la fin de l’été à l’automne (septembre-novembre), souvent plus tard que les Hericium des feuillus.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "Nord des États-Unis",
+    "Canada",
+    "Europe du Nord"
+  ],
+  "lookalikes": [
+    "Hericium coralloides - pousse sur les feuillus, plus abondamment ramifié",
+    "Hericium americanum - pousse sur les feuillus, branches plus épaisses",
+    "Climacodon septentrionalis - semblable mais avec de plus grands aiguillons, structure différente"
+  ],
+  "safety_notes": "COMESTIBLE : bonne saveur, semblable aux autres espèces d’Hericium, bien que parfois légèrement plus amère. Son aspect blanc épineux et son association exclusive avec le bois de conifère rendent l’identification facile. Il n’existe aucun sosie toxique. Meilleur frais et d’un blanc pur - le jaunissement ou le brunissement indique l’âge. Nettoyer délicatement pour retirer les débris de conifères des aiguillons.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714426.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 59586,
+      "width": 640,
+      "height": 480,
+      "sha256": "64ad0f9013daa01c68572b668c9906b6093066007124fbd95e76e9cd73bc0db5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1658775.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 45632,
+      "width": 640,
+      "height": 480,
+      "sha256": "8df4a3bad659adc85c7166e5684a14c98f94895920a7cda2aca912c464780318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

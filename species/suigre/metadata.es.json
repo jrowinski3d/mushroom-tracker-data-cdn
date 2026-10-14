@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigre",
+  "scientific_name": "Suillus grevillei",
+  "common_name": "Boleto del alerce",
+  "edibility": "E",
+  "description": "El boleto del alerce muestra un distintivo sombrero de color amarillo dorado brillante a amarillo anaranjado (3-10 cm) con superficie muy viscosa y glutinosa cuando está húmedo. Los poros son de color amarillo brillante, con manchas parduzcas por el roce. Un anillo membranoso prominente en el pie amarillo suele mancharse de marrón con las esporas. La carne amarilla no mancha. Los colores amarillos brillantes y la asociación con el alerce son diagnósticos. Esporada de color marrón canela.",
+  "habitat": "Micorrícico exclusivamente con el alerce (especies de Larix): no puede fructificar sin alerces. Forma asociaciones obligadas con el alerce europeo, el alerce occidental y el alerce americano. Se encuentra en plantaciones de alerce y bosques nativos de alerce.",
+  "season": "De finales del verano a otoño (agosto-noviembre), con fructificación máxima en septiembre-octubre. Fructifica al mismo tiempo que el alerce en regiones templadas.",
+  "regions": [
+    "Pacífico Noroeste (alerce occidental)",
+    "Montañas Rocosas",
+    "bosques del noreste (alerce americano)",
+    "región de los Grandes Lagos",
+    "plantaciones de alerce en toda Norteamérica",
+    "Canadá",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Suillus luteus — sombrero más oscuro, con pino y no con alerce",
+    "Otras especies de Suillus — ninguna tan amarillo brillante",
+    "especies de Boletus — no son viscosas, hábitat diferente",
+    "Sin especies tóxicas similares cuando se encuentra con alerce"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto del alerce es un buen comestible, de textura firme y sabor suave. Retirar la cutícula muy viscosa del sombrero antes de cocinar. La asociación obligada con el alerce hace que la identificación sea sencilla: si no hay alerces, no es esta especie. Algunas personas sufren molestias digestivas. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1514245.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 81080,
+      "width": 480,
+      "height": 640,
+      "sha256": "2107c1ba7397ae9b012d8dde6e396d9ab6720ac9ad6b0d69cceb47499a0eb10b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1514246.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 102390,
+      "width": 480,
+      "height": 640,
+      "sha256": "63324e26cc0f1ce46d1f506e95ec446d2124bd4d7dfd867474f8d87d9e5f4991"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilut",
+  "scientific_name": "Suillus luteus",
+  "common_name": "Bolet jaune",
+  "edibility": "E",
+  "description": "Le bolet jaune porte un chapeau brun chocolat à brun violacé (5-12 cm), à surface distinctement visqueuse et gluante par temps humide — facilement pelable. Les pores sont jaunes, sans changement de couleur. Un voile partiel blanc bien visible laisse un anneau brun violacé sur le pied jaune. La chair blanche à jaune pâle ne se tache pas. Le chapeau visqueux et l'anneau foncé sont des caractères diagnostiques. Sporée brun cannelle.",
+  "habitat": "Mycorhizien exclusivement avec les pins à deux et trois aiguilles, notamment le pin sylvestre et le pin blanc de l'Est. Commun dans les plantations de pins et les pinèdes régénérées naturellement. Trouvé dans les zones perturbées avec de jeunes pins.",
+  "season": "De l'été à l'automne (juillet-novembre) avec un pic de fructification en septembre-octobre. Fructifie souvent abondamment après les pluies d'automne.",
+  "regions": [
+    "Nord-Est des États-Unis",
+    "région des Grands Lacs",
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "partout où il y a des plantations de pins",
+    "Canada",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Suillus granulatus — sans l'anneau foncé sur le pied",
+    "Autres espèces de Suillus — divers bolets à chapeau visqueux avec les pins",
+    "Espèces de Boletus — non visqueux, habitat différent",
+    "Espèces de Gomphidius — lames et non pores"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet jaune est un bon comestible jeune et ferme. Retirer la cuticule visqueuse du chapeau avant la cuisson car elle peut avoir un effet laxatif. La texture visqueuse et l'anneau violacé sur le pied jaune sont distinctifs. Certaines personnes ressentent des troubles digestifs. Toujours bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1724477.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 107790,
+      "width": 640,
+      "height": 427,
+      "sha256": "58d9a1262207963b51189423dc109394b7f49fd2160a342af7d6ed999a630e7b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1724478.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 78526,
+      "width": 640,
+      "height": 427,
+      "sha256": "b5eb12ca74c4875c75f45097ea8581a8f1e41b464135995d4bda4dbfa0b0bab4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

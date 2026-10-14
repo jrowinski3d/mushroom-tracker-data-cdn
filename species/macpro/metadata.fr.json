@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "macpro",
+  "scientific_name": "Macrolepiota procera",
+  "common_name": "Coulemelle",
+  "edibility": "E",
+  "description": "La Coulemelle est une espèce grande et impressionnante avec un chapeau caractéristique en forme de parapluie atteignant 10 à 30 cm de diamètre, couvert d’écailles brunes retroussées sur fond crème formant un motif peau de serpent. Le chapeau est porté par un pied grand et grêle (15 à 35 cm) avec un anneau épais à double bord, mobile, et des motifs écailleux bruns en peau de serpent sous l’anneau. Les lames sont libres (non attachées au pied), blanches devenant crème avec l’âge, et serrées. La chair blanche a un léger goût de noisette et ne bleuit ni ne change de couleur à la coupe.",
+  "habitat": "Se trouve dans les zones herbeuses : pâturages, prés, bords de pelouses, clairières, parcs et bords de routes. Pousse sur le sol (pas sur le bois) dans des sols riches en nutriments, souvent dans les zones perturbées. Fructifie généralement de manière dispersée ou en petits groupes, parfois en ronds de fées. Préfère les zones modérément ensoleillées et les sols bien drainés.",
+  "season": "De l’été à l’automne (juillet-novembre en Amérique du Nord, mai-novembre dans les climats plus chauds). Le pic de fructification a lieu à la fin de l’été et au début de l’automne, particulièrement après les pluies chaudes. Dans les climats méditerranéens, peut fructifier au printemps et à l’automne.",
+  "regions": [
+    "Europe (indigène, répandu)",
+    "Est de l’Amérique du Nord (naturalisé)",
+    "Pacifique Nord-Ouest (rare)",
+    "Californie (occasionnel)",
+    "Régions méditerranéennes",
+    "Prairies tempérées dans le monde entier"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (toxique) - sporée verdâtre, rougit à la coupe, silhouette plus trapue",
+    "Chlorophyllum molybdites (toxique) - spores vertes, verdit au toucher, nord-américain",
+    "Espèces de Lepiota (dont certaines mortelles) - bien plus petites (chapeau < 10 cm), anneau fragile",
+    "Espèces d’Amanita (mortel) - volve à la base, lames attachées ou libres mais avec volve"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : l’un des meilleurs champignons comestibles, à la texture ferme et au goût de noisette. Le chapeau est préféré (le pied est fibreux). Bien cuire - ne pas manger cru. Identification essentielle : vérifier les lames blanches LIBRES (non attachées au pied), l’anneau épais à double bord MOBILE, le pied écailleux en peau de serpent, la SPORÉE BLANCHE, PAS de volve à la base. Jeter le pied coriace et fibreux. Certaines personnes signalent de légers troubles digestifs - essayer d’abord en petites quantités. La coulemelle doit être clairement distinguée des espèces toxiques de Chlorophyllum qui ont des spores verdâtres.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707981.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 126726,
+      "width": 640,
+      "height": 482,
+      "sha256": "48092b17e14085dc876a1c9286a5ce96d9c77732fe4e537500c55825c70e16de"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590126.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-03",
+      "file_size_bytes": 126206,
+      "width": 640,
+      "height": 482,
+      "sha256": "ed4a5b15c67cad23f36c2d4f1e96ee10272c33b21580d35007412ea2982a36dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

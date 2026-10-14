@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "lacpar",
+  "scientific_name": "Lactarius paradoxus",
+  "common_name": "역설젖버섯 (Lactarius paradoxus)",
+  "edibility": "E",
+  "description": "역설젖버섯은 회갈색 갓(3~8cm)을 지니며 흔히 분홍빛을 띤다. 주름살은 창백하다. 대도 비슷하다. 핵심: 흰색 유즙이 서서히 회색 또는 회녹색으로 변한다. 갓에 분홍빛이 돌 수 있다. 소형 종. 살은 창백하다. 포자문은 크림색이다.",
+  "habitat": "침엽수와 균근성. 소나무와 가문비나무 아래에서 자란다. 북부 산림. 드문드문 난다.",
+  "season": "가을(9~10월).",
+  "regions": [
+    "북동부",
+    "어퍼 미드웨스트",
+    "캐나다"
+  ],
+  "lookalikes": [
+    "기타 소형 Lactarius — 유즙의 변색을 확인하라"
+  ],
+  "safety_notes": "식용: 순하다. 서서히 회색으로 변하는 흰색 유즙이 동정 포인트. 어린 개체가 가장 좋다. 충분히 익혀 먹으라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1531873.jpg",
+      "photographer": "beelime",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-12-12",
+      "file_size_bytes": 113234,
+      "width": 480,
+      "height": 640,
+      "sha256": "d131613c503a0eba91bc857b843c2839b6f8cfb2635388c82d2859c06b5e8fd8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1531874.jpg",
+      "photographer": "beelime",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-12-12",
+      "file_size_bytes": 109428,
+      "width": 640,
+      "height": 480,
+      "sha256": "0babad4ba5728a6edea081ac4f2ac8b04b787983a5ee556d0fde561c0300c649"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

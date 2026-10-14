@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canros",
+  "scientific_name": "Cantharellus roseocanus",
+  "common_name": "무지개꾀꼬리버섯",
+  "edibility": "E",
+  "description": "무지개꾀꼬리버섯(장미꾀꼬리버섯이라고도 함)은 분홍빛에서 연어빛 주황색 또는 장미색을 띠는 뚜렷한 갓이 특징이며, 너비는 3–12cm로 종종 보라분홍색 기운이 돌아 관용명의 유래가 되었다. 갓 표면은 매끄럽거나 약간 주름져 있으며, 나이가 들면 깔때기 모양이 되고 가장자리는 물결 모양의 불규칙한 형태를 이룬다. 갓 아랫면에는 두껍고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 분홍주황색에서 연어분홍색을 띠고, 간격이 넓으며 대를 타고 내려간다. 대는 속이 차 있고 높이가 3–9cm이며 분홍빛에서 흰색을 띠고, 밑동에 종종 보라분홍색 기운이 있다. 살은 흰색에서 옅은 분홍색이고 단단하며, 은은한 과일 향이 난다. 포자문은 흰색에서 옅은 크림색이다.",
+  "habitat": "태평양 북서부 침엽수(더글러스전나무, 서부솔송나무, 시트카가문비나무 등)와 균근 공생한다. 혼합림에서는 타노크 및 마드로뇨와 함께 자란다. 연안 및 산악 침엽수림의 배수가 잘되는 비탈, 두꺼운 이끼와 낙엽부식층이 있는 곳을 선호한다.",
+  "season": "가을에서 초겨울(9–12월), 가을비가 내리기 시작하면서 발생한다. 태평양 북서부에서는 보통 10–11월이 절정기이다. 종종 C. formosus와 함께 발생하지만 발생 시기가 약간 늦은 편이다.",
+  "regions": [
+    "태평양 북서부(브리티시컬럼비아~북캘리포니아)",
+    "오리건·워싱턴 연안",
+    "밴쿠버섬",
+    "북캘리포니아 연안 산악 지대",
+    "올림픽반도"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus — 식용, 분홍빛이 없는 황금주황색, 그 외 매우 유사",
+    "Cantharellus cascadensis — 식용, 옅은 노랑크림색, 분홍빛 없음, 고지대 서식",
+    "거짓꾀꼬리버섯(Hygrophoropsis aurantiaca) — 독성은 없으나 품질이 낮음, 얇은 진짜 주름살, 더 주황색"
+  ],
+  "safety_notes": "식용: 무지개꾀꼬리버섯은 독특한 분홍색이 특징인 훌륭한 식용 버섯이다. 모든 꾀꼬리버섯과 마찬가지로 핵심 식별 특징은 갓 아랫면의 두껍고 뭉툭하며 갈라진 주름으로, 납처럼 왁스 질감이 느껴지고 갓 살과 이어져 있으며, 진짜 주름살이 아니라는 점이다. 독특한 장미분홍색 덕분에 다른 꾀꼬리버섯이나 독버섯 유사종과 비교적 쉽게 구별된다. 항상 나무 근처 토양에서 자라는지 확인하라. 다른 꾀꼬리버섯과 비슷한 은은하고 기분 좋은 풍미가 있으며, 볶거나 크림 소스 요리에 훌륭하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694228.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 107424,
+      "width": 480,
+      "height": 640,
+      "sha256": "8200b4001e0376a6ebd13187bf3762b1f1eab844a4746bcb46b89a71c86f69b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1694229.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 106984,
+      "width": 480,
+      "height": 640,
+      "sha256": "3af5792bb0538624c8a3cd973dc8beae579d306263b6990c372bc1d599017326"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

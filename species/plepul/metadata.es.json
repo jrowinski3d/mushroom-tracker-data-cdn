@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "plepul",
+  "scientific_name": "Pleurotus pulmonarius",
+  "common_name": "Phoenix Oyster (Pleurotus pulmonarius)",
+  "edibility": "E",
+  "description": "Sombreros en forma de abanico o de ostra de 5 a 20 cm de ancho, de color blanco a crema pálido o beige claro. Superficie lisa con láminas blancas decurrentes y pie lateral o ausente. Muy similar a P. ostreatus, pero generalmente de color más pálido y fructifica durante los meses más cálidos. Crece en grupos densos y superpuestos sobre madera de frondosas. Esporada blanca.",
+  "habitat": "Saprobio sobre árboles de frondosas muertos o moribundos, troncos y tocones, en particular roble, haya, arce, olmo y otros árboles caducifolios. Forma repisas densas y superpuestas a partir de la madera. Común en árboles muertos en pie y troncos caídos en bosques de frondosas y mixtos.",
+  "season": "Desde finales de primavera hasta principios de otoño, con fructificación máxima en junio-agosto durante el clima cálido. Contraparte de clima cálido de P. ostreatus. Fructifica cuando las temperaturas superan los 15 °C (60 °F).",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste y Grandes Llanuras",
+    "sur de Estados Unidos",
+    "costa del Pacífico",
+    "regiones templadas de todo el mundo"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (casi idéntico, más oscuro, fructifica en otoño-invierno)",
+    "Alas de ángel (Pleurocybella porrigens) — tóxica, más pequeña, de blanco puro, en coníferas",
+    "Seta ostra del olmo (Hypsizygus ulmarius) — pie central más pronunciado",
+    "Especies de Crepidotus — esporas marrones, más pequeñas, carne más delgada"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: seta comestible excelente, de sabor suave y agradable, similar a P. ostreatus. Una de las especies más cultivadas en todo el mundo. Cocinar bien antes de comer. Los ejemplares silvestres son seguros cuando están correctamente identificados. La fructificación en verano ayuda a distinguirla de la similar P. ostreatus. Ampliamente cultivada para la venta comercial.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1691299.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 70350,
+      "width": 640,
+      "height": 480,
+      "sha256": "99a98f8d2d414ba72dc72435e994f5bbe3c17e27d65e768b5070cf33a88020a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691286.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-03",
+      "file_size_bytes": 80098,
+      "width": 640,
+      "height": 480,
+      "sha256": "5fb260ca9843e36cc986b17d7ce952eebf4de6a6ded63fb10206454b3d031d1e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.352015",
+  "source_language": "en"
+}

@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacthy",
+  "scientific_name": "Lactarius thyinos",
+  "common_name": "Aromatic Milk Cap (Lactarius thyinos)",
+  "edibility": "E",
+  "description": "El níscalo aromático presenta un sombrero anaranjado (4-12 cm) con zonas concéntricas, a menudo con manchas verdosas. Las láminas son de anaranjado pálido, apretadas. El pie es anaranjado con hoyuelos. RASGO CLAVE: LÁTEX (leche) ANARANJADO y distintivo OLOR AROMÁTICO A CEDRO o A INCIENSO. El látex puede teñirse de verde. La carne es pálida. Esporada crema. El olor aromático lo distingue de especies similares.",
+  "habitat": "Micorrícico con CEDRO y CIPRÉS (familia Cupressaceae) en el oeste de Norteamérica. Crece bajo cedro de incienso, tuya gigante y cedro de Port Orford. Se encuentra en bosques de coníferas.",
+  "season": "Otoño (septiembre-noviembre), fructificando en bosques de coníferas.",
+  "regions": [
+    "Pacífico Noroeste",
+    "norte de California",
+    "Oregón occidental",
+    "Columbia Británica"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus: huésped pino, menos aromático",
+    "Lactarius rubrilacteus: látex rojo",
+    "Otros Lactarius anaranjados: compruebe el árbol huésped y el olor"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: sabor excelente. El LÁTEX ANARANJADO y el OLOR A CEDRO, junto con el huésped cedro/ciprés, son diagnósticos. Puede teñirse de verde, es normal. Mejor joven. Cocine bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1705100.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 63272,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa2a7d5936d1b759d24738c55c3f0c7d9cbf7a2cd5b08a51e5b5c30da7b5233f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705101.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 82012,
+      "width": 640,
+      "height": 482,
+      "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

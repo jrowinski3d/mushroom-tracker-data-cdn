@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cratub",
+  "scientific_name": "Craterellus tubaeformis",
+  "common_name": "노란발꾀꼬리버섯",
+  "edibility": "E",
+  "description": "노란발(겨울꾀꼬리/깔때기꾀꼬리)은 갓 너비 1–6cm의 작은 버섯으로, 황갈색에서 회갈색의 갓이 나이가 들면 깊이 깔때기 모양이 된다. 갓은 얇고 물결 모양의 가장자리를 가지며, 종종 중앙이 뚫려 속이 빈 대로 이어진다. 아랫면에는 얕고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 황회색에서 옅은 노랑을 띠고, 간격이 넓으며 대를 타고 내려간다. 독특한 대는 높이 2–8cm, 속이 비고 가늘며, 밝은 노랑에서 주황노랑이다(이 때문에 “노란발”이라는 이름이 붙었다). 살은 얇고 황색이며 은은한 냄새가 난다. 포자문은 흰색에서 옅은 노랑이다.",
+  "habitat": "북부와 산악 삼림의 침엽수, 특히 가문비나무, 전나무, 솔송나무와 균근 공생한다. 이끼 낀 침엽수림에서 발견되며, 종종 이끼 덮인 땅, 썩은 목재, 침엽수 낙엽 속에 대형 무리로 자란다. 고지대나 고위도의 서늘하고 습한 환경을 선호한다.",
+  "season": "늦가을에서 겨울(10–2월), 가장 늦게 발생하는 식용 버섯 중 하나이다. 종종 첫 서리가 내린 뒤 나타나며 눈 밑에서도 발생할 수 있다. 절정은 태평양 북서부와 북부 지역에서 보통 11–1월이다.",
+  "regions": [
+    "태평양 북서부(오리건, 워싱턴, 브리티시컬럼비아)",
+    "미국 북부(메인~미네소타)",
+    "오대호 지역",
+    "북부 로키산맥",
+    "북동부 주",
+    "북유럽(분포함)"
+  ],
+  "lookalikes": [
+    "Craterellus ignicolor — 식용, 전체적으로 더 황금노랑, 북미 동부에 분포",
+    "소형 Cantharellus 종 — 식용, 더 견고하고, 독특한 노란 대와 속이 빈 중심이 없음",
+    "Hygrophoropsis aurantiaca(거짓꾀꼬리버섯) — 독성은 없으나 품질이 낮음, 얇은 진짜 주름살, 더 주황색"
+  ],
+  "safety_notes": "식용: 노란발은 작은 크기에도 불구하고 훌륭한 식용 버섯이다. 독특한 밝은 노란 속 빈 대와 갈색 기운의 갓으로 동정하기 쉽다. 꾀꼬리버섯처럼 진짜 주름살이 아닌 뭉툭한 주름이 있는데, 얕아서 때로는 거의 보이지 않는다. 유독 유사종이 없다. 작은 크기 때문에 한 끼를 위해서는 많이 채취해야 하지만, 종종 풍부하게 발생한다. 풍미는 섬세하고 약간 후추 같으며, 수프, 파스타, 볶음에 훌륭하다. 말려서 나중에 쓰기에도 좋다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719682.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 69358,
+      "width": 480,
+      "height": 640,
+      "sha256": "fc9fb71e90d30d54edf3e5aa489e4451406c1669a8b5215ca31bdf4596317759"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719683.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 45096,
+      "width": 480,
+      "height": 640,
+      "sha256": "f91bd6be1fc4662333cd75708085d399ebe96caae4a04e3927a4f45985eb9c7c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

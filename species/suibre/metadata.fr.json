@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suibre",
+  "scientific_name": "Suillus brevipes",
+  "common_name": "Bolet à pied court",
+  "edibility": "E",
+  "description": "Le bolet à pied court porte un chapeau fauve à brun rougeâtre (3-12 cm), à surface visqueuse par temps humide, souvent d'aspect strié ou marbré. Les pores sont grands et anguleux, jaunes à jaune olive, sans changement de couleur. Le pied court et trapu, jaune, est dépourvu d'anneau — un caractère clé. La chair blanche à jaune pâle ne se tache pas. Le chapeau visqueux et le pied sans anneau le distinguent. Sporée brun cannelle.",
+  "habitat": "Mycorhizien exclusivement avec les pins à deux et trois aiguilles, notamment le pin ponderosa, le pin tordu et le pin de Jeffrey dans les forêts de l'ouest. Commun dans les forêts dominées par les pins et les pinèdes claires.",
+  "season": "De la fin de l'été à l'automne (août-novembre) avec un pic de fructification en septembre-octobre. Fructifie après les pluies de fin d'été et d'automne.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "montagnes de Californie",
+    "montagnes Rocheuses",
+    "forêts de pins du Sud-Ouest",
+    "hauts plateaux de l'Arizona",
+    "montagnes du Nouveau-Mexique",
+    "zones montagneuses de l'Ouest"
+  ],
+  "lookalikes": [
+    "Suillus luteus — anneau foncé bien visible sur le pied",
+    "Suillus granulatus — pores exsudant des gouttelettes laiteuses quand ils sont jeunes",
+    "Autres espèces de Suillus — vérifier la présence ou l'absence d'anneau",
+    "Espèces de Boletus — non visqueux, habitat différent"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet à pied court est comestible, de saveur douce mais de texture un peu molle. Retirer la cuticule visqueuse du chapeau avant la cuisson. Le pied sans anneau et l'association avec les pins sont diagnostiques. Certaines personnes ressentent de légers troubles digestifs. Bien cuire avant de consommer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715638.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 115520,
+      "width": 640,
+      "height": 427,
+      "sha256": "5baf6a28695fc65eac987612eee3be7fd427df33eca270d1bebf6f58b6ad4d8b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713565.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 44206,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29048d548d1e15f2bc66daa9c5ed99bf2ec3b424f4b97b2bc38acb4925eaba2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

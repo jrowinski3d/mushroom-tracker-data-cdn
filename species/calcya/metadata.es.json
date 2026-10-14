@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calcya",
+  "scientific_name": "Calvatia cyathiformis",
+  "common_name": "Purple-spored Puffball (Calvatia cyathiformis)",
+  "edibility": "E",
+  "description": "Pedos de lobo medianos a grandes de 3 a 8 pulgadas de alto y 2 a 6 pulgadas de ancho, con forma de pera invertida, peonza o jarrón, con una prominente base estéril gruesa que comprende la mitad inferior. Exterior de blanco a pardo grisáceo, volviéndose pardo púrpura con la edad. Interior de color blanco puro cuando es comestible, madurando a una masa de esporas pardo púrpura. Se distingue por la base estéril en forma de copa que persiste tras la dispersión de las esporas.",
+  "habitat": "Saprobio en pastizales, praderas, prados, céspedes, campos y bosques abiertos. Prefiere áreas alteradas con suelo rico. Común en parques, campos de golf, bordes de caminos y tierras agrícolas. A menudo crece en corros de brujas o grupos dispersos.",
+  "season": "De finales del verano a otoño, típicamente de agosto a octubre. Fructificación máxima en septiembre tras las lluvias de finales del verano. Puede aparecer hasta noviembre en climas templados.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste y Grandes Llanuras",
+    "costa del Pacífico",
+    "sur de Canadá",
+    "extendido por toda Norteamérica",
+    "distribución cosmopolita"
+  ],
+  "lookalikes": [
+    "Otras especies de Calvatia con base estéril (comestibilidad similar cuando el interior es blanco)",
+    "MORTAL: botones inmaduros de Amanita (CÓRTELOS SIEMPRE POR LA MITAD: mostrarán láminas o sombrero en desarrollo en su interior)",
+    "Especies de Scleroderma / pedos de lobo terrestres (tóxicas, interior púrpura negruzco desde el inicio, sin base estéril)",
+    "Handkea (Calvatia) excipuliformis (casi idéntica, misma comestibilidad)"
+  ],
+  "safety_notes": "COMESTIBLE cuando el interior es de color blanco puro: CRÍTICO: corte siempre el ejemplar completamente por la mitad de arriba abajo antes de consumirlo. Comestible SOLO si el interior es completamente blanco puro y firme en su totalidad. Si se observa cualquier tono púrpura, amarillo, pardo o estructuras en desarrollo en el interior, NO LO COMA. Las esporas maduras pardo púrpuras son inofensivas pero no comestibles. Esta regla de corte evita consumir especies similares tóxicas y Amanitas mortales inmaduras. La persistente base en forma de copa es distintiva. Cocine bien cuando esté blanco.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699011.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 81978,
+      "width": 640,
+      "height": 480,
+      "sha256": "08eb68f45de38ccaf4d9a4033e068336d755458b634870abe6fe2568f29cefde"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699012.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 79784,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec43de6f829e776db61ff6efc95aa3911da73444fbdc60655ed8c16da167bab"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

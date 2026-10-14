@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "mortom",
+  "scientific_name": "Morchella tomentosa",
+  "common_name": "Gray Morel (Morchella tomentosa)",
+  "edibility": "E",
+  "description": "Kapelusz o wysokości 3–12 cm, stożkowaty do wydłużonego, gęsto jamkowany wzór plastra miodu żeberek i jamek. Barwa bardzo zmienna, od czarnej i sadzistej szarości przez brązową, żółtą do białawej, zwykle z wiekiem przechodząca od ciemniejszej do jaśniejszej. Charakterystyczna cecha: młode okazy gęsto pokryte drobnymi włoskami, nadającymi puszysty lub aksamitny wygląd, szczególnie widocznymi pod lupą; włoski najbardziej wyraźne u podstawy trzonu. Trzon o wysokości 3–12 cm, gruby i mocny, o charakterystycznej dwuściennej budowie, ciemniejszy niż u wielu gatunków smardzów, pusty. Wykształca unikalne podziemne struktury przypominające sklerocja. Wysyp zarodników kremowy.",
+  "habitat": "Wyspecjalizowany gatunek związany z ogniem, występujący wyłącznie w spalonych lasach iglastych zachodniej Ameryki Północnej, szczególnie po pożarach o umiarkowanej do wysokiej intensywności. Owocuje w miejscach ze stojącymi martwymi drzewami iglastymi i resztkami drzewnymi. Preferuje pogorzeliska 1–3 lata po pożarze, choć może pojawiać się w kolejnych latach. Występuje na różnych wysokościach, od nizinnych lasów po strefy górskie. Opisany z zachodniej Ameryki Północnej w 2008 r. jako odrębny gatunek przystosowany do ognia. Nie owocuje w niespalonych lasach ani na naruszonych miejscach niezwiązanych z ogniem.",
+  "season": "Późna wiosna do wczesnego lata (maj–lipiec w większości obszarów). Owocuje później niż wiele smardzów, pojawiając się na wyższych wysokościach i później w sezonie górskim, gdy topnieje śnieg. Czas zależy od wysokości, pokrywy śnieżnej i ocieplania gleby na pogorzeliskach. Niżej położone pogorzeliska mogą owocować od maja do czerwca, podczas gdy wysoko górskie pogorzeliska owocują od czerwca do lipca po topnieniu śniegu.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia",
+    "Góry Skaliste"
+  ],
+  "lookalikes": [
+    "piestrzenica (gatunki Gyromitra) – TRUJĄCA: mózgowato pomarszczony lub skręcony kapelusz zamiast plastra miodu żeberek, kapelusz przyrośnięty tylko na szczycie trzonu, wnętrze komorowe, a nie całkowicie puste, często czerwonobrązowa. Śmiertelnie trująca, zawiera gyromitrynę.",
+    "Morchella snyderi – jadalny: brak puszystej i owłosionej powłoki, występuje w niespalonych lasach iglastych (niezależny od ognia), cieńsza ścianka trzonu, jaśniejsze zabarwienie za młodu. Wymaga tego samego przygotowania kulinarnego.",
+    "inne czarne smardze (grupa M. elata) – jadalne: różne smardze związane z ogniem i naturalne, brak puszystej powłoki i dwuściennego trzonu charakterystycznych dla M. tomentosa, odróżnienie w terenie trudne bez doświadczenia.",
+    "Morchella importuna (smardz parastożkowaty) – jadalny: występuje w miejskiej ściółce, a nie na górskich pogorzeliskach, brak puszystej faktury, drabinkowy wzór żeberek."
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoko ceniony grzyb kulinarny, szczególnie ceniony przez komercyjnych zbieraczy, którzy zbierają tony rocznie z zachodnich pogorzelisk. Musi być dokładnie ugotowany przez minimum 15–25 minut; surowe lub niedogotowane smardze zawierają toksyny hydrazynowe powodujące silne nudności, wymioty i dolegliwości żołądkowe. Gotuj w temperaturze powyżej 71°C, aby zniszczyć toksyczne związki. Niektóre osoby doświadczają reakcji alergicznych nawet po prawidłowym ugotowaniu; początkowo spożywaj małe porcje. Unikaj spożywania alkoholu ze smardzami, gdyż udokumentowano rzadkie niepożądane reakcje. Kluczowe jest odróżnienie od śmiertelnie trujących piestrzenic (Gyromitra) o mózgowatych kapeluszach zamiast wzorów plastra miodu. Zbierając na pogorzeliskach, uważaj na niestabilne drzewa, doły popiołu i inne zagrożenia związane z pożarem.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1074986.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 182406,
+      "width": 640,
+      "height": 640,
+      "sha256": "0817ccd2ef62707eced0007c3b331d1feb697686f646e29b20266c2a36cbf7ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1074987.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 17824,
+      "width": 256,
+      "height": 480,
+      "sha256": "7357e1c34fca970cf9ed95cacd9bea0aee8a49fac418029b6d68666a8c1a17f9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

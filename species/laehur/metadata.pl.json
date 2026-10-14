@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laehur",
+  "scientific_name": "Laetiporus huroniensis",
+  "common_name": "Chicken of the Woods (Laetiporus huroniensis)",
+  "edibility": "E",
+  "description": "Jaskrawo pomarańczowa do łososiowej półka o siarkowo-żółtej do kremowej powierzchni porów, tworząca duże zachodzące na siebie półki o szerokości 2–10 cali na choinie. Często bledsze żółte pory niż u L. sulphureus. Miękka i soczysta, gdy młoda. Odróżnia ją północno-wschodni zasięg i ścisłe powiązanie z choiną kanadyjską. Tworzy rozety na pniach i kłodach. Roczna półka.",
+  "habitat": "Pasożytniczy i saprotroficzny, konkretnie na żywej i martwej choinie kanadyjskiej (Tsuga canadensis). Silnie związany z choiną w północno-wschodnich lasach. Tworzy półkowe owocniki na pniach, pniakach i powalonych kłodach. Powoduje brunatną kostkową zgniliznę rdzeniową. Pospolity tam, gdzie występuje choina kanadyjska.",
+  "season": "Od lata do jesieni, zazwyczaj lipiec–październik. Szczyt owocnikowania w sierpniu–wrześniu. Wysypy po ciepłych letnich deszczach. Podobna pora jak u innych północnych gatunków Laetiporus.",
+  "regions": [
+    "Północno-wschodnie Stany Zjednoczone",
+    "Region Wielkich Jezior",
+    "Appalachy",
+    "Południowo-wschodnia Kanada",
+    "Zasięg choiny kanadyjskiej",
+    "Od Nowej Anglii do Georgii"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (zachodnie góry, inne drzewa iglaste)",
+    "Laetiporus sulphureus (na drzewach liściastych, nie iglastych)",
+    "Inne gatunki Laetiporus (inni gospodarze/zasięgi)",
+    "Jack-o'-lantern (Omphalotus) — trujący, ma blaszki, nie pory"
+  ],
+  "safety_notes": "JADALNY, gdy młody, ale OSTROŻNIE: Jak inne iglaste Laetiporus, gatunek ten częściej powoduje dolegliwości trawienne niż gatunki liściaste. Okazy z choiny mogą powodować problemy żołądkowe u wrażliwych osób. Zbierać tylko bardzo młode, delikatne owocniki. Zacząć od małych ilości, aby sprawdzić tolerancję. Gotować dokładnie. Gospodarz choina i północno-wschodni zasięg pomagają w identyfikacji. Niektórzy tolerują go dobrze, inni mają problemy.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1350974.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-10",
+      "file_size_bytes": 103126,
+      "width": 640,
+      "height": 480,
+      "sha256": "0df314aefa46cac6defefc119c354d4312bbc0555697776c22c1fb4101c223ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1350971.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-09",
+      "file_size_bytes": 55286,
+      "width": 640,
+      "height": 459,
+      "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armsin",
+  "scientific_name": "Armillaria sinapina",
+  "common_name": "Mustard Honey Mushroom (Armillaria sinapina)",
+  "edibility": "E",
+  "description": "Senapshonungsskivlingen har en GULBRUN till SENAPSFÄRGAD hatt (4–12 cm) med små mörkbruna fjäll, särskilt i mitten – de gulaktiga tonerna skiljer den från mörkare honungsskivlingar. Skivorna är vita till krämfärgade, vidfästa, och blir bruna med åldern. Foten har en KVARSTÅENDE RING som ofta är tjock och luddig. Foten är vit till gulaktig ovanför ringen, brunaktig nedanför. Växer i TÄTA KNIPPEN på barrträd. Köttet är vitt, fast, med mild doft. Sporfällning vit. Svarta rhizomorfer förekommer. Parasitisk trädskadegörare.",
+  "habitat": "Parasitisk och saprofyt på BARRTRÄD i västra bergen, särskilt tall, ädelgran, gran och lärk. Växer i stora knippen vid basen av levande eller döda barrträd och stubbar. Vanlig skogsskadegörare på högre höjder. Orsakar vitröta och rotsjukdomar.",
+  "season": "Sensommar till höst (augusti–oktober), växer efter regn på högre höjder.",
+  "regions": [
+    "Klippiga bergen",
+    "bergsområden i nordvästra USA",
+    "British Columbia",
+    "Alberta",
+    "norra Klippiga bergen"
+  ],
+  "lookalikes": [
+    "Armillaria solidipes – liknande, något mer rödaktig",
+    "andra honungsskivlingar – kräver alla tillagning",
+    "Pholiota-arter – bruna sporer",
+    "Galerina-arter – DÖDLIGA – mindre, bruna sporer"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Honungsskivlingar (Armillaria-arter) är GIFTIGA som råa och måste tillagas ordentligt före förtäring. Tillaga minst 10–15 minuter på hög värme. Även vid korrekt tillagning får vissa personer allergiska reaktioner eller magbesvär. Smaka en liten mängd först för att testa din tolerans. Förvällning före tillagning kan minska magirriterande ämnen och bitter smak. Ät inte tillsammans med alkohol – honungsskivlingar kan ge oönskade reaktioner i kombination med alkohol (liknande Coprinopsis). Plocka endast unga, fasta exemplar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1287208.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-12-05",
+      "file_size_bytes": 139082,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e66523defb49e3d2c804e6864497805e46688a9beaed94dd7d8ec51ef870eb0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1287208.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-12-05",
+      "file_size_bytes": 139082,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e66523defb49e3d2c804e6864497805e46688a9beaed94dd7d8ec51ef870eb0"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:47:55.208473",
+  "source_language": "en"
+}

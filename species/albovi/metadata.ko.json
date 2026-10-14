@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "albovi",
+  "scientific_name": "Albatrellus ovinus",
+  "common_name": "Sheep Polypore (Albatrellus ovinus)",
+  "edibility": "E",
+  "description": "쉽폴리포어는 흰색에서 크림색의 불규칙하고 오목한 갓(지름 5-15cm)을 지닌 버섯으로, 종종 여러 개가 융합되어 군집을 이룬다. 두껍고 중앙에서 약간 치우친 대는 높이 2.5-7.5cm이다. 아랫면에는 흰색에서 크림색의 작은 관공이 있다. 조직은 단단하고 부서지기 쉽다. 여러 갓이 융합된 군집으로 자라는 경우가 많다. 나이가 들거나 만지면 황변한다. 독특한 형태와 색상.",
+  "habitat": "침엽수, 특히 산악 지역의 가문비나무, 전나무, 소나무와 균근성으로 자란다. 침엽수림의 지상, 종종 이끼 위에서 자란다. 아고산 및 아한대 가문비나무-전나무림에서 흔하다. 산성 토양을 선호한다. 산재하거나 소규모 군집으로 발견된다.",
+  "season": "산지에서는 여름부터 가을까지, 보통 7-10월. 8-9월에 가장 많이 발생한다. 고지대 침엽수림의 여름비 뒤에 발생한다. 한여름에서 늦여름에 가장 흔하다.",
+  "regions": [
+    "로키 산맥",
+    "캐스케이드 산맥",
+    "시에라네바다",
+    "북부 산악림",
+    "태평양 북서부 산악 지역",
+    "북방 지역의 북극권 북방 삼림대"
+  ],
+  "lookalikes": [
+    "Albatrellus confluens (주황빛이 강하고 서식지 유사)",
+    "다른 Albatrellus 종 (외형과 식용성 유사)",
+    "Scutiger 종 (유사하나 관공 구조가 다름)",
+    "어린 Bondarzewia (훨씬 크고 서식지가 다름)"
+  ],
+  "safety_notes": "어리고 신선할 때 식용: 어리고 부드러울 때는 온화한 향미의 좋은 식용 버섯. 오래된 개체는 질겨지고 쓰며 설사성 성질이 생기므로 피한다. 황변이 없고 작고 흰 개체일 때가 가장 좋다. 충분히 익혀 먹는다. 부서지는 조직과 온화한 향미가 어린 개체에서 기분 좋다. 대체로 안전하지만 품질이 나이가 들수록 급격히 떨어진다. 신선하고 흰 개체만 채취한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501167.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 51260,
+      "width": 508,
+      "height": 640,
+      "sha256": "3ed0ad19b80a23f9c88ec0cb620cbcf5a0b9f3456fb4938cfc7a956d9422f37b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501168.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 100704,
+      "width": 480,
+      "height": 640,
+      "sha256": "ad9821e3ae8d123f25d72da39bd94b04234fb13913299cc03fddbb2641c3cec2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

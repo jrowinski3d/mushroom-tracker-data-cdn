@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacro",
+  "scientific_name": "Agaricus crocodilinus",
+  "common_name": "Macro Mushroom (Agaricus crocodilinus)",
+  "edibility": "E",
+  "description": "El Agaricus cocodrilo es una especie distintiva con un sombrero de 8-18 cm de diámetro, inicialmente redondeado que se vuelve ampliamente convexo hasta plano. El sombrero es blanco con un llamativo patrón de escamas recurvadas de color marrón oscuro a marrón grisáceo dispuestas en un patrón de piel de cocodrilo (carácter diagnóstico), más concentradas hacia el centro. Las láminas son libres, al principio de color rosa pálido y se vuelven marrón chocolate. El pie mide 6-12 cm de alto, blanco, liso o con finas escamas, con un gran anillo colgante. La carne es blanca, se magulla lentamente a amarillo a marrón, con un agradable olor a almendra-anís.",
+  "habitat": "Se encuentra en bosques mixtos de coníferas y frondosas, bordes de bosques, parques con árboles maduros y áreas ajardinadas con virutas de madera. Crece en el suelo en suelos ricos en humus y restos leñosos. Fructifica disperso a gregario, a menudo en pequeños grupos. Prefiere áreas con materia orgánica en descomposición.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre) en la mayoría de las regiones. En California y climas suaves, puede fructificar en invierno (diciembre-febrero). La fructificación máxima ocurre en otoño después de lluvias cálidas. Más común en años con humedad constante.",
+  "regions": [
+    "California (común)",
+    "Pacífico Noroeste (ocasional)",
+    "Suroeste de Estados Unidos",
+    "Climas mediterráneos",
+    "Oeste de Norteamérica (principalmente)",
+    "Regiones templadas cálidas"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (comestible) - más grande, escamas más marrón dorado, olor a anís más fuerte",
+    "Agaricus subrutilescens (comestible) - aspecto similar, manchado rojo vino en la base del pie",
+    "Agaricus moelleri (tóxico) - amarillea intensamente, olor fenólico en lugar de anís",
+    "Especies grandes de Amanita (algunas mortales) - tienen volva en la base, ausente en Agaricus"
+  ],
+  "safety_notes": "COMESTIBLE: Considerado comestible con buen sabor y textura cuando se cocina bien. Menos recolectado que A. augustus pero de calidad similar. Identificación crítica: verificar el agradable olor a ALMENDRA-ANÍS (no fenólico), el distintivo patrón de escamas de piel de cocodrilo en el sombrero, láminas LIBRES que se vuelven rosadas y luego marrón chocolate, esporada MARRÓN CHOCOLATE, SIN volva en la base. Evitar los ejemplares con intenso amarilleamiento al magullarse u olor químico fenólico. El distintivo patrón escamoso ayuda a la identificación. Cocinar bien antes de consumir.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634317.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 120438,
+      "width": 640,
+      "height": 480,
+      "sha256": "57a6ec9533933760d0e54c184e86a6cafa732d7772394117fe4b2ec1f09482b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634318.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 86592,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5ca0feb44040250d42aeb015502ef583b1dd53e55968d08ca16c5468222e3bb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

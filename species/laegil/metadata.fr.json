@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laegil",
+  "scientific_name": "Laetiporus gilbertsonii",
+  "common_name": "Chicken of the Woods (Laetiporus gilbertsonii)",
+  "edibility": "E",
+  "description": "Console orange vif à rose saumon avec surface des pores jaune soufre, formant de grandes tablettes chevauchantes de 2 à 10 pouces de large. Très similaire à L. sulphureus mais avec des tons généralement plus rose-orange. Tendre et succulent jeune, devenant dur avec l'âge. Distingué des espèces de l'est par son aire occidentale et ses arbres hôtes, notamment l'eucalyptus et le chêne. Console annuelle.",
+  "habitat": "Parasite et saprobe sur les feuillus vivants et morts dans l'ouest de l'Amérique du Nord, notamment l'eucalyptus, le chêne et d'autres feuillus. Forme de grandes rosettes sur les troncs et à la base des arbres. Commun sur les eucalyptus ornementaux en Californie. Provoque une pourriture brune cubique du cœur.",
+  "season": "De la fin de l'automne au printemps en Californie, typiquement d'octobre à mars, coïncidant avec la saison des pluies. Peut fructifier toute l'année dans les climats côtiers doux. Pic en décembre-février. Schéma saisonnier inverse des Laetiporus de l'est.",
+  "regions": [
+    "côte californienne",
+    "zones côtières du Pacifique",
+    "déserts du Sud-Ouest",
+    "Basse-Californie",
+    "Ouest de l'Amérique du Nord",
+    "particulièrement commun en Californie urbaine"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (est, saison/hôtes différents)",
+    "Laetiporus conifericola (sur conifères, région différente)",
+    "Autres espèces de Laetiporus de l'ouest (comestibilité similaire)",
+    "Clitocybe illusoire (Omphalotus olivascens) — toxique, a des lames et non des pores"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX jeune et sur des hôtes appropriés : Ne récolter que des spécimens jeunes, tendres et souples. ÉVITER les spécimens poussant sur eucalyptus car ils provoquent couramment des troubles digestifs chez beaucoup de personnes. Les spécimens sur chêne et autres feuillus indigènes sont plus sûrs. Commencer par de petites quantités pour tester la tolérance. Bien cuire. Meilleur tendre et humide. Certaines personnes réagissent mal quel que soit l'arbre hôte.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709999.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 45092,
+      "width": 640,
+      "height": 407,
+      "sha256": "01b5b2cb2a6a93d860d9de1d6cb30146ba0f77c7601e5288af9fefe4708c8037"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1710000.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 61780,
+      "width": 345,
+      "height": 640,
+      "sha256": "a8e4a312bb3db79fe35cb25936fd52ccc0bf8329cf077e77abb78ad9d880cf65"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

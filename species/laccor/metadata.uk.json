@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "laccor",
+  "scientific_name": "Lactifluus corrugis",
+  "common_name": "Corrugated Milk Cap (Lactifluus corrugis)",
+  "edibility": "E",
+  "description": "Зморшкуватий хрящ-молочник має велику помаранчево-коричневу шапинку (7–20 см) з характерною ЗМОРШКУВАТОЮ або ГОФРОВАНОЮ поверхнею — наче хвилясті гребені. Пластинки кремові, густі, буріють при дотику. Ніжка подібного кольору. КЛЮЧОВЕ: РЯСНИЙ БІЛИЙ МОЛОЧНИЙ СІК, РИБНИЙ ЗАПАХ. Більший за L. volemus із глибоко зморшкуватою шапинкою. Мʼякуш білий. Споровий відбиток білий.",
+  "habitat": "Мікоризний з ЛИСТЯНИМИ деревами, зокрема дубом. Росте на землі в листяних лісах. Звичайний на сході США. Розсіяно або групами.",
+  "season": "Від літа до осені (липень–жовтень).",
+  "regions": [
+    "Схід США",
+    "Середній Захід",
+    "Південний Схід"
+  ],
+  "lookalikes": [
+    "Lactifluus volemus — дрібніший, менш зморшкуватий"
+  ],
+  "safety_notes": "ЇСТІВНИЙ ВИЩОЇ ЯКОСТІ: Чудовий смак попри рибний запах (зникає при приготуванні). ГОФРОВАНА ШАПИНКА + РЯСНИЙ МОЛОЧНИЙ СІК + РИБНИЙ ЗАПАХ — діагностичні ознаки. Готуйте ретельно.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698325.jpg",
+      "photographer": "dario.z",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 122254,
+      "width": 480,
+      "height": 640,
+      "sha256": "692c751c0f7b578b5283dc38ec6b8e88391b67c08f3879050ef1e5676a8237a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698326.jpg",
+      "photographer": "dario.z",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 122904,
+      "width": 480,
+      "height": 640,
+      "sha256": "fad6dc37c33462b4af2a055c8df7190997ef5e83ba113c2c78eb8f44f6bc00f8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusxer",
+  "scientific_name": "Russula xerampelina",
+  "common_name": "Sillkremla",
+  "edibility": "E",
+  "description": "Sillkremlan har en purpurröd till vinröd hatt (5–12 cm) som är klibbig. Skivorna är krämfärgade till gulaktiga. Foten är vit till rosaaktig. NYCKEL: SKÖRT KÖTT, FISK- ELLER SKALDJURSLUKT (som räkor), rödaktig hatt. Köttet är vitt. Sporfällningen är krämfärgad till ockragul. Mild smak.",
+  "habitat": "Bildar mykorrhiza med barrträd och lövträd. Växer på marken i blandskogar. Utbredd art. Spridd eller i grupper.",
+  "season": "Sommar till höst (juli–oktober).",
+  "regions": [
+    "Östra USA",
+    "Mellanvästern",
+    "Nordvästra USA",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Andra röda kremlor – kontrollera lukten",
+    "Lactarius – har LATEX (mjölksaft)"
+  ],
+  "safety_notes": "ÄTLIG: Mild smak trots fisklukt (försvinner vid tillagning). FISKLUKT + RÖD HATT + SKÖRT KÖTT är kännetecken. Tillaga noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723210.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 90416,
+      "width": 640,
+      "height": 427,
+      "sha256": "7aabcfbc0b4b9a996b8757f8a5870feda97a8951c2b2b89d75d2ea11e9209d84"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723211.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 64826,
+      "width": 640,
+      "height": 427,
+      "sha256": "f23fc4166458df6f9d897d44195e59957d00d45849606408a98876e651549019"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

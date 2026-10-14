@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancib",
+  "scientific_name": "Cantharellus cibarius",
+  "common_name": "꾀꼬리버섯",
+  "edibility": "E",
+  "description": "꾀꼬리버섯은 너비 2~12cm의 황금노랑에서 달걀노른자 색의 갓을 가지며, 가장자리는 불규칙하고 물결 모양이다가 나이가 들면 깔때기 모양이 된다. 아랫면에는 두껍고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 대를 따라 흘러내리며 갓과 같은 황금색이다. 대는 속이 차 있고 높이 2~8cm, 아래쪽으로 가늘어지며 흰색에서 연노랑이다. 살은 단단하고 흰색에서 연노랑이며 독특한 살구 같은 과일 향이 난다. 포자문은 연노랑에서 크림색이다.",
+  "habitat": "참나무, 너도밤나무, 자작나무, 소나무, 가문비나무, 전나무를 포함한 다양한 수종과 균근공생한다. 침엽수림과 혼합 활엽수림 모두에서 발견되며, 보통 배수가 잘되는 경사면이나 이끼 낀 지역에서 난다. 해마다 같은 장소에서 자실체를 내는 경우가 많다.",
+  "season": "여름부터 가을(북아메리카 6월~11월, 유럽 7월~12월). 여름이나 가을에 비가 많이 내린 뒤 최성기이며, 시기는 위도와 고도에 따라 다르다.",
+  "regions": [
+    "북유럽과 중유럽",
+    "북아메리카 북동부",
+    "오대호 지역",
+    "태평양 북서부",
+    "북아시아"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus olearius/illudens) - 독성, 날카로운 진짜 주름살, 목재에서 자라며 어둠에서 발광",
+    "거짓꾀꼬리버섯 (Hygrophoropsis aurantiaca) - 독성은 없으나 품질이 떨어짐, 얇은 진짜 주름살, 더 주황색",
+    "기타 Cantharellus 종 - 모두 식용 가능, 외형과 조리법 비슷"
+  ],
+  "safety_notes": "최상급 식용: 뛰어난 맛과 단단한 식감으로 가장 귀하게 여겨지는 야생 버섯 중 하나다. 안전한 동정의 핵심은 아랫면을 살피는 것이다 - 꾀꼬리버섯은 두껍고 뭉툭하며 갈라진 주름이 있어 갓에서 분리하기 어렵지만, 독성 Jack-O'-Lantern은 얇고 날카로운 진짜 주름살을 가졌다. 꾀꼬리버섯은 토양에서(균근성) 자라며 목재에서는 절대 자라지 않는다. 일부 사람에게는 가벼운 소화 불량이 생길 수 있으니 처음엔 소량으로 시도하십시오. 천연의 매콤하고 과일 같은 풍미가 있어 버터에 볶으면 훌륭하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1567856.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 23654,
+      "width": 640,
+      "height": 361,
+      "sha256": "811d0143a8e74dc7c8481b1e9b39aa6df2f4093c0aae15687a0ca478080e3902"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1567857.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 15560,
+      "width": 640,
+      "height": 361,
+      "sha256": "4f70a6f6b01279635a5685f9fc69eaab4fd42f22caa6f5543498006d662ba7e5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "bolaer",
+  "scientific_name": "Boletus aereus",
+  "common_name": "Cèpe bronzé",
+  "edibility": "E",
+  "description": "Le cèpe bronzé affiche un chapeau distinctif brun foncé à bronze-noir (6 à 20 cm) à la texture veloutée quand il est jeune, devenant lisse avec l'âge. Les pores sont blancs quand ils sont jeunes, virant au jaune-vert avec l'âge, sans réaction de bleuissement. Le pied trapu et bulbeux est brun pâle avec une réticulation blanche concentrée près du sommet. La chair blanche ne change pas de couleur à la coupe. La sporée est brun olivâtre.",
+  "habitat": "Mycorhizien principalement des chênes, occasionnellement du hêtre et du châtaignier dans les forêts mixtes de feuillus. Préfère les habitats chauds et secs aux sols bien drainés. Souvent sur les coteaux et les lisières forestières.",
+  "season": "De l'été à l'automne (juin-octobre), fructifiant plus tôt que B. edulis dans les climats chauds. Production maximale pendant les périodes chaudes suivant la pluie.",
+  "regions": [
+    "Sud-Est des États-Unis",
+    "États du Moyen-Atlantique",
+    "Californie du Sud",
+    "montagnes Rocheuses du Sud",
+    "Pacifique Sud-Ouest"
+  ],
+  "lookalikes": [
+    "Boletus edulis — chapeau brun plus clair, préfère les conifères",
+    "Tylopilus felleus — pores roses, goût amer",
+    "Autres espèces de Boletus à chapeau sombre — toutes comestibles",
+    "Espèces de Xerocomellus — plus petites avec un habitat différent"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : le cèpe bronzé est très prisé en Europe et considéré égal ou supérieur au cèpe de Bordeaux par certains. Excellente texture ferme et saveur de noisette qui s'intensifie au séchage. Bien cuire pour de meilleurs résultats. La couleur sombre du chapeau est diagnostique et aide à distinguer des autres espèces.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1565467.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 81716,
+      "width": 640,
+      "height": 480,
+      "sha256": "18a7756a0c33dd630276c40e6695acadf2f6a932749979e40810de1873f23d82"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1565468.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 77270,
+      "width": 480,
+      "height": 640,
+      "sha256": "b9a429096996249a3fbade549352e72d0b48c88fa3163dba00fa888305e5724c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.585198",
+  "source_language": "en"
+}

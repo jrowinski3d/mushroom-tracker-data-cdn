@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trefuc",
+  "scientific_name": "Tremella fuciformis",
+  "common_name": "Hongo de nieve",
+  "edibility": "E",
+  "description": "El hongo de nieve es un hongo gelatinoso de color blanco a amarillo pálido que forma masas blandas con volantes que recuerdan al coral marino o a la nieve. Los cuerpos fructíferos miden 5-15 cm de diámetro cuando están frescos, compuestos por lóbulos delgados, ramificados y translúcidos con un delicado aspecto rizado. El color es blanco puro a crema pálido o amarillo claro. La textura es blanda, gelatinosa y temblorosa. Los lóbulos son delgados y parecidos a pétalos, creando una intrincada estructura de encaje. Se vuelve duro y encogido al secarse, reviviendo al humedecerse.",
+  "habitat": "Se encuentra en ramas y madera muertas de árboles de hoja ancha, normalmente en lo alto de árboles muertos en pie o troncos caídos. A menudo es parásito de otros hongos que descomponen la madera. En la naturaleza, se encuentra en frondosas de los bosques. Se cultiva ampliamente de forma comercial en sustrato de serrín de frondosas. Prefiere ambientes cálidos y húmedos.",
+  "season": "En estado silvestre, principalmente de verano a otoño (junio-noviembre) en climas cálidos. En regiones tropicales y subtropicales puede fructificar todo el año. Cultivado todo el año de forma comercial. La fructificación silvestre máxima ocurre durante el clima cálido y húmedo tras las lluvias.",
+  "regions": [
+    "Asia (nativa, extendida)",
+    "regiones tropicales y subtropicales en todo el mundo",
+    "sur de Estados Unidos (rara en estado silvestre)",
+    "cultivada comercialmente en todo el mundo",
+    "natural en bosques templados cálidos a tropicales"
+  ],
+  "lookalikes": [
+    "Tremella mesenterica (comestible) — amarillo brillante, más compacta, con forma de cerebro",
+    "cepas cultivadas de Tremella fuciformis — varían en color de blanco a crema",
+    "especies de Exidia (comestible) — más oscuras, más compactas, sin volantes",
+    "Sin especies tóxicas similares"
+  ],
+  "safety_notes": "COMESTIBLE: muy apreciada en la cocina asiática y en la medicina tradicional china. Sabor suave y dulce, y textura crujiente-gelatinosa una vez preparada. Debe cocinarse: no comer cruda. Popular en sopas dulces, postres y bebidas. Se le atribuyen beneficios para la salud, como mejorar la piel y reforzar el sistema inmunitario. Casi siempre se consume como producto cultivado y no silvestre. Las formas secas deben remojarse para rehidratarlas. Segura y sin especies tóxicas similares. El aspecto blanco con volantes es distintivo. Ingrediente caro de especialidad en los mercados asiáticos.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1684389.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 22236,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4dc59fd528c2bddd0ea121e6b9c3ad082895aa996fbf88c2890bf63affe3a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1684390.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 59496,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbb8fd49a0a994ba488f9c69af2375975d1f8daf9b8396d3db7977a1292cce1c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.173269",
+  "source_language": "en"
+}

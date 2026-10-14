@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sparad",
+  "scientific_name": "Sparassis radicata",
+  "common_name": "Rooting Cauliflower Mushroom (Sparassis radicata)",
+  "edibility": "E",
+  "description": "Sparassis radicata jest podobny do S. crispa, tworząc kremowe do złocistożółtych masy o średnicy 10–30 cm, przypominające kalafior. Owocnik składa się z licznych cienkich, falbankowatych, falistych płatów lub spłaszczonych gałązek wyrastających z centralnej podstawy. Barwa jest zazwyczaj jaśniej żółta do złocistożółtej niż u S. crispa. Tekstura za świeżości krucha. Podstawa ma wyraźną strukturę korzeniastą sięgającą głęboko w glebę, aby dotrzeć do zagrzebanych korzeni drzew liściastych. Płaty są gęsto kędzierzawe i upakowane.",
+  "habitat": "Występuje u podstawy drzew liściastych, zwłaszcza dębów, rzadko na drzewach iglastych. Rośnie jako pasożyt korzeni na żywych drzewach lub z zagrzebanych korzeni martwych drzew liściastych. Korzeniasta podstawa sięga głęboko, aby dotrzeć do korzeni. Owocnikuje u podstaw pni, wyglądając, jakby wyrastał z ziemi. Preferuje dojrzałe lasy liściaste.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad) w większości regionów. Szczyt owocnikowania jesienią. Może powracać w to samo miejsce przez wiele lat. Wymaga ciepłego lata, po którym następują jesienne deszcze.",
+  "regions": [
+    "Wschodnia Ameryka Północna (rzadki)",
+    "Europa (szeroko rozpowszechniony, lecz rzadki)",
+    "umiarkowane lasy liściaste",
+    "dąbrowy",
+    "ogółem rzadszy niż S. crispa"
+  ],
+  "lookalikes": [
+    "Siedzuń sosnowy (Sparassis crispa, jadalny) — bardzo podobny, lecz na drzewach iglastych, jaśniej zabarwiony",
+    "Sparassis spathulata (jadalny) — gatunek zachodni, podobny wygląd",
+    "Grifola (jadalna) — szarobrązowe rozety, inna tekstura",
+    "Brak trujących gatunków podobnych"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Doskonały grzyb jadalny o smaku i teksturze podobnych do S. crispa. Wysoce ceniony tam, gdzie występuje. Krucha tekstura i łagodny smak są wybitne. Doskonały do różnych potraw. Bardzo dokładnie oczyścić, gdyż struktura zatrzymuje zanieczyszczenia. Najlepszy świeży i o jasnej barwie. Starsze okazy stwardnieją. Dokładnie ugotować. Wygląd charakterystyczny, bez niebezpiecznych gatunków podobnych. Rzadki, ale wart poszukiwania. Korzeniasta podstawa i związek z drzewami liściastymi (zwłaszcza dębami) odróżniają go od S. crispa rosnącego na drzewach iglastych. Powraca w te same miejsca, gdy warunki sprzyjają.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1641786.jpg",
+      "photographer": "Chitin-da-breeze",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-01",
+      "file_size_bytes": 66534,
+      "width": 640,
+      "height": 591,
+      "sha256": "bcbd753dd1d35cb3b8dcb17a2e09c8514ce77c188f0464c6f45cd12f5fb2125b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608950.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-06",
+      "file_size_bytes": 126206,
+      "width": 480,
+      "height": 640,
+      "sha256": "6cd4eb6fcfc3e41a5c6b91f561a2396b6d38cef36f550bd9a10a4c641ca84782"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.522645",
+  "source_language": "en"
+}

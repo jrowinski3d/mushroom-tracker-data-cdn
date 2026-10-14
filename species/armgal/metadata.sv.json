@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armgal",
+  "scientific_name": "Armillaria gallica",
+  "common_name": "Klubbhonungsskivling",
+  "edibility": "E",
+  "description": "Klubbhonungsskivlingen har en honungsgul till brun hatt (3–10 cm) med små MÖRKA FJÄLL koncentrerade i mitten. Skivorna är vita till krämfärgade, vidfästa. Foten har en KVARSTÅENDE RING och distinkt KLUBBFORMAD BAS – den svällda basen är ett viktigt kännetecken som skiljer den från A. mellea. Foten är vit ovanför ringen, mörkare nedanför. Växer i TÄTA KNIPPEN på ved eller nära träd. Köttet är vitt, fast. Sporfällning vit. I allmänhet MINDRE AGGRESSIV som trädskadegörare än A. mellea eller A. ostoyae, ofta saprofyt snarare än parasit.",
+  "habitat": "Saprofyt och svagt parasitisk på lövträd, ibland barrträd. Växer i knippen vid basen av döda träd, stubbar och begravd ved. Mindre aggressiv som skadegörare än andra honungsskivlingar. Växer på ek, lönn, bok och olika lövträd.",
+  "season": "Sensommar till höst (augusti–november), växer efter regn.",
+  "regions": [
+    "östra USA",
+    "Mellanvästern",
+    "nordöstra USA",
+    "nordvästra USA",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Armillaria mellea – saknar klubbformad bas, mer aggressiv skadegörare",
+    "andra honungsskivlingar – kräver alla tillagning",
+    "Pholiota-arter – bruna sporer, annan fotbas",
+    "Galerina-arter – DÖDLIGA – mindre, bruna sporer"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Honungsskivlingar (Armillaria-arter) är GIFTIGA som råa och måste tillagas ordentligt före förtäring. Tillaga minst 10–15 minuter på hög värme. Även vid korrekt tillagning får vissa personer allergiska reaktioner eller magbesvär. Smaka en liten mängd först för att testa din tolerans. Förvällning före tillagning kan minska magirriterande ämnen och bitter smak. Ät inte tillsammans med alkohol – honungsskivlingar kan ge oönskade reaktioner i kombination med alkohol (liknande Coprinopsis). Plocka endast unga, fasta exemplar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723298.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 37772,
+      "width": 640,
+      "height": 427,
+      "sha256": "5243f5f67facea290fb948ce30fbcf7efd93e6d534b2093aad0248a85387c1b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723299.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 28588,
+      "width": 640,
+      "height": 427,
+      "sha256": "7a504c92cd99e106f7e327ed456d959a02915920b376b3f7739c1ef4a6a59a8a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

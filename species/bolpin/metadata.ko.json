@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolpin",
+  "scientific_name": "Boletus pinophilus",
+  "common_name": "소나무그물버섯",
+  "edibility": "E",
+  "description": "소나무그물버섯은 진한 적갈색에서 마호가니색의 갓(7-30cm)에 젖으면 매끄럽거나 약간 끈적거리는 표면이 특징이다. 관공은 어릴 때 흰색이며 황올리브색으로 늙어가고 변색하지 않는다. 튼튼한 대는 적갈색이며 백색에서 분홍빛의 그물무늬가 있고, 종종 와인적색 기운이 있다. 흰색 조직은 갓 표피 아래에서 약간 분홍빛을 띨 수 있으나 잘라도 착색하지 않는다. 포자문은 올리브 갈색이다.",
+  "habitat": "산악 및 아고산 침엽수림에서 소나무, 가문비나무 등 침엽수와 균근성으로 자란다. 산성 토양과 높은 고도를 선호한다. 성숙한 침엽수 아래에서 종종 대량으로 발생한다.",
+  "season": "늦여름부터 가을까지(7-10월) 발생하며, 고지대에서는 8-9월에 정점을 이룬다. 따뜻한 날씨에 비가 지속된 뒤에 나타난다.",
+  "regions": [
+    "로키 산맥",
+    "태평양 북서부 산악 지역",
+    "캐스케이드 산맥",
+    "시에라네바다",
+    "북부 캘리포니아 고지대",
+    "브리티시컬럼비아",
+    "알래스카"
+  ],
+  "lookalikes": [
+    "Boletus edulis - 갓 색상이 더 밝고 붉은 기운이 적음",
+    "Boletus aereus - 갓이 더 어둡고 소나무가 아닌 참나무 선호",
+    "Tylopilus felleus - 분홍색 관공, 쓴맛",
+    "다른 붉은색 Boletus 종 - 모두 식용"
+  ],
+  "safety_notes": "최상급 식용: 파인볼리트는 풍부하고 고소한 향미와 단단한 조직으로 모든 그물버섯 중 가장 맛있다고 평가하는 사람이 많다. 향미가 강해지므로 건조용으로 매우 귀하게 여겨진다. 적갈색 착색과 소나무 서식이 핵심 식별 특징이다. 항상 충분히 익힌다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388373.jpg",
+      "photographer": "Vasco Fachada",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-05",
+      "file_size_bytes": 106414,
+      "width": 640,
+      "height": 427,
+      "sha256": "71eac4183b7f7c447c6ce606c4755435a97cc13cca6b91391f03840c6cf27e06"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/27980.jpg",
+      "photographer": "Irene Andersson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2008-11-05",
+      "file_size_bytes": 40752,
+      "width": 640,
+      "height": 415,
+      "sha256": "4813deb8c9c8cd2c5dbc05c3b094fdb28dcacdc5daf6dcd9159ac6fb1b89fcd1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

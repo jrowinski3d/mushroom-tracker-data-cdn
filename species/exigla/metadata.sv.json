@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "exigla",
+  "scientific_name": "Exidia glandulosa",
+  "common_name": "Vårtkrös",
+  "edibility": "E",
+  "description": "Vårtkrös bildar svarta knapp- eller skivformade geléartade massor, 0,5–3 cm breda, ofta i täta grupper. Enskilda knappar är först toppformade och blir med åldern platt skivformade eller hjärnlika. Ytan är slät till rynkig, glänsande svart till mörkt brunsvart när den är färsk och fuktig, och blir hård och blank vid torka. Konsistensen är fast geléartad och gummilik. Fruktkropparna är täckta med genomskinliga körtelprickar (synliga med förstoring). Återupplivas och sväller vid återvätning.",
+  "habitat": "Växer på döda grenar och stockar av lövträd, särskilt ek, bok, hassel och andra lövträdslag. Vanlig på fallna grenar på skogsbottnen och på stående död ved. Växer i täta klungor längs grenarna. Riklig i lövskog, skogsbryn och parker. Fruktsätter ymnigt på lämpligt underlag.",
+  "season": "Året runt, men rikligast från höst till vår (september–maj). I tempererade områden toppar den under senhöst och vinter (november–mars). Kan fruktsätta under sommaren vid fuktigt väder. Mycket vanlig på vintern när få andra svampar är aktiva.",
+  "regions": [
+    "Europa (mycket vanlig)",
+    "Östra Nordamerika (utbredd)",
+    "Nordvästra USA och västra Kanada (vanlig)",
+    "Kalifornien",
+    "Tempererade lövskogar världen över"
+  ],
+  "lookalikes": [
+    "Bulgaria inquinans (oätlig) – större (2–4 cm), halvklotformad, gummilik men utan körtelprickar",
+    "Exidia nigricans (ätlig) – mycket lik; åtskillnad kräver mikroskopi",
+    "Exidia recisa (ätlig) – liknande knappar men mindre",
+    "Inga giftiga förväxlingsarter"
+  ],
+  "safety_notes": "ÄTLIG men smaklös: Anses ätlig och säker men har nästan ingen smak. Den geléartade konsistensen är det enda anmärkningsvärda. Äts i vissa europeiska länder men plockas sällan. Säker att smaka rå men tillagas oftast. Inget närings- eller matvärde. Mer intressant som vinterkuriositet än som mat. Det svarta knappformade utseendet och växandet i klungor på lövträdsgrenar är utmärkande. Inga farliga förväxlingsarter – alla liknande svarta gelésvampar är ofarliga. Ofta riklig på vintern när få andra svampar är tillgängliga.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.206842",
+  "source_language": "en"
+}

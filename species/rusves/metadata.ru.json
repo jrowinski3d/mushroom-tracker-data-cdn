@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "rusves",
+  "scientific_name": "Russula vesca",
+  "common_name": "The Flirt (Russula vesca)",
+  "edibility": "E",
+  "description": "«The Flirt» имеет розовато-коричневую до винно-красной шляпку (5–12 см), часто с более тёмным центром. Край шляпки с РАДИАЛЬНЫМИ ШТРИХАМИ (бороздками). Пластинки от белых до кремовых. Ножка белая, с розовым оттенком. КЛЮЧЕВЫЕ ПРИЗНАКИ: ХРУПКАЯ МЕЛОВИДНАЯ МЯКОТЬ, НЕТ МЛЕЧНОГО СОКА, МЯГКИЙ ВКУС, снимающаяся кожица. Мякоть белая. Споровый отпечаток белый.",
+  "habitat": "Микоризна с лиственными породами, особенно дубом и буком. Растёт на земле в лиственных лесах. Европейский вид, обычный. Группами или рассеянно.",
+  "season": "С лета до осени (июль–октябрь).",
+  "regions": [
+    "Европа",
+    "восток США (интродуцирован)"
+  ],
+  "lookalikes": [
+    "Другие розоватые сыроежки — проверять вкус",
+    "Млечники (Lactarius) — выделяют МЛЕЧНЫЙ СОК"
+  ],
+  "safety_notes": "ОТЛИЧНЫЙ СЪЕДОБНЫЙ ГРИБ: отличный мягкий вкус. РОЗОВАЯ ШЛЯПКА + ХРУПКАЯ МЯКОТЬ + МЯГКИЙ ВКУС + СНИМАЮЩАЯСЯ КОЖИЦА — диагностические признаки. Высоко ценится в Европе. Вкусовой тест подтверждает. Тщательно готовить.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634353.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 56956,
+      "width": 640,
+      "height": 480,
+      "sha256": "94747d722675afcfef23d7474d503248e46f104e75083906f9b38a86977ef31a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634354.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 68208,
+      "width": 640,
+      "height": 480,
+      "sha256": "60eec0c2e05b5d829333d3b1b3529dbe6ad45777398c60d361ec1443034bf2d1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

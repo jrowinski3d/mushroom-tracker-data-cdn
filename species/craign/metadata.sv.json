@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "craign",
+  "scientific_name": "Craterellus ignicolor",
+  "common_name": "Flame-colored Chanterelle (Craterellus ignicolor)",
+  "edibility": "E",
+  "description": "Flamkantarellen (även kallad östlig gyllenkantarell) har en gyllengul till klart orangegul hatt 2–8 cm bred som blir djupt trattformad med åldern. Hattkanten är tunn, vågig och ofta perforerad i mitten, med öppning ned i den ihåliga foten. Undersidan har grunda, trubbiga, gaffelformade åsar (INTE äkta skivor) som är gyllengula till orangegula, glest stående och löper nedför foten. Foten är 3–10 cm hög, ihålig, smal, klart gul till orangegul genomgående. Köttet är tunt, gult till orange, med mild fruktig doft. Sporfällningen är vit till blekgul.",
+  "habitat": "Lever i mykorrhiza med östliga lövträd, särskilt ek (särskilt vit ek, röd ek), amerikansk bok och hickory. Finns i mogna lövskogar, ofta i mossiga områden eller på väldränerade sluttningar. Växer spritt eller i trupper på skogsgolvet bland förna.",
+  "season": "Sommar till höst (juli–oktober), fruktsätter under varma, fuktiga perioder efter sommarregn. Högsäsongen är vanligen augusti–september i större delen av utbredningsområdet. Kan ge flera svall under säsongen.",
+  "regions": [
+    "Östra USA",
+    "Sydöstra delstaterna (särskilt Carolina, Tennessee, Georgia)",
+    "Appalachiska regionen",
+    "Mellanatlantiska stater",
+    "Ohiodalen"
+  ],
+  "lookalikes": [
+    "Craterellus tubaeformis – ätlig, mer brunaktig hatt med gul fot, finns längre norrut med barrträd",
+    "Små Cantharellus-arter (C. cinnabarinus, C. minor) – ätliga, fastare fot (inte ihålig), i övrigt liknande",
+    "Falsk kantarell (Hygrophoropsis aurantiaca) – inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange"
+  ],
+  "safety_notes": "ÄTLIG: Flamkantarellen är en utmärkt matsvamp med god smak och distinkt utseende. Kombinationen av gyllengul färg, trattform, ihålig fot och trubbiga åsar (inte äkta skivor) gör den relativt lätt att identifiera. Den ihåliga foten genomgående skiljer den från Cantharellus-arter med fast fot. Inga giftiga förväxlingssvampar finns. Hittas ofta i stort antal, vilket gör den till ett givande svall. Smaken är behaglig och lätt fruktig; utmärkt stekt, i soppor eller torkad för senare bruk.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716729.jpg",
+      "photographer": "Jess Evans",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 59018,
+      "width": 479,
+      "height": 640,
+      "sha256": "f3fae7e1255a0ae7a2792a65838543cf197bb4cf15b6d6d737220fe368e0065e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691765.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 36078,
+      "width": 640,
+      "height": 427,
+      "sha256": "1836de388cd2ce82bb1b3fa93695bf67badd48b7368ce1dc8f5fc6c0d6565505"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copmic",
+  "scientific_name": "Coprinellus micaceus",
+  "common_name": "Glimmerbläcksvamp",
+  "edibility": "E",
+  "description": "Glimmerbläcksvamp är en liten delikat svamp 2–6 cm hög med hatt 1–4 cm bred. Hatten är oval till klockformad, beige till gulbrun eller rödbrun med distinkta glittrande glimmerliknande partiklar på ytan som ung (diagnostiskt kännetecken – partiklarna sköljs bort av regn). Hatten har radiella fåror från kanten halvvägs till mitten. Skivorna är vidfästa, vita som blir grå sedan svarta och delikvescerar. Foten är 3–7 cm hög, slät, vit, skör, ihålig. Fruktsätter i täta knippen.",
+  "habitat": "Finns på och runt döda lövträdsstubbar, stockar och begravd ved. Mycket vanlig på multnande ved i skogar, parker och trädgårdar. Växer som vednedbrytare i täta knippen eller trupper. Särskilt riklig på gamla stubbar och vid trädbaser. Föredrar fuktiga skuggiga platser.",
+  "season": "Vår till höst (april–november) med viss fruktsättning vintertid i milda klimat. Störst riklighet från sen vår till höst. Kan fruktsätta året runt i varma regioner. Mycket ihållande och vanlig.",
+  "regions": [
+    "Nordamerika (mycket vanlig, utbredd)",
+    "Europa (mycket vanlig)",
+    "Världen över i tempererade regioner",
+    "Skogar och stadsområden",
+    "Kosmopolitisk på multnande ved"
+  ],
+  "lookalikes": [
+    "Coprinellus disseminatus (ätlig) – mycket mindre, blekt grå, inga glimmerpartiklar",
+    "Psathyrella-arter – liknande men saknar glimmerpartiklar och delikvescerar mindre",
+    "Andra Coprinellus-arter – svåra att skilja utan mikroskopi",
+    "Inga giftiga förväxlingssvampar"
+  ],
+  "safety_notes": "ÄTLIG: Anses ätlig och säker som ung och färsk, men den lilla storleken gör insamlingen mödosam. Smaken är mild och oansenlig. Ingen alkoholinteraktion som Coprinopsis atramentaria. Måste användas omedelbart eftersom skivorna delikvescerar snabbt. Samla endast unga färska exemplar. Den lilla storleken och snabba delikvescensen gör den opraktisk för de flesta svampplockare. Säker utan giftiga förväxlingssvampar. De glimmerliknande gnistrarna som ung är diagnostiska och charmerande. Ofta riklig men inte värd besväret att samla. Arten är mer intressant ekologiskt än kulinariskt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750440.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120384,
+      "width": 640,
+      "height": 480,
+      "sha256": "1651497c786b3947aaa6ca4ea11f16b5d12be9c846fac4005e9eefc2b4c4d987"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750441.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120102,
+      "width": 640,
+      "height": 480,
+      "sha256": "04b8ac4eead336dafb401fa91130915d85a5a17a21fe8da3b20b38ab86026638"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "boledu",
+  "scientific_name": "Boletus edulis",
+  "common_name": "borowik szlachetny",
+  "edibility": "E",
+  "description": "Borowik szlachetny, zwany też prawdziwkiem, wyróżnia się brązowym do czerwonobrązowego kapeluszem (5-30 cm) o gładkiej, suchej powierzchni. Pory białe, gdy młode, z wiekiem przechodzące w żółtawo-zielone, i nie sinieją przy dotyku. Gruby, bulwiasty biały do jasnobrązowego trzon z delikatną białą siateczką przy wierzchołku. Biały miąższ nie zmienia się w przekroju, o łagodnym orzechowym smaku. Wysyp zarodników oliwkowo-brązowy.",
+  "habitat": "Mikoryzowy ze świerkiem, sosną, cykutą i sporadycznie dębem w mieszanych lasach iglastych i liściastych. Preferuje dobrze przepuszczalne gleby w dojrzałych lasach. Występuje wzdłuż skrajów lasu, ścieżek i pod zwartym okapem.",
+  "season": "Od późnego lata do jesieni (sierpień-listopad) ze sporadycznymi wiosennymi rzutami (maj-czerwiec) w niektórych regionach. Szczyt owocowania po obfitych deszczach w ciepłą pogodę.",
+  "regions": [
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Góry Skaliste",
+    "Lasy północno-wschodnie",
+    "Region Wielkich Jezior",
+    "Północna Kalifornia",
+    "Alaska",
+    "Kolumbia Brytyjska"
+  ],
+  "lookalikes": [
+    "Tylopilus felleus (gorzkoborowik) - ma różowawe pory i intensywnie gorzki smak",
+    "Boletus variipes - pory sinieją, podobny wygląd",
+    "Boletus subcaerulescens - reakcja sinienia go odróżnia",
+    "Inne gatunki borowików - wszystkie jadalne, ale różnią się jakością"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Borowik szlachetny to jeden z najbardziej cenionych grzybów jadalnych na świecie, słynący z doskonałego smaku i mięsistej konsystencji. Bezpieczny na surowo w małych ilościach, ale najlepszy po ugotowaniu. Sprawdzić, czy pory pozostają białe do żółtych (nie różowe) i nie sinieją, aby uniknąć pomyłki z innymi gatunkami. Zawsze dokładnie ugotować dla lepszej strawności.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725981.jpg",
+      "photographer": "FunGuy Nate",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-23",
+      "file_size_bytes": 136488,
+      "width": 640,
+      "height": 536,
+      "sha256": "872e36198978de9c7bf4b55be54887355acd5b1877e6bd1e0b3ac7a4cb2de5c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718535.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-16",
+      "file_size_bytes": 58480,
+      "width": 640,
+      "height": 427,
+      "sha256": "da49ce350cf2577f05575095f339a6110739a88dd13234333f288fbf8f499058"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

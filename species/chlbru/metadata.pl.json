@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "chlbru",
+  "scientific_name": "Chlorophyllum brunneum",
+  "common_name": "czubajnik ogrodowy",
+  "edibility": "P",
+  "description": "Czubajnik ogrodowy to średni do dużego grzyb o kapeluszu o średnicy 5–20 cm, początkowo zaokrąglonym, z czasem szeroko wypukłym. Kapelusz jest biały do kremowego, pokryty brązowymi do czerwonobrązowych łuskami, które są bardziej płaskie i przylegające niż u C. rhacodes, skupione ku środkowi. Miąższ przebarwia się na pomarańczowo-brązowo do czerwonawego po przekrojeniu, ale mniej intensywnie niż u C. rhacodes. Blaszki są wolne, białe do kremowych, gęste do stłoczonych. Trzon wysoki na 8–18 cm, gładki lub drobno łuskowaty, z wyraźnym ruchomym pierścieniem i bulwiastą podstawą.",
+  "habitat": "Występuje na terenach miejskich i podmiejskich, w tym w ogrodach, parkach, rabatach, na trawnikach, ściółce z kory i glebie bogatej w kompost. Silnie związany z uprawami człowieka i siedliskami zaburzonymi. Rośnie naziemnie w żyznych podłożach organicznych. Owocnikuje rozproszony do gromadnego, często pojawia się w utrzymanych krajobrazach i na nawadnianych terenach.",
+  "season": "Od późnego lata do jesieni (sierpień–grudzień) w regionach umiarkowanych. W Kalifornii i łagodnych klimatach owocnikuje przez cały rok ze szczytami jesienią i wiosną (październik–maj) po deszczach. Najpospolitszy w ciepłej pogodzie przy wilgoci.",
+  "regions": ["Kalifornia (bardzo pospolity, zwłaszcza na terenach zurbanizowanych)", "Północny Zachód Pacyfiku (pospolity w ogrodach)", "Południowo-zachodnie Stany Zjednoczone", "Teksas i stany wybrzeża Zatoki Meksykańskiej", "Klimaty śródziemnomorskie", "Coraz szerzej rozpowszechniony w Ameryce Północnej"],
+  "lookalikes": ["Chlorophyllum rhacodes (jadalny z ostrożnością) – identyczny wygląd, rozróżnienie wymaga mikroskopii lub sekwencjonowania", "Macrolepiota procera (wyśmienity grzyb jadalny) – znacznie wyższy i smuklejszy, wężowy wzór na trzonie, nie przebarwia się", "Chlorophyllum molybdites (trujący) – zielony wysyp zarodników diagnostyczny, zielenieje po uszkodzeniu", "Gatunki Lepiota (niektóre śmiertelnie trujące) – znacznie mniejsze, delikatniejsza budowa"],
+  "safety_notes": "TRUJĄCY: Chlorophyllum brunneum powoduje zatrucie żołądkowo-jelitowe z objawami takimi jak silne nudności, wymioty, biegunka i skurcze brzucha. Objawy pojawiają się zwykle w ciągu 1–6 godzin od spożycia i u wrażliwych osób mogą być na tyle poważne, że wymagają hospitalizacji. Grzyb ten jest często mylony z jadalną czubajką kanią (Macrolepiota procera). Choć niektórzy ludzie mogą go tolerować po dokładnym ugotowaniu w wysokiej temperaturze, ryzyko ciężkich dolegliwości żołądkowych sprawia, że nie nadaje się do spożycia. Nie jedz tego grzyba.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713955.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 73850,
+      "width": 480,
+      "height": 640,
+      "sha256": "43f57bc65101b11b8cc5c61cc5822029939dd2195c52fb4d8f5b7d7f28e87303"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635375.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-15",
+      "file_size_bytes": 127184,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscla",
+  "scientific_name": "Russula claroflava",
+  "common_name": "Yellow Swamp Russula (Russula claroflava)",
+  "edibility": "E",
+  "description": "이 무당버섯은 밝은 노란색 갓(3~10cm)을 가지며 끈적거린다. 주름살은 흰색에서 크림색이다. 대는 흰색이다. 핵심: 밝은 노란색 갓, 잘 부서지는 육질, 습한/늪지대에서 자람. 육질은 흰색이다. 포자문은 흰색에서 크림색이다. 온화하거나 약간 톡 쏘는 맛.",
+  "habitat": "습지 - 늪, 이탄습지, 습한 숲 - 에서 자작나무와 버드나무와 균근 공생을 이룬다. 독특한 습지 서식지. 북부 종이다. 흩어져 발생한다.",
+  "season": "여름부터 가을(7~9월)까지 발생한다.",
+  "regions": [
+    "북동부",
+    "상부 중서부",
+    "캐나다",
+    "북유럽"
+  ],
+  "lookalikes": [
+    "다른 노란색 무당버섯류 - 서식지 확인",
+    "젖버섯류(Lactarius) - 유액이 있음"
+  ],
+  "safety_notes": "식용: 온화한 맛. 밝은 노란색 + 습지 서식지 + 잘 부서지는 육질이 동정 포인트. 맛보기 시험(온화한 개체는 식용 가능). 충분히 익혀 먹는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681665.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-09",
+      "file_size_bytes": 51142,
+      "width": 640,
+      "height": 550,
+      "sha256": "bd860f8e55839072f83b62dc560ed844b31f7c93e77777ce7007fb6f53b28d13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1681662.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-08",
+      "file_size_bytes": 27474,
+      "width": 640,
+      "height": 480,
+      "sha256": "40b560f384bb490cd8305e722afeafd8634a91715bdc1637b162df8f4e37f12f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

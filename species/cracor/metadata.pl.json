@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "cracor",
+  "scientific_name": "Craterellus cornucopioides",
+  "common_name": "lejkowiec trąbkowy",
+  "edibility": "E",
+  "description": "Lejkowiec trąbkowy (róg obfitości) ma charakterystyczny ciemnoszary do czarnego, głęboko lejkowaty lub trąbkowaty owocnik, wysoki na 3–12 cm i szeroki na 2–8 cm u góry. Kapelusz jest falisty i nieregularny, z cienkim, uniesionym brzegiem. Wewnętrzna powierzchnia jest ciemnoszara do czarnej, gładka lub lekko łuskowata. Zewnętrzna (zarodnikonośna) powierzchnia jest gładka do lekko pomarszczonej, szara do brązowoszarej, BEZ listewek i blaszek. Cały owocnik jest pusty od góry do dołu jak trąbka. Miąższ cienki, kruchy, gdy suchy, elastyczny, gdy świeży, ciemnoszary. Wysyp zarodników biały do blado kremowego.",
+  "habitat": "Mikoryzowy z drzewami liściastymi, szczególnie bukiem amerykańskim, dębem i brzozą. Występuje w dojrzałych lasach liściastych, często w miejscach mszystych lub w pobliżu strumieni. Rośnie rozproszony lub w dużych skupiskach na dnie lasu, często zakamuflowany wśród ściółki liściowej. Preferuje żyzne, wilgotne gleby.",
+  "season": "Od lata do jesieni (lipiec–listopad), ze szczytem owocnikowania sierpień–październik w większości regionów. Często owocnikuje w tych samych miejscach rok po roku. Może być obfity po okresach deszczu.",
+  "regions": ["Wschodnia Ameryka Północna (rozpowszechniony)", "Północno-wschodnie Stany Zjednoczone", "Rejon Appalachów", "Rejon Wielkich Jezior", "Północny Zachód Pacyfiku (rzadziej)", "Europa (również występuje)"],
+  "lookalikes": ["Craterellus fallax – jadalny, bardzo podobny, ale bardziej brązowawy, występuje w innych regionach, zasadniczo to samo zastosowanie", "Craterellus foetidus – jadalny, podobny, ale o nieprzyjemnym zapachu po wysuszeniu, poza tym niemal identyczny", "Urnula craterium – niejadalna, kubkowata, nie trąbkowata, rośnie na drewnie, gumowata konsystencja"],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Lejkowiec trąbkowy to jeden z najbardziej cenionych grzybów dzikich, słynący z bogatego, dymnego smaku. Pomimo ciemnego wyglądu jest całkowicie bezpieczny i pyszny. Charakterystyczny trąbkowaty kształt, puste wnętrze i brak blaszek lub listewek sprawiają, że stosunkowo łatwo go rozpoznać, gdy już wiesz, czego szukać. Jednak ciemna barwa sprawia, że bardzo trudno je dostrzec na dnie lasu – zlewają się ze ściółką liściową i cieniami. Doskonałe świeże lub suszone; suszenie wzmacnia smak. Brak trujących gatunków podobnych. Niektórzy uważają je za nieco ciężkostrawne; gotuj dokładnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Du\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.178989",
+  "source_language": "en"
+}

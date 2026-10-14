@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "auraur",
+  "scientific_name": "Auricularia auricula-judae",
+  "common_name": "uszak bzowy",
+  "edibility": "E",
+  "description": "Uszak bzowy to charakterystyczny grzyb galaretowaty o uszkowatych owocnikach 3-12 cm średnicy. Owocnik cienki, gumowato-galaretowaty, początkowo czarkowaty, z wiekiem uszkowaty lub muszlowaty. Zewnętrzna (płodna) powierzchnia gładka do pomarszczonej, czerwonobrązowa do ciemnobrązowej, często z fioletowo-szarym odcieniem. Wewnętrzna powierzchnia jasnobrązowo-szara i lekko aksamitna z drobnymi włoskami. Konsystencja twarda i elastyczna, gdy świeża, po wysuszeniu twardniejąca i kurcząca się, ale odżywiająca po namoczeniu. Bez wyraźnego trzonu.",
+  "habitat": "Występuje na martwych i obumierających gałęziach liściastych oraz kłodach, zwłaszcza bzu czarnego (Sambucus), ale także na dębie, wierzbie i innych drzewach liściastych. Rośnie jako rozłożyciel drewna, zazwyczaj na powalonych gałęziach lub stojącym martwym drewnie. Owocnikuje w kępach lub rzędach wzdłuż gałęzi. Pospolity w wilgotnych lasach i na skrajach lasu.",
+  "season": "Przez cały rok w łagodnym klimacie, ale najobfitszy od jesieni do wiosny (wrzesień-maj). W regionach umiarkowanych głównie jesień i wiosna (sierpień-listopad, marzec-maj). Może owocować zimą w regionach o łagodnej, wilgotnej pogodzie. Wymaga stałej wilgotności.",
+  "regions": [
+    "Europa (rozpowszechniona)",
+    "Wschodnia Ameryka Północna (pospolita)",
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Kalifornia (sporadycznie)",
+    "Azja (bardzo pospolita)",
+    "Lasy strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "Auricularia americana (jadalny) - bardzo podobny, gatunek północnoamerykański, nieco grubszy",
+    "Gatunki Exidia (jadalne) - bardziej guzikowate lub mózgowate, nie uszkowate",
+    "Gatunki Tremella (jadalne) - bardziej mózgowata lub pofałdowana budowa",
+    "Bulgaria inquinans (niejadalny) - czarny, gumowaty, półkulisty, nie uszkowaty"
+  ],
+  "safety_notes": "JADALNY: Powszechnie spożywany w kuchni azjatyckiej, ceniony za chrupiącą konsystencję i zdolność wchłaniania smaków. Popularny w zupach, daniach smażonych i sałatkach. Musi być ugotowany - nie jeść na surowo. Konsystencja pozostaje chrupiąco-ciągnąca nawet po ugotowaniu. Bogaty w składniki odżywcze i powszechnie uprawiany. Świeże okazy należy dokładnie oczyścić, gdyż zatrzymują zanieczyszczenia. Suszone okazy należy namoczyć przed gotowaniem. Brak trujących gatunków podobnych. Kształt ucha i wzrost na bzie/drzewach liściastych są charakterystyczne. Sam w sobie bez smaku, ale doskonale wchłania sosy.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493169.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 90872,
+      "width": 640,
+      "height": 480,
+      "sha256": "69dca539045c9109d9c02f521e09ad74b3bd49ecd2ff3d03592433c62ea6aa38"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493170.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 99828,
+      "width": 640,
+      "height": 480,
+      "sha256": "53742276a39e5b60e6b660873c86789487ab34456dacbb2744b194aeb71f577b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

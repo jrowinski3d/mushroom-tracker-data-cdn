@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "rambot",
+  "scientific_name": "Ramaria botrytis",
+  "common_name": "Clavaire à pointes roses",
+  "edibility": "E",
+  "description": "La Clavaire à pointes roses est une grande et belle clavaire de 8 à 15 cm de hauteur et 7 à 12 cm de largeur. La fructification possède une base épaisse blanche à rose pâle (2 à 4 cm de largeur) portant de nombreuses branches dressées. Les branches sont blanches à jaunâtres, avec des pointes caractéristiques rouge vin à rose pâle (trait diagnostique). Les jeunes spécimens ont une coloration rose plus vive. La ramification est dense et compacte. La chair est blanche, cassante à l'état frais, avec une odeur douce et agréable. Toute la structure est charnue, en forme de chou-fleur.",
+  "habitat": "Trouvée dans les forêts de feuillus et de conifères, formant des associations mycorhiziennes notamment avec le hêtre, le chêne et l'épinette. Pousse au sol ou sur bois bien décomposé. Fructifie dispersée à grégaire dans l'humus riche. Préfère les forêts matures riches en matière organique. Commune dans les forêts mixtes.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans les régions tempérées. En Europe, principalement septembre-octobre. Le pic de fructification a lieu au début de l'automne. Nécessite un été chaud suivi des pluies d'automne.",
+  "regions": [
+    "Europe (répandue, commune)",
+    "est de l'Amérique du Nord (rare)",
+    "Pacifique Nord-Ouest (rare)",
+    "forêts tempérées du Nord",
+    "particulièrement abondante en Europe",
+    "montagnes Rocheuses (occasionnelle)"
+  ],
+  "lookalikes": [
+    "Ramaria formosa (toxique) — branches orange saumon sans pointes roses distinctes",
+    "Ramaria aurea (comestible) — jaune doré partout, sans pointes roses",
+    "Ramaria rubripermanens (comestible) — toute la fructification rougit au toucher",
+    "Autres espèces de Ramaria — nombreuses semblables, identification difficile"
+  ],
+  "safety_notes": "COMESTIBLE : considérée comme l'une des meilleures clavaires, avec bonne saveur et texture lorsqu'elle est jeune. Très appréciée en Europe. Bien cuire. Ne récolter que des spécimens jeunes et fermes, avant qu'ils ne deviennent gorgés d'eau ou véreux. La saveur est douce et fongique. Jeter la base coriace. CRITIQUE : les pointes rouge vin à roses des branches sont diagnostiques et aident à la distinguer des espèces toxiques. Certaines clavaires provoquent des troubles digestifs chez les personnes sensibles. Éviter les spécimens au goût amer. Les pointes roses doivent être bien visibles. Essayer d'abord en petites quantités. Plus fiable et plus sûre que beaucoup de clavaires.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714687.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 29446,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc4845126cad5a597d358e912fddbbe5fa0c1b55aa2837a88713ddac9cc67245"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1714688.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 34460,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc67458e097361f0f3f6bf23374d7b10551d60426fb10171557abde9cb880cf8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

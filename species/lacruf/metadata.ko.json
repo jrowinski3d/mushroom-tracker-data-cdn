@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacruf",
+  "scientific_name": "Lactarius rufus",
+  "common_name": "붉은젖버섯 (Lactarius rufus)",
+  "edibility": "U",
+  "description": "붉은젖버섯은 적갈색~황적갈색 갓(4~10cm)을 지니며 중앙에 작은 유두돌기가 특징이다. 갓 표면은 건조하고 매끄럽거나 약간 벨벳 질감이다. 주름살은 크림색~연분홍빛이며 붙어 있고 밀집한다. 대는 갓과 비슷한 색이며 매끄럽고 속이 비었다. 핵심 특징은 자르거나 부러뜨리면 흘러나오는 풍부한 흰색 유즙(젖) — 이 유즙은 극도로 매운맛이 나고 톡 쏘는 맛이다. 유즙은 색이 변하지 않는다. 살은 창백하고 부서지기 쉽다. 포자문은 흰색~크림색이다. 매운 유즙은 하바네로 고추의 매운맛에 비견된다.",
+  "habitat": "침엽수, 특히 소나무와 가문비나무와 균근성. 침엽수림과 혼효림의 지면에서 자라며, 흔히 산성 토양과 물리끼에서 난다. 북부 침엽수림에서 흔하다. 축축하고 늪지대 지역을 선호한다.",
+  "season": "여름부터 가을(7~10월)까지, 시즌 내내 결실.",
+  "regions": [
+    "북동부",
+    "태평양 북서부",
+    "어퍼 미드웨스트",
+    "로키산맥",
+    "캐나다",
+    "북유럽"
+  ],
+  "lookalikes": [
+    "기타 Lactarius 종 — 유즙 맛으로 구분(씹어 뱉기: 순함 대 매움)",
+    "Russula emetica — 붉은색 비슷하나 유즙 없음, 살 부서짐",
+    "Lactarius hepaticus — 비슷하나 갈색이 더 진하고 매운맛도 같음"
+  ],
+  "safety_notes": "불식용: Lactarius rufus(붉은젖버섯)는 자르면 흘러나오는 극도로 맵고 자극적인 유즙(젖)으로 알려져 있다 — 모든 Lactarius 중 가장 맵다고 하며 하바네로 고추의 매운맛에 비견된다. 북유럽 일부 국가에서 충분히 전처리한 뒤 전통적으로 식용하기도 하지만, 서구 도감들은 격렬하게 맵고 후추 같은 맛 때문에 불식용으로 일괄 분류한다. 생으로 먹거나 부적절하게 조리하면 경미한 독성이 의심된다. 섭취를 권장하지 않는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722544.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 41822,
+      "width": 640,
+      "height": 427,
+      "sha256": "60bf73eba948d84dc255c36c3d8f6481b283df81d56eaee0f65fac3c49ff7337"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722545.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 37488,
+      "width": 640,
+      "height": 427,
+      "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

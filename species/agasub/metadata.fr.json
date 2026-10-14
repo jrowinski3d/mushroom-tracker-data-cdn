@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agasub",
+  "scientific_name": "Agaricus subrutilescens",
+  "common_name": "Wine-colored Agaricus (Agaricus subrutilescens)",
+  "edibility": "E",
+  "description": "L'agaric vineux est une espèce de taille moyenne à grande au chapeau de 8 à 20 cm de diamètre, d'abord arrondi puis largement convexe à plat. Le chapeau est blanc à crème avec des squames fibrilleuses brunes à brun-rougeâtre, développant souvent des taches vineuses à rose-rougeâtre avec l'âge ou à la manipulation. Les lames sont libres, d'abord rose pâle puis brun chocolat foncé. Le pied mesure 6 à 15 cm de hauteur, blanc au-dessus de l'anneau, se tachant de vineux à rosé surtout à la base (caractéristique diagnostique). L'anneau est grand et pendant. La chair est blanche, se tachant lentement de rosé à vineux à la coupe, à l'agréable odeur d'amande-anis.",
+  "habitat": "Pousse dans les forêts de conifères et mixtes, en particulier sous les pins, les sapins et les épicéas. Aussi dans les zones urbaines plantées de conifères, les espaces paysagers avec paillis de copeaux de bois et d'écorces. Pousse au sol dans un sol riche en humus et des débris ligneux en décomposition. Fructifie de manière dispersée à grégaire, souvent en troupes dans les massifs de copeaux de bois.",
+  "season": "De l'automne à l'hiver (octobre-février) en Californie et dans les climats méditerranéens. De la fin de l'été à l'automne (août-novembre) dans les régions tempérées. La fructification maximale a lieu à la fin de l'automne et au début de l'hiver. Plus tolérant au froid que de nombreuses espèces d'Agaricus.",
+  "regions": [
+    "Californie (très commune)",
+    "Pacifique Nord-Ouest (commun)",
+    "Sud-Ouest des États-Unis",
+    "Ouest de l'Amérique du Nord (largement répandu)",
+    "Climats méditerranéens",
+    "Régions de forêts de conifères"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (comestible) — plus grand, squames plus dorées, moins de taches vineuses",
+    "Agaricus crocodilinus (comestible) — semblable mais sans les taches vineuses distinctives à la base du pied",
+    "Agaricus moelleri (toxique) — jaunit fortement, odeur phénolique au lieu d'anis",
+    "Grandes espèces d'Amanita (certaines mortelles) — avec une volve à la base, absente chez Agaricus"
+  ],
+  "safety_notes": "COMESTIBLE : considéré comme comestible avec une bonne saveur et une chair ferme une fois cuit. Populaire auprès des cueilleurs en Californie. Bien cuire. Identification critique : vérifier l'agréable odeur d'AMANDE-ANIS (et non phénolique), les taches VINEUSES à rosées surtout à la base du pied (caractéristique diagnostique), des lames LIBRES virant au rose puis au brun chocolat, une sporée BRUN CHOCOLAT, et AUCUNE volve à la base. Éviter les spécimens à bleuissement jaune intense ou à odeur phénolique désagréable. Les taches vineuses à la base du pied sont la caractéristique la plus distinctive. Excellent en soupe et poêlé.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716382.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 80414,
+      "width": 640,
+      "height": 480,
+      "sha256": "2282913404fba100a85b46b81b99da6902789dc53d82cfe38e734143809ca12b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716373.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 92004,
+      "width": 640,
+      "height": 480,
+      "sha256": "d36a5a5cc111729564d1e8943cf126c3e8233ccf4dcede126b2a13cd99d81814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.615608",
+  "source_language": "en"
+}

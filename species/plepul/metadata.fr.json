@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "plepul",
+  "scientific_name": "Pleurotus pulmonarius",
+  "common_name": "Pleurote pulmonaire",
+  "edibility": "E",
+  "description": "Chapeaux en éventail ou en forme d'huître de 5 à 20 cm de largeur, blancs à crème pâle ou beige clair. Surface lisse avec lames blanches décurrentes et pied latéral à absent. Très semblable à P. ostreatus mais généralement plus pâle et fructifiant pendant les mois chauds. Pousse en touffes denses et imbriquées sur feuillus. Sporée blanche.",
+  "habitat": "Saprotrophe sur les feuillus morts ou dépérissants, troncs et souches, particulièrement chêne, hêtre, érable, orme et autres arbres feuillus. Forme des étagères denses et imbriquées sur le bois. Commun sur les arbres morts sur pied et les troncs tombés dans les forêts de feuillus et mixtes.",
+  "season": "De la fin du printemps au début de l'automne, avec un pic de fructification de juin à août par temps chaud. Équivalent estival de P. ostreatus. Fructifie lorsque les températures dépassent 15 °C.",
+  "regions": [
+    "est de l'Amérique du Nord",
+    "Midwest et Grandes Plaines",
+    "sud des États-Unis",
+    "côte Pacifique",
+    "régions tempérées du monde entier"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (presque identique, plus foncé, fructifiant à l'automne-hiver)",
+    "Pleurocybelle des conifères (Pleurocybella porrigens) — toxique, plus petite, blanc pur, sur conifères",
+    "Pleurote de l'orme (Hypsizygus ulmarius) — pied central plus prononcé",
+    "Espèces de Crepidotus — spores brunes, plus petites, chair plus fine"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : excellent champignon comestible à la saveur douce et agréable, semblable à P. ostreatus. L'une des espèces les plus cultivées dans le monde. Cuire soigneusement avant de manger. Les spécimens sauvages sont sans danger lorsqu'ils sont correctement identifiés. La fructification estivale aide à le distinguer du P. ostreatus, semblable. Largement cultivé pour la vente commerciale.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1691299.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 70350,
+      "width": 640,
+      "height": 480,
+      "sha256": "99a98f8d2d414ba72dc72435e994f5bbe3c17e27d65e768b5070cf33a88020a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691286.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-03",
+      "file_size_bytes": 80098,
+      "width": 640,
+      "height": 480,
+      "sha256": "5fb260ca9843e36cc986b17d7ce952eebf4de6a6ded63fb10206454b3d031d1e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.352015",
+  "source_language": "en"
+}

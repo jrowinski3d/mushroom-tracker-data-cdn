@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armtab",
+  "scientific_name": "Armillaria tabescens",
+  "common_name": "뽕나무버섯부치",
+  "edibility": "E",
+  "description": "뽕나무버섯부치는 꿀황색에서 황갈색의 갓(3-10cm)에 중심부에 작은 어두운 인편이 있다. 주름살은 흰색에서 크림색이며 대에 붙어 있고 갈색으로 얼룩진다. 핵심 특징은 대에 턱받이가 없다는 점이다 - 턱받이가 일관되게 없는 유일한 흔한 뽕나무버섯류이다. 대는 황색에서 갈색으로 매끄럽거나 약간 섬유질이며 턱받이 부위가 없다. 활엽수 그루터기와 뿌리에 빽빽한 군집을 이루어 자란다. 조직은 흰색이며 단단하다. 포자문은 백색이다. 검은 근상균사가 있다. 전형적인 뽕나무버섯 턱받이가 없다는 점이 독특하다.",
+  "habitat": "북아메리카 동부의 활엽수, 특히 참나무, 히코리, 단풍나무 등 활엽수에 기생성 및 부생성으로 자란다. 살아 있거나 죽어가는 나무 기부, 그루터기, 매몰된 뿌리에 큰 군집을 이루어 자란다. 참나무림에서 흔하다. 백색부후와 뿌리병을 일으킨다. 침엽수에서는 드물다.",
+  "season": "늦여름부터 가을까지(8-11월), 턱받이 있는 종보다 때로 일찍 발생한다.",
+  "regions": [
+    "미국 동부",
+    "남동부",
+    "중서부",
+    "중부 대서양 연안",
+    "남부 지역"
+  ],
+  "lookalikes": [
+    "Armillaria mellea - 턱받이가 있음, 그 외 매우 유사",
+    "Xeromphalina 종 - 훨씬 작고 서식지가 다름",
+    "Gymnopilus 종 - 녹황색 포자, 쓴맛",
+    "Pholiota 종 - 갈색 포자"
+  ],
+  "safety_notes": "주의하여 식용: 뽕나무버섯류(Armillaria 종)는 생으로는 독성이 있으며 섭취 전 반드시 충분히 익혀야 한다. 강한 불에서 최소 10-15분 이상 조리한다. 제대로 익혔더라도 일부 사람은 알레르기 반응이나 소화 불량을 겪는다. 내성을 확인하기 위해 먼저 소량을 먹어본다. 미리 데치면 위장 자극 물질과 쓴맛을 줄이는 데 도움이 된다. 술과 함께 먹지 말 것 - 뽕나무버섯은 술과 함께 먹으면 부작용을 일으킬 수 있다(Coprinopsis와 유사). 어리고 단단한 개체만 채취한다. 턱받이가 없어 식별이 독특하지만 다른 뽕나무버섯 특징으로 확인한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1608178.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-01",
+      "file_size_bytes": 133036,
+      "width": 480,
+      "height": 640,
+      "sha256": "ede381f535931297f80b431fb59d6fe0265eb8228bf76c24a462ee37f7adffab"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608179.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-27",
+      "file_size_bytes": 103406,
+      "width": 480,
+      "height": 640,
+      "sha256": "6e8264b2d1c15eef591d615e93afaeb2cf2c9d9423255ea16458764bbbf23318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

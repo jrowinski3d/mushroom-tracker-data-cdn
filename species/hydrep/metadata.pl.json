@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hydrep",
+  "scientific_name": "Hydnum repandum",
+  "common_name": "kolczak obłączasty",
+  "edibility": "E",
+  "description": "Kolczak obłączasty ma nieregularnie ukształtowany kremowy do blado pomarańczowego kapelusz (3–15 cm) o falistym, klapowanym brzegu. Cechą charakterystyczną jest spód pokryty kruchymi, skierowanymi w dół KOLCAMI lub ZĘBAMI zamiast blaszek lub porów – kolce kremowe do blado pomarańczowych, łatwo odpadające przy potarciu. Trzon mimośrodkowy do centralnego, gruby, biały do blado pomarańczowego, gładki, często wygięty. Miąższ biały, gruby, kruchy, o łagodnym smaku i przyjemnym zapachu. Wysyp zarodników biały. Ten łatwo rozpoznawalny grzyb jadalny ma lekko pieprzny smak na surowo, który znika po ugotowaniu.",
+  "habitat": "Mikoryzowy zarówno z drzewami liściastymi, jak i iglastymi. Rośnie na ziemi w lasach mieszanych, pod dębami, bukami, sosnami i świerkami. Często rośnie rozproszony lub w małych grupach. Preferuje dobrze zdrenowaną glebę, często spotykany w mchu lub ściółce liściowej.",
+  "season": "Lato do jesieni (lipiec–listopad), ze szczytem owocnikowania jesienią. W łagodniejszym klimacie może owocnikować do wczesnej zimy.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Północny Wschód",
+    "Środkowy Zachód",
+    "Południowy Wschód",
+    "Góry Skaliste",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Hydnum umbilicatum (kolczak dołkowany) – mniejszy, bardziej pomarańczowy, wklęsły środek",
+    "Hydnum albidum (kolczak biały) – czysto biała barwa",
+    "Hydnum rufescens (kolczak rudawy) – ciemniejsza pomarańczowo-brązowa barwa",
+    "Gatunki Sarcodon – większe, ciemniejsze, często gorzki smak"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: słodki i łagodny smak po ugotowaniu, choć na surowo może być lekko pieprzny. Zbierać młode okazy dla najlepszej tekstury – starsze mogą twardnieć lub nabierać gorzkiego smaku. Charakterystyczne kolce lub zeby na spodzie sprawiają, że pomylenie z trującymi gatunkami jest mało prawdopodobne. Dokładnie czyścić, gdyż kolce zatrzymują zanieczyszczenia. U wrażliwych osób spożycie w dużych ilościach może powodować łagodne dolegliwości trawienne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714441.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 99832,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3445093a421555636805635d3ce11d27c8e580b4ef979bccb1b9b4e7636568c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493456.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-31",
+      "file_size_bytes": 101492,
+      "width": 640,
+      "height": 480,
+      "sha256": "707eb43113263b918093c6b9ce0ebcd8da779fe0e9b863d6899aced3d04f9f6d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:02.596413",
+  "source_language": "en"
+}

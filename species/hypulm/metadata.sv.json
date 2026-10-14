@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypulm",
+  "scientific_name": "Hypsizygus ulmarius",
+  "common_name": "Almskivling",
+  "edibility": "E",
+  "description": "Vita till gräddfärgade hattar 5–15 cm breda med slät till lätt hårig yta. Till skillnad från äkta ostronmusslingar har den en mer central till något sidoställd fot 5–10 cm lång. Vita nedlöpande skivor. Växer ofta i små klungor högt på levande eller nyligen döda lövträd. Vit sporfällning.",
+  "habitat": "Saprob och parasit på levande och döda lövträd, särskilt alm, asklönn, lönn och asp. Fruktsätter vanligen högt uppe på trädstammar, ofta 3–12 m över marken. Vanlig på stående träd i urbana och skogliga miljöer. Orsakar vitröta i kärnveden.",
+  "season": "Höst, främst september–november. Kan uppträda sent på sommaren i nordliga områden. Fruktsätter i svalt höstväder efter regn. Vanligast i oktober.",
+  "regions": [
+    "Östra Nordamerika",
+    "Stora sjöarna-området",
+    "Övre Mellanvästern",
+    "Nordvästra USA och västra Kanada",
+    "Norra tempererade skogar"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (lateral/saknad fot, mer ostronformad)",
+    "Pleurotus populinus (ingen central fot, på asp/poppel)",
+    "Vingmussling (Pleurocybella porrigens) – giftig, kritvit, på barrträd",
+    "Armillaria-arter (har ring på foten, gulaktiga färger)"
+  ],
+  "safety_notes": "ÄTLIG: God matsvamp med fast konsistens och mild smak som ung. Tillaga ordentligt före förtäring. Äldre exemplar kan bli sega och undviks bäst. Den centrala foten och den höga växtplatsen på träden hjälper till att skilja den från Pleurotus-arter. Besläktad med odlade Hon-shimeji (H. tessulatus) som odlas kommersiellt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649898.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 103612,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2ea476fbf77c1cc41bae7582c177d00e846814708cee474d76c6a0be666527d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649899.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95280,
+      "width": 640,
+      "height": 480,
+      "sha256": "2aa8419d2cca940219b5bdbcaf5a85f45d8e9f0a3b9f020e68a3b07088d4250c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

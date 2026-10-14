@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "armmel",
+  "scientific_name": "Armillaria mellea",
+  "common_name": "opieńka miodowa",
+  "edibility": "E",
+  "description": "Opieńka miodowa ma miodowo-żółty do płowobrązowego kapelusz (3-15 cm) pokryty drobnymi CIEMNYMI ŁUSKAMI skoncentrowanymi w środku, rozproszonymi ku brzegom. Blaszki białe do kremowych, przyrośnięte do trzonu, z wiekiem często z brązowymi plamami. Trzon ma TRWAŁY BIAŁY PIERŚCIEŃ przy wierzchołku - kluczowa cecha rozpoznawcza. Trzon biały nad pierścieniem, ciemniejszy poniżej, często z ciemnymi łuskami lub włóknami. Rośnie w GĘSTYCH KĘPACH u podstawy drzew lub na pniakach. Kapelusz lepki, gdy mokry. Miąższ biały, zwarty, o łagodnym zapachu. Wysyp zarodników biały. Czarne ryzomorfy (struktury przypominające sznurówki) często widoczne w glebie lub pod korą.",
+  "habitat": "Pasożyt i saprofit zarówno na drzewach liściastych, jak i iglastych. Rośnie w dużych kępach u podstawy żywych drzew, martwych pniaków i zakopanych korzeni. Powoduje białą zgniliznę i może zabijać drzewa żywicielskie. Występuje na dębie, klonie, brzozie, sośnie i wielu innych gatunkach drzew. Jeden z najpospolitszych patogenów drzew w lasach.",
+  "season": "Jesień (wrzesień-listopad), ze szczytem owocowania po jesiennych deszczach. Sporadycznie owocnikuje wiosną.",
+  "regions": [
+    "Wschodnie Stany Zjednoczone",
+    "Środkowo-zachodnie Stany Zjednoczone",
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Góry Skaliste",
+    "Kalifornia",
+    "Europa",
+    "Azja"
+  ],
+  "lookalikes": [
+    "Inne gatunki opieńki - bardzo podobne, wszystkie wymagają ugotowania",
+    "Gatunki Gymnopilus - gorzki smak, rdzavo-pomarańczowe zarodniki",
+    "Gatunki Pholiota - brązowy wysyp zarodników, inne siedlisko",
+    "Gatunki Galerina - ŚMIERTELNIE TRUJĄCE - mniejsze, brązowe zarodniki, na drewnie, nie na ziemi/korzeniach"
+  ],
+  "safety_notes": "JADALNY Z OSTROŻNOŚCIĄ: Opieńki (gatunki Armillaria) są TRUJĄCE na surowo i muszą być dokładnie ugotowane przed spożyciem. Gotować przez co najmniej 10-15 minut na dużym ogniu. Nawet prawidłowo ugotowane u niektórych osób wywołują reakcje alergiczne lub dolegliwości żołądkowe. Najpierw spróbować małej ilości, aby sprawdzić tolerancję. Obgotowanie przed gotowaniem pomaga zredukować drażniące substancje żołądkowo-jelitowe i gorzki smak. Nie spożywać z alkoholem - opieńki mogą wywoływać niepożądane reakcje w połączeniu z alkoholem (podobnie jak Coprinopsis). Zbierać tylko młode, zwarte okazy.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713848.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 88552,
+      "width": 640,
+      "height": 482,
+      "sha256": "34090da069cb4b8a3e9d18038d30d81e1ede01849df4cd7c2e790e1b1dcfe045"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713849.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 96164,
+      "width": 640,
+      "height": 482,
+      "sha256": "70a5d56d5c39a6061d328040d5578fb2b56b5789de7702de08045cf7bbd19e93"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

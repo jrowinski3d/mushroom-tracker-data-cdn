@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacam",
+  "scientific_name": "Agaricus campestris",
+  "common_name": "pieczarka łąkowa",
+  "edibility": "E",
+  "description": "Pieczarka łąkowa to klasyczny dziki przodek uprawnej pieczarki. Kapelusz 5-12 cm średnicy, początkowo kulisty, z wiekiem szeroko wypukły do płaskiego. Kapelusz biały do kremowego, gładki lub z drobnymi płaskimi łuskami, z wiekiem często z różowawo-brązowymi odcieniami. Blaszki wolne, początkowo jaskraworóżowe, z wiekiem ciemnoczekoladowobrązowe (diagnostyczne - różowe blaszki odróżniają od białych muchomorów). Trzon 3-8 cm wysokości, biały, gładki, z cienkim kruchym pierścieniem, który często znika. Miąższ biały, czasem lekko różowawy, o łagodnym przyjemnym grzybowym zapachu.",
+  "habitat": "Występuje na otwartych terenach trawiastych, w tym łąkach, pastwiskach, trawnikach, polach golfowych i parkach. Preferuje bogate w składniki odżywcze murawy, często tam, gdzie wypasają się zwierzęta hodowlane, lub na obszarach z nawozem organicznym. Unika lasów. Rośnie naziemnie, owocnikuje rozproszone do gromadnie, często w czarcich kołach. Pospolita w utrzymywanych murawach.",
+  "season": "Od późnego lata do jesieni (lipiec-listopad) w regionach umiarkowanych. W łagodnym klimacie może owocować wiosną i jesienią. Szczyt owocowania przypada na późne lato i wczesną jesień po ciepłych deszczach. Jeden z klasycznych jesiennych grzybów pastwisk.",
+  "regions": [
+    "Europa (rodzima, rozpowszechniona)",
+    "Ameryka Północna (rozpowszechniona, wszystkie regiony)",
+    "Wschodnie Stany Zjednoczone (bardzo pospolite)",
+    "Kalifornia (pospolita)",
+    "Północno-zachodnie wybrzeże Pacyfiku (pospolita)",
+    "Murawy strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "Muchomory jadowite (śmiertelnie trujące) - białe z białymi blaszkami (nie różowymi), mają pochwę u podstawy",
+    "Agaricus xanthodermus (trujący) - intensywnie żółknie w przekroju, zapach fenolowy",
+    "Agaricus arvensis (jadalny) - większy, zapach anyżu, pierścień jak koło zębate",
+    "Chlorophyllum molybdites (trujący) - zielone zarodniki, większy, blaszki z czasem zielonkawe"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Klasyczny dziki grzyb o doskonałym smaku podobnym do odmian uprawnych. Dokładnie ugotować. KLUCZOWA identyfikacja, aby uniknąć śmiertelnie trujących białych muchomorów: potwierdzić RÓŻOWE blaszki u młodych okazów (muchomory mają białe blaszki), blaszki brązowiejące do CZEKOLADOWEGO z wiekiem, CZEKOLADOWOBRĄZOWY wysyp zarodników, BRAK pochwy u podstawy trzonu, łagodny przyjemny zapach (nie fenolowy). Różowe blaszki są najważniejszą cechą - jeśli blaszki są białe, to NIE ten gatunek. Unikać okazów intensywnie żółknących w przekroju. Bardzo popularny dziki grzyb jadalny, ale wymaga starannej identyfikacji.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1637875.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 49032,
+      "width": 640,
+      "height": 427,
+      "sha256": "23a834b68e3daa7b3a096f468aa31c432e37f3837cb0a60675c59a2eae41efcd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1637876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 76590,
+      "width": 640,
+      "height": 427,
+      "sha256": "c1dd63a0a61f671647be7697f74475e2bfd753f007e551708cd67112dadbef1f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "lacsub",
+  "scientific_name": "Lactarius subpurpureus",
+  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
+  "edibility": "E",
+  "description": "Subdulcis Group Milk Cap ma czerwonobrązowy kapelusz (3–8 cm), gładki. Blaszki blado różowe. Trzon w podobnym kolorze. KLUCZ: BIAŁE MLECZKO, łagodny smak. Mały gatunek o różowawo-płowych barwach. Miąższ blady. Wysyp zarodników różowokremowy.",
+  "habitat": "Mikoryzowy z DRZEWAMI IGLASTYMI i liściastymi. Rośnie w lasach mieszanych. Rozproszony.",
+  "season": "Od lata do jesieni (lipiec–październik).",
+  "regions": [
+    "Wschodnie USA",
+    "Środkowy Zachód"
+  ],
+  "lookalikes": [
+    "Inne małe mleczaje (Lactarius) — sprawdź barwę i smak"
+  ],
+  "safety_notes": "JADALNY: Łagodny smak. BIAŁE MLECZKO + ŁAGODNY SMAK diagnostyczne dla podgrupy. Najlepszy młody. Gotować dokładnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722244.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 44232,
+      "width": 640,
+      "height": 427,
+      "sha256": "0498b5201c9cd15c3c0834733e401ccbc2f1868abfe53781f01aab90cb4ac699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722245.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 42834,
+      "width": 640,
+      "height": 427,
+      "sha256": "f200757574e7abfcd0ced99c8ee3b2668fe99470c04396ee020ca016d951e0f8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

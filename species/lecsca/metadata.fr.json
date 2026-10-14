@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecsca",
+  "scientific_name": "Leccinum scabrum",
+  "common_name": "Bolet rude",
+  "edibility": "E",
+  "description": "Le bolet rude affiche un chapeau gris-brun à brun-beige (4-15 cm) à surface lisse à légèrement ridée, se fissurant parfois avec l'âge. Pores blancs jeunes, devenant gris-brun terne, se tachant légèrement de brunâtre. Le pied blanchâtre est couvert d'écaillettes noires à brun foncé (écailles rugueuses). La chair blanche ne change pas de couleur ou peut montrer une légère teinte rosâtre à la coupe. Sporée brun-olive.",
+  "habitat": "Mycorhizien exclusivement des bouleaux (espèces de Betula) dans les forêts nordiques mixtes. Forme des associations obligatoires avec les bouleaux. Trouvé dans les boulaies, les forêts mixtes bouleau-conifère, et les zones riveraines avec bouleau à papier.",
+  "season": "De l'été à l'automne (juin-octobre) avec un pic de fructification en juillet-septembre. Commun à la fin de l'été dans les forêts de bouleaux du nord.",
+  "regions": [
+    "Nord des États-Unis",
+    "Alaska",
+    "Canada",
+    "région des Grands Lacs",
+    "forêts du Nord-Est",
+    "peuplements de bouleaux du Pacifique Nord-Ouest",
+    "zones de bouleaux des montagnes Rocheuses"
+  ],
+  "lookalikes": [
+    "Autres espèces de Leccinum — couleurs de chapeau et associations d'arbres différentes",
+    "Espèces de Boletus — dépourvues du pied rude caractéristique",
+    "Leccinum holopus — couleurs plus pâles, aussi avec bouleau",
+    "Espèces de Tylopilus — certaines ont des écaillettes mais couleurs de pores différentes"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet rude est un bon comestible à saveur douce et à texture plutôt tendre à maturité. Doit être bien cuit — ne jamais manger cru. Meilleur jeune et ferme. L'association obligatoire avec le bouleau et le pied rude sont diagnostiques. Certaines personnes peuvent éprouver de légers troubles digestifs.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1080620.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 61574,
+      "width": 464,
+      "height": 640,
+      "sha256": "c5c8cc696ee70f1749403a77f42681e5089f69dfe0b9f19ae5af2fe36c5a5ae4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1080621.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 36138,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e7a4bebc027d8c8e72afac8c632f8b542311af4fbc5451a4f10f10ab6d20559"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

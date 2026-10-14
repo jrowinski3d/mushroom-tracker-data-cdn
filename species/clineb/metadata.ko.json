@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "clineb",
+  "scientific_name": "Clitocybe nebularis",
+  "common_name": "흐린깔때기버섯",
+  "edibility": "E",
+  "description": "구름깔때기 또는 흐린깔때기는 갓 너비 8–20cm의 대형 견고한 버섯으로, 처음에는 가장자리가 안으로 말린 볼록형이었다가 나이가 들면 납작하거나 깔때기 모양이 된다. 갓은 회갈색, 회황갈색 또는 구름 낀 하늘 같은 흐릿한 회색으로, 종종 짙고 옅은 구역이 있어 줄무늬 모습을 보인다. 표면은 매끄럽고 마르거나 기름진 느낌이다. 주름살은 약간 내생하거나 약간 흘러내리고, 촘촘하며 흰색에서 크림색이다. 대는 높이 6–12cm, 굵고 옅은 회색에서 황갈색이며 섬유질이다. 살은 두껍고 흰색이며, 강한 달콤한 꽃 향 또는 역겹도록 달콤한 냄새가 난다(항상 기분 좋은 것은 아님).",
+  "habitat": "활엽수림과 침엽수림, 산림 가장자리, 낙엽층에서 발견된다. 비옥한 부식질에서 낙엽 분해자로 자란다. 흩어지거나 무리지어 발생하며, 종종 대형 무리나 요정고리를 이룬다. 유기물이 풍부하고 깊은 낙엽층이 있는 지역을 선호한다.",
+  "season": "늦여름에서 가을과 초겨울(9–12월). 온화한 기후에서는 겨울까지 발생한다. 서리가 내린 뒤 나타나는 만생 버섯 중 하나이다. 절정은 늦가을(10–11월)이다.",
+  "regions": [
+    "유럽(매우 흔함)",
+    "북미 동부(흔함)",
+    "태평양 북서부(흔함)",
+    "전 세계 온대 삼림",
+    "낙엽층에 범세계적 분포"
+  ],
+  "lookalikes": [
+    "Clitocybe 속(일부 치명적) — 회갈색 유사종이 많고 일부 유독",
+    "Entoloma sinuatum(유독) — 크기와 색이 비슷하나 분홍색 포자와 달콤한 향이 없음",
+    "Lepista 속 — 보라 기운, 분홍색 포자",
+    "Hygrophorus 속 — 왁스 질감 주름살, 서식지가 다름"
+  ],
+  "safety_notes": "식용이나 주의: 일부는 식용으로 여기지만 많은 사람에게 소화 장애를 일으키며 권장하지 않는다. 제대로 익혀도 메스꺼움, 구토, 설사를 일으킬 수 있다. 일부 자료에서는 의심스럽거나 불가식으로 취급한다. 유독한 Clitocybe 종과 혼동될 위험이 높다. 강한 달콤한 냄새는 독특하지만 항상 기분 좋은 것은 아니다. 정확히 동정해도 견디지 못하는 사람이 많다. 더 좋은 식용 버섯이 있다. 시도한다면 충분히 익히고, 극소량으로 먼저 테스트하며, 속이 불편해질 가능성에 대비하라. 구름 낀 회갈색 갓과 달콤한 냄새가 진단적이다. 질병 보고가 광범위하고 혼동 위험이 있어 권장하지 않는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725219.jpg",
+      "photographer": "(c) Myles McSweeney, all rights reserved",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "observation_date": "2024-10-19",
+      "file_size_bytes": 81968,
+      "width": 480,
+      "height": 640,
+      "sha256": "f8ae6f9c3be27230a239ee41370dc50235addd10926c1999c368e9f9a4ba2f91"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651552.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48724,
+      "width": 482,
+      "height": 640,
+      "sha256": "69e102213907378df2fda9a002305293be980dd54056e379244b879f45102cd4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.271746",
+  "source_language": "en"
+}

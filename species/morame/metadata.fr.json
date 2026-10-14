@@ -1,0 +1,53 @@
+{
+  "mushroom_id": "morame",
+  "scientific_name": "Morchella americana",
+  "common_name": "Morille jaune",
+  "edibility": "E",
+  "description": "Chapeau de 3 à 10 cm (1 à 4 po) de haut, conique à ovoïde ou en forme de pomme de pin, avec un réseau alvéolé de crêtes et de fossettes disposées principalement verticalement ; couleur allant du gris au blanchâtre au jaunâtre, avec des crêtes plus pâles que les fossettes. Pied plus court que le chapeau, parfois bulbeux, de 2 à 9 cm de long, ridé et souvent taché de jaune, blanc à jaunâtre, creux. Entièrement creux du sommet du chapeau au pied quand on coupe dans le sens de la longueur. Sporée blanc cassé à crème.",
+  "habitat": "Répandu sous les feuillus, en particulier le frêne, l’orme (surtout les ormes mourants ou récemment morts), le peuplier faux-tremble, le peuplier baumier, le sycomore, les tulipiers et les pommiers dans les vieux vergers abandonnés. Dans les régions de l’ouest, généralement avec le peuplier deltoïde dans les fonds de vallées. Occasionnellement associé aux conifères, en particulier le pin blanc. Préfère les sols humides et bien drainés des bois et des zones riveraines.",
+  "season": "Printemps (mars-juin, avec un pic de fructification en avril-mai dans la plupart des régions). La fructification est déclenchée par des températures du sol atteignant environ 50 °F (10 °C) combinées à une humidité suffisante. Plus précoce dans les régions du sud (mars-avril), plus tardive dans les régions du nord et en montagne (mai-juin).",
+  "regions": [
+    "Nord-Est",
+    "Mid-Atlantique",
+    "Midwest",
+    "Grands Lacs",
+    "Sud-Est",
+    "montagnes Rocheuses",
+    "Pacifique Nord-Ouest",
+    "Californie"
+  ],
+  "lookalikes": [
+    "Fausse morille (espèces de Gyromitra) - TOXIQUE : chapeau ridé en forme de cerveau au lieu de crêtes alvéolées, chapeau attaché uniquement au sommet (non soudé au pied), intérieur cloisonné plutôt qu’entièrement creux, souvent brun-rougeâtre. Contient des toxines mortelles qui persistent même après cuisson.",
+    "Morchella ulmaria - Comestible : apparence presque identique, aires de répartition qui se chevauchent dans la région des Grands Lacs, impossible à distinguer de façon fiable sans analyse ADN, mêmes exigences de comestibilité et de préparation.",
+    "Morille à moitié libre (Morchella punctipes) - Comestible : chapeau attaché à mi-hauteur du pied contre soudé sur toute la longueur, aspect en jupe, chapeau proportionnellement plus court.",
+    "Autres espèces de Morchella - Comestible : M. esculenta (morille jaune presque identique), M. importuna (plus foncée, dans le paillis paysager), toutes les vraies morilles partagent la même valeur culinaire et les mêmes exigences de cuisson."
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : l’un des champignons sauvages les plus prisés en Amérique du Nord, très apprécié en cuisine. Doit être bien cuit pendant au moins 15 à 25 minutes à feu moyen ; les spécimens crus ou insuffisamment cuits contiennent des composés d’hydrazine qui provoquent de graves nausées, vomissements et troubles gastriques. Une cuisson au-dessus de 160 °F (71 °C) détruit les composés toxiques. Certaines personnes peuvent avoir des réactions allergiques même après une préparation adéquate ; essayer d’abord en petites quantités. De rares effets indésirables avec la consommation d’alcool ont été signalés. Essentiel de distinguer des fausses morilles mortelles (Gyromitra) qui ont des chapeaux ridés en forme de cerveau plutôt que des motifs alvéolés.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751691.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 103280,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3b1ae2def037cc001b8b159ede57e88fa653c4695528be30768ba492bcc818"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751690.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 122176,
+      "width": 480,
+      "height": 640,
+      "sha256": "65c699f6f9b0055e3654f3987b1070e6147d0da24fd69f93c28fb3d62cbd9ff8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

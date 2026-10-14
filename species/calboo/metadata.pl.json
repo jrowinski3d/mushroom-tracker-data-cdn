@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calboo",
+  "scientific_name": "Calvatia booniana",
+  "common_name": "Western Giant Puffball (Calvatia booniana)",
+  "edibility": "E",
+  "description": "Duże, kuliste do owalnych purchawki o średnicy 10–30 cm, z charakterystycznymi grubymi, wielokątnymi płytkami lub łuskami na białej do jasnobrązowej powierzchni, co daje wygląd popękanych kafelków. Wnętrze czysto białe, gdy jadalne, z czasem oliwkowożółte, potem brązowe. Mały punkt przyczepu u podstawy, ale brak wyraźnej płonnej podstawy. Niepowtarzalny, łuskowaty wzór powierzchni.",
+  "habitat": "Grzyb saprotroficzny w górskich lasach iglastych i mieszanych, zwłaszcza pod sosną żółtą, daglezją zieloną oraz na górskich łąkach. Preferuje dobrze przepuszczalne gleby na większych wysokościach. Pospolity w górskich parkach, otwartych lasach i na skrajach lasów w zachodnich górach.",
+  "season": "Późne lato do jesieni, zwykle sierpień–październik. Szczyt owocowania po monsunowych deszczach na południowym zachodzie. Najobfitszy we wrześniu–październiku w regionach górskich.",
+  "regions": [
+    "Góry Skaliste",
+    "Sierra Nevada",
+    "Góry Kaskadowe",
+    "południowo-zachodnie góry",
+    "zachodnie górskie lasy",
+    "od Kolumbii Brytyjskiej po Arizonę"
+  ],
+  "lookalikes": [
+    "Calvatia sculpta (podobne łuski, ale inny wzór)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory (ZAWSZE PRZEKRÓJ NA PÓŁ – w środku będą widoczne rozwijające się blaszki/kapelusz)",
+    "Gatunki Scleroderma / tęgoskóry (trujące, fioletowoczarne wnętrze, znacznie grubsza powłoka)",
+    "Inne gatunki Calvatia (inne wzory powierzchni)"
+  ],
+  "safety_notes": "JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przekrój owocnik całkowicie na pół, od góry do dołu, przed spożyciem. Jadalny WYŁĄCZNIE, gdy wnętrze jest w całości czysto białe i jędrne. Jeśli w środku widoczne są jakiekolwiek żółte, brązowe, fioletowe zabarwienia lub rozwijające się struktury, NIE JEDZ. Zapobiega to spożyciu trujących gatunków podobnych oraz młodych, śmiertelnie trujących muchomorów. Charakterystyczna łuskowata powierzchnia ułatwia identyfikację, ale decydującym testem jadalności jest biały kolor wnętrza. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1737565.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 103696,
+      "width": 640,
+      "height": 488,
+      "sha256": "f4956223f23b1e83a9420e349226ebc0597621480bcb3ca0da88c07cd4fa43e2"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1737566.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 91306,
+      "width": 640,
+      "height": 411,
+      "sha256": "30b4968b62116544e4e011334daf73bf46b1327c8337a15de0d3e46fc70b0850"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

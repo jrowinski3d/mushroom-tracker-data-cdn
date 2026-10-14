@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscla",
+  "scientific_name": "Russula claroflava",
+  "common_name": "Yellow Swamp Russula (Russula claroflava)",
+  "edibility": "E",
+  "description": "La rúsula amarilla de pantano tiene el sombrero de color amarillo brillante (de 3 a 10 cm), pegajoso. Láminas de color blanco a crema. Pie blanco. CLAVE: SOMBRERO AMARILLO BRILLANTE, CARNE QUEBRADIZA, crece en ZONAS HÚMEDAS/PANTANOSAS. Carne blanca. Esporada de color blanco a crema. De sabor suave a ligeramente picante.",
+  "habitat": "Micorrícica con abedules y sauces en ZONAS HÚMEDAS: pantanos, ciénagas, bosques húmedos. Hábitat de humedal distintivo. Especie del norte. De forma dispersa.",
+  "season": "Del verano al otoño (julio-septiembre).",
+  "regions": [
+    "Noreste",
+    "norte del Medio Oeste",
+    "Canadá",
+    "norte de Europa"
+  ],
+  "lookalikes": [
+    "Otras rúsulas amarillas — comprobar el hábitat",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave. AMARILLO BRILLANTE + HÁBITAT DE HUMEDAL + CARNE QUEBRADIZA: diagnóstico. Prueba de sabor (los ejemplares suaves son comestibles). Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681665.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-09",
+      "file_size_bytes": 51142,
+      "width": 640,
+      "height": 550,
+      "sha256": "bd860f8e55839072f83b62dc560ed844b31f7c93e77777ce7007fb6f53b28d13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1681662.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-08",
+      "file_size_bytes": 27474,
+      "width": 640,
+      "height": 480,
+      "sha256": "40b560f384bb490cd8305e722afeafd8634a91715bdc1637b162df8f4e37f12f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

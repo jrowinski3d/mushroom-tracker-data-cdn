@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phosqu",
+  "scientific_name": "Pholiota squarrosa",
+  "common_name": "Fjällig tofsskivling",
+  "edibility": "E",
+  "description": "Fjällig tofsskivling är en medelstor till stor svamp med en hatt på 5–15 cm, först välvd och sedan brett välvd eller utbredd. Hatten är blekgul till gulbrun eller ockra, tätt täckt med uppåtböjda tillbakaböjda bruna till rödbruna fjäll, särskilt mot mitten, vilket ger ett mycket raggigt utseende. Skivorna är vidfästa till svagt nedlöpande, först blekgula och blir rostbruna med åldern. Foten är 5–15 cm hög, kraftig, blekgul ovanför ringen, täckt med bruna fjäll nedanför ringen. Ringen är tjock och bestående. Svampköttet är blekgult med en rättikliknande eller något obehaglig doft.",
+  "habitat": "Växer på döda och levande lövträd, särskilt bok, lönn, ek och poppel. Växer i täta överlappande klungor vid trädbaser, på stubbar eller på fallna stockar. Fungerar som vednedbrytare och ibland som svag parasit. Mycket vanlig på gatuträd och i parker. Fruktar i täta klungade grupper, ofta med dussintals individer.",
+  "season": "Sensommar till höst (augusti–november) i de flesta regioner. I milda klimat kan den frukta in i vintern. Högsäsong i september–oktober. Kan ge flera skördar under goda år.",
+  "regions": [
+    "Europa (utbredd)",
+    "Östra Nordamerika (mycket vanlig)",
+    "Stillahavsnordväst (vanlig)",
+    "Kalifornien (enstaka)",
+    "Tempererade regioner världen över på lövträd",
+    "Stadsområden på gatuträd"
+  ],
+  "lookalikes": [
+    "Pholiota-arter – många liknande fjälliga arter, svåra att skilja",
+    "Armillaria-arter (ätliga med försiktighet) – honungsfärgade, mindre fjälliga, annat habitat",
+    "Hypholoma fasciculare (giftig) – klungor på ved men grönaktiga skivor, bitter smak",
+    "Gymnopilus-arter (vissa hallucinogena) – orangebruna, bittra, rostiga sporer"
+  ],
+  "safety_notes": "ÄTLIG MEN REKOMMENDERAS INTE: Anses ätlig av vissa källor men orsakar magbesvär hos många personer. Rapporter om både lyckad förtäring och magbesvär är vanliga. Konsistensen är fiberaktig och seg. Smaken kan vara obehaglig med en rättik- eller kemikalieliknande smak. Måste tillagas ordentligt. Risken för förväxling med giftiga klungväxande svampar är ett problem. Även när den är korrekt identifierad är kvaliteten dålig och många personer tål den inte. Det finns bättre matsvampar. Det raggiga fjälliga utseendet är karakteristiskt. Om du försöker, prova små mängder först och räkna med magbesvär. Rekommenderas inte på grund av utbredda rapporter om mag-tarmbesvär och dålig smak. De täta klungorna på lövträd är karakteristiska men inte aptitliga.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694482.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 132484,
+      "width": 480,
+      "height": 640,
+      "sha256": "3d084ecd15ffe19ff9895f7eb226bc1aa8c2869cf25c8f0bd05b5612f5085c25"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1706127.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 89392,
+      "width": 640,
+      "height": 482,
+      "sha256": "cf74f11b6803c798a105ba96bdcb7ec182982f54ee307acaee9372de457da2c2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:49:48.480026",
+  "source_language": "en"
+}

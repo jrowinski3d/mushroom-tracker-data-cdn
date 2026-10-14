@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cantex",
+  "scientific_name": "Cantharellus texensis",
+  "common_name": "텍사스꾀꼬리버섯",
+  "edibility": "E",
+  "description": "텍사스꾀꼬리버섯은 어린 시절 약간 벨벳 질감이 있는 매끄러운 주황노랑에서 황금노랑의 갓이 3–10cm 너비로, 나이가 들면 얕게 깔때기 모양이 되고 가장자리는 물결 모양의 불규칙한 형태를 이룬다. 아랫면에는 두껍고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 노랑에서 주황노랑을 띠고, 간격이 보통이며 대를 타고 내려간다. 대는 속이 차 있고 높이가 3–8cm이며 매끄럽고 노랑에서 주황노랑이며 종종 아래로 좁아진다. 살은 흰색에서 옅은 노랑이고 단단하며 은은한 과일 향이 난다. 포자문은 흰색에서 옅은 노랑이다.",
+  "habitat": "주로 참나무류(특히 포스트오크, 라이브오크, 붉은참나무)와 균근 공생하며, 저지대 활엽수림에서는 히코리, 피칸과 함께 자라기도 한다. 분포 지역 전역의 참나무 우점 삼림, 하천변 삼림, 공원에서 흔하다. 걸프만 연안 평야 특유의 모래질 배수 좋은 토양을 선호한다.",
+  "season": "늦봄에서 여름(5–9월), 폭우 후 따뜻하고 습한 시기에 발생한다. 절정은 텍사스에서 보통 6–7월이다. 북부 꾀꼬리버섯 종보다 더위를 잘 견딘다.",
+  "regions": [
+    "텍사스(전역 분포)",
+    "루이지애나",
+    "오클라호마 동부",
+    "아칸소",
+    "미주리 남부(희귀)"
+  ],
+  "lookalikes": [
+    "호박버섯(Omphalotus 속) — 유독, 날카로운 가장자리의 진짜 주름살, 목재에서 자람, 더 강렬한 주황색",
+    "Cantharellus lateritius — 식용, 더 분홍주황색, 동쪽에 분포, 크기와 서식지 유사",
+    "거짓꾀꼬리버섯(Hygrophoropsis aurantiaca) — 독성은 없으나 품질이 낮음, 얇은 진짜 주름살, 더 주황색"
+  ],
+  "safety_notes": "식용: 텍사스꾀꼬리버섯은 미국 남부 채집가에게 중요한 지역 종으로 좋은 식용 버섯이다. 모든 꾀꼬리버섯과 마찬가지로 동정은 두껍고 뭉툭하며 갈라진 주름에 달려 있는데, 이 주름은 납처럼 왁스 질감이 느껴지고 갓 살과 이어져 있으며, 유독 유사종의 얇고 칼날 같은 진짜 주름살이 아니다. 항상 나무와 공생하며 토양에서 자라는지 확인하고, 목재에서는 절대 자라지 않는다. 풍미는 은은하고 기분 좋으며, 볶거나 크림 소스에 훌륭하다. 대체로 잘 견디지만 처음에는 소량으로 테스트하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/530735.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 35332,
+      "width": 640,
+      "height": 410,
+      "sha256": "039ad325445485a3265b7d7b1d48901e12f18bf2759d9161c264fc0efb326162"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530736.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 79722,
+      "width": 640,
+      "height": 499,
+      "sha256": "7ee8854f4821985cf10e9c7ab9d84a27f54691a06102293fa7f26d0817b47c2e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.230118",
+  "source_language": "en"
+}

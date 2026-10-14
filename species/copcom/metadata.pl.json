@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "copcom",
+  "scientific_name": "Coprinus comatus",
+  "common_name": "czernidłak kołpakowaty",
+  "edibility": "E",
+  "description": "Czernidłak kołpakowaty to charakterystyczny grzyb, wysoki na 10–20 cm, o wydłużonym cylindrycznym kapeluszu wysokim na 5–15 cm i szerokim na 2–5 cm. Kapelusz jest biały, pokryty kosmatymi, odgiętymi łuskami, które ku środkowi brązowieją. Brzeg kapelusza jest początkowo postrzępiony. Blaszki są wolne, białe, z czasem różowe, potem czarne i rozpływające się (samotrawiące) w czarny atrament od dołu ku górze. Trzon wysoki na 10–20 cm, gładki, biały, pusty, z małym ruchomym pierścieniem, który często zanika. Młode guziki są jajowate i całkowicie białe.",
+  "habitat": "Występuje w zaburzonej glebie, w tym na trawnikach, poboczach dróg, ścieżkach, placach budowy, w ogrodach, na zrębkach i terenach trawiastych. Preferuje ubitą lub zaburzoną glebę bogatą w materię organiczną. Rośnie na zakopanym drewnie lub bogatej próchnicy. Owocnikuje w gęstych kępach, często pojawiając się z dnia na dzień. Bardzo pospolity na terenach miejskich i podmiejskich.",
+  "season": "Od wiosny do jesieni (kwiecień–listopad) ze szczytami późną wiosną i jesienią. W łagodnych klimatach może owocnikować przez cały rok. Najobfitszy w chłodną, wilgotną pogodę. Może pojawiać się po obfitych deszczach o każdej porze.",
+  "regions": ["Ameryka Północna (bardzo pospolity, wszystkie regiony)", "Europa (rozpowszechniony)", "Strefa umiarkowana na całym świecie", "Kosmopolityczny w siedliskach zaburzonych", "Tereny zurbanizowane na całym świecie"],
+  "lookalikes": ["Młode gatunki Amanita (śmiertelnie trujące) – mają pochwę u podstawy, blaszki nie rozpływają się w atrament", "Coprinus sterquilinus (jadalny) – mniejszy, na odchodach, poza tym podobny", "Gatunki Coprinopsis (różne) – żaden z charakterystycznymi kosmatymi łuskami", "KRYTYCZNE: Kosmate białe łuski i czarne rozpływające się blaszki są diagnostyczne"],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Jeden z najwykwintniejszych grzybów dzikich, gdy świeży i młody. Musi być zebrany i spożyty w ciągu godzin od zerwania, ponieważ szybko się samotrawi. Blaszki zamieniają się w czarny atrament w ciągu godzin. Znakomity smak i konsystencja przy prawidłowym przygotowaniu. Gotuj dokładnie. Zbieraj tylko młode białe okazy, zanim blaszki staną się różowe lub czarne. Gdy blaszki zaczynają czernieć, grzyb jest przejrzały. Procesu samotrawienia nie da się zatrzymać. Gotuj natychmiast lub przechowuj w lodowatej wodzie, aby spowolnić rozpływanie. Brak interakcji z alkoholem jak u czernidłówki pospolitej. Kosmaty biały wygląd jest nie do pomylenia. Bardzo bezpieczny – brak trujących gatunków podobnych. Najlepszy duszony lub w omletach. Ulubieniec grzybiarzy, ale wymaga szybkiej obróbki.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722755.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-01",
+      "file_size_bytes": 76464,
+      "width": 491,
+      "height": 640,
+      "sha256": "8980c9ad2ade061eb0f4399b7be26bb415263cb5103eb81f8c08e920d6e612ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719565.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 99224,
+      "width": 640,
+      "height": 427,
+      "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "cersqu",
+  "scientific_name": "Cerioporus squamosus",
+  "common_name": "Dryad's Saddle (Cerioporus squamosus)",
+  "edibility": "E",
+  "description": "Repisa grande en forma de abanico de 4-12 pulgadas de ancho con una distintiva superficie de crema a canela cubierta de escamas superpuestas de color marrón oscuro que parecen plumas de faisán. Poros grandes angulares de blancos a crema por debajo. Pie grueso, descentrado, de negro-marrón (cuando crece en superficies verticales). Fuerte olor a pepino o cáscara de sandía. Blando cuando es joven, duro con la edad. Patrón de escamas muy distintivo.",
+  "habitat": "Saprófito en árboles de frondosas muertos y moribundos, tocones y troncos, particularmente olmo, arce, fresno, sauce y arce negundo. Causa pudrición blanca. Forma repisas grandes en troncos, ramas y troncos caídos. Común en olmos muertos en pie y otras frondosas en entornos urbanos y forestales.",
+  "season": "Primavera hasta verano, típicamente de abril a julio. Fructificación pico en mayo-junio. Uno de los políporos grandes más tempranos. Ventana de fructificación corta: aparece rápidamente en primavera. Puede fructificar de nuevo en otoño.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste",
+    "Pacífico Noroeste",
+    "región de los Grandes Lagos",
+    "ampliamente distribuido por Norteamérica",
+    "Europa y Asia"
+  ],
+  "lookalikes": [
+    "Especies de Polyporus (más pequeños, diferente patrón de escamas)",
+    "Otros políporos escamosos (diferente tamaño, árboles huésped)",
+    "Especies de Inonotus (diferente color, sin escamas)",
+    "Sin especies similares peligrosas - muy distintivo"
+  ],
+  "safety_notes": "COMESTIBLE solo muy joven: Solo los ejemplares jóvenes tiernos (de menos de 4 pulgadas) con textura blanda merecen la pena para comer; tienen sabor a pepino. Los ejemplares más viejos se vuelven rápidamente duros y no comestibles como goma o cuero. Hay que cosechar en estado de botón para comer. Cocina bien. El fuerte olor a pepino es distintivo. Generalmente seguro, pero la ventana de comestibilidad es muy breve. La mayoría de los ejemplares encontrados son demasiado viejos y duros para comer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750888.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 117050,
+      "width": 640,
+      "height": 480,
+      "sha256": "6784806d7184bcd1bf84aadc36d73634e1df251be0a75d436880aaf5f1516bcf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750889.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 143762,
+      "width": 480,
+      "height": 640,
+      "sha256": "d2f449e8570e864f434ce05a81072a3d2f52db49f2d507865e13ff76c0495dff"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

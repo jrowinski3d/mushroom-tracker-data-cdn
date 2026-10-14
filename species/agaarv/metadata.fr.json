@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaarv",
+  "scientific_name": "Agaricus arvensis",
+  "common_name": "Agaric des jachères",
+  "edibility": "E",
+  "description": "L'agaric des jachères est une espèce robuste au chapeau de 8 à 20 cm de diamètre, d'abord arrondi puis largement convexe à plat. Le chapeau est blanc à crème, lisse ou orné de fines squames aplaties, jaunissant souvent légèrement au toucher. Les lames sont libres, d'abord rose pâle puis brun chocolat avec l'âge. Le pied mesure 6 à 15 cm de hauteur, trapu, blanc, lisse, orné d'un grand anneau pendant à double membrane dont la face inférieure présente un motif de roue dentée (caractéristique diagnostique). La chair est blanche et dégage une odeur agréable et distincte d'anis ou d'amande (caractéristique diagnostique).",
+  "habitat": "Pousse dans les zones herbeuses ouvertes, notamment les pâturages, les prés, les pelouses, les champs agricoles et les lisières herbeuses des bois. Préfère les sols riches en nutriments, souvent dans les zones pâturées par le bétail ou enrichies en fumier. Pousse au sol, en groupes, en ronds ou en troupes. Fréquente dans les sols riches en azote.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans les régions tempérées. Dans les climats doux, peut fructifier au printemps (avril-mai). La fructification maximale a lieu au début et au milieu de l'automne après des pluies chaudes. Peut être abondante certaines années, absente d'autres.",
+  "regions": [
+    "Europe (indigène, répandue)",
+    "Amérique du Nord orientale (commune)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie (occasionnelle)",
+    "Grandes Plaines",
+    "Prairies tempérées du monde entier"
+  ],
+  "lookalikes": [
+    "Agaricus xanthodermus (toxique) — jaunit fortement au toucher, odeur phénolique désagréable",
+    "Agaricus campestris (comestible) — plus petit, sans odeur d'anis, anneau fragile et fugace",
+    "Agaricus silvicola (comestible) — espèce des bois, très semblable par ailleurs avec son odeur d'anis",
+    "Amanites tue-mouches (mortelles) — blanches mais avec une volve à la base, pas de lames brunes"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : très prisée pour sa chair ferme et sa saveur agréable d'amande-anis. Bien cuire. Identification critique : vérifier l'odeur d'ANIS ou d'AMANDE (et non phénolique/chimique), des lames LIBRES qui virent au rose puis au brun chocolat, le motif de roue dentée de l'anneau, une sporée BRUN CHOCOLAT, et AUCUNE volve à la base. Éviter les spécimens qui jaunissent fortement à la coupe (signe d'A. xanthodermus toxique). L'agréable odeur d'anis est la caractéristique distinctive clé. Certaines personnes trouvent la saveur trop prononcée. Éliminer le pied, souvent fibreux.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713410.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 57694,
+      "width": 480,
+      "height": 640,
+      "sha256": "f2eda6a0aeaa603b8c41e35977d212f1f7010cfc9778cfd5390a93980e5c05fb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1629600.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-21",
+      "file_size_bytes": 111536,
+      "width": 640,
+      "height": 480,
+      "sha256": "0568abd08e8ed2565aa98202b0c6907b0bd4cb8761e6d47963b4d2fb4e554c17"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

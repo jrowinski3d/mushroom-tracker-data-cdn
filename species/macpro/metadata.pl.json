@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "macpro",
+  "scientific_name": "Macrolepiota procera",
+  "common_name": "czubajka kania",
+  "edibility": "E",
+  "description": "Czubajka kania to duży, okazały gatunek o charakterystycznym parasolowatym kapeluszu osiągającym średnicę 10–30 cm, pokrytym odstającymi brązowymi łuskami na kremowym tle, tworzącymi wężowy wzór. Kapelusz osadzony jest na wysokim, smukłym trzonie (15–35 cm) z grubym, dwukrawędziowym, ruchomym pierścieniem i brązowymi, wężowymi, łuskowatymi wzorami poniżej pierścienia. Blaszki są wolne (nieprzyrosłe do trzonu), białe, z wiekiem kremowe, gęste. Biały miąższ ma łagodny orzechowy smak i nie przebarwia się ani nie zmienia barwy po przecięciu.",
+  "habitat": "Występuje na obszarach trawiastych, w tym na pastwiskach, łąkach, skrajach łąk, polanach leśnych, w parkach i przy drogach. Rośnie naziemnie (nie na drewnie) w żyznej glebie, często w miejscach naruszonych. Zwykle owocuje rozproszona lub w małych grupach, czasem w czarcich kołach. Preferuje miejsca o umiarkowanym nasłonecznieniu i dobrze przepuszczalnej glebie.",
+  "season": "Lato do jesieni (lipiec–listopad w Ameryce Północnej, maj–listopad w cieplejszym klimacie). Szczyt owocowania przypada na późne lato do wczesnej jesieni, szczególnie po ciepłych deszczach. W klimacie śródziemnomorskim może owocować wiosną i jesienią.",
+  "regions": [
+    "Europa (rodzima, rozpowszechniona)",
+    "Wschodnia Ameryka Północna (zadomowiona)",
+    "Północno-Zachodni Pacyfik (rzadka)",
+    "Kalifornia (sporadycznie)",
+    "regiony śródziemnomorskie",
+    "użytki zielone strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (trujący) – zielonkawy wysyp zarodników, czerwienieje po przecięciu, krępsza budowa",
+    "Chlorophyllum molybdites (trujący) – zielone zarodniki, zielenieje po uszkodzeniu, Ameryka Północna",
+    "gatunki Lepiota (niektóre śmiertelnie trujące) – znacznie mniejsze (kapelusz poniżej 10 cm), kruchy pierścień",
+    "gatunki Amanita (śmiertelnie trujące) – pochwa u podstawy, blaszki przyrosłe lub wolne, ale z pochwą"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: jeden z najlepszych grzybów jadalnych o jędrnym miąższu i orzechowym smaku. Preferowany jest kapelusz (trzon jest włóknisty). Gotuj dokładnie – nie jedz na surowo. Kluczowe rozpoznanie: zweryfikuj WOLNE białe blaszki (nieprzyrosłe do trzonu), RUCHOMY gruby dwukrawędziowy pierścień, wężowo łuskowaty trzon, BIAŁY wysyp zarodników, BRAK pochwy u podstawy. Twardy, włóknisty trzon odrzuć. Niektóre osoby zgłaszają łagodne dolegliwości trawienne – najpierw spróbuj małych porcji. Czubajkę kanię trzeba wyraźnie odróżnić od trujących gatunków Chlorophyllum, które mają zielonkawe zarodniki.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707981.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 126726,
+      "width": 640,
+      "height": 482,
+      "sha256": "48092b17e14085dc876a1c9286a5ce96d9c77732fe4e537500c55825c70e16de"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590126.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-03",
+      "file_size_bytes": 126206,
+      "width": 640,
+      "height": 482,
+      "sha256": "ed4a5b15c67cad23f36c2d4f1e96ee10272c33b21580d35007412ea2982a36dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "psegel",
+  "scientific_name": "Pseudohydnum gelatinosum",
+  "common_name": "Gelétaggsvamp",
+  "edibility": "E",
+  "description": "Gelétaggsvamp är en unik svamp som kombinerar egenskaper hos taggsvampar och gelésvampar. Hatten är 2–8 cm över, spatel- eller solformad, genomskinlig gråvit till blekt brun med geléaktig konsistens. Hattens ovansida är slät och geléaktig. Undersidan bär mjuka vita taggar (0,5–3 mm långa) i stället för skivor eller porer. Foten är sidoställd (excentrisk) eller saknas, 1–4 cm när den finns. Konsistensen är gummiaktigt geléaktig, fast men genomskinlig, och återupplivas vid fuktning efter torkning.",
+  "habitat": "Finns på väl murken barrved, stockar och stubbar, särskilt hemlock, gran, ädelgran och tall. Växer på mycket förmultnad ved i långt framskridna nedbrytningsstadier. Vanlig i barrskogar i bergen. Bildar fruktkroppar spritt till gruppvis, ofta i överlappande grupper på stockar. Föredrar svala, fuktiga skogar med rikligt med vedrester.",
+  "season": "Sensommar till höst (augusti–november) i bergsregioner. I nordvästra USA och kustområden kan den bilda fruktkroppar in i vintern (december–januari). Toppen infaller på hösten under svalt, fuktigt väder. Kräver jämn fukt och svala temperaturer.",
+  "regions": [
+    "Nordvästra USA (mycket vanlig)",
+    "Norra Kaliforniens berg",
+    "Klippiga bergen",
+    "Nordöstra Nordamerika",
+    "Europa (utbrett)",
+    "Norra tempererade barrskogar världen över"
+  ],
+  "lookalikes": [
+    "Phlebia tremellosa (oätlig) – geléaktig men saknar taggar, har rynkor/veck",
+    "Hericium-arter (ätlig) – vita taggar men fast kött, inte geléaktiga",
+    "Tremella-arter (ätlig) – hjärnlik, inga taggar",
+    "Inga giftiga förväxlingssvampar"
+  ],
+  "safety_notes": "ÄTLIG men inte utsökt: Anses ätlig och säker att äta men har liten smak och ovanlig konsistens. Den geléaktiga men taggbärande strukturen gör den mer till en kuriositet än till mat. Kan tillagas i soppor eller stekas. Inga giftiga förväxlingssvampar finns. Kombinationen av genomskinlig geléaktig hatt och vita taggar är helt distinkt – ingen annan svamp har denna kombination. Säker att prova, men de flesta svampplockare går förbi. Mer intressant ur ett mykologiskt perspektiv än kulinariskt. Den geléaktiga konsistensen och taggarna är omisskännliga.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707931.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 91868,
+      "width": 640,
+      "height": 482,
+      "sha256": "72de83a7606453350317a3d488438eccdafd5baf9faeb58d71c3f4935958b6c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1701347.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 86236,
+      "width": 640,
+      "height": 640,
+      "sha256": "3e50e22dcbd0ebbd8f8a4e4295c0ddd6857f8b0efff85aec3b0eb890769555cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

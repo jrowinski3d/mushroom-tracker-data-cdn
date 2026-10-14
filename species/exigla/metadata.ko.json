@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "exigla",
+  "scientific_name": "Exidia glandulosa",
+  "common_name": "Black Witch's Butter (Exidia glandulosa)",
+  "edibility": "E",
+  "description": "검은 젤리 롤은 지름 0.5~3cm의 검은 단추 또는 원반 모양의 젤라틴질 덩어리를 형성하며, 종종 빽빽하게 군생한다. 개별 단추는 처음에는 팽이 모양이다가 성숙하면서 납작한 원반 또는 뇌 모양이 된다. 표면은 매끄럽거나 주름져 있으며, 신선하고 축축할 때는 칠흑색에서 암갈흑색을 띠고, 마르면 단단하고 광택이 난다. 질감은 단단한 젤라틴질로 고무 같다. 자실체는 반투명한 샘 모양의 점(확대경으로 확인 가능)으로 덮여 있다. 물을 흡수하면 되살아나 부풀어 오른다.",
+  "habitat": "활엽수의 죽은 가지와 원목, 특히 참나무, 너도밤나무, 개암나무 및 기타 낙엽수에서 발견된다. 산림 바닥의 쓰러진 가지와 고사목에 흔하다. 가지를 따라 빽빽한 군집을 이루며 자란다. 활엽수림, 임연, 공원에 풍부하다. 적합한 기질에서 다량으로 발생한다.",
+  "season": "연중 발생하지만 가을부터 봄(9월~5월)에 가장 풍부하다. 온대 지역에서는 늦가을과 겨울(11월~3월)에 절정을 이룬다. 습한 조건에서는 여름에도 발생할 수 있다. 다른 버섯이 거의 없는 겨울에 매우 흔하다.",
+  "regions": [
+    "유럽 (매우 흔함)",
+    "북미 동부 (널리 분포)",
+    "태평양 북서부 (흔함)",
+    "캘리포니아",
+    "전 세계 온대 활엽수림"
+  ],
+  "lookalikes": [
+    "Bulgaria inquinans (식용 불가) - 더 크고(2~4cm), 반구형이며, 고무 같지만 샘 모양 점이 없음",
+    "Exidia nigricans (식용 가능) - 매우 유사하며, 구분에는 현미경 관찰이 필요함",
+    "Exidia recisa (식용 가능) - 비슷한 단추 모양이지만 더 작음",
+    "유독 유사종 없음"
+  ],
+  "safety_notes": "식용 가능하나 맛은 밋밋함: 식용 가능하고 안전하지만 사실상 맛이 없다. 젤라틴질 질감이 유일한 특징이다. 일부 유럽 국가에서는 먹지만 흔히 채취하지는 않는다. 날것으로 맛보아도 안전하지만 보통 조리해서 먹는다. 영양학적·요리적 가치는 없다. 식재료보다는 겨울철의 호기심거리로 더 흥미롭다. 활엽수 가지에 군생하는 검은 단추 모양의 외형이 독특하다. 위험한 유사종이 없으며, 유사한 검은 젤리형 버섯은 모두 무해하다. 다른 버섯이 거의 없는 겨울에 종종 풍부하게 발생한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.206842",
+  "source_language": "en"
+}

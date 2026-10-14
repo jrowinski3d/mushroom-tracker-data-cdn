@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypchr",
+  "scientific_name": "Hypomyces chrysospermus",
+  "common_name": "Bolete Eater (Hypomyces chrysospermus)",
+  "edibility": "U",
+  "description": "Podgrzybnica złocista to pasożytniczy grzyb tworzący jaskrawe złotożółte do pomarańczowo-żółtych mączyste lub aksamitne naloty na borowikach. Pasożyt pokrywa pory i powierzchnię kapelusza żywiciela jaskrawym żółtozłotym pyłem (zarodnikami). Wczesne stadium infekcji objawia się żółtymi plamami rozprzestrzeniającymi się na cały grzyb. Kształt grzyba-żywiciela jest rozpoznawalny, lecz zniekształcony. Żółty nalot jest początkowo aksamitny, potem staje się mączysty. Pory żywiciela zostają całkowicie przysłonięte żółtym pyłem. Nie jest to mięsisty owocnik jak u H. lactifluorum, lecz powierzchniowy nalot.",
+  "habitat": "Występuje w lasach, gdzie rosną borowiki, pasożytując na różnych gatunkach borowików, szczególnie z rodzajów Leccinum, Boletus i Suillus. Grzyb kolonizuje istniejące owocniki borowików. Pojawia się na świeżych borowikach w różnych stadiach wzrostu. Rozmieszczenie odpowiada rozmieszczeniu żywicieli w lasach iglastych i mieszanych.",
+  "season": "Lato do jesieni (czerwiec–listopad), gdy owocnikują borowiki-żywiciele. Najpospolitsza w środku do późnego lata (lipiec–wrzesień). Czas występowania zależy od dostępności żywicieli. Może pojawiać się na borowikach w każdym stadium rozwoju.",
+  "regions": [
+    "Europa (rozpowszechniona)",
+    "Wschodnia Ameryka Północna (rzadki)",
+    "Północno-Zachodni Pacyfik (sporadyczny)",
+    "Wszędzie tam, gdzie występują odpowiednie żywiciele borowikowate",
+    "Lasy umiarkowane z borowikami"
+  ],
+  "lookalikes": [
+    "Borowiki z żółtą powierzchnią porów – lecz naturalne pory, nie mączysty nalot",
+    "Russula/Lactarius z H. chrysospermus – inny pasożyt na innych żywicielach",
+    "Żółte pleśnie na grzybach – lecz mniej jednolicie ubarwione, inna tekstura",
+    "Niezaatakowane żółte borowiki – pory są naturalne, nie mączyste"
+  ],
+  "safety_notes": "NIEZALECANY: choć nie jest znany jako trujący, grzyb ten nie ma wartości kulinarnej, a borowik-żywiciel może znajdować się w różnych stadiach rozkładu. Zaatakowane borowiki są zazwyczaj zdegradowane i nieapetyczne. Niektóre źródła sugerują możliwą jadalność, lecz nie ma tradycji spożywania i nie ma powodu, by go jeść. Jaskrawy żółty pył jest widoczny, lecz borowik pod spodem może być gatunkiem trującym. Unikać spożywania. Ciekawszy z perspektywy mykologicznej. Złotożółty mączysty nalot na borowikach jest diagnostyczny, lecz bezużyteczny jako pożywienie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1734294.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 39908,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d2a43beb0f25fae1f93fa65a65aeac3aaa96ef17a4b27b67204441e40222ad7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1734295.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 62044,
+      "width": 640,
+      "height": 480,
+      "sha256": "541354ee51ac12cb5435c558ce390e1bed346b89eb64409571f7e2e42d3ac1e9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

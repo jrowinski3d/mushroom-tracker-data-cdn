@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancin",
+  "scientific_name": "Cantharellus cinnabarinus",
+  "common_name": "Cinnabar Chanterelle (Cantharellus cinnabarinus)",
+  "edibility": "E",
+  "description": "Cinnaberkantarellen (röd kantarell) är en liten, distinkt svamp med en klar cinnaberröd till rosa-röd hatt 1–4 cm bred. Hatten är slät till lätt sammetslik, blir grunt trattlik med åldern, med vågig kant. Undersidan har trubbiga, grunda, gafflade ribbor (INTE äkta skivor) som är rosa-röda till laxfärgade, ofta blekare än hatten, och löper nedför foten. Foten är solid, smal, 2–5 cm hög, samma färg som hatten eller något blekare. Köttet är rosa-vitt, tunt men fast, med mild doft. Sporfällningen är vit till blekrosa.",
+  "habitat": "Mykorrhiza med östliga lövträd, särskilt ek (Quercus-arter), amerikansk bok och hickory. Förekommer i mogna löv- och blandskogar, ofta i samma miljöer som andra östliga kantareller. Föredrar väldränerade sluttningar med näringsrikt, surt lövförna.",
+  "season": "Sommar (juni–september), fruktar under varma, fuktiga perioder efter sommarregn. Högsäsong är vanligen juli–augusti. Fruktar ofta tillsammans med C. lateritius och C. appalachiensis i östliga skogar.",
+  "regions": [
+    "Östra USA",
+    "Sydöstra staterna (särskilt Carolinas, Tennessee)",
+    "Appalachregionen",
+    "Mellanatlantiska staterna",
+    "Ohioflodens dal"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius – Ätlig, större, mer orange-rosa än röd, liknande miljö och säsong",
+    "Jack-O'-Lantern (Omphalotus illudens) – GIFTIG, har äkta vassa skivor, växer på trä, mer orange än röd",
+    "Hygrocybe-arter (vaxskivlingar) – Varierande ätlighet, har äkta skivor, skörare konsistens, mindre"
+  ],
+  "safety_notes": "ÄTLIG: Cinnaberkantarellen är en ätlig svamp som utmärker sig genom sin lilla storlek och distinkta klarröda färg. Som hos alla kantareller är det avgörande identifieringskännetecknet de trubbiga, gafflade ribborna snarare än äkta skivor. Dessa ribbor är grunda men distinkt vaxartade och sammanvuxna med hatten. Den klar cinnaberröda färgen och lilla storleken gör den relativt lätt att identifiera bland kantareller. På grund av sin lilla storlek plockas den ofta tillsammans med andra kantarellarter. Smaken är mild; bäst använd färsk eller i blandning med andra svampar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700417.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 27518,
+      "width": 640,
+      "height": 427,
+      "sha256": "a998a577154e7fbb29aa9e7ff8a03d85904bd6a1dafecadc5a106e7060fa4d47"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700418.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 47598,
+      "width": 640,
+      "height": 427,
+      "sha256": "5cbe77df51c2eb2f433f2f537ca28b74a956cf29511aa7a93ef36483ee482530"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

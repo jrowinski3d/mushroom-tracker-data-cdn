@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleost",
+  "scientific_name": "Pleurotus ostreatus",
+  "common_name": "Ostronmussling",
+  "edibility": "E",
+  "description": "Solfjäder- till ostronformade hattar på 5–25 cm, vanligtvis gråbruna till beige när de är unga och bleknar till vita. Slät, fuktig yta med nedlöpande vita skivor som löper ner längs den korta sidoställda eller saknade foten. Växer i täta överlappande hyllor från döda eller döende lövträdsstockar och stubbar. Vit sporfällning.",
+  "habitat": "Saprofytisk på döda och döende lövträd, stockar och stubbar, särskilt bok, ek, lönn och asp. Bildar täta klungade hyllor som växer från ved. Ibland parasitisk på stressade levande träd. Vanlig på fallna stockar i blandade lövskogar.",
+  "season": "Höst till vår i de flesta regioner, med högsäsong i oktober–november. Kan frukta året runt i milda kustklimat med tillräcklig fukt. Dyker ofta upp efter kraftiga regn och svala temperaturer.",
+  "regions": [
+    "Östra Nordamerika",
+    "Stillahavsnordväst",
+    "Området kring Stora sjöarna",
+    "Appalacherna",
+    "Tempererade regioner världen över"
+  ],
+  "lookalikes": [
+    "Pleurotus pulmonarius (nästan identisk, blekare, sommarfruktande)",
+    "Öronmussling (Pleurocybella porrigens) – giftig, mindre, rent vit, på barrträd",
+    "Crepidotus-arter – bruna sporer, mindre, annan konsistens",
+    "Almskivling (Hypsizygus ulmarius) – central fot, mindre uttalad ostronform"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av de mest populära odlade svamparna i världen med utmärkt smak och konsistens. Vilda exemplar är säkra och läckra när de är korrekt identifierade. Tillaga ordentligt före förtäring eftersom råa ostronmusslingar kan orsaka magbesvär hos vissa personer. Undvik äldre exemplar som kan vara sega eller insektsangripna. Odlas vida kommersiellt, vilket gör den bekant för de flesta.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1670345.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-20",
+      "file_size_bytes": 67850,
+      "width": 640,
+      "height": 482,
+      "sha256": "4251e7d8ec1831c63cd96dc3e16d0730735f7b0eff7fb476e4b838cf3d599a1e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1733337.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-31",
+      "file_size_bytes": 86858,
+      "width": 640,
+      "height": 507,
+      "sha256": "440d644be0f31fba34ae26f88cf441151573f5b18ee03aeabbf3ef42375bfc37"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.261591",
+  "source_language": "en"
+}

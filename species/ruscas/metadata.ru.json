@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscas",
+  "scientific_name": "Russula cascadensis",
+  "common_name": "Сыроежка каскадная",
+  "edibility": "E",
+  "description": "Сыроежка каскадная имеет белую шляпку (5–15 см), с возрастом желтеющую. Пластинки белые, густые. Ножка белая, толстая. КЛЮЧЕВЫЕ ПРИЗНАКИ: ХРУПКАЯ МЯКОТЬ, НЕТ МЛЕЧНОГО СОКА, крупный белый гриб, Тихоокеанский Северо-Запад. Мякоть белая. Споровый отпечаток белый. Вкус мягкий.",
+  "habitat": "Микоризна с ХВОЙНЫМИ на Тихоокеанском Северо-Западе, особенно с псевдотсугой, болиголовом, настоящими пихтами. Растёт на земле в хвойных лесах. Региональный эндемик. Рассеянно или группами.",
+  "season": "Осень (сентябрь–ноябрь), плодоносит после осенних дождей.",
+  "regions": [
+    "Тихоокеанский Северо-Запад",
+    "Британская Колумбия",
+    "Северная Калифорния"
+  ],
+  "lookalikes": [
+    "Russula brevipes — очень похожа",
+    "Другие белые сыроежки",
+    "Млечники (Lactarius) — выделяют МЛЕЧНЫЙ СОК"
+  ],
+  "safety_notes": "СЪЕДОБНЫЙ: мягкий вкус. БЕЛАЯ ШЛЯПКА + ХРУПКАЯ МЯКОТЬ + НЕТ МЛЕЧНОГО СОКА + ХВОЙНЫЕ ТИХООКЕАНСКОГО СЕВЕРО-ЗАПАДА — диагностические признаки. Вкусовой тест подтверждает. Тщательно готовить.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1515362.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 96106,
+      "width": 640,
+      "height": 480,
+      "sha256": "80a360b89bb292bf9e445025b2536932d8451eae663609d677c69e8fe42cf3c5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1515363.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 120372,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1665ef87b0306cd7f9dc949b407a33a50feffb6cf95dfcd8508cd4ea3aa9131"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

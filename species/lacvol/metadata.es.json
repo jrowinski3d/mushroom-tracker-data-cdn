@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacvol",
+  "scientific_name": "Lactifluus volemus",
+  "common_name": "Bradley (Lactifluus volemus)",
+  "edibility": "E",
+  "description": "El bradley presenta un sombrero de color pardo-anaranjado a pardo-rojizo (5-12 cm), seco, aterciopelado. Láminas crema, juntas, que se tiñen de pardo. Pie similar al sombrero. CLAVE: ABUNDANTE LÁTEX BLANCO, OLOR A PESCADO cuando envejece. El látex no cambia de color. Carne firme, blanca. Esporada blanca. El abundante látex y el olor a pescado son diagnósticos.",
+  "habitat": "Micorrícico con FRONDOSAS, especialmente robles. Crece en el suelo en bosques mixtos y de frondosas. Común en los bosques del este. Disperso o en grupos.",
+  "season": "Del verano al otoño (julio-octubre), fructificando durante toda la temporada.",
+  "regions": [
+    "este de Estados Unidos",
+    "Medio Oeste",
+    "Sureste",
+    "centro-sur"
+  ],
+  "lookalikes": [
+    "Lactifluus corrugis: similar pero más grande, sombrero corrugado",
+    "Otros Lactifluus: compruebe el olor y la abundancia del látex"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: excelente sabor a nuez a pesar del olor a pescado (desaparece al cocinarlo). El ABUNDANTE LÁTEX BLANCO + OLOR A PESCADO es diagnóstico. Uno de los mejores Lactarius para comer. Mejor joven. Cocine bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713865.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 58696,
+      "width": 640,
+      "height": 482,
+      "sha256": "9110570d37ed7ac338b3c87edd414ce36612f3b4b12e9342a702d3b8fab14cd9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713866.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 75838,
+      "width": 640,
+      "height": 482,
+      "sha256": "5ee558641d816d1e4d4d17fd656481c977ca91568cbd39ab8da7f573934640ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

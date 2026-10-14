@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laegil",
+  "scientific_name": "Laetiporus gilbertsonii",
+  "common_name": "Pollo del bosque",
+  "edibility": "E",
+  "description": "Hongo de repisa de color anaranjado brillante a rosa salmón con superficie de poros de color amarillo azufre, que forma grandes repisas superpuestas de 5-25 cm de ancho. Muy similar a L. sulphureus, pero típicamente con tonos más rosado-anaranjados. Blando y suculento cuando es joven, se vuelve duro con la edad. Se distingue de las especies del este por su distribución occidental y sus árboles huéspedes, particularmente eucalipto y roble. Hongo de repisa anual.",
+  "habitat": "Parásito y saprófito sobre árboles de frondosas vivos y muertos en el oeste de Norteamérica, particularmente eucalipto, roble y otras frondosas. Forma grandes rosetas en troncos y en la base de los árboles. Común en eucaliptos ornamentales en California. Causa podredumbre parda cúbica del corazón.",
+  "season": "Desde finales de otoño hasta la primavera en California, típicamente de octubre a marzo, coincidiendo con la temporada de lluvias. Puede fructificar todo el año en climas costeros suaves. Máximo en diciembre-febrero. Patrón estacional opuesto al de Laetiporus del este.",
+  "regions": [
+    "costa de California",
+    "zonas costeras del Pacífico",
+    "desiertos del suroeste",
+    "Baja California",
+    "oeste de Norteamérica",
+    "particularmente común en zonas urbanas de California"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (del este, distinta temporada/huéspedes)",
+    "Laetiporus conifericola (sobre coníferas, distinta región)",
+    "Otras especies occidentales de Laetiporus (comestibilidad similar)",
+    "Jack-o'-lantern (Omphalotus olivascens): tóxico, tiene láminas y no poros"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE cuando es joven y sobre huéspedes adecuados: recolecte solo ejemplares jóvenes, tiernos y flexibles. EVITE los ejemplares que crecen sobre eucalipto, ya que comúnmente causan molestias digestivas en muchas personas. Los ejemplares de roble y otras frondosas nativas son más seguros. Empiece con pequeñas cantidades para probar la tolerancia. Cocine bien. Mejor cuando está blando y húmedo. Algunas personas reaccionan mal independientemente del árbol huésped.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709999.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 45092,
+      "width": 640,
+      "height": 407,
+      "sha256": "01b5b2cb2a6a93d860d9de1d6cb30146ba0f77c7601e5288af9fefe4708c8037"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1710000.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 61780,
+      "width": 345,
+      "height": 640,
+      "sha256": "a8e4a312bb3db79fe35cb25936fd52ccc0bf8329cf077e77abb78ad9d880cf65"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "calgig",
+  "scientific_name": "Calvatia gigantea",
+  "common_name": "czasznica olbrzymia",
+  "edibility": "E",
+  "description": "Ogromne, kuliste do podłużnych purchawki o średnicy 20–50+ cm (mogą osiągać 1,5 m), wyglądające jak wielkie białe piłki nożne lub poduszki na polach. Gładka, biała powłoka zewnętrzna, z wiekiem żółtawobrązowa. Wnętrze czysto białe i jędrne, gdy jadalne, z czasem żółtozielone, potem brązowe, w miarę dojrzewania zarodników. Brak trzonu i płonnej podstawy. Nie do pomylenia, gdy w pełni wyrośnięta.",
+  "habitat": "Grzyb saprotroficzny na żyznej glebie otwartych pól, łąk, pastwisk, trawników i skrajów lasów. Preferuje miejsca bogate w składniki odżywcze, w pobliżu rozkładającej się materii organicznej. Pospolity na terenach rolniczych, w parkach i na zaburzonych łąkach. Często pojawia się w tym samym miejscu co roku.",
+  "season": "Późne lato do jesieni, zwykle sierpień–październik. Szczyt owocowania po obfitych późnoletnich deszczach. Najobfitszy we wrześniu. W regionach południowych może pojawiać się wcześniej.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód i Wielkie Równiny",
+    "północno-zachodnie wybrzeże Pacyfiku",
+    "południowa Kanada",
+    "szeroko rozpowszechniony w umiarkowanej Ameryce Północnej"
+  ],
+  "lookalikes": [
+    "Inne gatunki Calvatia (mniejsze, podobna jadalność, gdy wnętrze białe)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory (ZAWSZE PRZEKRÓJ NA PÓŁ – w środku będą widoczne rozwijające się blaszki/kapelusz)",
+    "Gatunki Scleroderma / tęgoskóry (trujące, fioletowoczarne wnętrze, gruba brodawkowata powłoka)",
+    "Inne duże purchawki (generalnie jadalne, gdy wnętrze czysto białe)"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przekrój owocnik całkowicie na pół, od góry do dołu. Jadalny WYŁĄCZNIE, gdy wnętrze jest w całości czysto białe i jędrne, o konsystencji pianki. Jeśli w środku widoczne są jakiekolwiek żółte, brązowe, fioletowe zabarwienia lub rozwijające się struktury, NIE JEDZ. Ta zasada zapobiega spożyciu trujących gatunków podobnych oraz młodych, śmiertelnie trujących muchomorów, które mogą wyglądać jak purchawki. Odrzuć, jeśli widoczny jest choćby ślad blaszek, kapelusza lub trzonu w środku. Dokładnie ugotować – doskonała w panierce, smażona lub duszona.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720504.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-27",
+      "file_size_bytes": 51464,
+      "width": 482,
+      "height": 640,
+      "sha256": "7326e09bc739129146ce717bbbc51d4a584aa419d7be1461ee30bf91db625de6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717552.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 41422,
+      "width": 640,
+      "height": 427,
+      "sha256": "19fa36a1c78915de64224dd0c2fa81fcf906c890be7b9bccd277095dee97c971"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

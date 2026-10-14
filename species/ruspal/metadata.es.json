@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruspal",
+  "scientific_name": "Russula paludosa",
+  "common_name": "Rosy Russula (Russula paludosa)",
+  "edibility": "E",
+  "description": "La rúsula rosada tiene el sombrero de color rojo a rojo rosado (de 5 a 15 cm), a menudo desteñido. Láminas amarillentas. Pie blanco con tonos rosados. CLAVE: SOMBRERO ROJO, LÁMINAS AMARILLAS, CARNE QUEBRADIZA, gran tamaño. Carne blanca. Esporada de color amarillo ocre. Sabor suave.",
+  "habitat": "Micorrícica con coníferas, especialmente pino y pícea. Crece en el suelo en bosques de coníferas, especialmente en turberas del norte y zonas húmedas. De forma dispersa.",
+  "season": "Del verano al otoño (julio-septiembre).",
+  "regions": [
+    "Noreste",
+    "norte del Medio Oeste",
+    "Canadá",
+    "norte de Europa"
+  ],
+  "lookalikes": [
+    "Otras rúsulas rojas — comprobar el color de las láminas",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave. SOMBRERO ROJO + LÁMINAS AMARILLAS + CARNE QUEBRADIZA + SABOR SUAVE: diagnóstico. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650964.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 28720,
+      "width": 640,
+      "height": 427,
+      "sha256": "adcc86b416cac3fab16ef0847319527a39c00df45251ce68bf29142a13aadc7a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1650965.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 32172,
+      "width": 640,
+      "height": 427,
+      "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

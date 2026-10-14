@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecsca",
+  "scientific_name": "Leccinum scabrum",
+  "common_name": "자작나무그물버섯",
+  "edibility": "E",
+  "description": "자작나무그물버섯은 매끄럽거나 약간 주름진 표면의 회갈색~황갈색 갓(4~15cm)을 지니며, 노화되면 갈라지기도 한다. 관공은 어릴 때 흰색이며 칙칙한 회갈색이 되고, 상처 나면 약간 갈색으로 변한다. 백색 대는 흑~진갈색의 거친 인편(까슬까슬한 비늘)으로 덮여 있다. 흰색 살은 자르면 색이 변하지 않거나 약간 분홍빛을 띨 수 있다. 포자문은 올리브갈색이다.",
+  "habitat": "북부 혼효림의 자작나무(Betula 종)와만 균근성. 자작나무와 절대적 공생 관계를 이룬다. 자작나무 숲, 자작나무-침엽수 혼효림, 자작나무가 있는 강가 지역에서 발견된다.",
+  "season": "여름부터 가을(6~10월)까지, 7~9월에 결실 최성기. 북부 자작나무림의 늦여름에 흔하다.",
+  "regions": [
+    "미국 북부",
+    "알래스카",
+    "캐나다",
+    "오대호 지역",
+    "북동부 산림",
+    "태평양 북서부 자작나무림",
+    "로키산맥 자작나무 지대"
+  ],
+  "lookalikes": [
+    "기타 Leccinum 종 — 갓 색과 기주목 다름",
+    "Boletus 종 — 특징적인 거친 대 없음",
+    "Leccinum holopus — 색 더 창백, 자작나무와 함께",
+    "Tylopilus 종 — 인편 있는 것도 있으나 관공 색 다름"
+  ],
+  "safety_notes": "식용: 자작나무그물버섯은 순한 맛의 좋은 식용종이나, 성숙하면 질감이 다소 무르다. 충분히 익혀 먹어야 한다 — 절대 생으로 먹지 말라. 어리고 단단할 때 가장 좋다. 절대적인 자작나무 연관과 거친 대가 동정 포인트. 일부 사람은 경미한 소화불량을 겪을 수 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1080620.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 61574,
+      "width": 464,
+      "height": 640,
+      "sha256": "c5c8cc696ee70f1749403a77f42681e5089f69dfe0b9f19ae5af2fe36c5a5ae4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1080621.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 36138,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e7a4bebc027d8c8e72afac8c632f8b542311af4fbc5451a4f10f10ab6d20559"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

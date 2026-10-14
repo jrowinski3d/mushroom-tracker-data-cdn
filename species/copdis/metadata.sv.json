@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copdis",
+  "scientific_name": "Coprinellus disseminatus",
+  "common_name": "Stubbläcksvamp",
+  "edibility": "E",
+  "description": "Stubbläcksvamp är en liten delikat svamp som bildar enorma knippen. Enskilda hattar är 0,5–1,5 cm breda, ovala till klockformade, blekt gräddvita till gråbeige med radiella fåror. Ytan är slät, inte fjällig. Skivorna är vidfästa, vita till blekt grå, delikvescerar INTE kraftigt till bläck (nyckelskillnad mot andra bläcksvampar – skivorna smulas sönder snarare än blir flytande). Foten är 2–4 cm hög, extremt tunn (trådsmal), vit, skör. Fruktsätter i enormt täta knippen med hundratals till tusentals.",
+  "habitat": "Finns på död ved som stubbar, stockar och begravd ved. Även på flis och täckbark. Växer som vednedbrytare i spektakulärt täta knippen. Mycket vanlig i skogar, parker och grönområden. De massiva trupperna hittas ofta på gamla lövträdsstubbar.",
+  "season": "Vår till höst (april–november) i tempererade regioner. I milda klimat kan den fruktsätta året runt. Kan fruktsätta kontinuerligt under lämpliga förhållanden. Mycket ihållande genom hela säsongen.",
+  "regions": [
+    "Nordamerika (mycket vanlig, utbredd)",
+    "Europa (mycket vanlig)",
+    "Världen över i tempererade regioner",
+    "Skogar och stadsområden",
+    "Kosmopolitisk på ved"
+  ],
+  "lookalikes": [
+    "Coprinellus micaceus (ätlig) – större, beigebrun, glimmerpartiklar som ung",
+    "Psathyrella gracilis – liknande små svampar men annan sporfärg",
+    "Andra små svampar – men ingen i sådana massiva trupper",
+    "De enorma knippena med hundratals små svampar är distinkta"
+  ],
+  "safety_notes": "ÄTLIG men opraktisk: Tekniskt sett ätlig och ogiftig men alldeles för liten för att vara värd att samla. Enskilda svampar är små. Skivorna delikvescerar inte lika kraftigt som hos andra bläcksvampar men försämras ändå snabbt. Ingen smak av betydelse. Säker men meningslös att skörda. Inga giftiga förväxlingssvampar. Mer intressant som spektakulärt naturfenomen – de massiva knippena med hundratals små svampar på stubbar är vackra och imponerande. Ser ofta ut som en grå luddig beläggning på stockar. Bättre att fotografera än att äta. Det stora antalet kompenserar för den lilla storleken i naturen men inte i köket.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751486.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 101340,
+      "width": 640,
+      "height": 480,
+      "sha256": "02efec69dfe340a43bc987ebbbda209c0a303c68f689250f54ea245e4d0f87e4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751487.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 122436,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcd77199817a9948da67d3201eb1a9c44cfda21deaee4bfa97050fb45e6b3aa0"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

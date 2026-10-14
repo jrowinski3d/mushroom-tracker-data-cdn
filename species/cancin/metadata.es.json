@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancin",
+  "scientific_name": "Cantharellus cinnabarinus",
+  "common_name": "Cinnabar Chanterelle (Cantharellus cinnabarinus)",
+  "edibility": "E",
+  "description": "El rebozuelo cinabrio (rebozuelo rojo) es una seta pequeña y distintiva con un sombrero de rojo cinabrio brillante a rojo rosado de 1 a 4 cm de ancho. El sombrero es liso a ligeramente aterciopelado, se vuelve embudado poco profundo con la edad, con márgenes ondulados. El envés presenta pliegues romos, poco profundos y bifurcados (NO son láminas verdaderas), de rojo rosado a rosa salmón, a menudo más pálidos que el sombrero, que descienden por el pie. El pie es macizo, delgado, de 2 a 5 cm de alto, del mismo color que el sombrero o ligeramente más pálido. La carne es rosada-blanca, delgada pero firme, con un olor suave. La esporada es de blanca a rosa pálido.",
+  "habitat": "Micorrícico con frondosas orientales, particularmente roble (especies de Quercus), haya americana y nogal americano. Se encuentra en bosques maduros caducifolios y mixtos, a menudo en los mismos hábitats que otros rebozuelos orientales. Prefiere laderas bien drenadas con rica hojarasca ácida.",
+  "season": "Verano (junio-septiembre), fructificando durante períodos cálidos y húmedos tras las lluvias de verano. La temporada máxima suele ser julio-agosto. A menudo fructifica junto a C. lateritius y C. appalachiensis en los bosques orientales.",
+  "regions": [
+    "este de los Estados Unidos",
+    "estados del sureste (especialmente las Carolinas, Tennessee)",
+    "región de los Apalaches",
+    "estados del Atlántico medio",
+    "valle del río Ohio"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius: comestible, más grande, más naranja-rosado que rojo, hábitat y temporada similares",
+    "Jack-O'-Lantern (Omphalotus illudens): TÓXICO, tiene láminas verdaderas de borde afilado, crece sobre madera, más naranja que rojo",
+    "Especies de Hygrocybe (setas de cera): comestibilidad variable, tienen láminas verdaderas, textura más frágil, más pequeñas"
+  ],
+  "safety_notes": "COMESTIBLE: el rebozuelo cinabrio es una seta comestible notable por su pequeño tamaño y su distintivo color rojo brillante. Como todos los rebozuelos, el rasgo clave de identificación son los pliegues romos y bifurcados en lugar de láminas verdaderas. Estos pliegues son poco profundos pero distintivamente cerosos y fusionados con el sombrero. El color rojo cinabrio brillante y el pequeño tamaño lo hacen relativamente fácil de identificar entre los rebozuelos. Debido a su pequeño tamaño, a menudo se recolecta junto con otras especies de rebozuelo. El sabor es suave; mejor usado fresco o combinado con otras setas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700417.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 27518,
+      "width": 640,
+      "height": 427,
+      "sha256": "a998a577154e7fbb29aa9e7ff8a03d85904bd6a1dafecadc5a106e7060fa4d47"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700418.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 47598,
+      "width": 640,
+      "height": 427,
+      "sha256": "5cbe77df51c2eb2f433f2f537ca28b74a956cf29511aa7a93ef36483ee482530"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

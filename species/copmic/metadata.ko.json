@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copmic",
+  "scientific_name": "Coprinellus micaceus",
+  "common_name": "운모먹물버섯",
+  "edibility": "E",
+  "description": "운모버섯 또는 반짝잉크버섯은 높이 2–6cm, 갓 너비 1–4cm의 작고 섬세한 버섯이다. 갓은 타원형에서 종 모양이며, 황갈색에서 황갈색 또는 적갈색이고, 어릴 때 표면에 독특한 반짝이는 운모 같은 입자가 있다(진단적 특징 — 비가 오면 씻겨 나간다). 갓에는 가장자리에서 중앙까지 방사상 홈이 있다. 주름살은 부착형, 흰색에서 회색이 되었다가 검어지며 자가용해된다. 대는 높이 3–7cm, 매끄럽고 흰색이며 여리고 속이 비어 있다. 빽빽한 무리를 이루어 발생한다.",
+  "habitat": "고사 활엽수 그루터기, 통나무, 묻힌 목재 위와 주변에서 발견된다. 삼림, 공원, 마당의 부후 목재에서 매우 흔하다. 빽빽한 무리나 무리를 이루는 목재 분해자로 자란다. 오래된 그루터기와 나무 밑동에서 특히 풍부하다. 습하고 그늘진 곳을 선호한다.",
+  "season": "봄에서 가을(4–11월)이며, 온화한 기후에서는 겨울에도 일부 발생한다. 늦봄에서 가을에 절정을 이룬다. 따뜻한 지역에서는 연중 발생할 수 있다. 매우 지속적이고 흔하다.",
+  "regions": [
+    "북아메리카(매우 흔함, 널리 분포)",
+    "유럽(매우 흔함)",
+    "전 세계 온대 지역",
+    "삼림 및 도시 지역",
+    "부후 목재에 범세계적 분포"
+  ],
+  "lookalikes": [
+    "Coprinellus disseminatus(식용) — 훨씬 작고, 옅은 회색, 운모 입자 없음",
+    "Psathyrella 속 — 비슷하나 운모 입자가 없고 자가용해가 덜함",
+    "다른 Coprinellus 종 — 현미경 없이 구별 어려움",
+    "유독 유사종 없음"
+  ],
+  "safety_notes": "식용: 어리고 신선할 때 식용 가능하고 안전하나, 작은 크기 때문에 채취가 번거롭다. 풍미는 은은하고 특별하지 않다. Coprinopsis atramentaria 같은 알코올 상호작용은 없다. 주름살이 빠르게 자가용해되므로 즉시 사용해야 한다. 어린 신선한 개체만 채취하라. 작은 크기와 빠른 자가용해 때문에 대부분의 채집가에게 비실용적이다. 유독 유사종 없이 안전하다. 어릴 때의 운모 같은 반짝임이 진단적이고 매력적이다. 종종 풍부하지만 채취할 노력의 가치는 없다. 이 종은 식용보다 생태적으로 더 흥미롭다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750440.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120384,
+      "width": 640,
+      "height": 480,
+      "sha256": "1651497c786b3947aaa6ca4ea11f16b5d12be9c846fac4005e9eefc2b4c4d987"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750441.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120102,
+      "width": 640,
+      "height": 480,
+      "sha256": "04b8ac4eead336dafb401fa91130915d85a5a17a21fe8da3b20b38ab86026638"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "plepop",
+  "scientific_name": "Pleurotus populinus",
+  "common_name": "Aspen Oyster (Pleurotus populinus)",
+  "edibility": "E",
+  "description": "Solformade till musselformade hattar, 5–15 cm breda, vita till krämfärgade eller blekt beigefärgade, ibland med gråaktiga toner. Slät yta med nedlöpande vita skivor och kort sidoställd fot eller fotlös. Kännetecknas av sin starka förkärlek för asp och poppel. Växer i täta överlappande klasar. Vit sporfällning.",
+  "habitat": "Saprofytisk, växer specifikt på döda och döende aspar (Populus tremuloides), poppelarter (Populus-arter) och ibland andra popplar. Bildar täta överlappande hyllor på stockar, stubbar och stående döda träd. Starkt knuten till Populus-arter i bergsregioner och norra områden.",
+  "season": "Sen vår till höst, med topp under maj–oktober. Vanligast under försommaren. Bildar fruktkroppar efter vårregnen i asplundar och i poppelområden längs vattendrag.",
+  "regions": [
+    "Klippiga bergen",
+    "Nordvästra USA",
+    "Norra prärien",
+    "Västra inlandet",
+    "Västra Nordamerika",
+    "Norra Nordamerika"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (mörkare, växer på ett bredare spektrum av lövträd)",
+    "Pleurotus pulmonarius (nästan identisk men växer på andra värdträd)",
+    "Pleurocybella porrigens – giftig, rent vit, växer endast på barrträd",
+    "Hypsizygus ulmarius (mer central fot, växer på alm)"
+  ],
+  "safety_notes": "ÄTLIG: En god matsvamp med mild smak, lik odlade ostronmusslingar. Stek ordentligt innan du äter den. Säker när den är korrekt identifierad. Den starka kopplingen till asp och poppel är ett bra bestämningskännetecken. Plocka unga, fräscha exemplar för bästa kvalitet.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1671361.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 92202,
+      "width": 480,
+      "height": 640,
+      "sha256": "ab584c44a19e8be388c08b68b220b44f70bc572f672fa8c98da3dabd01292b21"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1671362.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 117926,
+      "width": 480,
+      "height": 640,
+      "sha256": "22e8f7ab52e7e0940cd7a073638fcdbbe292e5e914ef1dc3e769d327b0c6e10e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

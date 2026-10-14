@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sparad",
+  "scientific_name": "Sparassis radicata",
+  "common_name": "Rooting Cauliflower Mushroom (Sparassis radicata)",
+  "edibility": "E",
+  "description": "La seta coliflor enraizada es similar a S. crispa: forma masas de color crema a amarillo dorado de 10-30 cm de diámetro que recuerdan a una coliflor. El cuerpo fructífero está formado por numerosos lóbulos delgados, ondulados y crespos o ramas aplanadas que nacen de una base central. El color suele ser amarillo más brillante, de amarillo a amarillo dorado, que S. crispa. La textura es crujiente cuando está fresca. La base tiene una distintiva estructura enraizada (base radicante) que se extiende profundamente en el suelo hasta alcanzar raíces enterradas de frondosas. Los lóbulos son densamente crespos y apretados.",
+  "habitat": "Se encuentra en la base de frondosas, sobre todo robles, rara vez en coníferas. Crece como parásito de raíces en árboles vivos o a partir de raíces enterradas de frondosas muertas. La base enraizada se extiende profundamente hasta alcanzar las raíces. Fructifica en la base de los árboles, pareciendo emerger del suelo. Prefiere bosques maduros de frondosas.",
+  "season": "De finales del verano a otoño (agosto-noviembre) en la mayoría de las regiones. Fructificación máxima en otoño. Puede volver al mismo lugar durante varios años. Requiere un verano cálido seguido de lluvias otoñales.",
+  "regions": [
+    "este de Norteamérica (poco común)",
+    "Europa (extendida pero poco común)",
+    "bosques templados de frondosas",
+    "bosques de robles",
+    "menos común que S. crispa en general"
+  ],
+  "lookalikes": [
+    "Sparassis crispa (comestible) — muy similar pero en coníferas, de color más pálido",
+    "Sparassis spathulata (comestible) — especie del oeste, aspecto similar",
+    "Maitake Grifola (comestible) — rosetas gris-marrón, textura diferente",
+    "Sin especies tóxicas similares"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: excelente hongo comestible con sabor y textura similares a S. crispa. Muy apreciada donde se encuentra. La textura crujiente y el sabor suave son sobresalientes. Excelente en diversos platos. Limpiar muy a fondo, ya que la estructura atrapa suciedad. Mejor cuando está fresca y de color pálido. Los ejemplares viejos se vuelven duros. Cocinar bien. El aspecto es distintivo y no tiene especies peligrosas similares. Poco común pero merece la pena buscarla. La base enraizada (radicante) y la asociación con frondosas (sobre todo roble) la distinguen de S. crispa, que crece en coníferas. Vuelve a los mismos lugares cuando las condiciones son adecuadas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1641786.jpg",
+      "photographer": "Chitin-da-breeze",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-01",
+      "file_size_bytes": 66534,
+      "width": 640,
+      "height": 591,
+      "sha256": "bcbd753dd1d35cb3b8dcb17a2e09c8514ce77c188f0464c6f45cd12f5fb2125b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608950.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-06",
+      "file_size_bytes": 126206,
+      "width": 480,
+      "height": 640,
+      "sha256": "6cd4eb6fcfc3e41a5c6b91f561a2396b6d38cef36f550bd9a10a4c641ca84782"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.522645",
+  "source_language": "en"
+}

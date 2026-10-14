@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "rambot",
+  "scientific_name": "Ramaria botrytis",
+  "common_name": "싸리버섯",
+  "edibility": "E",
+  "description": "싸리버섯은 높이 8~15cm, 너비 7~12cm의 크고 잘생긴 산호버섯이다. 자실체는 수많은 곧게 선 가지를 받치는 굵은 흰색에서 연한 분홍색의 밑동(너비 2~4cm)을 가진다. 가지는 흰색에서 연한 노란빛이며, 특징적인 포도주색에서 장미분홍색의 끝(동정 특징)을 가진다. 어린 개체는 분홍색이 더 선명하다. 가지가 빽빽하고 촘촘하다. 육질은 흰색이며 신선할 때는 잘 부서지고, 온화하고 기분 좋은 냄새가 난다. 전체 구조는 육질이며 꽃양배추 같다.",
+  "habitat": "활엽수림과 침엽수림에서 발견되며, 특히 너도밤나무, 참나무, 가문비나무와 균근 공생을 이룬다. 흙이나 잘 썩은 목재에서 지상으로 자란다. 비옥한 부엽토에서 흩어지거나 무리 지어 발생한다. 유기물이 풍부한 성숙한 숲을 선호한다. 혼합림에서 흔하다.",
+  "season": "온대 지역에서는 늦여름부터 가을(8~11월)까지 발생한다. 유럽에서는 주로 9~10월이다. 초가을에 가장 많이 발생한다. 따뜻한 여름과 그 뒤의 가을비가 필요하다.",
+  "regions": [
+    "유럽(널리 분포, 흔함)",
+    "북아메리카 동부(드묾)",
+    "태평양 북서부(드묾)",
+    "북부 온대림",
+    "유럽에서 특히 풍부",
+    "로키산맥(가끔)"
+  ],
+  "lookalikes": [
+    "Ramaria formosa (유독) - 뚜렷한 분홍색 끝이 없는 연어주황색 가지",
+    "Ramaria aurea (식용) - 전체가 황금노랑, 분홍색 끝 없음",
+    "Ramaria rubripermanens (식용) - 만지면 자실체 전체가 붉게 변함",
+    "다른 Ramaria속 종 - 비슷한 종이 많아 동정이 어려움"
+  ],
+  "safety_notes": "식용: 어릴 때 맛과 식감이 좋아 최고의 산호버섯 중 하나로 여겨진다. 유럽에서 높이 평가받는다. 충분히 익혀 먹는다. 물에 젖거나 벌레 먹기 전의 어리고 단단한 개체만 채취한다. 맛은 온화하고 버섯 향이 난다. 질긴 밑동은 버린다. 중요: 포도주색에서 분홍색의 가지 끝은 동정 특징으로, 유독 종과 구분하는 데 도움이 된다. 일부 산호버섯은 민감한 사람에게 소화불량을 일으킨다. 쓴맛이 나는 개체는 피한다. 분홍색 끝이 분명히 보여야 한다. 처음에는 소량만 먹어본다. 많은 산호버섯보다 더 신뢰할 수 있고 안전하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714687.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 29446,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc4845126cad5a597d358e912fddbbe5fa0c1b55aa2837a88713ddac9cc67245"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1714688.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 34460,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc67458e097361f0f3f6bf23374d7b10551d60426fb10171557abde9cb880cf8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

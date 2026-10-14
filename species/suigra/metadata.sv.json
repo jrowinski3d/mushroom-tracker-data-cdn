@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigra",
+  "scientific_name": "Suillus granulatus",
+  "common_name": "Grynsopp",
+  "edibility": "E",
+  "description": "Grynsoppen har en kanelbrun till gulbrun hatt (4–10 cm) med slemmig, klibbig yta när den är våt. Porerna är blekgula och utsöndrar mjölkaktiga droppar som unga – ett kännetecken. Den blekgula foten är täckt med små bruna korniga prickar (körtelprickar) och saknar ring. Blekgult kött missfärgas inte. De mjölkaktiga pordropparna och fotens korniga prickar är karakteristiska. Sporfällningen är kanelbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med två- och trenålade tallar i olika växtplatser. Vanlig i tallplantager, störda områden med unga tallar och naturligt föryngrade tallbestånd. Utbredd tillsammans med planterade tallar.",
+  "season": "Sensommar till höst (augusti–november) med huvudsäsong i september–oktober. Fruktsätter ofta rikligt efter höstregn.",
+  "regions": [
+    "Nordöstra USA",
+    "Området kring Stora sjöarna",
+    "Nordvästra USA",
+    "Tallplantager i sydöstra USA",
+    "Klippiga bergen",
+    "Överallt där det finns tallplantager",
+    "Kanada"
+  ],
+  "lookalikes": [
+    "Suillus luteus – har mörk ring på foten, saknar mjölkaktiga droppar",
+    "Suillus brevipes – saknar de mjölkaktiga pordropparna",
+    "Andra Suillus-arter – kontrollera om det finns mjölkaktiga droppar på unga porer",
+    "Boletus-arter – inte klibbiga, annan växtplats"
+  ],
+  "safety_notes": "ÄTLIG: Grynsopp är ätlig med mild smak men mjuk konsistens. Ta bort den slemmiga hatthuden före tillagning. De mjölkaktiga dropparna på unga porer och fotens korniga prickar är kännetecken. Vissa får magbesvär. Tillaga alltid noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699876.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 134442,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa09a25fc62426dcb808a3f67b840074a1ff24276f0127ea378dd610d33e7016"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699877.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 109388,
+      "width": 640,
+      "height": 482,
+      "sha256": "02918768915d5a8f5894ffac5d79ee1fb7f128668b01c42d7090b26a3abad8cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

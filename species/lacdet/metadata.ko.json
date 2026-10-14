@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacdet",
+  "scientific_name": "Lactarius deterrimus",
+  "common_name": "False Saffron Milk Cap (Lactarius deterrimus)",
+  "edibility": "E",
+  "description": "주황색 갓(4~12cm)에 동심원 무늬와 녹색 얼룩. 주름살은 주황색, 촘촘하다. 대는 주황색에 구멍이 있다. 핵심: 주황색 유즙이 빠르게 녹색으로 변함 — L. deliciosus보다 빠르다. L. deliciosus와 비슷하지만 소나무가 아닌 가문비나무 아래에서 자란다. 살은 옅다. 포자문은 크림색.",
+  "habitat": "유럽과 북미에서 가문비나무(Picea)와 균근성. 침엽수림의 가문비나무 아래에서 자란다. 산성 토양을 선호한다.",
+  "season": "가을(9월~11월), 비 뒤에 발생한다.",
+  "regions": [
+    "유럽 (자생지)",
+    "북미 도입종",
+    "태평양 북서부",
+    "북동부",
+    "로키산맥"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus - 숙주가 가문비나무가 아닌 소나무",
+    "다른 주황색 Lactarius - 숙주 나무를 확인할 것"
+  ],
+  "safety_notes": "식용 가능: L. deliciosus와 비슷한 좋은 맛. 녹색으로 변하는 주황색 유즙 + 가문비나무 숙주가 진단적이다. 조리 시 녹색으로 변색될 수 있는데 정상이다. 어릴 때 가장 좋다. 충분히 조리하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700139.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-25",
+      "file_size_bytes": 108002,
+      "width": 640,
+      "height": 640,
+      "sha256": "90b6e01c130f522abda29a4108c5559f5b93a795bab5d588539f4a2122ea8e5f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700140.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-25",
+      "file_size_bytes": 42854,
+      "width": 640,
+      "height": 640,
+      "sha256": "04c137c844da045a3b7f34f1bf6584202217e9912a3c86baab9980057c0692e7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

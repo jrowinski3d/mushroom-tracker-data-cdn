@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepiri",
+  "scientific_name": "Lepista irina",
+  "common_name": "gąsówka irysowa",
+  "edibility": "E",
+  "description": "Gąsówka irysowa jest podobna do L. nuda, ale na ogół jaśniejsza. Kapelusz o średnicy 4–12 cm, wypukły, z wiekiem spłaszczający się, bladoliliowy do różowoliliowego lub beżowy z subtelnymi fioletowymi tonami. Kapelusz blednie szybciej niż u L. nuda, często stając się całkowicie beżowo-brązowy. Powierzchnia gładka. Blaszki przyrosłe, bladoliliowe do różowawych, z wiekiem jasnobrązowe. Trzon o wysokości 4–8 cm, bladoliliowy do białawego z fioletowymi tonami, z lekko bulwiastą podstawą. Miąższ jasny, cienki, o charakterystycznym słodkim, kwiatowym zapachu przypominającym perfumy (silniejszym i bardziej kwiatowym niż u L. nuda).",
+  "habitat": "Występuje w lasach liściastych i iglastych, na skrajach lasów oraz na trawiastych obszarach w pobliżu drzew. Rośnie w ściółce liściowej i żyznej, organicznej glebie. Owocniki rozproszone do gromadnych, czasem w czarcich kołach. Preferuje miejsca o dobrej próchnicy i zatrzymywaniu wilgoci.",
+  "season": "Późne lato do jesieni (sierpień–listopad) w większości regionów. Wcześniej niż L. nuda, zwykle owocuje przed silnymi przymrozkami. Szczyt owocowania we wrześniu–październiku.",
+  "regions": [
+    "Europa (pospolita)",
+    "Wschodnia Ameryka Północna (rzadka)",
+    "Północno-Zachodni Pacyfik (sporadycznie)",
+    "lasy strefy umiarkowanej na całym świecie",
+    "ogólnie rzadsza niż L. nuda"
+  ],
+  "lookalikes": [
+    "Lepista nuda (jadalny) – bardzo podobna, głębszy fioletowy kolor, późniejsza pora występowania",
+    "Clitocybe nuda (ten sam gatunek) – synonim Lepista nuda",
+    "gatunki Cortinarius (niektóre śmiertelnie trujące) – rdzawobrązowe, a nie różowe zarodniki",
+    "gatunki Laccaria (jadalne) – mniejsze, bardziej jednolicie fioletowe"
+  ],
+  "safety_notes": "JADALNY z tymi samymi zastrzeżeniami co L. nuda: musi być dokładnie poddany obróbce cieplnej – NIGDY nie jedz na surowo. U niektórych osób może powodować reakcje alergiczne. Silny kwiatowy, perfumowy zapach może być przytłaczający w potrawach. Najpierw spróbuj małych porcji, aby sprawdzić tolerancję. Zweryfikuj RÓŻOWY WYSYP ZARODNIKÓW, aby odróżnić od Cortinarius. Jasne kolory i silny słodki zapach są cechami rozpoznawczymi. Rzadziej zbierany niż L. nuda. Gotuj dokładnie i zaczynaj od małych porcji. Niektórym osobom perfumowy zapach wydaje się nieprzyjemny. Jadalny, ale zachowaj ostrożność.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649896.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95348,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dac1ebaf3f7b1b474965747dad73ac4fd6aac9270bb58023ebd33017f0689b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649897.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 94302,
+      "width": 640,
+      "height": 480,
+      "sha256": "70fa8fb81c58d229ce5ed118b93a56066f1f7d3f3c9e264d3bc7e2b39bd640b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "mersum",
+  "scientific_name": "Meripilus sumstinei",
+  "common_name": "Black-staining Polypore (Meripilus sumstinei)",
+  "edibility": "E",
+  "description": "너비 8-24인치 이상의 큰 복합 장미꽃 모양으로, 중앙 기부에서 나오는 너비 2-6인치의 겹겹이 포개진 부채꼴 갓이 많다. 상처를 입거나 자라면서 검게 변하는 옅은 황갈색에서 갈색 갓 — 진단적 특징이다. 흰색에서 크림색 관공 표면도 검게 변한다. 부드럽고 스펀지 같은 조직. 무게가 10-30파운드 이상 나갈 수 있다. 독특한 검은 변색.",
+  "habitat": "살아 있거나 죽은 활엽수, 특히 참나무, 단풍나무, 너도밤나무, 느릅나무의 기부에서 부생 및 기생한다. 뿌리와 하부 줄기의 백색부후를 일으킨다. 나무 기부, 그루터기, 묻힌 뿌리에 큰 장미꽃 모양을 이룬다. 성숙한 활엽수림과 도시 환경에서 흔하다.",
+  "season": "늦여름부터 가을까지, 보통 7월-10월. 8월-9월이 최성기이다. 한 계절에 여러 번 발생할 수 있다. 늦여름에 가장 풍부하다. 종종 매년 같은 장소에서 발생한다.",
+  "regions": [
+    "북아메리카 동부",
+    "중서부",
+    "미국 남동부",
+    "오대호 지역",
+    "태평양 북서부",
+    "북아메리카 전역에 분포"
+  ],
+  "lookalikes": [
+    "Grifola frondosa(회갈색, 검게 변하지 않음, 갓 배열이 다름)",
+    "Bondarzewia berkeleyi(더 옅고 갓이 크며 빨리 검게 변하지 않음)",
+    "다른 대형 구멍버섯 장미꽃 모양(만지면 검게 변하지 않음)",
+    "Polyporus umbellatus(더 작고 구조가 다름)"
+  ],
+  "safety_notes": "아주 어릴 때 식용 가능하나 최상급은 아님: 아주 어리고 부드러운 표본만 먹을 만하다 — 자라면 질기고 쓰다. 만지면 빠르게 검게 변하는 것은 독특하나 어린 표본의 식용 가능성에는 영향을 주지 않는다. 반드시 완전히 익혀야 한다. 평범한 맛과 일부 사람의 소화 장애 경향 때문에 대개 찾지 않는다. 아주 어리고 흰색이며 부드러운 부분만 수확할 것. 더 나은 식용 구멍버섯이 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688474.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 86536,
+      "width": 482,
+      "height": 640,
+      "sha256": "d11d8bcfd4625365125d32a50af1e5f58bde58d9859e3f55d5d9057146549163"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688475.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 89766,
+      "width": 482,
+      "height": 640,
+      "sha256": "14784a9de79f16b8dd7a16e1acd87da31b87a5c26de5c66af1759e7beaa1afac"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

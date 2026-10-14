@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "tremes",
+  "scientific_name": "Tremella mesenterica",
+  "common_name": "Witches' Butter (Tremella mesenterica)",
+  "edibility": "E",
+  "description": "La mantequilla de bruja es un hongo gelatinoso de color amarillo dorado brillante a naranja que forma masas irregulares con forma de cerebro o plegadas de 2-8 cm de diámetro. El cuerpo fructífero es gelatinoso, translúcido, con una superficie convoluta que recuerda a un cerebro o a intestinos plegados. El color es naranja dorado brillante a amarillo cuando está fresco y húmedo, volviéndose naranja más oscuro y arrugado al secarse. La textura es blanda, temblorosa y gelatinosa. Revive y se hincha al rehidratarse. Sin estructura diferenciada de pie o sombrero.",
+  "habitat": "Se encuentra en ramas y ramitas muertas de frondosas, sobre todo roble, haya y otras especies caducifolias. Crece como parásito de hongos costrosos (en particular especies de Peniophora) que colonizan la madera muerta. Fructifica en ramas caídas, madera muerta en pie y corteza. Común en bosques, arboledas y parques. Prefiere condiciones húmedas.",
+  "season": "Todo el año en zonas de clima suave y húmedo, pero más abundante de otoño a primavera (octubre-abril). En regiones templadas, principalmente invierno y principios de primavera (noviembre-marzo). Puede fructificar en verano tras fuertes lluvias. Máxima durante períodos frescos y húmedos.",
+  "regions": [
+    "Europa (extendida)",
+    "este de Norteamérica (común)",
+    "Pacífico Noroeste (común)",
+    "California (ocasional)",
+    "en todo el mundo en regiones templadas",
+    "especialmente común en Gran Bretaña"
+  ],
+  "lookalikes": [
+    "Tremella aurantia (comestible) — similar pero de color naranja brillante, parásita de Stereum",
+    "especies de Dacrymyces (comestible) — más pequeñas, más naranjas, en madera de coníferas",
+    "Calocera viscosa (comestible) — ramas parecidas al coral, no con forma de cerebro",
+    "Sin especies tóxicas similares entre los hongos gelatinosos"
+  ],
+  "safety_notes": "COMESTIBLE pero insípida: se considera comestible y se consume en algunas culturas, pero tiene poco o ningún sabor. La textura gelatinosa es su principal característica. Se usa en la medicina tradicional china. Se puede probar cruda sin peligro, pero normalmente se cocina en sopas o platos dulces. Sin valor nutricional pero inofensiva. Más interesante como adorno que como alimento. El color amarillo dorado brillante y el aspecto de cerebro son diagnósticos. Sin especies peligrosas similares: todos los hongos gelatinosos parecidos son comestibles. A menudo se usa de forma decorativa por su vívido color.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1731381.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 32694,
+      "width": 640,
+      "height": 427,
+      "sha256": "23f4f40b6067140f44e12ff967c1f22b92604b2d0a4e605c5a11482334462a0a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1731382.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 24616,
+      "width": 640,
+      "height": 427,
+      "sha256": "bb94d948d2b36a65b8905a39e8c0caf8562ea265cfd8f11cc609375abe7260bf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

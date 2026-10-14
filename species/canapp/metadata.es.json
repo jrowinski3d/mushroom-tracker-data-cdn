@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canapp",
+  "scientific_name": "Cantharellus appalachiensis",
+  "common_name": "Appalachian Chanterelle (Cantharellus appalachiensis)",
+  "edibility": "E",
+  "description": "El rebozuelo de los Apalaches tiene un sombrero de amarillo dorado a amarillo naranja brillante de 3 a 12 cm de ancho, de superficie lisa a ligeramente arrugada. El sombrero se vuelve embudado con la edad y tiene márgenes ondulados e irregulares. El envés presenta pliegues bien definidos, gruesos, romos y bifurcados (NO son láminas verdaderas), de color amarillo brillante a amarillo naranja, ampliamente espaciados y que descienden notablemente por el pie. Los pliegues son más pronunciados que en C. lateritius pero similares a los de C. cibarius. El pie es macizo, firme, de 3 a 9 cm de alto, de amarillo a amarillo naranja, a menudo en forma de maza. La carne es de blanca a amarillo pálido, firme, con un afrutado aroma a albaricoque. La esporada es de amarillo pálido a crema.",
+  "habitat": "Micorrícico con frondosas orientales, particularmente roble blanco, roble rojo, haya americana, nogal americano y tulípero. Se encuentra en bosques maduros mixtos de frondosas en toda la región de los Apalaches. Prefiere laderas montañosas bien drenadas, hondonadas y crestas con gruesa hojarasca y suelos ácidos.",
+  "season": "De verano a otoño (junio-octubre), con la fructificación máxima en julio-septiembre. A menudo fructifica prolíficamente tras las lluvias cálidas del verano. Puede producir múltiples oleadas durante la temporada con humedad adecuada.",
+  "regions": [
+    "montañas Apalaches (de Georgia a Maine)",
+    "estados del Atlántico medio (Virginia, Virginia Occidental, Maryland)",
+    "montañas de Tennessee y Carolina del Norte",
+    "Pensilvania y Nueva York",
+    "sur de Ohio y Kentucky"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus illudens): TÓXICA, tiene láminas verdaderas de borde afilado, crece sobre madera o madera enterrada, brilla en la oscuridad",
+    "Falsa rebozuelo (Hygrophoropsis aurantiaca): no tóxica pero de mala calidad, tiene láminas verdaderas delgadas, más intensamente naranja",
+    "Cantharellus cibarius: comestible, muy similar, se encuentra en regiones más septentrionales, esencialmente idéntica en apariencia"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: el rebozuelo de los Apalaches es una de las setas silvestres más apreciadas del este de Norteamérica, muy buscada por su excelente sabor y textura firme. El rasgo crítico de identificación son los pliegues gruesos, romos y bifurcados que se sienten cerosos y están fusionados con el sombrero, frente a las láminas verdaderas delgadas como cuchillas del tóxico Jack-O'-Lantern. Verifique siempre que crece del suelo cerca de árboles, nunca sobre madera. Tiene un delicioso sabor afrutado y picante; excelente salteada, en sopas o conservada por desecación. Algunas personas pueden experimentar leves molestias digestivas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695286.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 58918,
+      "width": 640,
+      "height": 550,
+      "sha256": "1e531b8fdb9faf5e522613f935369fa08b17d8304ffbea739b036127f37058e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695282.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-11",
+      "file_size_bytes": 35850,
+      "width": 640,
+      "height": 500,
+      "sha256": "0d643f4fa701f4b4b45e1ee889956eb3e6793e82ea4fb063547d712c44fbbd9b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.207174",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "xerzel",
+  "scientific_name": "Xerocomellus zelleri",
+  "common_name": "Zeller's Bolete (Xerocomellus zelleri)",
+  "edibility": "E",
+  "description": "젤러 그물버섯은 독특한 짙은 갈색~흑갈색 갓(지름 4–12cm)으로 표면이 벨벳 같고 건조하며 나이가 들면 종종 갈라진다. 관공은 어릴 때 밝은 노란색으로 만지면 청록색으로 변색된다. 노란색 대에는 망상무늬가 없으나 밑동에 적갈색 얼룩이 있을 수 있다. 노란색 살은 자르면 즉시 짙은 파란색으로 변색된다 - 극적인 반응이다. 포자문은 올리브갈색.",
+  "habitat": "태평양 연안 삼림에서 타노악·마드론·더글러스퍼와 균근을 이룬다. 타노악이나 마드론이 있는 혼합 활엽-침엽수림을 좋아한다. 해안 삼림과 상록 활엽수 참나무림에서 발견된다.",
+  "season": "가을~겨울(10~2월)로 11~12월에 열매를 가장 많이 맺는다. 해안의 가을·겨울비 뒤 늦은 계절에 열매를 맺는다.",
+  "regions": [
+    "태평양 북서부",
+    "북캘리포니아",
+    "오리건 해안 산맥",
+    "캘리포니아 해안 산맥",
+    "남오리건",
+    "타노악·마드론 숲"
+  ],
+  "lookalikes": [
+    "Boletus 종들 - 대부분 극적인 파란 변색이 없음",
+    "다른 Xerocomellus 종들 - 색이나 분포가 다름",
+    "Suillus 종들 - 끈적거리는 갓, 서식지가 다름",
+    "짙은 벨벳 갓과 강한 파란 변색이 독특하다"
+  ],
+  "safety_notes": "식용 가능: 젤러 그물버섯은 조직이 단단하고 맛이 순한 좋은 식용버섯이다. 극적인 파란 변색 반응은 완전히 정상이며 안전하다. 먹기 전에 반드시 완전히 익힐 것. 짙은 벨벳 갓·밝은 노란색 관공·강한 파란 변색이 이 종을 구별한다. 일부 사람은 가벼운 소화불량을 겪을 수 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1628073.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 151388,
+      "width": 477,
+      "height": 640,
+      "sha256": "1065d4ae22b7fc7a2af969dc6886731db93070af88a30ab0b37a8f6c860bda5d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1628074.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 108502,
+      "width": 480,
+      "height": 640,
+      "sha256": "edbac5849057adacd51bd5de769ad519ca078bb0708a8ad35f58ab9218700777"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

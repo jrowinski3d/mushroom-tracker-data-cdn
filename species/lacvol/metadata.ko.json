@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacvol",
+  "scientific_name": "Lactifluus volemus",
+  "common_name": "그늘버섯",
+  "edibility": "E",
+  "description": "그늘버섯은 건조하고 벨벳 질감의 주황갈색~적갈색 갓(5~12cm)을 지닌다. 주름살은 크림색이며 밀집하고 갈색으로 얼룩진다. 대는 갓과 비슷하다. 핵심: 풍부한 흰색 유즙, 늙으면 비린내. 유즙은 색이 변하지 않는다. 살은 단단하고 흰색이다. 포자문은 흰색이다. 풍부한 유즙과 비린내가 동정 포인트다.",
+  "habitat": "활엽수, 특히 참나무와 균근성. 혼효림과 활엽수림의 지면에서 자란다. 동부 산림에서 흔하다. 드문드문 또는 무리지어 난다.",
+  "season": "여름부터 가을(7~10월), 시즌 내내 결실.",
+  "regions": [
+    "미국 동부",
+    "중서부",
+    "남동부",
+    "남중부"
+  ],
+  "lookalikes": [
+    "Lactifluus corrugis — 비슷하나 더 크고 갓에 주름",
+    "기타 Lactifluus — 냄새와 유즙 양 확인"
+  ],
+  "safety_notes": "최상급 식용: 비린내에도(익히면 사라짐) 훌륭한 견과 맛. 풍부한 흰색 유즙 + 비린내가 동정 포인트. Lactarius 중 최고의 식용종 중 하나. 어릴 때 가장 좋다. 충분히 익혀 먹으라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713865.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 58696,
+      "width": 640,
+      "height": 482,
+      "sha256": "9110570d37ed7ac338b3c87edd414ce36612f3b4b12e9342a702d3b8fab14cd9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713866.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 75838,
+      "width": 640,
+      "height": 482,
+      "sha256": "5ee558641d816d1e4d4d17fd656481c977ca91568cbd39ab8da7f573934640ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

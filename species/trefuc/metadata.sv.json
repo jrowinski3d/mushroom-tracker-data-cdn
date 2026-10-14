@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trefuc",
+  "scientific_name": "Tremella fuciformis",
+  "common_name": "Snow Fungus (Tremella fuciformis)",
+  "edibility": "E",
+  "description": "Snösvampen är en vit till blekgul gelésvamp som bildar mjuka fransade massor som liknar havskorall eller snö. Fruktkropparna är 5–15 cm breda när de är färska och består av tunna, förgrenade, genomskinliga flikar med ett delikat rynkigt utseende. Färgen är rent vit till blek kräm eller ljusgul. Konsistensen är mjuk, gelatinös och darrande. Flikarna är tunna och kronbladsliknande och bildar en invecklad spetsliknande struktur. Blir hård och ihopskrumpen när den är torr och återhämtar sig när den fuktas.",
+  "habitat": "Finns på döda grenar och ved av lövträd, vanligen högt upp på stående döda träd eller fallna stockar. Ofta parasitisk på andra vednedbrytande svampar. I naturen på lövträd i skogar. Odlas kommersiellt i stor skala på sågspånssubstrat av lövträd. Föredrar varma fuktiga miljöer.",
+  "season": "I det vilda främst sommar till höst (juni–november) i varma klimat. I tropiska och subtropiska områden kan den fruktsätta året runt. Odlas kommersiellt året runt. Huvudsäsongen för vilda fynd infaller under varmt fuktigt väder efter regn.",
+  "regions": [
+    "Asien (ursprungsområde, utbredd)",
+    "Tropiska och subtropiska områden världen över",
+    "Södra USA (sällsynt i vilt tillstånd)",
+    "Odlas kommersiellt världen över",
+    "Naturlig i varma tempererade till tropiska skogar"
+  ],
+  "lookalikes": [
+    "Tremella mesenterica (ätlig) – klargul, mer kompakt hjärnliknande",
+    "Tremella fuciformis odlade stammar – varierar i färg från vitt till kräm",
+    "Exidia-arter (ätliga) – mörkare, mer kompakta, inte fransade",
+    "Inga giftiga liknande arter"
+  ],
+  "safety_notes": "ÄTLIG: Mycket uppskattad i asiatisk matlagning och traditionell kinesisk medicin. Mild söt smak och krispig-gelatinös konsistens när den tillagas. Måste tillagas – ät inte rå. Populär i söta soppor, desserter och drycker. Anses ha hälsofördelar som förbättrad hud och stärkt immunförsvar. Konsumeras nästan alltid som odlad produkt snarare än vild. Torkade former måste blötläggas för att återfuktas. Säker utan giftiga liknande arter. Det vita fransade utseendet är karakteristiskt. Dyr specialingrediens på asiatiska marknader.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1684389.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 22236,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4dc59fd528c2bddd0ea121e6b9c3ad082895aa996fbf88c2890bf63affe3a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1684390.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 59496,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbb8fd49a0a994ba488f9c69af2375975d1f8daf9b8396d3db7977a1292cce1c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.173269",
+  "source_language": "en"
+}

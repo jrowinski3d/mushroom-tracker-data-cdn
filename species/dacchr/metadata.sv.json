@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "dacchr",
+  "scientific_name": "Dacrymyces chrysospermus",
+  "common_name": "Orange Jelly Spot (Dacrymyces chrysospermus)",
+  "edibility": "E",
+  "description": "Orange Jelly Spot bildar små klart orangea till gulorange geléaktiga klumpar eller kuddar 2–10 mm breda (sällan upp till 15 mm). Enskilda fruktkroppar är knapp- eller skivformade, ibland lätt flikiga eller hjärnliknande. Ytan är slät och glansig. Färgen är intensivt orange till guldorange som färsk, blir mörkare orange och skrynklig som torr. Konsistensen är mjukt geléaktig, darrande. Dyker ofta upp i täta knippen som bildar orange fläckar på ved. Återupplivas och sväller vid fukt.",
+  "habitat": "Finns på död barrträdsved som stockar, stubbar, plankor och byggnadsvirke. Särskilt vanlig på tall, gran och ädelgran. Dyker även upp på bearbetat trä som staketstolpar och byggnadstimmer. Växer som vednedbrytare i skogar och på träkonstruktioner. Fruktsätter i täta knippen, ofta med orange fläckar flera cm breda. Mycket vanlig på lämpliga substrat.",
+  "season": "Året runt men rikligast höst till vår (september–maj). I fuktiga klimat kan den fruktsätta kontinuerligt. Toppar i sen höst och vinter (oktober–mars). Mycket köldtålig och kan fruktsätta under snö. Vanlig på vintern när få andra svampar är aktiva.",
+  "regions": [
+    "Europa (mycket vanlig)",
+    "Nordamerika (utbredd, alla regioner)",
+    "Nordvästra Stillahavsområdet (riklig)",
+    "Östliga skogar",
+    "Bergiga barrskogsregioner",
+    "Världen över i barrskogar"
+  ],
+  "lookalikes": [
+    "Dacrymyces palmatus (ätlig) – större, mer hjärnlik och veckad",
+    "Tremella mesenterica (ätlig) – gul men på lövträd, mer hjärnlik",
+    "Calocera cornea (ätlig) – orange men korallikt förgrenad",
+    "Bisporella citrina (oätlig) – små gula skivor men fasta inte geléaktiga"
+  ],
+  "safety_notes": "ÄTLIG men inte värd besväret: Tekniskt sett ätlig och ogiftig men alldeles för liten och intetsägande för att vara av kulinariskt intresse. Ingen smak och minimal substans. Säker men meningslös att samla. Inga giftiga förväxlingssvampar. De små orangea geléfläckarna på barrträdsved är distinkta och extremt vanliga. Ses ofta i sådan riklighet att döda stockar ser orangea ut. Mer anmärkningsvärd som vednedbrytningsindikator än som mat. Den klart orangea färgen och förekomsten på barrträd skiljer den från gul Tremella på lövträd.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751397.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 63394,
+      "width": 640,
+      "height": 427,
+      "sha256": "4f3d6fd2ee98ee79c3f97f3aa0ce9a66d5f6115c9f9127bfd0bec7b416d1c9d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751398.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 82544,
+      "width": 640,
+      "height": 427,
+      "sha256": "839863966225a75f0a4e3f0bbd4b6baf231f3f879cfdf0961bc574b6d120d434"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

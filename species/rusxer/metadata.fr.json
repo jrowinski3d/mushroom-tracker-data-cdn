@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusxer",
+  "scientific_name": "Russula xerampelina",
+  "common_name": "Russule crevette",
+  "edibility": "E",
+  "description": "La russule crevette porte un chapeau rouge pourpre à rouge vineux (5-12 cm), visqueux. Lames crème à jaunâtres. Pied blanc à rosâtre. CLÉS : CHAIR CASSANTE, ODEUR DE POISSON ou DE FRUITS DE MER (comme la crevette), chapeau rougeâtre. Chair blanche. Sporée crème à ocre. Goût doux.",
+  "habitat": "Mycorhizien avec les conifères et les feuillus. Pousse au sol dans les forêts mixtes. Espèce répandue. Dispersé ou en groupes.",
+  "season": "De l'été à l'automne (juillet-octobre).",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest américain",
+    "Pacifique Nord-Ouest",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Autres russules rouges — vérifier l'odeur",
+    "Lactaires — produisent du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE : Saveur douce malgré l'odeur de poisson (disparaît à la cuisson). ODEUR DE POISSON + CHAPEAU ROUGE + CHAIR CASSANTE : diagnostic. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723210.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 90416,
+      "width": 640,
+      "height": 427,
+      "sha256": "7aabcfbc0b4b9a996b8757f8a5870feda97a8951c2b2b89d75d2ea11e9209d84"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723211.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 64826,
+      "width": 640,
+      "height": 427,
+      "sha256": "f23fc4166458df6f9d897d44195e59957d00d45849606408a98876e651549019"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

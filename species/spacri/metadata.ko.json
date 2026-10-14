@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "spacri",
+  "scientific_name": "Sparassis crispa",
+  "common_name": "꽃송이버섯",
+  "edibility": "E",
+  "description": "꽃송이버섯은 콜리플라워나 해면을 닮은 크림색~연노란색 덩어리로 자라는 크고 장엄한 버섯으로, 너비가 10–40cm(때로는 60cm까지)에 이른다. 자실체는 중심의 대 같은 밑동에서 뻗어 나온 수많은 얇고 물결 모양의 잎 같은 엽편 또는 리본 모양 가지로 이루어진다. 엽편은 주름지고 프릴이 있으며 빽빽하게 모여 있다. 신선할 때는 크림색·연노란색·담황색이며, 나이가 들면 진한 황갈색으로 변한다. 신선할 때 조직은 아삭하고 부서지기 쉽다. 밑동은 뿌리나 목재에 붙는다. 매우 독특한 외형이다.",
+  "habitat": "오래된 침엽수, 특히 소나무·전나무·가문비나무·낙엽송의 밑동에서 발견된다. 살아 있는 나무의 뿌리에 기생하거나 죽은 침엽수의 묻힌 뿌리에서 난다. 대개 해마다 같은 나무 자리에서 난다. 나무 밑동 위나 근처에서 열매를 맺으며 때로는 땅에서 나는 것처럼 보인다. 성숙한 침엽수림을 좋아한다.",
+  "season": "대부분 지역에서 늦여름~가을(8~11월). 태평양 북서부와 산악 지대에서는 주로 9~10월. 가을에 열매를 가장 많이 맺는다. 일부 지역에서는 봄과 가을에 난다. 여러해살이로, 해마다 같은 자리에 난다.",
+  "regions": [
+    "유럽 (널리 분포)",
+    "태평양 북서부 (흔함)",
+    "로키산맥",
+    "북미 북동부",
+    "캘리포니아 북부 산악",
+    "전 세계 북온대 침엽수림"
+  ],
+  "lookalikes": [
+    "Sparassis radicata(식용 가능) - 매우 비슷하나 침엽수가 아닌 활엽수에서 나고 더 노랗다",
+    "Sparassis spathulata(식용 가능) - 북미 서부종, 외형 비슷",
+    "Grifola(잎새버섯, 식용 가능) - 회갈색 부채살 로제트, 구조가 다름",
+    "독성 있는 유사종 없음 - 외형이 독특하다"
+  ],
+  "safety_notes": "최상급 식용: 훌륭한 맛과 독특한 식감으로 높이 평가받는다. 최고의 야생버섯 중 하나. 아삭한 국수 같은 식감이 독특하다. 국·볶음·파스타 요리에 훌륭하다. 주름진 구조에 이물질과 벌레가 끼기 쉬우므로 깨끗이 세척할 것. 어리고 크림색일 때가 가장 좋다. 늙은 개체는 질기고 누렇게 변한다. 반드시 완전히 익혀 먹을 것. 상당히 크게 자라 수확량이 많다. 외형이 절대적으로 독특해 위험한 유사종이 없다. 채집가들이 열심히 찾는 버섯. 건조 또는 냉동 보관 가능. 해마다 같은 자리에 난다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/380302.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65530,
+      "width": 640,
+      "height": 480,
+      "sha256": "0271503fea6ce136bdc5647e13ea525538f74f78a57e6ca8ce75287d683af72d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/380303.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65944,
+      "width": 640,
+      "height": 480,
+      "sha256": "f27081bca45016950cd1230a0e65c328dab21d3a386eb6faba9715df6b35c6d3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

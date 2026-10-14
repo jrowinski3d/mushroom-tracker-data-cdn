@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "leuleu",
+  "scientific_name": "Leucoagaricus leucothites",
+  "common_name": "Champinjonfjällskivling",
+  "edibility": "E",
+  "description": "Champinjonfjällskivlingen är en liten till medelstor vit svamp med en hatt på 4–10 cm, först rundad och sedan brett välvd till nästan utbredd med åldern. Hatten är helt vit till krämfärgad, slät och silkeslen utan fjäll (ett nyckeltecken som skiljer den från Chlorophyllum-arter). Svampköttet är vitt och ändrar inte färg vid skärning. Skivorna är fria, vita och blir rosa med åldern, täta till mycket täta. Foten är 5–12 cm hög, slät, vit, med en tunn bräcklig vit ring som ofta försvinner med åldern och en svagt förstorad bas.",
+  "habitat": "Växer i gräsområden som gräsmattor, parker, trädgårdar, golfbanor, betesmarker och gräsiga skogsbryn. Föredrar näringsrik jord i skötta eller störda områden med regelbunden fukt. Växer på marken, ofta i områden med organisk gödsel eller kompost. Fruktkropparna sitter utspridda till flockvis, ibland i bågar eller häxringar.",
+  "season": "Sen vår till höst (maj–november) i tempererade regioner. I varma klimat som Kalifornien och södern kan den frukta året runt med toppar efter regn. Rikligast sommar och tidig höst under varmt fuktigt väder.",
+  "regions": [
+    "Östra Nordamerika (vanlig)",
+    "Kalifornien och västkusten",
+    "Södra USA",
+    "Stillahavsnordväst (enstaka)",
+    "Europa (utbredd)",
+    "Tempererade gräsmarker världen över"
+  ],
+  "lookalikes": [
+    "Agaricus-arter (ätliga) – rosa till bruna skivor, chokladbruna sporer, ofta anisdoft",
+    "Leucoagaricus naucinus (ätlig) – mycket lik, gråbrun hattmitt när den är mogen",
+    "Chlorophyllum molybdites (giftig) – utvecklar gröna sporer, större, kan ha svaga fjäll",
+    "Amanita-arter (dödliga) – har en volva (skål) vid fotbasen som Leucoagaricus saknar"
+  ],
+  "safety_notes": "ÄTLIG: Anses ätlig och samlas av vissa svampplockare, men REKOMMENDERAS INTE för nybörjare på grund av allvarliga förväxlingsrisker. Den helt släta vita hatten och avsaknaden av volva skiljer den från dödliga Amanita-arter, men identifieringen kräver erfarenhet. Kontrollera: INGEN volva vid basen, FRIA vita skivor som kan bli svagt rosa med åldern, VIT sporfällning (inte grön), slät hatt utan fjäll. Det finns rapporter om mag-tarmbesvär hos vissa personer. Risken att förväxla den med dödliga vita Amanita-arter eller giftiga Chlorophyllum molybdites gör den till ett riskfyllt val. Många fälthandböcker avråder från att samla vita svampar från gräsmattor.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720338.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 75188,
+      "width": 640,
+      "height": 452,
+      "sha256": "dcc39dac32497c06d17d47f37568a9264dbb711586c85e206aba92e263e1485a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720339.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 35128,
+      "width": 482,
+      "height": 640,
+      "sha256": "072a1c980d4fc308dfdeeb9f1d060891f6113ac231af9c9d9cefb66fd73d83c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

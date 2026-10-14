@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlrha",
+  "scientific_name": "Chlorophyllum rhacodes",
+  "common_name": "Lépiote déguenillée",
+  "edibility": "E",
+  "description": "La Lépiote déguenillée est un champignon de taille moyenne à grande avec un chapeau de 5 à 15 cm de diamètre, d'abord en forme d'œuf devenant largement convexe avec un faible mamelon. Le chapeau est crème à beige, couvert d'écailles hirsutes brun-rougeâtre à fauve, redressées, plus concentrées vers le centre. La chair se tache de rouge-orangé à brun-rouge à la coupe ou au toucher (caractère diagnostique). Les lames sont libres, blanches et serrées. Le pied mesure 8 à 20 cm de haut, lisse à écailleux sous le grand anneau mobile, avec une base renflée et bulbeuse mais sans volve.",
+  "habitat": "Présente dans les sols riches des zones perturbées : jardins, tas de compost, paillis de copeaux de bois, zones paysagées et lisières forestières avec débris ligneux. Également dans les forêts de conifères et mixtes. Pousse au sol, souvent dans des substrats riches en nutriments avec de la matière organique en décomposition. Fructifie de manière dispersée à grégaire, parfois en ronds de sorcière.",
+  "season": "De la fin de l'été à l'automne (août à novembre) dans la plupart des régions. En Californie et dans les climats méditerranéens, peut fructifier en hiver et au printemps (novembre à mars) après les pluies. La fructification maximale suit les chaudes pluies d'automne.",
+  "regions": [
+    "Europe (indigène)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie (commun, surtout dans les jardins)",
+    "Est de l'Amérique du Nord (occasionnel)",
+    "Australie et Nouvelle-Zélande",
+    "régions tempérées du monde entier"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (toxique) — presque identique mais sporée verdâtre, symptômes gastro-intestinaux plus intenses",
+    "Chlorophyllum molybdites (toxique) — spores vertes, verdit au toucher, prairies",
+    "Macrolepiota procera (comestible) — plus grande, plus élancée, pied à motif de peau de serpent, ne rougit pas",
+    "Espèces de Lepiota (certaines mortelles) — taille plus petite, plus délicates"
+  ],
+  "safety_notes": "COMESTIBLE AVEC PRUDENCE : certaines personnes tolèrent bien ce champignon lorsqu'il est bien cuit, mais il provoque des troubles gastro-intestinaux chez d'autres (10 à 20 % des consommateurs). Les symptômes comprennent nausées et maux d'estomac 1 à 3 heures après ingestion. L'espèce proche C. brunneum est plus toxique. Bien cuire à haute température — ne jamais manger cru. Essayez d'abord une petite quantité pour tester votre tolérance. Vérifiez la sporée BLANCHE à gris pâle (pas verte). La réaction de rougissement à la coupe est utile mais non définitive. En raison du taux élevé de réactions indésirables et de la confusion avec C. brunneum, de nombreux experts recommandent d'éviter cette espèce.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1697672.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 53948,
+      "width": 640,
+      "height": 575,
+      "sha256": "fb03b288e729ed23237ea3b683587083e3a757553791d94528f6d724fb78b6ef"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698177.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 23006,
+      "width": 640,
+      "height": 519,
+      "sha256": "4acbeebde1334184676d41a225f2309dc2ec3492fb3c1137657a8ef7e9f9d5be"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

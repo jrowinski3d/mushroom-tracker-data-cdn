@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phasch",
+  "scientific_name": "Phaeolus schweinitzii",
+  "common_name": "Dyer's Polypore (Phaeolus schweinitzii)",
+  "edibility": "E",
+  "description": "너비 2-12인치의 크고 불규칙한 선반 또는 장미꽃 모양으로, 어릴 때 독특한 녹슨 갈색에서 주황갈색을 띠다가 자라면서 암갈색에서 검은색이 된다. 신선할 때는 부드럽고 스펀지 같은 조직이며, 밝은 노란색 관공 표면이 발달한다. 선반, 장미꽃 모양 또는 불규칙한 선반을 이룬다. 갈색 입방 부후를 일으킨다. 노란 줄무늬가 있는 암갈색 속살. 자라면서 부스러지는 검은색이 된다.",
+  "habitat": "살아 있거나 죽은 침엽수, 특히 소나무, 가문비나무, 전나무, 더글러스전나무의 기부와 뿌리에서 기생 및 부생한다. 침엽수의 갈색 입방 밑동 부후와 뿌리 부후를 일으킨다. 나무 기부 근처 땅, 뿌리, 하부 줄기에서 자란다. 침엽수림에서 흔하다.",
+  "season": "여름부터 가을까지, 보통 7월-10월. 늦여름에 일년생 자실체가 나타난다. 가을까지 지속되며 어둡고 부스러지기 쉬워진다. 침엽수림에서는 8월-9월이 최성기이다.",
+  "regions": [
+    "로키 산맥",
+    "태평양 북서부",
+    "북부 침엽수림",
+    "오대호 지역",
+    "캐스케이드 산맥",
+    "북부 삼림의 환북극 분포"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola(색이 더 밝고 조직이 다름)",
+    "Inonotus tomentosus(서식지가 비슷하고 색이 다름)",
+    "Onnia tomentosa(비슷하나 띠 무늬)",
+    "다른 갈색 침엽수 구멍버섯(다양한 종)"
+  ],
+  "safety_notes": "섭취 권장 안 함: 식용 분류에도 불구하고, 이 종은 대개 어린 때도 극도로 질기고 스펀지 같은 조직과 쓴맛 때문에 식용 불가로 여겨진다. 먹으려는 대부분의 사람에게 소화 장애를 일으킨다. 역사적으로 염료용으로 사용되었다(양모에 아름다운 노란색, 금색, 녹색을 낸다). 먹는 것이 아니라 생태적 역할과 염색 특성으로 감상하는 것이 가장 좋다. 너무 질기고 써서 섭취할 수 없다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1735596.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 114742,
+      "width": 480,
+      "height": 640,
+      "sha256": "3928b93ec106fb8d79f9607b03de0dd8bd425be03e42df494f0eade96c49af13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1735597.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 138586,
+      "width": 480,
+      "height": 640,
+      "sha256": "85795157976288edec84c0662da804ef1c76f232f6f7450bdd5e4cb580189d6c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

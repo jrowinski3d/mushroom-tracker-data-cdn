@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "herabi",
+  "scientific_name": "Hericium abietis",
+  "common_name": "soplówka jodłowa",
+  "edibility": "E",
+  "description": "Koralowa kolczakówka iglasta ma białą, rozgałęzioną strukturę (10–25 cm szerokości) o umiarkowanie rozgałęzionym, koralowatym wyglądzie, wyróżniającą się wzrostem WYŁĄCZNIE na drewnie IGLASTYM. Gałęzie noszą kępy zwisających KOLCÓW (0,5–2 cm długości), głównie na dolnych powierzchniach, lecz czasem częściowo dookoła gałęzi. Gałęzie są białe, mięsiste, mniej silnie podzielone niż u H. coralloides. Cały owocnik jest biały, gdy świeży, żółknie lub brązowieje z wiekiem. Miąższ biały, jędrny, o łagodnym smaku. Wyróżniana głównie przez iglasty żywiciel i pośrednie rozgałęzienie między H. americanum a H. coralloides.",
+  "habitat": "Saprotroficzny na drewnie IGLASTYM, zwłaszcza jodły, świerka, choiny i sosny. Rośnie na martwych kłodach, stojących martwych drzewach i pniakach drzew iglastych. Jest to jedyny gatunek Hericium regularnie rosnący na drzewach iglastych. Nie tworzy mikoryzy. Zazwyczaj pojawia się pojedynczo na kłodzie lub drzewie.",
+  "season": "Późne lato do jesieni (wrzesień–listopad), często później niż gatunki Hericium z drzew liściastych.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Góry Skaliste",
+    "Północne Stany Zjednoczone",
+    "Kanada",
+    "Europa Północna"
+  ],
+  "lookalikes": [
+    "Hericium coralloides – rośnie na drzewach liściastych, bardziej silnie rozgałęziony",
+    "Hericium americanum – rośnie na drzewach liściastych, grubsze gałęzie",
+    "Climacodon septentrionalis – podobny, lecz z większymi kolcami, inna budowa"
+  ],
+  "safety_notes": "JADALNY: dobry smak, podobny do innych gatunków Hericium, choć czasem nieco bardziej gorzki. Biały kolczasty wygląd i wyłączny związek z drewnem iglastym ułatwiają identyfikację. Nie istnieją trujące gatunki podobne. Najlepszy świeży i czysto biały – żółknięcie lub brązowienie świadczy o wieku. Delikatnie czyścić, by usunąć iglaste zanieczyszczenia z kolców.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714426.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 59586,
+      "width": 640,
+      "height": 480,
+      "sha256": "64ad0f9013daa01c68572b668c9906b6093066007124fbd95e76e9cd73bc0db5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1658775.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 45632,
+      "width": 640,
+      "height": 480,
+      "sha256": "8df4a3bad659adc85c7166e5684a14c98f94895920a7cda2aca912c464780318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

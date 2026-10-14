@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancin",
+  "scientific_name": "Cantharellus cinnabarinus",
+  "common_name": "Cinnabar Chanterelle (Cantharellus cinnabarinus)",
+  "edibility": "E",
+  "description": "주홍꾀꼬리버섯(붉은 꾀꼬리버섯)은 너비 1~4cm의 작고 독특한 버섯으로, 선명한 주홍색에서 분홍빛 적색의 갓을 가졌다. 갓은 매끄럽거나 약간 벨벳 같으며 나이가 들면 얕게 깔때기 모양이 되고 가장자리는 물결 모양이다. 아랫면에는 뭉툭하고 얕으며 갈라진 주름(진짜 주름살이 아님)이 있고 분홍빛 적색에서 연어분홍색이며 갓보다 옅은 경우가 많고 대를 따라 흘러내린다. 대는 속이 차 있고 가늘며 높이 2~5cm, 갓과 같은 색이거나 약간 옅다. 살은 분홍빛 흰색이며 얇으나 단단하고 순한 냄새가 난다. 포자문은 흰색에서 옅은 분홍색이다.",
+  "habitat": "동부 활엽수, 특히 참나무(Quercus 종), 미국너도밤나무, 히코리와 균근공생한다. 성숙한 낙엽수림과 혼합림에서 발견되며, 종종 동부의 다른 꾀꼬리버섯과 같은 서식지에서 난다. 비옥하고 산성인 낙엽층이 있는 배수가 잘되는 경사면을 선호한다.",
+  "season": "여름(6월~9월), 여름 비가 내린 뒤 따뜻하고 습한 시기에 자실체를 낸다. 최성기는 보통 7월~8월이다. 동부 삼림에서는 종종 C. lateritius, C. appalachiensis와 함께 난다.",
+  "regions": [
+    "미국 동부",
+    "남동부 주들 (특히 캐롤라이나, 테네시)",
+    "애팔래치아 지역",
+    "중부 대서양 연안 주들",
+    "오하이오강 유역"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius - 식용 가능, 더 크고 붉은색보다 주황분홍색에 가까우며 서식지와 계절 비슷",
+    "Jack-O'-Lantern (Omphalotus illudens) - 독성, 날카로운 진짜 주름살, 목재에서 자라며 붉은색보다 주황색",
+    "Hygrocybe 종(밀랍버섯) - 식용 가능성 다양, 진짜 주름살, 더 부서지기 쉬운 질감, 작음"
+  ],
+  "safety_notes": "식용 가능: 주홍꾀꼬리버섯은 작은 크기와 독특한 선명한 붉은색이 눈에 띄는 식용 버섯이다. 모든 꾀꼬리버섯과 마찬가지로 핵심 동정 특징은 진짜 주름살이 아닌 뭉툭하고 갈라진 주름이다. 이 주름은 얕으나 뚜렷하게 밀랍 같고 갓에 붙어 있다. 선명한 주홍색과 작은 크기로 꾀꼬리버섯 중에서도 비교적 동정이 쉽다. 작은 크기 때문에 다른 꾀꼬리버섯과 함께 채집되는 경우가 많다. 맛은 순하며, 신선하게 쓰거나 다른 버섯과 섞어 쓰는 것이 가장 좋다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700417.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 27518,
+      "width": 640,
+      "height": 427,
+      "sha256": "a998a577154e7fbb29aa9e7ff8a03d85904bd6a1dafecadc5a106e7060fa4d47"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700418.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 47598,
+      "width": 640,
+      "height": 427,
+      "sha256": "5cbe77df51c2eb2f433f2f537ca28b74a956cf29511aa7a93ef36483ee482530"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleery",
+  "scientific_name": "Pleurotus eryngii",
+  "common_name": "boczniak mikołajkowy",
+  "edibility": "E",
+  "description": "Charakterystyczny grzyb o małym brązowawym do brązowego kapeluszu o szerokości 2,5–10 cm i grubym, białym, mięsistym trzonie o wysokości 5–15 cm. W przeciwieństwie do typowych boczniaków grubość cylindrycznego trzonu jest cenioną częścią. Kapelusz ma zbiegające blaszki. Rośnie z korzeni martwych roślin zielnych, nie z drewna. Wyjątkowy wśród gatunków Pleurotus w Ameryce Północnej.",
+  "habitat": "Saprobiczny na korzeniach martwych i obumierających roślin zielnych, szczególnie ostów (gatunki Eryngium), mikołajków i innych baldaszkowatych w pustynnych i suchych regionach trawiastych. NIE występuje na drewnie jak inne gatunki Pleurotus. Rośnie z zakopanych korzeni w piaszczystych lub naruszonych glebach.",
+  "season": "Jesień do wiosny w suchych regionach, zwykle październik–kwiecień. Owocuje po zimowych i wiosennych deszczach w pustynnych i półpustynnych środowiskach. Może pojawiać się sporadycznie przez cały chłodny sezon przy odpowiedniej wilgotności.",
+  "regions": [
+    "pustynie południowo-zachodnie",
+    "południowa Kalifornia",
+    "regiony o klimacie śródziemnomorskim",
+    "suche i półsuche obszary trawiaste",
+    "rodzimy w regionie śródziemnomorskim, zadomowiony w Ameryce Północnej"
+  ],
+  "lookalikes": [
+    "inne gatunki Pleurotus (wszystkie rosną na drewnie, nie na korzeniach)",
+    "Pleurotus nebrodensis (podobny, ale inny zasięg)",
+    "uprawny boczniak królewski (ten sam gatunek, powszechnie sprzedawany w sklepach)",
+    "młode czubajki (inne przyrośnięcie blaszek, kolor zarodników)"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoko ceniony za gruby, mięsisty trzon o doskonałej fakturze i łagodnym smaku. Jeden z najpopularniejszych uprawianych grzybów specjalistycznych, sprzedawany w sklepach jako boczniak królewski. Dzikie okazy są wyśmienitymi grzybami jadalnymi po prawidłowym rozpoznaniu. Gruby trzon jest najbardziej pożądaną częścią. Gotuj dokładnie, aby wydobyć najlepszy smak i fakturę.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1452110.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 35740,
+      "width": 640,
+      "height": 447,
+      "sha256": "a76c50852810d3c2a992f8ad40877ef012a925a1c9fd62260dff561521521378"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1452111.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 33090,
+      "width": 640,
+      "height": 466,
+      "sha256": "81d27168cf26c777b1997fbad54c80acaed53c24e15b7bcd027be23aeb19eab3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

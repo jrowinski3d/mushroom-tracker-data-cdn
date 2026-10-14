@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clapis",
+  "scientific_name": "Clavariadelphus pistillaris",
+  "common_name": "Clavaire géante",
+  "edibility": "E",
+  "description": "La Clavaire géante est un champignon en forme de massue, grand et impressionnant, de 10 à 30 cm de haut et 3 à 8 cm de large. La fructification est en forme de pilon ou de massue avec un sommet arrondi à légèrement pointu (non aplati). La couleur est blanche quand elle est très jeune, devenant jaunâtre, ocre, fauve ou brun-rosé avec l'âge. La surface est lisse ou finement ridée. La base est souvent blanchâtre avec des filaments mycéliens blancs. La chair est blanche, cassante quand elle est fraîche, avec une odeur douce devenant désagréable avec l'âge. Structure unique non ramifiée, parfois légèrement comprimée ou sillonnée.",
+  "habitat": "Présente dans les forêts de feuillus et mixtes, en particulier sous les hêtres, les chênes et les érables. Forme des associations mycorhiziennes avec les feuillus. Pousse au sol dans un humus riche. Fructifie de manière dispersée ou en petits groupes. Préfère les forêts matures avec une épaisse litière de feuilles. Plus commune en terrain montagneux ou vallonné.",
+  "season": "De la fin de l'été à l'automne (août à novembre) dans la plupart des régions. En Europe, principalement septembre-octobre. Fructification maximale à l'automne. Nécessite un été chaud suivi des pluies d'automne et de températures fraîches.",
+  "regions": [
+    "Europe (répandu)",
+    "Est de l'Amérique du Nord (peu commun)",
+    "Appalaches",
+    "Nord-Est des États-Unis",
+    "Sud-Est du Canada",
+    "forêts tempérées de feuillus"
+  ],
+  "lookalikes": [
+    "Clavariadelphus truncatus (comestible) — taille semblable mais sommet aplati, conifères",
+    "Clavariadelphus sachalinensis (comestible) — plus brun-orangé, côte Ouest",
+    "Gomphus clavatus (comestible) — tons violet-gris, sommet en forme d'oreille de porc",
+    "Grands vesses-de-loup (Lycoperdon) — semblables mais ronds, spores poudreuses à maturité"
+  ],
+  "safety_notes": "COMESTIBLE mais médiocre : considéré comme comestible quand il est jeune, mais la texture est pauvre et la saveur fade à désagréable. Devient caoutchouteux, coriace et amer avec l'âge. Historiquement consommé en période de disette, mais non recommandé. Pas de sosies toxiques. Les jeunes spécimens blancs sont les meilleurs si vous tentez l'expérience. La grande taille peut séduire, mais la qualité culinaire est décevante. Le sommet arrondi (non plat) et la grande taille le distinguent des autres champignons en massue. Plus remarquable comme spécimen forestier impressionnant que comme aliment. Sans danger mais sans intérêt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/540202.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 67776,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9583c792682c2c0b37471be7c3bf74d658405b13b0238083c11b4412338a8f7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/540203.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 76540,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e8de2d8a0b2d2204727f6bdb137e5c81ae9c5e996140edce69b790b8db18c9a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

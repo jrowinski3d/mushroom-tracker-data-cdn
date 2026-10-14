@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "albovi",
+  "scientific_name": "Albatrellus ovinus",
+  "common_name": "Políporo ovino",
+  "edibility": "E",
+  "description": "Hongo de color blanco a crema con sombreros irregulares deprimidos de 5-15 cm de ancho, a menudo fusionados en grupos. Pie grueso, central a excéntrico, de 2,5-7,5 cm de alto. Poros pequeños de color blanco a crema en el envés. Carne firme y quebradiza. A menudo crece en grupos fusionados de varios sombreros. Se mancha de amarillo con la edad o la manipulación. Forma y color distintivos.",
+  "habitat": "Micorrícico con coníferas, particularmente píceas, abetos y pinos en regiones montañosas. Crece en el suelo en bosques de coníferas, a menudo entre musgo. Común en bosques montanos y subalpinos de pícea-abeto. Prefiere suelos ácidos. Se encuentra disperso o en pequeños grupos.",
+  "season": "Verano a otoño en las montañas, típicamente de julio a octubre. Fructificación máxima en agosto-septiembre. Fructifica después de las lluvias de verano en bosques de coníferas de alta elevación. Más común a mediados y finales del verano.",
+  "regions": [
+    "Montañas Rocosas",
+    "Cordillera de las Cascadas",
+    "Sierra Nevada",
+    "Bosques montanos del norte",
+    "Montañas del Pacífico Noroeste",
+    "Circumboreal en regiones del norte"
+  ],
+  "lookalikes": [
+    "Albatrellus confluens (tonos más anaranjados, hábitat similar)",
+    "Otras especies de Albatrellus (aspecto y comestibilidad similares)",
+    "Especies de Scutiger (similares pero con diferente estructura de poros)",
+    "Bondarzewia jóvenes (mucho más grandes, hábitat diferente)"
+  ],
+  "safety_notes": "COMESTIBLE cuando es joven y fresco: buen hongo comestible con sabor suave cuando es joven y tierno. Los ejemplares viejos se vuelven duros, amargos y desarrollan propiedades laxantes: evitarlos. Mejor cuando son pequeños y blancos, sin amarilleamiento. Cocinar bien. La textura quebradiza y el sabor suave son agradables en los ejemplares jóvenes. Generalmente seguro, pero la calidad decae rápidamente con la edad. Recolectar solo ejemplares frescos y blancos.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501167.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 51260,
+      "width": 508,
+      "height": 640,
+      "sha256": "3ed0ad19b80a23f9c88ec0cb620cbcf5a0b9f3456fb4938cfc7a956d9422f37b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501168.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 100704,
+      "width": 480,
+      "height": 640,
+      "sha256": "ad9821e3ae8d123f25d72da39bd94b04234fb13913299cc03fddbb2641c3cec2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

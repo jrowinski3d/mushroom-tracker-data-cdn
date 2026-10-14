@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscla",
+  "scientific_name": "Russula claroflava",
+  "common_name": "Сироїжка жовта",
+  "edibility": "E",
+  "description": "Жовта болотна сироїжка має яскраво-жовту шапинку (3–10 см), липку. Пластинки від білих до кремових. Ніжка біла. КЛЮЧОВІ ОЗНАКИ: ЯСКРАВО-ЖОВТА ШАПИНКА, ЛАМКА М'ЯКОТЬ, росте у ВОЛОГИХ/БОЛОТЯНИХ місцях. М'якоть біла. Споровий відбиток від білого до кремового. Смак м'який до злегка їдкого.",
+  "habitat": "Мікоризний з березою та вербою у ВОЛОГИХ місцях — болотах, трясовинах, мокрих лісах. Характерне болотне місцезростання. Північний вид. Росте розрізнено.",
+  "season": "З літа до осені (липень–вересень).",
+  "regions": [
+    "Північний схід",
+    "Верхній Середній Захід",
+    "Канада",
+    "Північна Європа"
+  ],
+  "lookalikes": [
+    "Інші жовті сироїжки — перевірте місцезростання",
+    "Молочники (Lactarius) — виділяють молочний сік"
+  ],
+  "safety_notes": "ЇСТІВНИЙ: м'який смак. ЯСКРАВО-ЖОВТА + БОЛОТНЕ МІСЦЕЗРОСТАННЯ + ЛАМКА М'ЯКОТЬ — діагностичні ознаки. Проба на смак (м'які екземпляри їстівні). Готуйте ретельно.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681665.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-09",
+      "file_size_bytes": 51142,
+      "width": 640,
+      "height": 550,
+      "sha256": "bd860f8e55839072f83b62dc560ed844b31f7c93e77777ce7007fb6f53b28d13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1681662.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-08",
+      "file_size_bytes": 27474,
+      "width": 640,
+      "height": 480,
+      "sha256": "40b560f384bb490cd8305e722afeafd8634a91715bdc1637b162df8f4e37f12f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

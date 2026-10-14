@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agabit",
+  "scientific_name": "Agaricus bitorquis",
+  "common_name": "pieczarka miejska",
+  "edibility": "E",
+  "description": "Pieczarka miejska, zwana też pieczarką wiosenną, to krępy, masywny gatunek o kapeluszu 5-15 cm średnicy, początkowo kulistym, z wiekiem wypukłym. Kapelusz biały do kremowego, gładki lub z lekkim pękaniem, z wiekiem lub przy uszkodzeniu często przebarwiający się na żółtawobrązowo. Blaszki wolne, początkowo bladoróżowe, z wiekiem czekoladowobrązowe. Trzon 3-8 cm wysokości, bardzo krótki i krępy (charakterystyczny), biały, z podwójnym pierścieniem (często wyglądającym jak dwa oddzielne pierścienie, stąd \"bitorquis\"). Miąższ zwarty, biały, o łagodnym przyjemnym zapachu. Wyraźnie twardsza i bardziej odporna niż inne pieczarki.",
+  "habitat": "Występuje w silnie przekształconych środowiskach miejskich, w tym szczelinach chodników, zagęszczonej glebie przy drogach, parkingach, żwirowych ścieżkach, rabatach ogrodowych i pod asfaltem. Niezwykle tolerancyjna wobec ubogiej gleby i działalności człowieka. Także w ogrodach i na trawnikach z ubitą glebą. Owocnikuje rozproszone do kępkowo, często przebijając się przez twarde nawierzchnie.",
+  "season": "Od wiosny do jesieni (kwiecień-listopad) ze szczytem pod koniec wiosny i wczesnym latem. W łagodnym klimacie, jak w Kalifornii, może owocować przez cały rok. Bardziej odporna na zimno niż większość pieczarek, często pojawia się w chłodną pogodę, gdy inne są nieobecne.",
+  "regions": [
+    "Europa (rodzima)",
+    "Ameryka Północna (rozpowszechniona, wszystkie regiony)",
+    "Kalifornia (bardzo pospolita)",
+    "Tereny zurbanizowane na całym świecie",
+    "Klimat umiarkowany i subtropikalny",
+    "Kosmopolityczna w miastach"
+  ],
+  "lookalikes": [
+    "Agaricus campestris (jadalny) - delikatniejszy, wyższy trzon, siedlisko łąkowe",
+    "Agaricus bisporus (grzyb uprawny, jadalny) - podobny, ale uprawny, mniej masywny",
+    "Młode muchomory (niektóre śmiertelnie trujące) - mają pochwę u podstawy, blaszki nie różowieją do brązu",
+    "Agaricus bernardii (jadalny) - gatunek nadmorski, słone siedlisko, podobny wygląd"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Doskonała do jedzenia, o zwartej, gęstej konsystencji dobrze zachowującej się w gotowaniu. Często bardziej aromatyczna niż sklepowe pieczarki. Dokładnie ugotować. Kluczowa identyfikacja: potwierdzić bardzo KRÓTKI KRĘPY trzon (cecha charakterystyczna), PODWÓJNY pierścień, WOLNE blaszki różowiejące, a potem czekoladowobrązowe, CZEKOLADOWOBRĄZOWY wysyp zarodników, BRAK pochwy u podstawy, siedlisko miejskie/zaburzone. Krępa budowa i chodnikowe siedlisko są charakterystyczne. Dokładnie umyć, ponieważ okazy często rosną w zanieczyszczonych środowiskach miejskich. Wysoce odporna na uszkodzenia i żerowanie owadów.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667634.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 30240,
+      "width": 299,
+      "height": 640,
+      "sha256": "b8c0822eca069f9adac112fea1b3b5f29ede428a0e55ca49c9c310abc42faec6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667635.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 44562,
+      "width": 640,
+      "height": 351,
+      "sha256": "a0618a54d140d180bee42b7373c27eb12cfb3ab5d05f36b110833f80a157b540"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

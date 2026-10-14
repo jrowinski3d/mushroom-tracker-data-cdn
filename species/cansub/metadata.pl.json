@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cansub",
+  "scientific_name": "Cantharellus subalbidus",
+  "common_name": "White Chanterelle (Cantharellus subalbidus)",
+  "edibility": "E",
+  "description": "Pieprznik biały ma biały do kremowego lub blado płowego kapelusz o szerokości 4–15 cm, czasem z żółtawymi odcieniami pojawiającymi się z wiekiem lub po uszkodzeniu. Kapelusz jest gładki, z dojrzałością staje się głęboko lejkowaty, o falistym, nieregularnym brzegu, który często unosi się ku górze. Spodnia strona ma grube, tępe, rozwidlone listewki (NIE są to prawdziwe blaszki), białe do kremowych, rzadko rozstawione, wyraźnie zbiegające po trzonie. Trzon jest pełny, krępy, wysoki na 3–12 cm, biały do kremowego, często dość masywny i maczugowaty. Miąższ biały, bardzo zwarty, o łagodnym do lekko owocowego zapachu. Wysyp zarodników biały do blado kremowego.",
+  "habitat": "Mikoryzowy głównie z drzewami iglastymi Północnego Zachodu Pacyfiku, w tym daglezją, choiną zachodnią, świerkiem sitkajskim i jodłami. Występuje w nadbrzeżnych i górskich lasach iglastych, często w miejscach z grubą warstwą mchu i ściółki. Preferuje dobrze przepuszczalne zbocza i dojrzałe siedliska leśne.",
+  "season": "Od jesieni do zimy (wrzesień–luty), owocnikuje wraz z nadejściem jesiennych deszczy i przez cały okres wilgotny. Szczyt zbiorów przypada zwykle na październik–styczeń. Jeden z później owocnikujących pieprzników na Północnym Zachodzie Pacyfiku.",
+  "regions": [
+    "Północny Zachód Pacyfiku (Waszyngton, Oregon, Północna Kalifornia)",
+    "Kolumbia Brytyjska",
+    "Góry Kaskadowe",
+    "Wybrzeże Oregonu i Waszyngtonu",
+    "Góry Sierra Nevada (Północna Kalifornia)"
+  ],
+  "lookalikes": [
+    "Cantharellus californicus – jadalny, podobny biały kolor, ale przebarwia się na brązowo i pomarańczowo, występuje dalej na południu przy dębach",
+    "Cantharellus cascadensis – jadalny, blado żółty do kremowego, wyższe położenia, bardzo podobny",
+    "Gatunki Hygrophorus (wodnichy) – jadalne, mają prawdziwe blaszki, które są woskowate, ale wyraźne, inna konsystencja"
+  ],
+  "safety_notes": "JADALNY: Pieprznik biały to znakomity grzyb jadalny, ceniony za łagodny smak i zwarty miąższ. Jak u wszystkich pieprzników, kluczową cechą rozpoznawczą są grube, tępe, rozwidlone listewki, które w dotyku są woskowate i stanowią ciągłość z miąższem kapelusza, a nie cienkie, ostrzowe prawdziwe blaszki innych grzybów. Biało-kremowe zabarwienie wyróżnia go spośród pieprzników, ale wymaga uważnego sprawdzenia struktury listewek dla pewnej identyfikacji. Zawsze sprawdzaj, czy rośnie z gleby w pobliżu drzew iglastych. Smak łagodny i delikatny; doskonały duszony lub w potrawach na bazie śmietany.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725764.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 88178,
+      "width": 640,
+      "height": 454,
+      "sha256": "7f20af0347d62bca6726dc4dc738619761e24a7bcf1250253d9eeb233018e452"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691129.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 77272,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7976d4f0fbe820123466bd7948e5178f42fe36f78897f041037ab93c8216cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

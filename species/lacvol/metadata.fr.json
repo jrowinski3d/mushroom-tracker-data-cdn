@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacvol",
+  "scientific_name": "Lactifluus volemus",
+  "common_name": "Vachotte",
+  "edibility": "E",
+  "description": "La vachotte présente un chapeau brun-orange à brun-rougeâtre (5-12 cm), sec, velouté. Lames crème, serrées, se tachant de brun. Pied similaire au chapeau. CLÉ : LAIT BLANC ABONDANT, ODEUR DE POISSON à maturité. Le lait ne change pas de couleur. Chair ferme, blanche. Sporée blanche. L'abondance du lait et l'odeur de poisson sont diagnostiques.",
+  "habitat": "Mycorhizien des FEUILLUS, notamment le chêne. Pousse au sol dans les forêts mixtes et de feuillus. Commun dans les forêts de l'est. Dispersé ou en groupes.",
+  "season": "De l'été à l'automne (juillet-octobre), fructification tout au long de la saison.",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest",
+    "Sud-Est",
+    "Centre-Sud"
+  ],
+  "lookalikes": [
+    "Lactifluus corrugis — similaire mais plus grand, chapeau ridé",
+    "Autres Lactifluus — vérifier l'odeur et l'abondance du lait"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Excellente saveur de noisette malgré l'odeur de poisson (disparaît à la cuisson). Le LAIT BLANC ABONDANT + l'ODEUR DE POISSON sont diagnostiques. L'un des meilleurs lactaires pour la table. Meilleur jeune. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713865.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 58696,
+      "width": 640,
+      "height": 482,
+      "sha256": "9110570d37ed7ac338b3c87edd414ce36612f3b4b12e9342a702d3b8fab14cd9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713866.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 75838,
+      "width": 640,
+      "height": 482,
+      "sha256": "5ee558641d816d1e4d4d17fd656481c977ca91568cbd39ab8da7f573934640ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

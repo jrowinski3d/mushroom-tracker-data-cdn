@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "clineb",
+  "scientific_name": "Clitocybe nebularis",
+  "common_name": "Clitocybe nébuleux",
+  "edibility": "E",
+  "description": "Le Clitocybe nébuleux ou Clitocybe nuageux est un champignon grand et robuste avec un chapeau de 8 à 20 cm de diamètre, d'abord convexe à marge enroulée, devenant plat à en entonnoir avec l'âge. Le chapeau est gris-brun, gris-fauve ou gris nuageux (comme un ciel nuageux), souvent avec des zones plus sombres et plus claires lui donnant un aspect strié. La surface est lisse, sèche à grasse. Les lames sont adnées à légèrement décurrentes, serrées, blanches à crème. Le pied mesure 6 à 12 cm de haut, trapu, gris pâle à beige, fibreux. La chair est épaisse, blanche, avec une forte odeur sucrée, florale ou écœurante (pas toujours agréable).",
+  "habitat": "Présent dans les forêts de feuillus et de conifères, les lisières et la litière de feuilles. Pousse comme décomposeur de litière dans un humus riche. Fructifie de manière dispersée à grégaire, souvent en grandes troupes ou en ronds de sorcière. Préfère les zones à abondante matière organique et à épaisse litière de feuilles.",
+  "season": "De la fin de l'été à l'automne et au début de l'hiver (septembre à décembre). Fructifie jusqu'en hiver dans les climats doux. L'un des champignons tardifs apparaissant après les gelées. Pic à la fin de l'automne (octobre-novembre).",
+  "regions": [
+    "Europe (très commun)",
+    "Est de l'Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (commun)",
+    "forêts tempérées du monde entier",
+    "cosmopolite dans la litière de feuilles"
+  ],
+  "lookalikes": [
+    "Espèces de Clitocybe (certaines mortelles) — nombreuses espèces gris-brun semblables, certaines toxiques",
+    "Entoloma sinuatum (toxique) — taille et couleurs semblables mais spores roses et pas d'odeur sucrée",
+    "Espèces de Lepista — tons violets, spores roses",
+    "Espèces d'Hygrophorus — lames cireuses, habitat différent"
+  ],
+  "safety_notes": "COMESTIBLE MAIS PRUDENCE : considéré comme comestible par certains, mais PROVOQUE DES TROUBLES DIGESTIFS chez de nombreuses personnes et N'EST PAS RECOMMANDÉ. Peut causer nausées, vomissements et diarrhée même bien cuit. Certaines sources le considèrent comme suspect ou non comestible. Le risque de confusion avec des espèces toxiques de Clitocybe est élevé. La forte odeur sucrée est distinctive mais pas toujours agréable. Même correctement identifié, beaucoup de gens ne le tolèrent pas. Il existe de meilleurs comestibles. Si vous tentez l'expérience, bien cuire, essayez d'abord de minuscules quantités et préparez-vous à d'éventuels troubles. Le chapeau gris-brun nuageux et l'odeur sucrée sont diagnostiques. NON recommandé en raison des nombreux cas rapportés de malaises et des risques de confusion.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725219.jpg",
+      "photographer": "(c) Myles McSweeney, all rights reserved",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "observation_date": "2024-10-19",
+      "file_size_bytes": 81968,
+      "width": 480,
+      "height": 640,
+      "sha256": "f8ae6f9c3be27230a239ee41370dc50235addd10926c1999c368e9f9a4ba2f91"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651552.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48724,
+      "width": 482,
+      "height": 640,
+      "sha256": "69e102213907378df2fda9a002305293be980dd54056e379244b879f45102cd4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.271746",
+  "source_language": "en"
+}

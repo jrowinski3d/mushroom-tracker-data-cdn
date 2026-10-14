@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "clineb",
+  "scientific_name": "Clitocybe nebularis",
+  "common_name": "Pudrad trattskivling",
+  "edibility": "E",
+  "description": "Pudrad trattskivling är en stor robust svamp med hatt 8–20 cm bred, till en början konvex med inrullad kant och senare platt till trattformad med åldern. Hatten är gråbrun, gråbeige eller molngrå (som en molnig himmel), ofta med mörkare och ljusare zoner som ger ett strimmigt utseende. Ytan är slät, torr till fet. Skivorna är vidfästa till lätt nedlöpande, täta, vita till gräddvita. Foten är 6–12 cm hög, kraftig, blekt grå till beigefärgad, trådig. Köttet är tjockt, vitt, med stark söt blommig eller kvalmigt söt doft (inte alltid behaglig).",
+  "habitat": "Finns i löv- och barrskog, skogsbryn och förna. Växer som förnanedbrytare i rik mull. Fruktsätter spritt till gruppvis, ofta i stora trupper eller häxringar. Föredrar områden med rikligt organiskt material och djup förna.",
+  "season": "Sensommar till höst och tidig vinter (september–december). Fruktsätter in på vintern i milda klimat. En av de sena säsongssvamparna som dyker upp efter frosten. Toppen i sen höst (oktober–november).",
+  "regions": [
+    "Europa (mycket vanlig)",
+    "Östra Nordamerika (vanlig)",
+    "Nordvästra Stillahavsområdet (vanlig)",
+    "Tempererade skogar över hela världen",
+    "Kosmopolitisk i förna"
+  ],
+  "lookalikes": [
+    "Clitocybe-arter (vissa dödliga) – många liknande gråbruna arter, vissa giftiga",
+    "Entoloma sinuatum (giftig) – liknande storlek och färger men rosa sporer och ingen söt doft",
+    "Lepista-arter – purpurtonade, rosa sporer",
+    "Hygrophorus-arter – vaxartade skivor, annan livsmiljö"
+  ],
+  "safety_notes": "ÄTLIG MEN VARNING: Anses ätlig av vissa men ORSAKAR MATSMÄLTNINGSBESVÄR hos många och REKOMMENDERAS INTE. Kan orsaka illamående, kräkningar och diarré även vid ordentlig tillagning. Vissa källor anser den tveksam eller oätlig. Risken för förväxling med giftiga Clitocybe-arter är hög. Den starka söta doften är distinkt men inte alltid behaglig. Även vid korrekt bestämning tål många den inte. Bättre matsvampar finns. Om man försöker, tillaga ordentligt, prova mycket små mängder först och räkna med möjliga besvär. Den molnigt gråbruna hatten och söta doften är diagnostiska. Rekommenderas INTE på grund av omfattande rapporter om sjukdomsfall och förväxlingsrisker.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725219.jpg",
+      "photographer": "(c) Myles McSweeney, all rights reserved",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "observation_date": "2024-10-19",
+      "file_size_bytes": 81968,
+      "width": 480,
+      "height": 640,
+      "sha256": "f8ae6f9c3be27230a239ee41370dc50235addd10926c1999c368e9f9a4ba2f91"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651552.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48724,
+      "width": 482,
+      "height": 640,
+      "sha256": "69e102213907378df2fda9a002305293be980dd54056e379244b879f45102cd4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.271746",
+  "source_language": "en"
+}

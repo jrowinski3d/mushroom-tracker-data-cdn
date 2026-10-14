@@ -1,0 +1,40 @@
+{
+  "mushroom_id": "armost",
+  "scientific_name": "Armillaria ostoyae",
+  "common_name": "Mörkfjällig honungsskivling",
+  "edibility": "E",
+  "description": "Den mörkfjälliga honungsskivlingen har en mörkbrun till svartbrun hatt (3–12 cm) tätt täckt med MÖRKBRUNA TILL SVARTA FJÄLL, särskilt i mitten – mörkare än andra honungsskivlingar. Skivorna är vita till krämfärgade, vidfästa, och utvecklar bruna missfärgningar. Foten har en KVARSTÅENDE RING som kan ha ludna, gulaktiga fläckar på undersidan. Foten är vitaktig ovanför ringen, brunaktig nedanför med mörka fibrer eller fjäll. Växer i TÄTA KNIPPEN på barrträd. Köttet är vitt, fast. Sporfällning vit. Svarta rhizomorfer förekommer. Känd som världens största organism – en enda klon i Oregon täcker cirka 970 hektar (2 400 acres).",
+  "habitat": "Parasitisk och saprofyt på BARRTRÄD, särskilt tall, ädelgran, gran och hemlock. Växer i stora knippen vid basen av levande eller döda barrträd och stubbar. Mycket destruktiv trädskadegörare som orsakar rotröta. Mindre vanlig på lövträd. Vitt utbredd i barrskog.",
+  "season": "Höst (september–november), växer efter höstregn. Senare än många svampar.",
+  "regions": [
+    "nordvästra USA",
+    "Klippiga bergen",
+    "nordöstra USA",
+    "övre Mellanvästern",
+    "Kanada",
+    "norra Europa"
+  ],
+  "lookalikes": [
+    "Armillaria mellea – liknande men mindre mörk, bredare värdväxter",
+    "andra honungsskivlingar – kräver alla tillagning",
+    "Pholiota-arter – bruna sporer",
+    "Galerina-arter – DÖDLIGA – mindre, bruna sporer, annan miljö"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Honungsskivlingar (Armillaria-arter) är GIFTIGA som råa och måste tillagas ordentligt före förtäring. Tillaga minst 10–15 minuter på hög värme. Även vid korrekt tillagning får vissa personer allergiska reaktioner eller magbesvär. Smaka en liten mängd först för att testa din tolerans. Förvällning före tillagning kan minska magirriterande ämnen och bitter smak. Ät inte tillsammans med alkohol – honungsskivlingar kan ge oönskade reaktioner i kombination med alkohol (liknande Coprinopsis). Plocka endast unga, fasta exemplar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713954.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 45026,
+      "width": 480,
+      "height": 640,
+      "sha256": "11812fb3ce1687a77c36fefaeedb2c9efb22bca30d40c144f2c716e676ee0b08"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

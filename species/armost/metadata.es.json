@@ -1,0 +1,40 @@
+{
+  "mushroom_id": "armost",
+  "scientific_name": "Armillaria ostoyae",
+  "common_name": "Dark Honey Mushroom (Armillaria ostoyae)",
+  "edibility": "E",
+  "description": "La armilaria oscura de miel tiene un sombrero de color marrón oscuro a marrón negruzco (3-12 cm) densamente cubierto de ESCAMAS DE MARRÓN OSCURO A NEGRO, especialmente en el centro: más oscura que otras especies de Armillaria. Las láminas son de blancas a crema, adheridas, desarrollando manchas marrones. El pie tiene un ANILLO PERSISTENTE que puede tener manchas algodonosas amarillentas en el envés. El pie es blanquecino sobre el anillo, parduzco debajo con fibras o escamas oscuras. Crece en GRUPOS DENSOS sobre coníferas. La carne es blanca, firme. La esporada es blanca. Rizomorfos negros presentes. Famosa por ser el organismo más grande de la Tierra: un solo clon en Oregón cubre 2.400 acres.",
+  "habitat": "Parásita y saprobia en CONÍFERAS, especialmente pinos, abetos, píceas y tsugas. Crece en grandes grupos en la base de coníferas vivas o muertas y tocones. Patógeno de árboles muy destructivo que causa pudrición de raíces. Menos común en frondosas. Extendida en bosques de coníferas.",
+  "season": "Otoño (septiembre-noviembre), fructificando después de las lluvias otoñales. Más tardía que muchos hongos.",
+  "regions": [
+    "Pacífico Noroeste",
+    "Montañas Rocosas",
+    "Noreste",
+    "Alto Medio Oeste",
+    "Canadá",
+    "Norte de Europa"
+  ],
+  "lookalikes": [
+    "Armillaria mellea - similar pero menos oscura, rango de hospedantes más amplio",
+    "Otras especies de Armillaria - todas requieren cocción",
+    "Especies de Pholiota - esporas marrones",
+    "Especies de Galerina - MORTALES - más pequeñas, esporas marrones, hábitat diferente"
+  ],
+  "safety_notes": "COMESTIBLE CON PRECAUCIÓN: Los hongos de miel (especies de Armillaria) son VENENOSOS en crudo y deben cocinarse bien antes de consumirlos. Cocinar durante al menos 10-15 minutos a fuego fuerte. Incluso bien cocinados, algunas personas experimentan reacciones alérgicas o malestar digestivo. Probar primero una pequeña cantidad para comprobar la tolerancia. Escaldar antes de cocinar puede ayudar a reducir los irritantes gastrointestinales y el sabor amargo. No consumir con alcohol: los hongos de miel pueden causar reacciones adversas combinados con alcohol (similar a Coprinopsis). Recolectar solo ejemplares jóvenes y firmes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713954.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 45026,
+      "width": 480,
+      "height": 640,
+      "sha256": "11812fb3ce1687a77c36fefaeedb2c9efb22bca30d40c144f2c716e676ee0b08"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "auraur",
+  "scientific_name": "Auricularia auricula-judae",
+  "common_name": "Judasöra",
+  "edibility": "E",
+  "description": "Judasörat är en distinkt gelésvamp med öronformade fruktkroppar 3–12 cm breda. Fruktkroppen är tunn, gummiartat-geléartad, till en början skålformad och blir öron- eller musselformad med åldern. Den yttre (fertila) ytan är slät till rynkig, rödbrun till mörkbrun, ofta med purpurgrå ton. Den inre ytan är beige-grå och lätt sammetisk med fina hår. Konsistensen är seg och elastisk när den är färsk, blir hård och skrumpnad när den är torr men återhämtar sig när den fuktas. Ingen distinkt fot.",
+  "habitat": "Växer på döda och döende lövträdgrenar och stockar, särskilt fläder (Sambucus), men även på ek, pil och andra lövträd. Växer som vednedbrytare, vanligen på fallna grenar eller stående död ved. Växer i kluster eller rader längs grenar. Vanlig i fuktiga skogar och skogsbryn.",
+  "season": "Året runt i milda klimat, men rikligast från höst till vår (september–maj). I tempererade områden främst höst och vår (augusti–november, mars–maj). Kan komma på vintern i områden med mildt vått väder. Kräver jämn fuktighet.",
+  "regions": [
+    "Europa (vitt utbredd)",
+    "östra Nordamerika (vanlig)",
+    "nordvästra USA",
+    "Kalifornien (enstaka)",
+    "Asien (mycket vanlig)",
+    "tempererade skogar världen över"
+  ],
+  "lookalikes": [
+    "Auricularia americana (ätlig) – mycket lik, nordamerikansk art, något tjockare",
+    "Exidia-arter (ätliga) – mer knapp- eller hjärnlika, inte öronformade",
+    "Tremella-arter (ätliga) – mer hjärnlika eller veckade",
+    "Bulgaria inquinans (oätlig) – svart, gummiartad, halvsfärisk inte öronformad"
+  ],
+  "safety_notes": "ÄTLIG: Vida konsumerad i asiatisk matlagning, uppskattad för sin krispiga konsistens och förmåga att absorbera smaker. Populär i soppor, wokade rätter och sallader. Måste tillagas – ät inte rå. Konsistensen förblir krispigt seg även efter tillagning. Näringsrik och vanligt odlad. Färska exemplar bör rengöras väl eftersom de fångar skräp. Torkade exemplar måste återhydreras före tillagning. Inga giftiga dubbelgångare. Öronformen och växten på fläder/lövträd är distinktiv. Smaklös i sig men utmärkt på att absorbera såser.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493169.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 90872,
+      "width": 640,
+      "height": 480,
+      "sha256": "69dca539045c9109d9c02f521e09ad74b3bd49ecd2ff3d03592433c62ea6aa38"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493170.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 99828,
+      "width": 640,
+      "height": 480,
+      "sha256": "53742276a39e5b60e6b660873c86789487ab34456dacbb2744b194aeb71f577b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

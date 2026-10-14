@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canlat",
+  "scientific_name": "Cantharellus lateritius",
+  "common_name": "Smooth Chanterelle (Cantharellus lateritius)",
+  "edibility": "E",
+  "description": "Den släta kantarellen har en orange till rosa-orange eller laxfärgad hatt 2–10 cm bred med en anmärkningsvärt slät yta. Hattkanten är vågig och blir grunt trattlik med åldern. Undersidan har trubbiga, grunda, gafflade ribbor (INTE äkta skivor) som är rosa-orange, glest ställda och löper nedför foten. Ribborna är mindre framträdande än hos andra kantareller, ibland knappt synliga. Foten är solid, 3–8 cm hög, slät, orange till rosaaktig, ofta mörkare orange vid basen. Köttet är vitt till blekt orange, fast, med mild doft. Sporfällningen är vit till blekrosa.",
+  "habitat": "Mykorrhiza med östliga lövträd, särskilt ek (Quercus-arter), amerikansk bok och hickory. Förekommer i mogna lövskogar, ofta på väldränerade sluttningar och åsar. Föredrar områden med tjockt lövförna och sura jordar i blandade lövskogar.",
+  "season": "Sommar (juni–september), fruktar under varmt, fuktigt väder efter sommarregn. Högsäsong är vanligen juli–augusti i större delen av utbredningsområdet. Kan fortsätta in på tidig höst vid tillräcklig fukt.",
+  "regions": [
+    "Östra USA (utbredd)",
+    "Sydöstra staterna (Alabama till Georgia)",
+    "Mellanatlantiska regionen (Virginia till Maryland)",
+    "Ohioflodens dal",
+    "Appalachregionen"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus illudens) – GIFTIG, har äkta vassa skivor, växer på trä, mer intensivt orange, lyser i mörker",
+    "Cantharellus cinnabarinus – Ätlig, djupare rödorange färg, mindre, i övrigt mycket lik",
+    "Cantharellus appalachiensis – Ätlig, gul-orange, mer framträdande ribbor, finns ofta i samma miljö"
+  ],
+  "safety_notes": "ÄTLIG: Den släta kantarellen är en god matsvamp med mild smak. Det avgörande säkerhetskännetecknet är att identifiera de trubbiga, grunda ribborna snarare än äkta skivor – även om ribborna är mindre framträdande än hos andra kantareller känns de fortfarande vaxartade och är sammanvuxna med hatten. Bekräfta alltid att den växer från jord nära träd, aldrig på trä. Den släta hattytan och rosa-orange färgen hjälper till att skilja den från den giftiga Jack-O'-Lantern. Smaken är mild och behaglig; bäst stekt eller i blandade svamprätter.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493438.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-30",
+      "file_size_bytes": 75652,
+      "width": 640,
+      "height": 480,
+      "sha256": "26868116b9a57188a719e933355a0a3b937d610df76f46a7933a12e8bd97c699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1483380.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-09",
+      "file_size_bytes": 34422,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd03168f86a655c67f8d6caf255feaa08ecf9c6b8baf7645836380b32b7893c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

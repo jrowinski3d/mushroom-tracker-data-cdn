@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "clineb",
+  "scientific_name": "Clitocybe nebularis",
+  "common_name": "lejkówka szarawa",
+  "edibility": "E",
+  "description": "Lejkówka szarawa to duży, masywny grzyb o kapeluszu o średnicy 8–20 cm, początkowo wypukłym z podwiniętym brzegiem, z wiekiem stającym się płaskim do lejkowatego. Kapelusz jest szarobrązowy, szaro-brązowy lub zamglono-szary (jak zachmurzone niebo), często z ciemniejszymi i jaśniejszymi strefami dającymi smugowaty wygląd. Powierzchnia gładka, sucha do tłustawej. Blaszki przyrośnięte do lekko zbiegających, stłoczone, białe do kremowych. Trzon wysoki na 6–12 cm, krępy, bladoszary do płowego, włóknisty. Miąższ gruby, biały, o silnym słodkim kwiatowym lub mdło-słodkim zapachu (nie zawsze przyjemnym).",
+  "habitat": "Występuje w lasach liściastych i iglastych, na skrajach lasów i w ściółce liściowej. Rośnie jako rozkładacz ściółki w bogatej próchnicy. Owocnikuje rozproszony do gromadnego, często w dużych skupiskach lub czarcich kołach. Preferuje miejsca z obfitą materią organiczną i głęboką ściółką liściową.",
+  "season": "Od późnego lata do jesieni i wczesnej zimy (wrzesień–grudzień). Owocnikuje do zimy w łagodnych klimatach. Jeden z późno owocnikujących grzybów pojawiających się po przymrozkach. Szczyt późną jesienią (październik–listopad).",
+  "regions": ["Europa (bardzo pospolity)", "Wschodnia Ameryka Północna (pospolity)", "Północny Zachód Pacyfiku (pospolity)", "Umiarkowane lasy na całym świecie", "Kosmopolityczny w ściółce"],
+  "lookalikes": ["Gatunki Clitocybe (niektóre śmiertelnie trujące) – wiele podobnych szarobrązowych gatunków, niektóre trujące", "Entoloma sinuatum (trujący) – podobna wielkość i barwy, ale różowe zarodniki i brak słodkiego zapachu", "Gatunki Lepista – fioletowawe odcienie, różowe zarodniki", "Gatunki Hygrophorus – woskowate blaszki, inne siedlisko"],
+  "safety_notes": "JADALNY, ALE Z OSTROŻNOŚCIĄ: Uważany przez niektórych za jadalny, ale u wielu ludzi POWODUJE ROZSTRÓJ TRAWIENIA i NIE JEST ZALECANY. Może powodować nudności, wymioty i biegunkę nawet po prawidłowym ugotowaniu. Niektóre źródła uznają go za podejrzany lub niejadalny. Ryzyko pomyłki z trującymi gatunkami Clitocybe jest wysokie. Silny słodki zapach jest charakterystyczny, ale nie zawsze przyjemny. Nawet przy prawidłowej identyfikacji wiele osób go nie toleruje. Istnieją lepsze grzyby jadalne. Jeśli próbujesz, gotuj dokładnie, najpierw spróbuj maleńkich ilości i przygotuj się na możliwe dolegliwości. Zamglony szarobrązowy kapelusz i słodki zapach są diagnostyczne. NIEZALECANY ze względu na powszechne doniesienia o zatruciach i ryzyko pomyłek.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725219.jpg",
+      "photographer": "(c) Myles McSweeney, all rights reserved",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "observation_date": "2024-10-19",
+      "file_size_bytes": 81968,
+      "width": 480,
+      "height": 640,
+      "sha256": "f8ae6f9c3be27230a239ee41370dc50235addd10926c1999c368e9f9a4ba2f91"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651552.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48724,
+      "width": 482,
+      "height": 640,
+      "sha256": "69e102213907378df2fda9a002305293be980dd54056e379244b879f45102cd4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.271746",
+  "source_language": "en"
+}

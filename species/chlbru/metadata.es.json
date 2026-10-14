@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlbru",
+  "scientific_name": "Chlorophyllum brunneum",
+  "common_name": "Parasol peludo (Chlorophyllum brunneum)",
+  "edibility": "P",
+  "description": "El falso parasol o parasol pardo es un hongo de mediano a grande con un sombrero de 5-20 cm de ancho, inicialmente redondeado que se vuelve ampliamente convexo. El sombrero es de color blanco a crema, cubierto de escamas marrones a marrón-rojizas más planas y más adpresas que las de C. rhacodes, concentradas hacia el centro. La carne se mancha de naranja-marrón a rojizo al cortarse, pero menos intensamente que C. rhacodes. Las láminas son libres, blancas a crema, y de juntas a apretadas. El pie es de 8-18 cm de alto, liso o finamente escamoso, con un anillo prominente móvil y una base bulbosa.",
+  "habitat": "Se encuentra en zonas urbanas y suburbanas, incluyendo jardines, parques, parterres, céspedes, mantillo de astillas de madera y suelo rico en compost. Fuertemente asociado con el cultivo humano y hábitats alterados. Crece terrestremente en sustratos orgánicos ricos en nutrientes. Fructifica disperso a gregario, apareciendo a menudo en paisajes mantenidos y zonas regadas.",
+  "season": "Finales de verano hasta otoño (agosto-diciembre) en regiones templadas. En California y climas suaves, fructifica todo el año con picos en otoño y primavera (octubre-mayo) después de las lluvias. Más común durante el clima cálido con humedad.",
+  "regions": [
+    "California (muy común, sobre todo en zonas urbanas)",
+    "Pacífico Noroeste (común en jardines)",
+    "suroeste de Estados Unidos",
+    "Texas y estados de la costa del Golfo",
+    "climas mediterráneos",
+    "cada vez más extendido por Norteamérica"
+  ],
+  "lookalikes": [
+    "Chlorophyllum rhacodes (comestible con precaución) - apariencia idéntica, la distinción requiere microscopía o secuenciación",
+    "Macrolepiota procera (comestible excelente) - mucho más alta y esbelta, patrón de piel de serpiente en el pie, no se mancha",
+    "Chlorophyllum molybdites (tóxico) - esporada verde diagnóstica, se vuelve verde al magullarse",
+    "Especies de Lepiota (algunas mortales) - mucho más pequeñas, estructura más delicada"
+  ],
+  "safety_notes": "TÓXICO: Chlorophyllum brunneum causa intoxicación gastrointestinal con síntomas que incluyen náuseas graves, vómitos, diarrea y calambres abdominales. Los síntomas suelen aparecer entre 1 y 6 horas después del consumo y pueden ser lo suficientemente graves como para requerir hospitalización en personas sensibles. Este hongo se confunde comúnmente con el verdadero parasol comestible (Macrolepiota procera). Aunque algunas personas pueden tolerarlo cuando se cocina bien a fuego alto, el riesgo de malestar gástrico grave lo hace inseguro para el consumo. No comas este hongo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713955.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 73850,
+      "width": 480,
+      "height": 640,
+      "sha256": "43f57bc65101b11b8cc5c61cc5822029939dd2195c52fb4d8f5b7d7f28e87303"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635375.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-15",
+      "file_size_bytes": 127184,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

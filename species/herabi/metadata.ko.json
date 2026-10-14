@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "herabi",
+  "scientific_name": "Hericium abietis",
+  "common_name": "Bear's Head Tooth (Hericium abietis)",
+  "edibility": "E",
+  "description": "침엽수 목재에만 자라는 것으로 구별되는 흰색 분지 구조(너비 10~25cm)의 버섯이다. 가지는 아랫면을 중심으로 침상 돌기(길이 0.5~2cm) 무리가 달린 산호 모양으로 적당히 분지된다. 가지는 흰색, 다육질이며 H. coralloides보다 덜 가늘게 갈라진다. 전체 자실체는 신선할 때 흰색이며, 나이가 들면 누렇게 되거나 갈변한다. 살은 흰색, 단단하고 맛이 순하다. 주로 침엽수 숙주와 H. americanum과 H. coralloides 사이의 중간 정도 분지로 구별된다.",
+  "habitat": "침엽수 목재, 특히 전나무, 가문비나무, 솔송나무, 소나무에서 부생성. 침엽수의 죽은 원목, 고사목, 그루터기에서 자란다. 침엽수에 정기적으로 자라는 유일한 노루궁뎅이속 종이다. 균근성이 아니다. 보통 원목이나 나무에 단생한다.",
+  "season": "늦여름부터 가을(9월~11월), 활엽수 노루궁뎅이속 종보다 종종 늦게 발생한다.",
+  "regions": [
+    "태평양 북서부",
+    "로키산맥",
+    "미국 북부",
+    "캐나다",
+    "북유럽"
+  ],
+  "lookalikes": [
+    "Hericium coralloides - 활엽수에서 자라며, 더 가늘게 분지됨",
+    "Hericium americanum - 활엽수에서 자라며, 가지가 더 두꺼움",
+    "Climacodon septentrionalis - 유사하지만 이빨이 더 크고 구조가 다름"
+  ],
+  "safety_notes": "식용 가능: 다른 노루궁뎅이속 종과 비슷한 좋은 맛이나, 때때로 약간 더 쓰다. 흰색 침상 외형과 침엽수 목재에만 연관되는 점 덕분에 동정이 명확하다. 유독 유사종이 없다. 신선하고 순백색일 때 가장 좋다 — 누렇게 되거나 갈변하면 노화된 것이다. 침상 사이의 침엽수 잔해를 제거하도록 가볍게 손질하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714426.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 59586,
+      "width": 640,
+      "height": 480,
+      "sha256": "64ad0f9013daa01c68572b668c9906b6093066007124fbd95e76e9cd73bc0db5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1658775.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 45632,
+      "width": 640,
+      "height": 480,
+      "sha256": "8df4a3bad659adc85c7166e5684a14c98f94895920a7cda2aca912c464780318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

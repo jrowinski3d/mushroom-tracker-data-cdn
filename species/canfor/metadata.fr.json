@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canfor",
+  "scientific_name": "Cantharellus formosus",
+  "common_name": "Pacific Golden Chanterelle (Cantharellus formosus)",
+  "edibility": "E",
+  "description": "La chanterelle dorée du Pacifique présente un chapeau orange doré à jaune profond de 3 à 15 cm de large, souvent plus grand et aux couleurs plus soutenues que les chanterelles européennes. La marge du chapeau est ondulée et irrégulière, devenant profondément en entonnoir à maturité. Le dessous porte des plis épais, obtus, bien espacés et fourchus (et NON de vraies lames), de la même couleur que le chapeau ou légèrement plus pâles, descendant le long du pied. Le pied est plein, ferme, de 3 à 10 cm de haut, souvent épais et en massue. La chair est blanche à jaune pâle, ferme, avec un doux arôme fruité d’abricot. Sporée blanche à jaune pâle.",
+  "habitat": "Mycorhizien principalement avec le douglas, mais aussi associé à la pruche de l’Ouest, à l’épicéa de Sitka et au sapin grandis dans les forêts côtières de conifères. Préfère les versants bien drainés aux épaisses couches de mousse et de litière. Souvent trouvé dans les forêts secondaires et le long des chemins forestiers dans le Pacifique Nord-Ouest.",
+  "season": "De l’automne à l’hiver (septembre-février), fructifiant avec l’arrivée des pluies d’automne et se poursuivant pendant la saison humide. La récolte maximale se situe généralement d’octobre à décembre. Peut fructifier toute l’année dans les climats côtiers doux avec une humidité suffisante.",
+  "regions": [
+    "Pacifique Nord-Ouest (de la Colombie-Britannique à la Californie du Nord)",
+    "Oregon et Washington côtiers",
+    "Île de Vancouver",
+    "Chaîne des Cascades",
+    "Montagnes côtières de Californie du Nord"
+  ],
+  "lookalikes": [
+    "Clitocybe lumineux (Omphalotus olivascens) — TOXIQUE, possède de vraies lames à arêtes vives, pousse sur le bois ou le bois enfoui, couleur orange",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de piètre qualité, possède de vraies lames fines, orange plus intense",
+    "Cantharellus cascadensis — comestible, jaune plus pâle, plus petit, plus haute altitude, sinon très similaire"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : la chanterelle dorée du Pacifique est l’un des champignons sauvages les plus recherchés d’Amérique du Nord, prisée pour sa chair ferme et sa saveur fruitée et poivrée. Le caractère d’identification critique est constitué par les plis obtus et fourchus, cireux au toucher et difficiles à séparer de la chair du chapeau, par opposition aux vraies lames fines comme des couteaux des sosies toxiques. Toujours vérifier que le champignon pousse du sol, pas du bois. Poêler pour concentrer la saveur ; résiste bien à la cuisson. Certaines personnes peuvent éprouver de légers troubles digestifs — tester d’abord avec de petites quantités.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1732115.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 89902,
+      "width": 640,
+      "height": 482,
+      "sha256": "6fbcbcc69caf03c2bb6d4bc64be53e4036b0256d636415e8a12a4ad359db7a1b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1732116.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 91936,
+      "width": 482,
+      "height": 640,
+      "sha256": "7ab193f467d64ceebfc9493be4052476e454a1dc8c285797973833e9a671c959"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

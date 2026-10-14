@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecaur",
+  "scientific_name": "Leccinum aurantiacum",
+  "common_name": "Aspsopp",
+  "edibility": "E",
+  "description": "Aspsopp har en distinkt orange till rödorange hatt (5-20 cm) med torr till svagt klibbig yta. Porerna är vita som unga, åldrande till gråaktiga, och blåmärker brunaktigt. Den höga, vita foten är täckt med mörkbruna till svartaktiga fjäll – ett diagnostiskt kännetecken. Det vita köttet fläckar rosa till rödaktigt vid snitt, åldrande till grått eller svart. Sporfällningen är olivbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med asp och poppel i blandskog. Bildar obligatoriska associationer med Populus-arter. Finns i asplundar, strandnära områden med poppel och blandade asp-barrskogar.",
+  "season": "Sommar till höst (juni-oktober) med toppfruktkroppar i juli-augusti. Dyker ofta upp strax efter sommarregn i asphabitat.",
+  "regions": [
+    "Klippiga bergen",
+    "Stora sjöarna-regionen",
+    "nordöstra aspskogar",
+    "aspbestånd i nordvästra Stillahavsregionen",
+    "norra Kalifornien",
+    "Alaska",
+    "Kanada"
+  ],
+  "lookalikes": [
+    "Leccinum insigne – orange-röd hatt, liknande habitat med asp",
+    "Andra strävsoppar – fotens fjäll skiljer från Boletus",
+    "Boletus-arter – saknar den distinkta sträva foten",
+    "Lactarius-arter – har skivor inte porer, producerar mjölksaft"
+  ],
+  "safety_notes": "ÄTLIG: Aspsopp är en god matsvamp med fast konsistens, dock inte lika högt uppskattad som karljohan. Måste tillagas ordentligt – kan orsaka magbesvär om den är otillräckligt tillagad eller äts rå. Köttets mörknande är normalt. Den orange hatten och den strävt fjälliga foten är diagnostiska kännetecken.",
+  "images": [
+    {
+      "file_size_bytes": 191462,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "sha256": "960769b31fc623f0aab525e0fc0fd3302f856913829a4264d2671df9f66ca4ce",
+      "source_url": "https://mushroomobserver.org/images/640/1698286.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 80824,
+      "height": 640,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f",
+      "source_url": "https://mushroomobserver.org/images/640/1698287.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

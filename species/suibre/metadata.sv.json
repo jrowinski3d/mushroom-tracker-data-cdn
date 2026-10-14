@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suibre",
+  "scientific_name": "Suillus brevipes",
+  "common_name": "Stubby-stalk (Suillus brevipes)",
+  "edibility": "E",
+  "description": "Den kortfotade smörsoppen har en gulbrun till rödbrun hatt (3–12 cm) med slemmig yta när den är våt, ofta med strimmigt eller fläckigt utseende. Porerna är stora och kantiga, gula till olivgula, och missfärgas inte. Den korta, kraftiga gula foten saknar ring – ett viktigt kännetecken. Vitt till blekgult kött missfärgas inte. Den klibbiga hatten och den ringlösa foten skiljer den åt. Sporfällningen är kanelbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med två- och trenålade tallar, särskilt ponderosatall, lodgepoletall och jeffreytall i västra skogar. Vanlig i talldominerade skogar och öppna tallskogar.",
+  "season": "Sensommar till höst (augusti–november) med huvudsäsong i september–oktober. Fruktsätter efter sensommar- och höstregn.",
+  "regions": [
+    "Nordvästra USA",
+    "Bergen i Kalifornien",
+    "Klippiga bergen",
+    "Tallskogar i sydväst",
+    "Högländerna i Arizona",
+    "Bergen i New Mexico",
+    "Bergsområden i väst"
+  ],
+  "lookalikes": [
+    "Suillus luteus – har tydlig mörk ring på foten",
+    "Suillus granulatus – porerna utsöndrar mjölkaktiga droppar som unga",
+    "Andra Suillus-arter – kontrollera om ring finns eller saknas",
+    "Boletus-arter – inte klibbiga, annan växtplats"
+  ],
+  "safety_notes": "ÄTLIG: Kortfotad smörsopp är ätlig med mild smak men något mjuk konsistens. Ta bort den slemmiga hatthuden före tillagning. Den ringlösa foten och associationen med tall är kännetecken. Vissa får milda magbesvär. Tillaga noggrant före förtäring.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715638.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 115520,
+      "width": 640,
+      "height": 427,
+      "sha256": "5baf6a28695fc65eac987612eee3be7fd427df33eca270d1bebf6f58b6ad4d8b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713565.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 44206,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29048d548d1e15f2bc66daa9c5ed99bf2ec3b424f4b97b2bc38acb4925eaba2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

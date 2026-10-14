@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "boledu",
+  "scientific_name": "Boletus edulis",
+  "common_name": "Cèpe de Bordeaux",
+  "edibility": "E",
+  "description": "Le cèpe de Bordeaux ou porcini présente un chapeau brun à brun-rougeâtre (5 à 30 cm) à la surface lisse et sèche. Les pores sont blancs quand ils sont jeunes, virant au jaune-vert avec l'âge, et ne bleuissent pas à la manipulation. Le pied épais et bulbeux, blanc à fauve, affiche une fine réticulation blanche (motif en réseau) près du sommet. La chair blanche reste inchangée à la coupe, avec une douce saveur de noisette. La sporée est brun olivâtre.",
+  "habitat": "Mycorhizien de l'épicéa, du pin, de la pruche et occasionnellement du chêne dans les forêts mixtes de conifères et de feuillus. Préfère les sols bien drainés des forêts matures. Pousse le long des lisières forestières, des sentiers et sous la canopée dense.",
+  "season": "De la fin de l'été à l'automne (août-novembre) avec des pousses printanières occasionnelles (mai-juin) dans certaines régions. Fructification maximale après de fortes pluies par temps chaud.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "forêts du Nord-Est",
+    "région des Grands Lacs",
+    "Californie du Nord",
+    "Alaska",
+    "Colombie-Britannique"
+  ],
+  "lookalikes": [
+    "Tylopilus felleus (bolet amer) — pores rosâtres et goût intensément amer",
+    "Boletus variipes — pores bleuissant, aspect semblable",
+    "Boletus subcaerulescens — la réaction de bleuissement le distingue",
+    "Autres espèces de Boletus — toutes comestibles mais de qualité variable"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : le cèpe de Bordeaux est l'un des champignons comestibles les plus prisés au monde, réputé pour son excellente saveur et sa texture charnue. Sans danger cru en petites quantités mais meilleur cuit. Vérifier que les pores restent blancs à jaunes (et non roses) et ne bleuissent pas pour éviter toute confusion avec d'autres espèces. Toujours bien cuire pour une meilleure digestibilité.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725981.jpg",
+      "photographer": "FunGuy Nate",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-23",
+      "file_size_bytes": 136488,
+      "width": 640,
+      "height": 536,
+      "sha256": "872e36198978de9c7bf4b55be54887355acd5b1877e6bd1e0b3ac7a4cb2de5c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718535.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-16",
+      "file_size_bytes": 58480,
+      "width": 640,
+      "height": 427,
+      "sha256": "da49ce350cf2577f05575095f339a6110739a88dd13234333f288fbf8f499058"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

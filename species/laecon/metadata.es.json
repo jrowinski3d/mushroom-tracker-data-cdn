@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecon",
+  "scientific_name": "Laetiporus conifericola",
+  "common_name": "Pollo del bosque",
+  "edibility": "E",
+  "description": "Hongo de repisa de color anaranjado brillante a salmón con superficie de poros de color amarillo azufre, que forma grandes repisas superpuestas de 5-30 cm de ancho sobre coníferas. Aspecto similar a L. sulphureus, pero se distingue por sus huéspedes coníferas en las montañas del oeste. Blando y suculento cuando es joven, duro con la edad. Múltiples repisas forman rosetas en troncos y troncos caídos de coníferas. Hongo de repisa anual de colores brillantes.",
+  "habitat": "Parásito y saprófito específicamente sobre coníferas vivas y muertas en las montañas del oeste, particularmente abeto de Douglas, alerce occidental, tsuga y otras coníferas. Forma grandes repisas en troncos, tocones y troncos caídos. Causa podredumbre parda cúbica del corazón en coníferas. Bosques de coníferas montanos y subalpinos.",
+  "season": "Del verano al otoño en las montañas, típicamente de junio a octubre. Máxima fructificación en julio-septiembre. Aparece tras los monzones de verano y las lluvias cálidas. Temporada más tardía que las especies de menor altitud.",
+  "regions": [
+    "Montañas Rocosas",
+    "cordillera de las Cascadas",
+    "Sierra Nevada",
+    "Rocosas del Norte",
+    "bosques montanos del oeste",
+    "de Columbia Británica a Nuevo México"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (sobre frondosas, no coníferas)",
+    "Laetiporus huroniensis (noreste, sobre tsuga)",
+    "Otros Laetiporus occidentales sobre coníferas",
+    "Jack-o'-lantern (Omphalotus): tóxico, tiene láminas y no poros"
+  ],
+  "safety_notes": "COMESTIBLE cuando es joven, pero PRECAUCIÓN: los ejemplares que crecen sobre coníferas (incluida esta especie) causan con más frecuencia molestias digestivas que los de frondosas. Muchas personas refieren problemas estomacales con Laetiporus de coníferas. Recolecte solo ejemplares muy jóvenes y tiernos. Empiece con cantidades muy pequeñas para probar la tolerancia. Algunas personas lo toleran bien, otras reaccionan mal. Cocine bien. Considere evitarlo si es sensible a los compuestos de azufre.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.139829",
+  "source_language": "en"
+}

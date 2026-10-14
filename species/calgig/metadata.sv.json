@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "calgig",
+  "scientific_name": "Calvatia gigantea",
+  "common_name": "Jätteröksvamp",
+  "edibility": "E",
+  "description": "Massiva runda till avlånga röksvampar 20–50+ cm (kan bli upp till 1,5 meter), som liknar jättelika vita fotbollar eller kuddar på fälten. Slät vit utsida som blir gulaktigt beige med åldern. Innandömet kritvitt och fast när ätligt, blir gulgrönt och sedan brunt när sporerna mognar. Ingen fot eller steril bas. Omisstaglig i full storlek.",
+  "habitat": "Saprofytisk i näringsrik jord på öppna fält, ängar, betesmarker, gräsmattor och skogsbryn. Föredrar näringsrika områden nära ruttnande organiskt material. Vanlig i jordbruksområden, parker och störda gräsmarker. Uppträder ofta på samma plats år efter år.",
+  "season": "Sensommar till höst, vanligen augusti–oktober. Toppfruktning efter kraftiga sensommarregn. Mest riklig i september. Kan uppträda tidigare i södra regioner.",
+  "regions": [
+    "Östra Nordamerika",
+    "Mellanvästern och Stora slätterna",
+    "Nordvästra USA",
+    "Södra Kanada",
+    "Utbredd i tempererade Nordamerika"
+  ],
+  "lookalikes": [
+    "Andra Calvatia-arter (mindre, liknande ätlighet när vita inuti)",
+    "DÖDLIG: Omogna flugsvampsknoppar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Scleroderma-arter/jordröksvampar (giftiga, lila-svart innandöme, tjock vårtig hud)",
+    "Andra stora röksvampar (generellt ätliga när kritvita inuti)"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP när kritvit inuti: KRITISKT – skär alltid exemplaret helt i hälften från topp till botten. Ätlig ENDAST om innandömet är helt kritvitt och fast som marshmallow igenom. Om minsta gult, brunt, lila eller utvecklande strukturer syns inuti: ÄT INTE. Denna regel förhindrar att giftiga liknande arter och omogna dödliga flugsvampar som kan se röksvampsaktiga ut förtärs. Kasta bort om minsta spår av skivor, hatt eller fotstruktur syns inuti. Tillaga noggrant – utmärkt panerad och stekt eller sauterad.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720504.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-27",
+      "file_size_bytes": 51464,
+      "width": 482,
+      "height": 640,
+      "sha256": "7326e09bc739129146ce717bbbc51d4a584aa419d7be1461ee30bf91db625de6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717552.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 41422,
+      "width": 640,
+      "height": 427,
+      "sha256": "19fa36a1c78915de64224dd0c2fa81fcf906c890be7b9bccd277095dee97c971"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

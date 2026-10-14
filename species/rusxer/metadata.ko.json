@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusxer",
+  "scientific_name": "Russula xerampelina",
+  "common_name": "Shrimp Russula (Russula xerampelina)",
+  "edibility": "E",
+  "description": "이 무당버섯은 자흑색~포도주색의 끈적거리는 갓(지름 5–12cm)을 갖는다. 주름살은 크림색~담황색이고, 대는 흰색~담홍색이다. 핵심: 부서지기 쉬운 살, 생선 또는 갑각류 냄새(새우 향), 붉은 갓. 살은 흰색. 포자문은 크림색~황토색. 맛이 순하다.",
+  "habitat": "침엽수 및 활엽수와 균근을 이룬다. 혼합림의 지상에서 자란다. 널리 분포하는 종으로, 흩어져 있거나 무리로 난다.",
+  "season": "여름~가을(7~10월).",
+  "regions": [
+    "미국 동부",
+    "중서부",
+    "태평양 북서부",
+    "유럽"
+  ],
+  "lookalikes": [
+    "다른 붉은 무당버섯류 - 냄새로 확인할 것",
+    "Lactarius(젖버섯속) - 유액이 나온다"
+  ],
+  "safety_notes": "식용 가능: 생선 냄새에도 불구하고 맛이 순하며(익히면 냄새가 사라진다). 생선 냄새 + 붉은 갓 + 부서지기 쉬운 살이 진단 포인트. 반드시 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723210.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 90416,
+      "width": 640,
+      "height": 427,
+      "sha256": "7aabcfbc0b4b9a996b8757f8a5870feda97a8951c2b2b89d75d2ea11e9209d84"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723211.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 64826,
+      "width": 640,
+      "height": 427,
+      "sha256": "f23fc4166458df6f9d897d44195e59957d00d45849606408a98876e651549019"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

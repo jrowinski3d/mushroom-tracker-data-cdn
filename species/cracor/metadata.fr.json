@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cracor",
+  "scientific_name": "Craterellus cornucopioides",
+  "common_name": "Trompette des morts",
+  "edibility": "E",
+  "description": "La Trompette des morts (Corne d'abondance) possède une fructification distinctive en forme d'entonnoir profond ou de trompette, de couleur gris foncé à noire, de 3 à 12 cm de haut et 2 à 8 cm de large au sommet. Le chapeau est ondulé et irrégulier avec une marge fine et relevée. La surface interne est gris foncé à noire, lisse ou légèrement écailleuse. La surface externe (sporifère) est lisse à légèrement ridée, grise à gris-brunâtre, SANS plis ni lames. La fructification entière est creuse du haut en bas comme une trompette. La chair est fine, cassante quand elle est sèche, élastique quand elle est fraîche, gris foncé. La sporée est blanche à crème pâle.",
+  "habitat": "Mycorhizienne avec les feuillus, en particulier le hêtre d'Amérique, le chêne et le bouleau. Présente dans les forêts de feuillus matures, souvent dans les zones moussues ou près des ruisseaux. Pousse de manière dispersée ou en grandes troupes sur le sol forestier, souvent camouflée dans la litière de feuilles. Préfère les sols riches et humides.",
+  "season": "De l'été à l'automne (juillet à novembre), avec une fructification maximale d'août à octobre dans la plupart des régions. Fructifie souvent aux mêmes endroits année après année. Peut être abondante après des périodes de pluie.",
+  "regions": [
+    "Est de l'Amérique du Nord (répandu)",
+    "Nord-Est des États-Unis",
+    "région des Appalaches",
+    "région des Grands Lacs",
+    "Pacifique Nord-Ouest (moins commun)",
+    "Europe (également présent)"
+  ],
+  "lookalikes": [
+    "Craterellus fallax — comestible, très semblable mais plus brunâtre, présent dans des régions différentes, usage essentiellement identique",
+    "Craterellus foetidus — comestible, semblable mais avec une odeur fétide une fois séché, par ailleurs presque identique",
+    "Urnule cratériforme (Urnula craterium) — non comestible, en forme de coupe et non de trompette, pousse sur le bois, texture caoutchouteuse"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : la Trompette des morts est l'un des champignons sauvages les plus prisés, célèbre pour sa saveur riche et fumée. Malgré son aspect sombre, elle est parfaitement sûre et délicieuse. La forme de trompette distinctive, l'intérieur creux et l'absence de lames ou de plis la rendent relativement facile à identifier une fois qu'on sait quoi chercher. Cependant, sa couleur sombre la rend très difficile à repérer sur le sol forestier — elle se fond dans la litière de feuilles et les ombres. Excellente fraîche ou séchée ; le séchage intensifie la saveur. Aucun sosie toxique. Certaines personnes la trouvent légèrement indigeste ; bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.178989",
+  "source_language": "en"
+}

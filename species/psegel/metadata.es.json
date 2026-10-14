@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "psegel",
+  "scientific_name": "Pseudohydnum gelatinosum",
+  "common_name": "Toothed Jelly Fungus (Pseudohydnum gelatinosum)",
+  "edibility": "E",
+  "description": "El hongo gelatinoso dentado es una seta única que combina características de los hongos con dientes y de los hongos gelatinosos. Sombrero de 2 a 8 cm de diámetro, en forma de espátula o de abanico, translúcido, de color blanco grisáceo a marrón pálido, con textura gelatinosa. La superficie superior es lisa y gelatinosa. La cara inferior presenta espinas o dientes blancos y blandos (de 0,5 a 3 mm de largo) en lugar de láminas o poros. El pie es lateral (descentrado) o ausente, de 1 a 4 cm cuando está presente. La textura es gomosa-gelatinosa, firme pero translúcida, y revive al humedecerse tras secarse.",
+  "habitat": "Se encuentra sobre troncos y tocones de coníferas muy descompuestos, en particular tsuga, pícea, abeto y pino. Crece sobre madera en etapas avanzadas de descomposición. Común en bosques montañosos de coníferas. Fructifica de forma dispersa a gregaria, a menudo en grupos superpuestos sobre los troncos. Prefiere bosques frescos y húmedos con abundantes restos leñosos.",
+  "season": "Desde finales de verano hasta el otoño (agosto-noviembre) en regiones montañosas. En el Pacífico Noroeste y las zonas costeras, puede fructificar hasta el invierno (diciembre-enero). La fructificación máxima ocurre en otoño durante el clima fresco y húmedo. Requiere humedad constante y temperaturas frescas.",
+  "regions": [
+    "Pacífico Noroeste (muy común)",
+    "montañas del norte de California",
+    "Montañas Rocosas",
+    "noreste de Norteamérica",
+    "Europa (ampliamente distribuida)",
+    "bosques de coníferas de zonas templadas del norte de todo el mundo"
+  ],
+  "lookalikes": [
+    "Phlebia tremellosa (no comestible) — gelatinosa, pero sin dientes; presenta arrugas/pliegues",
+    "Especies de Hericium (comestibles) — dientes blancos, pero carne firme, no gelatinosa",
+    "Especies de Tremella (comestibles) — en forma de cerebro, sin dientes",
+    "Sin especies similares tóxicas"
+  ],
+  "safety_notes": "COMESTIBLE, pero no de primera: se considera comestible y segura para comer, pero tiene poco sabor y una textura inusual. La estructura gelatinosa pero dentada la hace más una curiosidad que un alimento. Puede cocinarse en sopas o salteada. No existen especies similares tóxicas. La combinación de sombrero translúcido y gelatinoso con dientes blancos es absolutamente distintiva: ninguna otra seta comparte esta combinación. Es segura para probar, aunque la mayoría de los recolectores la pasan por alto. Más interesante desde el punto de vista micológico que culinario. La textura gelatinosa y las espinas son inconfundibles.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707931.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 91868,
+      "width": 640,
+      "height": 482,
+      "sha256": "72de83a7606453350317a3d488438eccdafd5baf9faeb58d71c3f4935958b6c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1701347.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 86236,
+      "width": 640,
+      "height": 640,
+      "sha256": "3e50e22dcbd0ebbd8f8a4e4295c0ddd6857f8b0efff85aec3b0eb890769555cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

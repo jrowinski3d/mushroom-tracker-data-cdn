@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecsca",
+  "scientific_name": "Leccinum scabrum",
+  "common_name": "Björksopp",
+  "edibility": "E",
+  "description": "Björksopp har en gråbrun till ljusbrun hatt (4-15 cm) med slät till svagt skrynklig yta, ibland sprickande med åldern. Porerna är vita som unga, blir smutsigt gråbruna och blåmärker svagt brunaktigt. Den vitaktiga foten är täckt med svarta till mörkbruna fjäll. Det vita köttet ändrar inte färg eller kan visa en svag rosaaktig ton vid snitt. Sporfällningen är olivbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med björk (Betula-arter) i blandade nordliga skogar. Bildar obligatoriska associationer med björkar. Finns i björklundar, blandade björk-barrskogar och strandnära områden med glasbjörk.",
+  "season": "Sommar till höst (juni-oktober) med toppfruktkroppar i juli-september. Vanlig i sensommar i nordliga björkskogar.",
+  "regions": [
+    "norra USA",
+    "Alaska",
+    "Kanada",
+    "Stora sjöarna-regionen",
+    "nordöstra skogar",
+    "björkbestånd i nordvästra Stillahavsregionen",
+    "björkzoner i Klippiga bergen"
+  ],
+  "lookalikes": [
+    "Andra strävsoppar – andra hattfärger och trädassociationer",
+    "Boletus-arter – saknar den karaktäristiskt sträva foten",
+    "Leccinum holopus – blekare färger, också med björk",
+    "Tylopilus-arter – vissa har fjäll men andra porfärger"
+  ],
+  "safety_notes": "ÄTLIG: Björksopp är en god matsvamp med mild smak och något mjuk konsistens som mogen. Måste tillagas ordentligt – ät aldrig rå. Bäst som ung och fast. Den obligatoriska björkassociationen och den sträva foten är diagnostiska. Vissa kan få lindriga magbesvär.",
+  "images": [
+    {
+      "file_size_bytes": 61574,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "photographer": "I. G. Safonov",
+      "sha256": "c5c8cc696ee70f1749403a77f42681e5089f69dfe0b9f19ae5af2fe36c5a5ae4",
+      "source_url": "https://mushroomobserver.org/images/640/1080620.jpg",
+      "width": 464
+    },
+    {
+      "file_size_bytes": 36138,
+      "height": 480,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "photographer": "I. G. Safonov",
+      "sha256": "8e7a4bebc027d8c8e72afac8c632f8b542311af4fbc5451a4f10f10ab6d20559",
+      "source_url": "https://mushroomobserver.org/images/640/1080621.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

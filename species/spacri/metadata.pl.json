@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "spacri",
+  "scientific_name": "Sparassis crispa",
+  "common_name": "Siedzuń sosnowy",
+  "edibility": "E",
+  "description": "Siedzuń sosnowy to duży, imponujący grzyb tworzący kremowe do bladożółtych masy o średnicy 10–40 cm (czasem do 60 cm), przypominające kalafior lub gąbkę morską. Owocnik składa się z licznych cienkich, falistych, liściowatych płatów lub wstęgowatych gałązek wyrastających z centralnej podstawy przypominającej trzon. Płaty są kędzierzawe, falbankowate i gęsto upakowane. Barwa za świeżości kremowa, bladożółta lub płowa, z wiekiem ciemniejsza — żółtobrązowa. Tekstura za świeżości krucha i łamliwa. Podstawa przytwierdzona jest do korzeni lub drewna. Wygląd bardzo charakterystyczny.",
+  "habitat": "Występuje u podstawy starych drzew iglastych, zwłaszcza sosny, jodły, świerka i modrzewia. Rośnie jako pasożyt korzeni na żywych drzewach lub z zagrzebanych korzeni martwych drzew iglastych. Zazwyczaj pojawia się przy tym samym drzewie rok po roku. Owocnikuje u podstaw pni lub w ich pobliżu, czasem wyglądając, jakby wyrastał z ziemi. Preferuje dojrzałe lasy iglaste.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad) w większości regionów. Na północnym zachodzie Pacyfiku i w górach głównie wrzesień–październik. Szczyt owocnikowania jesienią. W niektórych miejscach może owocnikować wiosną i jesienią. Wieloletni, powracający w te same miejsca corocznie.",
+  "regions": [
+    "Europa (szeroko rozpowszechniony)",
+    "Północno-Zachodni Pacyfik (pospolity)",
+    "Góry Skaliste",
+    "północno-Wschodnia Ameryka Północna",
+    "góry północnej Kalifornii",
+    "północne lasy iglaste strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "Sparassis radicata (jadalny) — bardzo podobny, drzewa liściaste zamiast iglastych, bardziej żółty",
+    "Sparassis spathulata (jadalny) — zachodnia Ameryka Północna, podobny wygląd",
+    "Grifola (jadalna) — rozety szarobrązowych, łyżkowatych kapeluszy, inna struktura",
+    "Brak trujących gatunków podobnych — wygląd jest unikalny"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Wysoce ceniony, o doskonałym smaku i unikalnej teksturze. Jeden z najlepszych dzikich grzybów. Chrupiąca, makaronowata tekstura jest charakterystyczna. Doskonały do zup, dań z woka i dań makaronowych. Dokładnie oczyścić — falbankowata struktura zatrzymuje zanieczyszczenia i owady. Najlepszy za młodu, o kremowej barwie. Starsze okazy stają się twarde i żółkną. Dokładnie ugotować. Może być bardzo duży, dając obfite zbiory. Wygląd jest absolutnie nie do pomylenia — nie istnieją niebezpieczne gatunki podobne. Bardzo poszukiwany przez grzybiarzy. Można suszyć lub mrozić. Powraca w to samo miejsce corocznie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/380302.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65530,
+      "width": 640,
+      "height": 480,
+      "sha256": "0271503fea6ce136bdc5647e13ea525538f74f78a57e6ca8ce75287d683af72d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/380303.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65944,
+      "width": 640,
+      "height": 480,
+      "sha256": "f27081bca45016950cd1230a0e65c328dab21d3a386eb6faba9715df6b35c6d3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

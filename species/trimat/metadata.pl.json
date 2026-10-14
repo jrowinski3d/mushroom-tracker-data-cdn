@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "trimat",
+  "scientific_name": "Tricholoma matsutake",
+  "common_name": "Gąska sosnowa",
+  "edibility": "E",
+  "description": "Gąska sosnowa ma masywny biały kapelusz (6–20 cm), który z wiekiem brązowieje, często z brązowawymi plamami lub przebarwieniami. Kapelusz wypukły do płaskiego, suchy, gładki do lekko włóknistego. Blaszki białe, przyrośnięte, gęste. Trzon gruby, biały, twardy, z CHARAKTERYSTYCZNĄ GRUBĄ OSŁONĄ CZĘŚCIOWĄ, która często pozostawia WATOWATY PIERŚCIEŃ lub rozdarte resztki na górnej części trzonu. Cechą kluczową jest SILNY KORZENNY, CYNAMONOWY lub SOSNOWY ZAPACH — natychmiast rozpoznawalny i diagnostyczny. Miąższ biały, bardzo twardy, zwarty. Wysyp zarodników biały. Często wyrasta, przebijając się przez glebę i ściółkę i tworząc charakterystyczny guzek przed pełnym wyrośnięciem.",
+  "habitat": "Mikoryzowa z drzewami iglastymi, zwłaszcza sosną (Pinus), choiną i jodłą w Azji. Tworzy obligatoryjne związki z określonymi drzewami żywicielskimi. Rośnie na ziemi, często częściowo zagrzebiona w ściółce lub glebie. Występuje w dojrzałych lasach iglastych, zazwyczaj w specyficznych „shiro\" (czarcich kołach). Wymaga specyficznych warunków glebowych i nienaruszonego siedliska leśnego.",
+  "season": "Jesień (wrzesień–listopad) w Japonii i Azji, owocnikowanie w chłodną jesienną pogodę.",
+  "regions": [
+    "Japonia",
+    "Korea",
+    "Chiny",
+    "Azja (rodzimy zasięg)"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — gatunek północnoamerykański, bardzo podobny",
+    "Tricholoma murrillianum — gatunek z południowo-zachodnich USA",
+    "Amanita smithiana — TRUJĄCA — biała, lecz ma pochwę u podstawy, inny zapach",
+    "Inne gatunki Tricholoma — brak charakterystycznego cynamonowego zapachu"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Jeden z najdroższych i najbardziej cenionych grzybów jadalnych na świecie, zwłaszcza w kuchni japońskiej, gdzie może osiągać setki dolarów za funt. Silny KORZENNY CYNAMONOWY ZAPACH to kluczowa cecha identyfikacyjna. Najlepszy młody i twardy — starsze okazy stają się gorzkie. Delikatnie czyścić, aby zachować związki aromatyczne. Nigdy nie mylić z trującymi białymi gatunkami Amanita — matsutake nie ma pochwy, ma charakterystyczny zapach i pierścień.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/705543.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 61824,
+      "width": 640,
+      "height": 480,
+      "sha256": "97b74a9180a9fba23ead388a50e26d38db132e89b7d39d743c91e8435bb732d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/705544.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 77154,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd70501e766a7b20042ccbf068e41759f221e4300395f3048ba11d8114c34a3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

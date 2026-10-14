@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleost",
+  "scientific_name": "Pleurotus ostreatus",
+  "common_name": "boczniak ostrygowaty",
+  "edibility": "E",
+  "description": "Kapelusze wachlarzowate do muszlowatych o szerokości 5–25 cm, zwykle szarobrązowe do brązowych za młodu, blednące do białego. Gładka, wilgotna powierzchnia z białymi zbiegającymi blaszkami schodzącymi po krótkim bocznym lub nieobecnym trzonie. Rośnie w gęstych, zachodzących na siebie półkach z martwych lub obumierających kłód i pniaków drzew liściastych. Biały wysyp zarodników.",
+  "habitat": "Saprobiczny na martwych i obumierających drzewach liściastych, kłodach i pniakach, szczególnie bukach, dębach, klonach i topolach osikowych. Tworzy gęste, kępowe półki wyrastające z drewna. Sporadycznie pasożytniczy na osłabionych żywych drzewach. Pospolity na powalonych kłodach w mieszanych lasach liściastych.",
+  "season": "Jesień do wiosny w większości regionów, szczyt owocowania w październiku–listopadzie. W łagodnym klimacie nadbrzeżnym może owocować przez cały rok przy odpowiedniej wilgotności. Często pojawia się po obfitych deszczach i ochłodzeniu.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Północno-Zachodni Pacyfik",
+    "Region Wielkich Jezior",
+    "Appalachy",
+    "regiony strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "Pleurotus pulmonarius (niemal identyczny, bledszy, letnie owocowanie)",
+    "skrzydła anioła (Pleurocybella porrigens) – trujący, mniejszy, czysto biały, na drzewach iglastych",
+    "gatunki Crepidotus – brązowe zarodniki, mniejsze, inna faktura",
+    "boczniak wiązowy (Hypsizygus ulmarius) – centralny trzon, mniej wyraźny muszlowaty kształt"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: jeden z najpopularniejszych uprawianych grzybów na świecie o doskonałym smaku i fakturze. Dzikie okazy są bezpieczne i smaczne po prawidłowym rozpoznaniu. Gotuj dokładnie przed spożyciem, gdyż surowe boczniaki mogą u niektórych osób powodować dolegliwości trawienne. Unikaj starszych okazów, które mogą być twarde lub zarobaczone. Powszechnie uprawiany komercyjnie, dzięki czemu znany większości ludzi.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1670345.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-20",
+      "file_size_bytes": 67850,
+      "width": 640,
+      "height": 482,
+      "sha256": "4251e7d8ec1831c63cd96dc3e16d0730735f7b0eff7fb476e4b838cf3d599a1e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1733337.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-31",
+      "file_size_bytes": 86858,
+      "width": 640,
+      "height": 507,
+      "sha256": "440d644be0f31fba34ae26f88cf441151573f5b18ee03aeabbf3ef42375bfc37"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.261591",
+  "source_language": "en"
+}

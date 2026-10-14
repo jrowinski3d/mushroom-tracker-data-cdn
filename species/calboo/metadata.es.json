@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calboo",
+  "scientific_name": "Calvatia booniana",
+  "common_name": "Western Giant Puffball (Calvatia booniana)",
+  "edibility": "E",
+  "description": "Pedos de lobo grandes, redondos u ovalados, de 4 a 12 pulgadas de diámetro, con distintivas placas poligonales gruesas o escamas sobre una superficie blanca a castaña, que le dan un aspecto areolado (de baldosas agrietadas). Interior de color blanco puro cuando es comestible, volviéndose amarillo oliváceo y luego pardo. Tiene un pequeño punto de unión basal pero sin base estéril definida. Patrón único de superficie escamosa.",
+  "habitat": "Saprobio en bosques montanos de coníferas y mixtos, particularmente bajo pino ponderosa, abeto de Douglas y en praderas montanas. Prefiere suelos bien drenados a mayor altitud. Común en parques de montaña, bosques abiertos y bordes de bosque en las montañas del oeste.",
+  "season": "De finales del verano a otoño, típicamente de agosto a octubre. Fructificación máxima tras las lluvias monzónicas en el suroeste. Más abundante de septiembre a octubre en regiones montañosas.",
+  "regions": [
+    "Montañas Rocosas",
+    "Sierra Nevada",
+    "cordillera de las Cascadas",
+    "montañas del suroeste",
+    "bosques montanos del oeste",
+    "desde la Columbia Británica hasta Arizona"
+  ],
+  "lookalikes": [
+    "Calvatia sculpta (escamas similares pero con patrón diferente)",
+    "MORTAL: botones inmaduros de Amanita (CÓRTELOS SIEMPRE POR LA MITAD: mostrarán láminas o sombrero en desarrollo en su interior)",
+    "Especies de Scleroderma / pedos de lobo terrestres (tóxicas, interior púrpura negruzco, corteza mucho más gruesa)",
+    "Otras especies de Calvatia (patrones de superficie diferentes)"
+  ],
+  "safety_notes": "COMESTIBLE cuando el interior es de color blanco puro: CRÍTICO: corte siempre el ejemplar completamente por la mitad de arriba abajo antes de consumirlo. Comestible SOLO si el interior es completamente blanco puro y firme en su totalidad. Si se observa cualquier tono amarillo, pardo, púrpura o estructuras en desarrollo en el interior, NO LO COMA. Esto evita consumir especies similares tóxicas y Amanitas mortales inmaduras. La distintiva superficie escamosa ayuda a la identificación, pero el color blanco interno es la prueba definitiva de comestibilidad. Cocine bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1737565.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 103696,
+      "width": 640,
+      "height": 488,
+      "sha256": "f4956223f23b1e83a9420e349226ebc0597621480bcb3ca0da88c07cd4fa43e2"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1737566.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 91306,
+      "width": 640,
+      "height": 411,
+      "sha256": "30b4968b62116544e4e011334daf73bf46b1327c8337a15de0d3e46fc70b0850"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

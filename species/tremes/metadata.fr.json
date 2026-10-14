@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "tremes",
+  "scientific_name": "Tremella mesenterica",
+  "common_name": "Trémelle mésentérique",
+  "edibility": "E",
+  "description": "La trémelle mésentérique est un champignon gélatineux jaune doré vif à orangé formant des masses irrégulières en forme de cerveau ou plissées de 2-8 cm de diamètre. La fructification est gélatineuse, translucide, à surface convolutée ressemblant à un cerveau ou à des intestins repliés. La couleur est jaune-orangé doré vif à l'état frais et humide, devenant orangé plus foncé et ratatinée au sec. La texture est molle, tremblotante et gélatineuse. Revit et gonfle une fois réhydratée. Pas de structure distincte de pied ou de chapeau.",
+  "habitat": "Trouvée sur les branches et brindilles mortes des feuillus, notamment le chêne, le hêtre et autres espèces caduques. Pousse en parasite des champignons en croûte (notamment les espèces de Peniophora) qui colonisent le bois mort. Fructifie sur les branches tombées, le bois mort sur pied et l'écorce. Commune dans les forêts, les bois et les parcs. Préfère les conditions humides.",
+  "season": "Toute l'année dans les zones au climat doux et humide, mais plus abondante de l'automne au printemps (octobre-avril). Dans les régions tempérées, principalement l'hiver et le début du printemps (novembre-mars). Peut fructifier en été après de fortes pluies. Pic pendant les périodes fraîches et humides.",
+  "regions": [
+    "Europe (répandu)",
+    "Est de l'Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie (occasionnel)",
+    "dans le monde entier, en régions tempérées",
+    "particulièrement commun en Grande-Bretagne"
+  ],
+  "lookalikes": [
+    "Tremella aurantia (comestible) — semblable mais orangé vif, parasite de Stereum",
+    "Espèces de Dacrymyces (comestibles) — plus petites, plus orangées, sur bois de conifères",
+    "Calocera viscosa (comestible) — branches en forme de corail et non en forme de cerveau",
+    "Aucun sosie toxique parmi les champignons gélatineux"
+  ],
+  "safety_notes": "COMESTIBLE mais fade : Considérée comme comestible et consommée dans certaines cultures, mais a peu ou pas de saveur. La texture gélatineuse est la caractéristique principale. Utilisée en médecine traditionnelle chinoise. Sûre à goûter crue mais généralement cuite dans les soupes ou les plats sucrés. Aucune valeur nutritive mais inoffensive. Plus intéressante comme ornement que comme aliment. La couleur jaune doré vif et l'aspect en forme de cerveau sont diagnostiques. Aucun sosie dangereux — tous les champignons gélatineux semblables sont comestibles. Souvent utilisée en décoration pour sa couleur vive.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1731381.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 32694,
+      "width": 640,
+      "height": 427,
+      "sha256": "23f4f40b6067140f44e12ff967c1f22b92604b2d0a4e605c5a11482334462a0a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1731382.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 24616,
+      "width": 640,
+      "height": 427,
+      "sha256": "bb94d948d2b36a65b8905a39e8c0caf8562ea265cfd8f11cc609375abe7260bf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

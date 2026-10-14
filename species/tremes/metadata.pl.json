@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "tremes",
+  "scientific_name": "Tremella mesenterica",
+  "common_name": "Trzęsak pomarańczowożółty",
+  "edibility": "E",
+  "description": "Trzęsak pomarańczowożółty to jasno złocistożółty do pomarańczowego grzyb galaretowaty, tworzący nieregularne, mózgowate lub pofałdowane masy o średnicy 2–8 cm. Owocnik jest galaretowaty, przeświecający, o powierzchni pofałdowanej jak mózg lub jelita. Barwa jasno złocistopomarańczowa do żółtej za świeżości i wilgotności, z wiekiem ciemniejsza — pomarańczowa i pomarszczona, gdy suchy. Tekstura miękka, drżąca i galaretowata. Odradza się i pęcznieje po nawodnieniu. Brak wyraźnej struktury trzonu czy kapelusza.",
+  "habitat": "Występuje na martwych gałęziach i gałązkach drzew liściastych, zwłaszcza dębu, buka i innych gatunków liściastych. Rośnie jako pasożyt na grzybach skorupiastych (zwłaszcza gatunkach Peniophora), które kolonizują martwe drewno. Owocnikuje na powalonych gałęziach, stojącym martwym drewnie i korze. Pospolity w lasach, zagajnikach i parkach. Preferuje wilgotne warunki.",
+  "season": "Przez cały rok w miejscach o łagodnej, wilgotnej pogodzie, lecz najobfitszy od jesieni do wiosny (październik–kwiecień). W regionach umiarkowanych głównie zimą i wczesną wiosną (listopad–marzec). Może owocnikować latem po ulewnych deszczach. Szczyt w chłodnych, wilgotnych okresach.",
+  "regions": [
+    "Europa (szeroko rozpowszechniony)",
+    "Wschodnia Ameryka Północna (pospolity)",
+    "Północno-Zachodni Pacyfik (pospolity)",
+    "Kalifornia (sporadycznie)",
+    "na całym świecie w strefie umiarkowanej",
+    "szczególnie pospolity w Wielkiej Brytanii"
+  ],
+  "lookalikes": [
+    "Tremella aurantia (jadalna) — podobna, lecz jasno pomarańczowa, pasożytuje na Stereum",
+    "Gatunki Dacrymyces (jadalne) — mniejsze, bardziej pomarańczowe, na drewnie iglastym",
+    "Pięknoróg lepki (Calocera viscosa, jadalny) — koralowate gałązki, nie mózgowate",
+    "Brak trujących gatunków podobnych wśród grzybów galaretowatych"
+  ],
+  "safety_notes": "JADALNY, lecz mdły: Uważany za jadalny i spożywany w niektórych kulturach, lecz ma mało smaku lub nie ma go wcale. Galaretowata tekstura jest główną cechą. Stosowany w tradycyjnej medycynie chińskiej. Bezpieczny do spróbowania na surowo, lecz zazwyczaj gotowany w zupach lub słodkich potrawach. Bez wartości odżywczej, ale nieszkodliwy. Ciekawszy jako ozdoba niż jako pokarm. Jasna złocistożółta barwa i mózgowaty wygląd są diagnostyczne. Brak niebezpiecznych gatunków podobnych — wszystkie podobne grzyby galaretowate są jadalne. Często stosowany dekoracyjnie ze względu na żywy kolor.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1731381.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 32694,
+      "width": 640,
+      "height": 427,
+      "sha256": "23f4f40b6067140f44e12ff967c1f22b92604b2d0a4e605c5a11482334462a0a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1731382.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 24616,
+      "width": 640,
+      "height": 427,
+      "sha256": "bb94d948d2b36a65b8905a39e8c0caf8562ea265cfd8f11cc609375abe7260bf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

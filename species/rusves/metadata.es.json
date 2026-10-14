@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "rusves",
+  "scientific_name": "Russula vesca",
+  "common_name": "The Flirt (Russula vesca)",
+  "edibility": "E",
+  "description": "La flirt tiene el sombrero de color marrón rosado a vináceo (de 5 a 12 cm), a menudo con el centro más oscuro. El margen del sombrero presenta ESTRÍAS RADIALES (surcos). Láminas de color blanco a crema. Pie blanco, teñido de rosa. CLAVE: CARNE QUEBRADIZA COMO TIZA, SIN LÁTEX, SABOR SUAVE, cutícula que se pela. Carne blanca. Esporada blanca.",
+  "habitat": "Micorrícica con frondosas, especialmente roble y haya. Crece en el suelo en bosques caducifolios. Especie europea, común. En grupos o de forma dispersa.",
+  "season": "Del verano al otoño (julio-octubre).",
+  "regions": [
+    "Europa",
+    "este de EE. UU. (introducida)"
+  ],
+  "lookalikes": [
+    "Otras rúsulas rosadas — comprobar el sabor",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: excelente sabor suave. SOMBRERO ROSA + CARNE QUEBRADIZA + SABOR SUAVE + CUTÍCULA QUE SE PELA: diagnóstico. Muy apreciada en Europa. La prueba de sabor lo confirma. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634353.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 56956,
+      "width": 640,
+      "height": 480,
+      "sha256": "94747d722675afcfef23d7474d503248e46f104e75083906f9b38a86977ef31a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634354.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 68208,
+      "width": 640,
+      "height": 480,
+      "sha256": "60eec0c2e05b5d829333d3b1b3529dbe6ad45777398c60d361ec1443034bf2d1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

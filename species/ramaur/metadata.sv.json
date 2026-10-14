@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramaur",
+  "scientific_name": "Ramaria aurea",
+  "common_name": "Golden Coral (Ramaria aurea)",
+  "edibility": "E",
+  "description": "Golden Coral är en vacker upprätt fingersvamp, 8–20 cm hög och 8–15 cm bred. Fruktkroppen består av många upprätta grenar som utgår från en tjock vit till blekt gul bas. Unga grenar är lysande gyllengula till orangegula och blir ockrabruna med åldern. Grenspetsarna är vanligen trubbiga och rundade. Förgreningen är tät och kompakt, vilket ger ett blomkålsliknande utseende. Köttet är vitt till blekt gult, skört, med mild behaglig doft. Hela svampen har en köttig, inte geléaktig konsistens.",
+  "habitat": "Finns i löv- och blandskog, särskilt under ek, bok och andra lövträd. Bildar mykorrhiza med trädrötter. Växer markbundet från jord, vanligen spritt eller i små grupper. Föredrar näringsrik humusjord i mogen skog. Vanlig i förnalager och nära murken ved.",
+  "season": "Sensommar till höst (augusti–november) i de flesta regioner. Toppen infaller i tidig till mitten av hösten. I varmare klimat kan den bilda fruktkroppar så sent som i december. Kräver varm jordtemperatur följt av höstregn.",
+  "regions": [
+    "Europa (utbrett)",
+    "Östra Nordamerika (vanlig)",
+    "Nordvästra USA (tillfällig)",
+    "Kalifornien (sällsynt)",
+    "Tempererade lövskogar världen över",
+    "Särskilt vanlig i sydöstra USA"
+  ],
+  "lookalikes": [
+    "Ramaria botrytis (ätlig) – rosa/vinröda grenspetsar, liknande storlek",
+    "Ramaria formosa (giftig) – laxröda till orange grenar, gulnar vid beröring",
+    "Ramaria rasilispora (ätlig) – mycket lik, mikroskopi behövs för att skilja",
+    "Clavariadelphus-arter (ätlig) – enklare klubbform, inte intrikat förgrenad"
+  ],
+  "safety_notes": "ÄTLIG: Anses ätlig och god som ung och fast. En av de bättre fingersvamparna att äta. Stek ordentligt. Smaken är mild och behaglig. Plocka endast unga fräscha exemplar – äldre exemplar blir sega och beska. Kasta exemplar som är vattenskadade eller har insektsskador. Vissa personer rapporterar milda magbesvär av fingersvampar. KRITISKT: Skilj från giftiga R. formosa som har mer laxröd färg och gulnar vid beröring. Undvik också besksmakande fingersvampar. Den gyllengula färgen utan rosa toner är nyckeln. Prova små mängder först.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388061.jpg",
+      "photographer": "Michael",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-27",
+      "file_size_bytes": 91920,
+      "width": 480,
+      "height": 640,
+      "sha256": "9c1c0893dc78a533f9bc522ce2c89b42a9dd00f30f4adc88cdb30a4ac7ea3f96"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530391.jpg",
+      "photographer": "Ann B.",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-20",
+      "file_size_bytes": 48046,
+      "width": 640,
+      "height": 640,
+      "sha256": "20bb95f5d78dacbcfa204ab28017d8ab1ced84bc147ee2ae6936b5ecc386d78a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

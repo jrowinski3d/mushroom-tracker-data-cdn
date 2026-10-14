@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscas",
+  "scientific_name": "Russula cascadensis",
+  "common_name": "Cascade Russula (Russula cascadensis)",
+  "edibility": "E",
+  "description": "La rúsula de las Cascadas tiene el sombrero blanco (de 5 a 15 cm), que se vuelve amarillento con la edad. Láminas blancas, apretadas. Pie blanco, grueso. CLAVE: CARNE QUEBRADIZA, SIN LÁTEX, seta blanca grande, Pacífico Noroeste. Carne blanca. Esporada blanca. Sabor suave.",
+  "habitat": "Micorrícica con CONÍFERAS en el Pacífico Noroeste, especialmente abeto de Douglas, tsuga y abetos verdaderos. Crece en el suelo en bosques de coníferas. Endémica regional. De forma dispersa o en grupos.",
+  "season": "Otoño (septiembre-noviembre), fructificando tras las lluvias de otoño.",
+  "regions": [
+    "Pacífico Noroeste",
+    "Columbia Británica",
+    "norte de California"
+  ],
+  "lookalikes": [
+    "Russula brevipes — muy similar",
+    "Otras rúsulas blancas",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave. SOMBRERO BLANCO + CARNE QUEBRADIZA + SIN LÁTEX + CONÍFERAS DEL PACÍFICO NOROESTE: diagnóstico. La prueba de sabor lo confirma. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1515362.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 96106,
+      "width": 640,
+      "height": 480,
+      "sha256": "80a360b89bb292bf9e445025b2536932d8451eae663609d677c69e8fe42cf3c5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1515363.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 120372,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1665ef87b0306cd7f9dc949b407a33a50feffb6cf95dfcd8508cd4ea3aa9131"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

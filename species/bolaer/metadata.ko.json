@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "bolaer",
+  "scientific_name": "Boletus aereus",
+  "common_name": "Bronze Bolete (Boletus aereus)",
+  "edibility": "E",
+  "description": "브론즈볼리트는 어릴 때는 벨벳 같은 질감의 진한 갈색에서 청동흑색의 갓(6-20cm)을 보이며, 나이가 들면 매끄러워진다. 관공은 어릴 때 흰색이며 황녹색으로 늙어가고 변색 반응이 없다. 굵고 구근상의 대는 연갈색이며 상부에 집중된 백색 그물무늬가 있다. 흰색 조직은 잘라도 변색하지 않는다. 포자문은 올리브 갈색이다.",
+  "habitat": "주로 참나무와 균근성으로 자라며, 혼합 활엽수림에서 간혹 너도밤나무, 밤나무와도 함께한다. 배수가 잘되는 토양의 따뜻하고 건조한 서식지를 선호한다. 언덕 비탈과 삼림 가장자리에서 자주 발견된다.",
+  "season": "여름부터 가을까지(6-10월) 발생하며, 따뜻한 기후에서는 B. edulis보다 일찍 발생한다. 비가 내린 뒤 따뜻한 시기에 가장 많이 생산된다.",
+  "regions": [
+    "미국 남동부",
+    "중부 대서양 연안 주들",
+    "남부 캘리포니아",
+    "남부 로키 산맥",
+    "태평양 남서부"
+  ],
+  "lookalikes": [
+    "Boletus edulis - 갓이 더 밝은 갈색이며 침엽수 선호",
+    "Tylopilus felleus - 분홍색 관공, 쓴맛",
+    "다른 어두운 갓의 Boletus 종 - 모두 식용",
+    "Xerocomellus 종 - 더 작고 서식지가 다름"
+  ],
+  "safety_notes": "최상급 식용: 브론즈볼리트는 유럽에서 매우 귀하게 여겨지며, 일부는 왕그물버섯(킹볼리트)과 동등하거나 더 낫다고 평가한다. 건조하면 더욱 강해지는 훌륭하고 단단한 조직과 고소한 향미. 최상의 결과를 위해 충분히 익힌다. 어두운 갓 색상이 진단적이며 다른 종과 구분에 도움이 된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1565467.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 81716,
+      "width": 640,
+      "height": 480,
+      "sha256": "18a7756a0c33dd630276c40e6695acadf2f6a932749979e40810de1873f23d82"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1565468.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 77270,
+      "width": 480,
+      "height": 640,
+      "sha256": "b9a429096996249a3fbade549352e72d0b48c88fa3163dba00fa888305e5724c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.585198",
+  "source_language": "en"
+}

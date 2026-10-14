@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canapp",
+  "scientific_name": "Cantharellus appalachiensis",
+  "common_name": "Appalachian Chanterelle (Cantharellus appalachiensis)",
+  "edibility": "E",
+  "description": "애팔래치아꾀꼬리버섯은 너비 3~12cm의 황금노랑에서 밝은 주황노랑의 갓을 가지며 표면은 매끄럽거나 약간 주름진다. 갓은 나이가 들면 깔때기 모양이 되고 가장자리는 물결 모양으로 불규칙하다. 아랫면에는 두껍고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 잘 발달되어 있고, 밝은 노랑에서 주황노랑을 띠며, 간격이 넓고 대를 따라 뚜렷하게 흘러내린다. 주름은 C. lateritius보다 뚜렷하고 C. cibarius와 비슷하다. 대는 속이 차 있고 단단하며 높이 3~9cm, 노랑에서 주황노랑이고 종종 곤봉 모양이다. 살은 흰색에서 연노랑이며 단단하고 살구 향이 난다. 포자문은 연노랑에서 크림색이다.",
+  "habitat": "동부 활엽수, 특히 백참나무, 적참나무, 미국너도밤나무, 히코리, 튤립나무와 균근공생한다. 애팔래치아 지역 전역의 성숙한 혼합 활엽수림에서 발견된다. 두꺼운 낙엽층과 산성 토양이 있는 배수가 잘되는 산지 경사면, 골짜기, 능선을 선호한다.",
+  "season": "여름부터 가을(6월~10월), 7월~9월에 최성기. 따뜻한 여름 비가 내린 뒤 왕성하게 자실체를 내는 경우가 많다. 습기가 충분하면 시즌 내내 여러 차례 발생할 수 있다.",
+  "regions": [
+    "애팔래치아산맥 (조지아주~메인주)",
+    "중부 대서양 연안 주들 (버지니아, 웨스트버지니아, 메릴랜드)",
+    "테네시주와 노스캐롤라이나주 산악 지대",
+    "펜실베이니아주와 뉴욕주",
+    "남부 오하이오주와 켄터키주"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus illudens) - 독성, 날카로운 진짜 주름살, 목재나 묻힌 목재에서 자라며 어둠에서 발광",
+    "거짓꾀꼬리버섯 (Hygrophoropsis aurantiaca) - 독성은 없으나 품질이 떨어짐, 얇은 진짜 주름살, 더 진한 주황색",
+    "Cantharellus cibarius - 식용 가능, 매우 비슷하며 더 북부 지역에 분포, 외형상 사실상 동일"
+  ],
+  "safety_notes": "최상급 식용: 애팔래치아꾀꼬리버섯은 북아메리카 동부에서 가장 귀하게 여겨지는 야생 버섯 중 하나로, 뛰어난 맛과 단단한 식감으로 인기가 높다. 핵심 동정 특징은 두껍고 뭉툭하며 갈라진 주름으로, 촉감이 밀랍 같고 갓에 붙어 있어, 독성 Jack-O'-Lantern의 얇고 칼날 같은 진짜 주름살과 대비된다. 반드시 나무 근처의 토양에서 자라는지, 목재에서 자라지 않는지 확인하십시오. 즐거운 과일 향과 매콤한 맛이 나며, 볶음, 수프, 건조 보존에 훌륭하다. 일부 사람에게는 가벼운 소화 불량이 생길 수 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695286.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 58918,
+      "width": 640,
+      "height": 550,
+      "sha256": "1e531b8fdb9faf5e522613f935369fa08b17d8304ffbea739b036127f37058e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695282.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-11",
+      "file_size_bytes": 35850,
+      "width": 640,
+      "height": 500,
+      "sha256": "0d643f4fa701f4b4b45e1ee889956eb3e6793e82ea4fb063547d712c44fbbd9b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.207174",
+  "source_language": "en"
+}

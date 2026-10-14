@@ -1,0 +1,53 @@
+{
+  "mushroom_id": "morame",
+  "scientific_name": "Morchella americana",
+  "common_name": "smardz amerykański",
+  "edibility": "E",
+  "description": "Kapelusz o wysokości 3–10 cm, stożkowaty do jajowatego lub w kształcie szyszki sosnowej, z plastrem miodu sieci żeberek i jamek ułożonych głównie pionowo; barwa od szarej przez białawą do żółtawej, z żeberkami jaśniejszymi niż jamki. Trzon krótszy od kapelusza, czasem bulwiasty, o długości 2–9 cm, pomarszczony i często żółto przebarwiony, biały do żółtawego, pusty w środku. Całkowicie pusty od wierzchołka kapelusza przez trzon po przecięciu wzdłuż. Wysyp zarodników białawy do kremowego.",
+  "habitat": "Rozpowszechniony pod drzewami liściastymi, szczególnie jesionami, wiązami (zwłaszcza obumierającymi lub niedawno martwymi), topolami osikowymi, topolami balsamicznymi, platanami, tulipanowcami i jabłoniami w starych, opuszczonych sadach. W regionach zachodnich zwykle znajdowany przy topolach w dolinach rzecznych. Sporadycznie związany z drzewami iglastymi, szczególnie sosną wejmutką. Preferuje wilgotną, dobrze przepuszczalną glebę w lasach i na terenach nadrzecznych.",
+  "season": "Wiosna (marzec–czerwiec, szczyt owocowania kwiecień–maj w większości regionów). Owocowanie wywoływane jest osiągnięciem przez glebę temperatury około 10°C w połączeniu z odpowiednią wilgotnością. Wcześniej na południu (marzec–kwiecień), później na północy i w górach (maj–czerwiec).",
+  "regions": [
+    "Północny Wschód",
+    "Środkowy Atlantyk",
+    "Środkowy Zachód",
+    "Wielkie Jeziora",
+    "południowy wschód",
+    "Góry Skaliste",
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia"
+  ],
+  "lookalikes": [
+    "piestrzenica (gatunki Gyromitra) – TRUJĄCA: mózgowato pomarszczony kapelusz zamiast plastra miodu żeberek, kapelusz przyrośnięty tylko na wierzchołku (nie zrośnięty z trzonem), wnętrze komorowe, a nie całkowicie puste, często czerwonobrązowa. Zawiera śmiertelnie trujące toksyny, które utrzymują się nawet po ugotowaniu.",
+    "Morchella ulmaria – jadalny: niemal identyczny wygląd, zasięgi nakładają się w regionie Wielkich Jezior, nie da się wiarygodnie odróżnić bez analizy DNA, ta sama jadalność i wymagania przygotowania.",
+    "smardz półwolny (Morchella punctipes) – jadalny: kapelusz przyrośnięty w połowie długości trzonu, a nie zrośnięty na całej długości, wygląd spódnicowaty, proporcjonalnie krótszy kapelusz.",
+    "inne gatunki Morchella – jadalne: M. esculenta (niemal identyczny smardz żółty), M. importuna (ciemniejszy, w ściółce ogrodowej), wszystkie prawdziwe smardze mają tę samą wartość kulinarną i wymagania gotowania."
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: jeden z najbardziej cenionych dzikich grzybów w Ameryce Północnej, wysoko ceniony kulinarnie. Musi być dokładnie ugotowany przez co najmniej 15–25 minut na średnim ogniu; surowe lub niedogotowane okazy zawierają związki hydrazynowe powodujące silne nudności, wymioty i dolegliwości żołądkowe. Gotowanie w temperaturze powyżej 71°C niszczy toksyczne związki. Niektóre osoby mogą doświadczać reakcji alergicznych nawet po prawidłowym przygotowaniu; najpierw spróbuj małych porcji. Zgłaszano rzadkie niepożądane reakcje przy spożyciu z alkoholem. Kluczowe jest odróżnienie od śmiertelnie trujących piestrzenic (Gyromitra), które mają mózgowato pomarszczone kapelusze, a nie wzór plastra miodu.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751691.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 103280,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3b1ae2def037cc001b8b159ede57e88fa653c4695528be30768ba492bcc818"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751690.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 122176,
+      "width": 480,
+      "height": 640,
+      "sha256": "65c699f6f9b0055e3654f3987b1070e6147d0da24fd69f93c28fb3d62cbd9ff8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

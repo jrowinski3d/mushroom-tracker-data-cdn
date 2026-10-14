@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusvir",
+  "scientific_name": "Russula virescens",
+  "common_name": "Сыроежка зеленоватая",
+  "edibility": "E",
+  "description": "Сыроежка зеленоватая имеет зелёную шляпку (5–12 см) с характерным ТРЕЩИНУВАТЫМ или ШАХМАТНЫМ рисунком, обнажающим белую мякоть — очень характерный признак. Пластинки белые. Ножка белая, плотная. КЛЮЧЕВЫЕ ПРИЗНАКИ: ЗЕЛЁНАЯ ТРЕЩИНУВАТАЯ ШЛЯПКА, ХРУПКАЯ МЯКОТЬ, НЕТ МЛЕЧНОГО СОКА, МЯГКИЙ ВКУС. Мякоть белая. Споровый отпечаток белый.",
+  "habitat": "Микоризна с лиственными породами, особенно дубом, буком, каштаном. Растёт на земле в лиственных лесах. Европейский вид. Рассеянно или группами.",
+  "season": "С лета до осени (июль–сентябрь).",
+  "regions": [
+    "Европа",
+    "восток США (возможно, интродуцирован)"
+  ],
+  "lookalikes": [
+    "Russula aeruginea — зелёная, но гладкая",
+    "Другие сыроежки",
+    "Млечники (Lactarius) — выделяют МЛЕЧНЫЙ СОК"
+  ],
+  "safety_notes": "ОТЛИЧНЫЙ СЪЕДОБНЫЙ ГРИБ: отличный мягкий, ореховый вкус. Рисунок ТРЕЩИНУВАТОЙ ЗЕЛЁНОЙ ШЛЯПКИ безошибочен. ХРУПКАЯ МЯКОТЬ + МЯГКИЙ ВКУС. Высоко ценится в Европе. Тщательно готовить.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1577038.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 67492,
+      "width": 640,
+      "height": 480,
+      "sha256": "a609f8d413c5866ecfc3b1d8dd55ca38c560370d54100b6c5180553ae41659a1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1577039.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 52214,
+      "width": 480,
+      "height": 640,
+      "sha256": "d60f279b895b6e53ce3ebeb25006c468963e1e5b63c6fd6c606b67e877e604a7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

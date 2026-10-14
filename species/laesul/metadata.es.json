@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laesul",
+  "scientific_name": "Laetiporus sulphureus",
+  "common_name": "Pollo del bosque",
+  "edibility": "E",
+  "description": "Llamativo hongo de repisa de color amarillo azufre brillante a anaranjado que forma grandes repisas superpuestas de 5-30 cm de ancho. Superficie superior de anaranjado brillante a salmón, superficie inferior de poros de color amarillo azufre brillante. Blando, suculento y de textura similar al pollo cuando es joven, se vuelve duro y quebradizo con la edad. Sin pie. Cuerpo fructífero anual. Hongo de podredumbre blanca con una distintiva superficie de poros de color amarillo azufre.",
+  "habitat": "Parásito y saprófito sobre árboles de frondosas vivos y muertos, particularmente robles, cerezos, sauces y otras especies caducifolias. Forma grandes rosetas o repisas en troncos, tocones y troncos caídos. Causa podredumbre parda cúbica del corazón. Común en robles de los bosques del este.",
+  "season": "De primavera a otoño según la región, con máxima fructificación de mayo a septiembre. Puede brotar varias veces por temporada. Más común a finales de primavera y principios de verano. Los ejemplares jóvenes y tiernos aparecen antes en la temporada.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste",
+    "sur de Estados Unidos",
+    "región de los Grandes Lagos",
+    "extendida al este de las Montañas Rocosas",
+    "Europa y Asia"
+  ],
+  "lookalikes": [
+    "Laetiporus cincinnatus (superficie de poros blanca, crece desde el suelo/raíces)",
+    "Laetiporus gilbertsonii (occidental, huésped eucalipto)",
+    "Jack-o'-lantern (Omphalotus): tóxico, tiene láminas y no poros, crecimiento diferente",
+    "Otras especies de Laetiporus (todas comestibles, huéspedes/regiones diferentes)"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE cuando es joven y tierno: recolecte solo ejemplares jóvenes, blandos y flexibles, de textura húmeda. Evite ejemplares viejos, secos y quebradizos. IMPORTANTE: algunas personas experimentan molestias digestivas, especialmente con ejemplares que crecen sobre coníferas, eucalipto o cedro; evite estos huéspedes. Empiece con pequeñas cantidades para probar la tolerancia. Cocine bien. Mejor cuando los bordes aún están creciendo y tienen colores brillantes. Excelente textura similar al pollo cuando se prepara adecuadamente.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1717527.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 143724,
+      "width": 480,
+      "height": 640,
+      "sha256": "96ecc15722b354ccdb58b90e11a997df2f8e07812f5581037ef20111ec94ac0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1711715.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-03",
+      "file_size_bytes": 75342,
+      "width": 482,
+      "height": 640,
+      "sha256": "cced2e82c7075ceb4a44c2c7c8fea1b49ed2b614b53cc34dc6f1d1dc5dc4f3d4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.487276",
+  "source_language": "en"
+}

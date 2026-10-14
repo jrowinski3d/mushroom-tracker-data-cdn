@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "hydruf",
+  "scientific_name": "Hydnum rufescens",
+  "common_name": "Terracotta Hedgehog (Hydnum rufescens)",
+  "edibility": "E",
+  "description": "주황갈색에서 적갈색 갓(3~10cm)을 지니며, 옅은 색의 다른 고슴도치버섯속 종과 구별되는 녹슨 적토색을 띤다. 갓은 볼록하거나 불규칙하며 가장자리가 물결 모양으로 갈라진다. 아랫면은 주름살이나 관공 대신 아래를 향한 잘 부서지는 침상 또는 이빨로 덮여 있다 — 이 침상은 주황갈색에서 옅은 주황색이며 문지르면 쉽게 떨어진다. 대는 주황갈색이며 중앙에서 약간 벗어나고, 종종 구부러지며 매끄럽다. 살은 흰색에서 옅은 주황색, 두껍고 잘 부서지며 맛이 순하거나 약간 매운맛이 난다. 포자문은 흰색이다. 다른 고슴도치버섯속 종보다 색이 훨씬 강렬하다.",
+  "habitat": "활엽수와 침엽수 모두와 균근성. 참나무, 너도밤나무, 소나무, 가문비나무 아래 혼합림의 지면에서 발견된다. 종종 흩어지거나 떼 지어 자란다. 산성 토양과 이끼 낀 곳을 선호한다.",
+  "season": "여름부터 가을(7월~11월), 가을에 발생 절정. 캘리포니아에서는 겨울에 발생할 수 있다.",
+  "regions": [
+    "태평양 북서부",
+    "캘리포니아",
+    "로키산맥",
+    "유럽"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (단맛고슴도치) - 더 옅고 크림색에서 옅은 주황색",
+    "Hydnum umbilicatum (오목고슴도치) - 더 작고 중앙이 오목함",
+    "Sarcodon 종 - 더 크고 짙은 갈색이며 종종 씀"
+  ],
+  "safety_notes": "식용 가능: 조리하면 좋은 맛이나, H. repandum보다 약간 더 매울 수 있다. 아랫면의 독특한 녹슨 주황색 침상/이빨 덕분에 동정이 명확하다. 침상이 잔해를 가두므로 철저히 손질하라. 품질이 가장 좋은 어린 개체를 채취하라 — 노화된 개체는 쓴맛이 날 수 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/600174.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 76816,
+      "width": 640,
+      "height": 480,
+      "sha256": "167152d25d958cdd5654f38018fe7142d1a5e9270a76fecf665ade15d81da26c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/600175.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 73398,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc1df510fa831e5533c10dcaa932758470edcd4aab203d0d412a6e16e0899091"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.645319",
+  "source_language": "en"
+}

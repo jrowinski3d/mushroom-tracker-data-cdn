@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "grifro",
+  "scientific_name": "Grifola frondosa",
+  "common_name": "Poule des bois",
+  "edibility": "E",
+  "description": "Fructification composée, grande et reconnaissable, de 10 à plus de 36 pouces de large, formée de dizaines de chapeaux gris-brun en forme de cuillère, se chevauchant, émergeant d’une base blanche centrale ramifiée. Chapeaux individuels de 1 à 3 pouces de large aux bords ondulés. Surface porée blanche dessous. Pousse en rosettes denses évoquant les plumes d’une poule. Peut peser de 10 à plus de 50 livres. Inimitable à maturité.",
+  "habitat": "Parasite à la base des feuillus vivants et morts, en particulier le chêne, l’orme, l’érable et le hêtre. Provoque la pourriture blanche du bois de cœur et des racines. Forme de grandes rosettes à la base des arbres, réapparaissant souvent au même endroit chaque année. Fréquente dans les forêts de feuillus matures. Pousse à partir de sclérotes souterrains.",
+  "season": "De la fin de l’été à l’automne, généralement d’août à novembre. Pic de fructification en septembre-octobre. Le plus fréquent en début d’automne. Peut produire des pousses au même endroit pendant de nombreuses années. Fructifie après les pluies de fin d’été.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "région des Grands Lacs",
+    "forêts du Nord-Est",
+    "montagnes des Appalaches",
+    "forêts de feuillus du Midwest",
+    "Asie et Europe"
+  ],
+  "lookalikes": [
+    "Meripilus sumstinei (plus foncé, noircit au toucher, texture différente)",
+    "Bondarzewia berkeleyi (plus pâle, chapeaux individuels plus grands)",
+    "Complexe des polypores de Berkeley (forme de rosette moins organisée)",
+    "Polypore ombelle (Polyporus) - structure différente, non groupé en touffes"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : très prisée comme l’un des meilleurs champignons comestibles, à la saveur excellente, à la texture charnue et aux propriétés médicinales. Largement cultivée en Asie sous le nom de « maitake ». Récolter fraîche, avant les dommages d’insectes. Meilleure jeune, aux couleurs blanches à gris pâle. Bien cuire. Sa forme complexe de rosette et son association au chêne rendent l’identification facile. Très sûre une fois bien identifiée. L’un des champignons sauvages les plus recherchés.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1752161.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 108262,
+      "width": 640,
+      "height": 482,
+      "sha256": "51db775a2a9dd70049932751edb12254fe0e55a21d80322b789a74ba2cb4c8bb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1752162.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 60112,
+      "width": 482,
+      "height": 640,
+      "sha256": "0140fb98a260129712883e87b2bfa756a52f9834955cee3fb9796b0351ebc719"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clinud",
+  "scientific_name": "Clitocybe nuda",
+  "common_name": "Pie azul (Clitocybe nuda)",
+  "edibility": "E",
+  "description": "Esta es la misma especie que Lepista nuda (pie azul): el nombre Clitocybe nuda es un sinónimo. Sombrero de 5-15 cm de ancho, convexo que se vuelve plano, lila a azul-púrpura cuando es joven, desvaneciéndose a canela con tonos púrpura. La superficie es lisa y ligeramente grasienta. Las láminas son adnatas a sinuadas, lila-púrpura que se desvanecen a canela. El pie es de 4-10 cm de alto, robusto, púrpura a lila con base bulbosa. La carne es de púrpura pálido a blanca con fragancia dulce floral. Esporada rosa.",
+  "habitat": "Se encuentra en bosques caducifolios y mixtos, bordes de bosques, setos, parques, jardines y pilas de compost. Crece como descomponedor de hojarasca en suelo orgánico rico. Fructifica disperso a gregario en grandes tropas o corros de brujas. Prefiere entornos ricos en nitrógeno.",
+  "season": "Finales de verano hasta principios de invierno (septiembre-diciembre). Uno de los clásicos hongos de temporada tardía que fructifican después de las heladas. Pico a finales de otoño (octubre-noviembre). En climas suaves puede fructificar hasta enero.",
+  "regions": [
+    "Europa (muy común)",
+    "este de Norteamérica (común)",
+    "Pacífico Noroeste (común)",
+    "California (ocasional)",
+    "regiones templadas de todo el mundo",
+    "ampliamente cultivada"
+  ],
+  "lookalikes": [
+    "Especies de Cortinarius (algunas mortales) - esporas de color marrón óxido y velo como telaraña",
+    "Laccaria amethystina (comestible) - más pequeña, verdaderamente púrpura, más delgada",
+    "Mycena pura (tóxica) - más pequeña, frágil, olor a rábano",
+    "Cortinarius violaceus joven (comestible) - velo como telaraña, esporas óxido"
+  ],
+  "safety_notes": "COMESTIBLE: Hongo comestible popular, pero requiere una preparación adecuada. CRÍTICO: Debe cocinarse bien; NUNCA lo comas crudo o poco cocido. Algunas personas tienen reacciones alérgicas incluso cocido. Prueba primero pequeñas cantidades. Verifica la ESPORADA ROSA (no marrón óxido). El color púrpura, las láminas adheridas, las esporas rosas y el olor dulce lo distinguen de Cortinarius. Popular en Europa y cada vez más cultivado. Mejor salteado o en guisos. Desecha los pies fibrosos.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1632914.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-19",
+      "file_size_bytes": 102296,
+      "width": 640,
+      "height": 480,
+      "sha256": "1138642c17b89f0c94a0c740ce5a21060db059a61803c5cdf86d13662e26ab0c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1632915.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-19",
+      "file_size_bytes": 97662,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6973f9ba712e464981f6ea5d19f85f44facc4e2a22725e7bfbace9e8827b99b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trical",
+  "scientific_name": "Tricholoma caligatum",
+  "common_name": "Matsutake de California",
+  "edibility": "E",
+  "description": "El matsutake de California tiene un sombrero robusto de color blanco a crema (5-15 cm), a menudo con manchas o zonas parduzcas que aparecen con la edad. El sombrero es convexo, seco, liso a ligeramente escamoso o fibriloso. Las láminas son de color blanco a crema, adheridas, apretadas, y pueden mancharse de marrón. El pie es grueso, firme, blanco, con un ANILLO MEMBRANOSO A ALGODONOSO del velo parcial — las características del anillo pueden variar. La característica clave es el DISTINTIVO OLOR PICANTE, A CANELA o aromático. La carne es blanca, firme. Esporada blanca. Se distingue por el hábitat de la cordillera costera de California y la asociación con especies arbóreas concretas.",
+  "habitat": "Micorrícico con CONÍFERAS y frondosas en California, sobre todo encina viva (Quercus agrifolia), tanoak (Notholithocarpus), madroño (Arbutus) y abeto de Douglas. Forma relaciones micorrícicas en los bosques costeros de California. Crece en el suelo, entre la hojarasca o la broza. Se encuentra en bosques mixtos de perennifolios desde las cordilleras costeras hasta las faldas de Sierra Nevada.",
+  "season": "De finales del otoño al invierno (noviembre-febrero), fructificando durante la temporada de lluvias de California, más tarde que otros matsutake.",
+  "regions": [
+    "costa de California",
+    "faldas de Sierra Nevada",
+    "cordilleras costeras",
+    "norte de California",
+    "región fronteriza con Oregón"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — matsutake del Pacífico Noroeste, específico de coníferas",
+    "Otras especies de Tricholoma — varias, carecen del olor a canela",
+    "especies de Amanita — TÓXICAS: tienen volva en la base",
+    "Catathelasma — tiene estructura de doble velo"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciado, recolectado comercialmente en California. El OLOR PICANTE A CANELA es diagnóstico. Mejor cuando es joven y firme. Único entre los matsutake por sus asociaciones con frondosas (roble, tanoak, madroño) además de coníferas. CRÍTICO: verificar siempre la ausencia de volva (copa en la base) para descartar especies tóxicas de Amanita. El anillo y el aroma distintivo confirman la identificación.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709829.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 48448,
+      "width": 640,
+      "height": 427,
+      "sha256": "3d523855db60033f8584ae1a15f1acd6727619de2cbc5db25006025b3844aea8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709830.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 39640,
+      "width": 640,
+      "height": 427,
+      "sha256": "1342cf701d1c7ffb2a2df10c0f7671b8bb3dd32a98a987505432c3b3c9bf7046"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

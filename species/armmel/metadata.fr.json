@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "armmel",
+  "scientific_name": "Armillaria mellea",
+  "common_name": "Armillaire couleur de miel",
+  "edibility": "E",
+  "description": "L'armillaire couleur de miel a un chapeau jaune miel à brun fauve (3 à 15 cm) couvert de petites SQUAMES SOMBRES concentrées au centre, devenant éparses vers la marge. Les lames sont blanches à crème, adnées au pied, développant souvent des taches brunes avec l'âge. Le pied porte un ANNEAU BLANC PERSISTANT près du sommet — une caractéristique d'identification clé. Le pied est blanc au-dessus de l'anneau, plus sombre en dessous, souvent avec des squames ou des fibres sombres. Pousse en TOUFFES DENSES à la base des arbres ou sur les souches. Le chapeau est visqueux quand il est humide. La chair est blanche, ferme, à l'odeur douce. La sporée est blanche. Des rhizomorphes noirs (structures en forme de lacets) souvent visibles dans le sol ou sous l'écorce.",
+  "habitat": "Parasite et saprotrophe des feuillus comme des conifères. Pousse en grandes touffes à la base des arbres vivants, des souches mortes et des racines enterrées. Provoque la pourriture blanche et peut tuer les arbres hôtes. Pousse sur le chêne, l'érable, le bouleau, le pin et de nombreuses autres essences. L'un des pathogènes des arbres les plus fréquents en forêt.",
+  "season": "Automne (septembre-novembre), avec une fructification maximale après les pluies d'automne. Fructifie occasionnellement au printemps.",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest",
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "Californie",
+    "Europe",
+    "Asie"
+  ],
+  "lookalikes": [
+    "Autres espèces d'Armillaria — très semblables, toutes exigent une cuisson",
+    "Espèces de Gymnopilus — goût amer, spores rouille-orangées",
+    "Espèces de Pholiota — sporée brune, habitat différent",
+    "Espèces de Galerina — MORTELLES — plus petites, spores brunes, sur le bois et non le sol/les racines"
+  ],
+  "safety_notes": "COMESTIBLE AVEC PRÉCAUTION : les armillaires (espèces d'Armillaria) sont VÉNÉNEUSES crues et doivent être soigneusement cuites avant consommation. Cuire au moins 10 à 15 minutes à feu vif. Même bien cuites, certaines personnes présentent des réactions allergiques ou des troubles digestifs. Essayer d'abord une petite quantité pour tester votre tolérance. Blanchir avant la cuisson peut aider à réduire les irritants gastro-intestinaux et l'amertume. Ne pas consommer avec de l'alcool — les armillaires peuvent provoquer des réactions indésirables en combinaison avec l'alcool (comme chez Coprinopsis). Ne récolter que des spécimens jeunes et fermes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713848.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 88552,
+      "width": 640,
+      "height": 482,
+      "sha256": "34090da069cb4b8a3e9d18038d30d81e1ede01849df4cd7c2e790e1b1dcfe045"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713849.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 96164,
+      "width": 640,
+      "height": 482,
+      "sha256": "70a5d56d5c39a6061d328040d5578fb2b56b5789de7702de08045cf7bbd19e93"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

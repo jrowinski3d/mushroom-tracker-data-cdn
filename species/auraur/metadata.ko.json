@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "auraur",
+  "scientific_name": "Auricularia auricula-judae",
+  "common_name": "목이",
+  "edibility": "E",
+  "description": "목이는 귀 모양의 자실체(지름 3-12cm)를 지닌 독특한 젤리 버섯이다. 자실체는 얇고 고무질-젤라틴질이며, 처음에는 컵 모양이다가 나이가 들면 귀 또는 조개 모양이 된다. 바깥쪽(포자 형성) 표면은 매끄럽거나 주름지고 적갈색에서 진한 갈색이며, 종종 자회색 기운이 돈다. 안쪽 표면은 황회색이며 미세한 털이 있어 약간 벨벳 같다. 신선할 때는 질기고 탄력 있으며, 마르면 단단해지고 오그라들지만 적시면 되살아난다. 뚜렷한 대는 없다.",
+  "habitat": "고사하거나 죽어가는 활엽수 가지와 통나무, 특히 딱총나무(Sambucus)에서 발견되지만 참나무, 버드나무 등 낙엽수에서도 자란다. 목재부후균으로, 보통 쓰러진 가지나 서 있는 고사목에서 자란다. 가지 따라 군집이나 줄을 이루어 발생한다. 습한 삼림과 수림 가장자리에서 흔하다.",
+  "season": "온화한 기후에서는 연중 발생하나, 가을부터 봄(9-5월)에 가장 풍부하다. 온대 지역에서는 주로 가을과 봄(8-11월, 3-5월)에 발생한다. 온화하고 습한 겨울 지역에서는 겨울에도 발생할 수 있다. 일정한 습기가 필요하다.",
+  "regions": [
+    "유럽 (널리 분포)",
+    "북아메리카 동부 (흔함)",
+    "태평양 북서부",
+    "캘리포니아 (간혹)",
+    "아시아 (매우 흔함)",
+    "전 세계 온대림"
+  ],
+  "lookalikes": [
+    "Auricularia americana (식용) - 매우 유사한 북아메리카 종으로 약간 더 두꺼움",
+    "Exidia 종 (식용) - 더 단추형 또는 뇌 모양으로 귀 모양이 아님",
+    "Tremella 종 (식용) - 더 뇌 모양 또는 주름진 구조",
+    "Bulgaria inquinans (불식용) - 검고 고무질이며 반구형으로 귀 모양이 아님"
+  ],
+  "safety_notes": "식용: 아시아 요리에서 널리 소비되며, 바삭한 조직과 향미 흡수 능력으로 귀하게 여겨진다. 수프, 볶음, 샐러드에 인기 있다. 반드시 익혀 먹는다 - 생으로 먹지 않는다. 조리 후에도 바삭하고 쫄깃한 조직이 유지된다. 영양이 풍부하고 흔히 재배된다. 신선한 개체는 이물질을 가두므로 잘 씻는다. 건조된 개체는 조리 전 재수화해야 한다. 독성 유사종 없음. 딱총나무/활엽수 서식의 귀 모양이 독특하다. 자체 향미는 없지만 소스 흡수가 훌륭하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493169.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 90872,
+      "width": 640,
+      "height": 480,
+      "sha256": "69dca539045c9109d9c02f521e09ad74b3bd49ecd2ff3d03592433c62ea6aa38"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493170.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 99828,
+      "width": 640,
+      "height": 480,
+      "sha256": "53742276a39e5b60e6b660873c86789487ab34456dacbb2744b194aeb71f577b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

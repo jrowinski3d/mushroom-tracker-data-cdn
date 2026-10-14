@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bolsub",
+  "scientific_name": "Boletus subcaerulescens",
+  "common_name": "Almost Bluing King Bolete (Boletus subcaerulescens)",
+  "edibility": "E",
+  "description": "El boleto azulante presenta un sombrero (5-15 cm) de color pardo a pardo rojizo, de superficie lisa. Los poros son de amarillos a amarillo oliváceo, azuleando lentamente al azul verdoso al manipularlos, un rasgo diagnóstico. El pie amarillento muestra reticulación y también azulea. La carne, de blanca a amarillo pálido, se tiñe de azul al cortarla, especialmente cerca de la superficie de los poros. Esta reacción de azuleamiento lo distingue de especies similares. La esporada es pardo olivácea.",
+  "habitat": "Micorrícico con roble y otras frondosas en bosques caducifolios y mixtos. Prefiere suelos ricos y bien drenados en bosques maduros. Común en hábitats dominados por robles.",
+  "season": "De verano a otoño (julio-octubre), con la fructificación máxima a finales del verano. Aparece tras las lluvias cálidas con clima húmedo.",
+  "regions": [
+    "este de los Estados Unidos",
+    "estados del sureste",
+    "región del Atlántico medio",
+    "montañas Apalaches",
+    "región de los Grandes Lagos",
+    "robledales del este de Norteamérica"
+  ],
+  "lookalikes": [
+    "Boletus edulis: poros blancos, sin reacción de azuleamiento",
+    "Boletus variipes: azuleamiento más dramático, distribución diferente",
+    "Tylopilus felleus: poros rosados, amargo, sin azul",
+    "Boletus sensibilis: azulea con mucha intensidad"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto azulante es un buen hongo comestible de textura firme y sabor suave. La reacción de tinción azul es normal y segura: NO es indicio de toxicidad. Cocine bien antes de comer. El azuleamiento ayuda a distinguirlo de especies que no azulean como B. edulis.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722125.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 70142,
+      "width": 640,
+      "height": 427,
+      "sha256": "07354155f08a7b03b39453c28f73db981c5f2a131435c593e2e86f9004209fc8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722126.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 60122,
+      "width": 640,
+      "height": 427,
+      "sha256": "392e0e070bd16a650927fcbac5642d898e2e348fcb7a42e33c509e08ac29cf59"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

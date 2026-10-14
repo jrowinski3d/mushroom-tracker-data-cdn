@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancas",
+  "scientific_name": "Cantharellus cascadensis",
+  "common_name": "Cascade Chanterelle (Cantharellus cascadensis)",
+  "edibility": "E",
+  "description": "La chanterelle des Cascades a un chapeau jaune pâle à crème de 2 à 8 cm de large, nettement plus pâle que sa cousine de basse altitude C. formosus. Le chapeau est lisse, devenant en entonnoir avec l’âge, avec une marge ondulée et irrégulière. Le dessous porte des plis épais, obtus et fourchus (et NON de vraies lames), crème à jaune pâle, largement espacés, fortement décurrents le long du pied. Le pied est plein, de 2 à 6 cm de haut, blanc à crème pâle, souvent effilé vers la base. La chair est blanche à crème pâle, ferme, avec un subtil arôme fruité. Sporée blanche à crème pâle.",
+  "habitat": "Mycorhizien avec les conifères de haute altitude : pruche subalpine, vrais sapins (espèces d’Abies) et épicéa d’Engelmann. Trouvé dans les forêts de conifères montagnardes et subalpines, souvent dans les zones moussues près des zones de fonte des neiges. Préfère les environnements montagneux frais et humides aux sols bien drainés.",
+  "season": "De la fin de l’été à l’automne (août-novembre), fructifiant à mesure que le manteau neigeux recule et que les pluies d’automne commencent. La haute saison est septembre-octobre à haute altitude. La saison est plus courte que celle des chanterelles de plaine en raison des températures plus froides en montagne.",
+  "regions": [
+    "Chaîne des Cascades (Washington, Oregon)",
+    "Rocheuses du Nord (Idaho, Montana)",
+    "Forêts d’altitude de Colombie-Britannique",
+    "Monts de la Sierra Nevada (Californie du Nord)",
+    "Monts Olympiques"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus — comestible, orange doré plus foncé, trouvé à plus basse altitude, fructifications plus grandes",
+    "Cantharellus subalbidus — comestible, blanc à crème, très similaire mais généralement plus pâle et trouvé dans des régions différentes",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de piètre qualité, possède de vraies lames fines, plus orange"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : la chanterelle des Cascades est un excellent champignon comestible au goût délicat et à la chair ferme. Comme chez toutes les chanterelles, le caractère clé d’identification est constitué par les plis obtus et fourchus du dessous plutôt que de vraies lames. Ces plis sont cireux au toucher et se prolongent avec la chair du chapeau. Toujours confirmer que le champignon pousse du sol en association avec les arbres, jamais sur le bois. La coloration pâle la distingue des clitocybes lumineux toxiques. Excellente en soupe et poêlée ; sa saveur douce s’accorde bien avec les plats à base de crème.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1282798.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 118826,
+      "width": 640,
+      "height": 480,
+      "sha256": "58e1d21cb1d18435de5d1d1c8c7c05cda8d1ee0fa95d5b5f028725272ab56569"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1282799.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 129184,
+      "width": 480,
+      "height": 640,
+      "sha256": "2a36f1b24ec17de27e0c3efb15faaf7be7f697c1aebcb7c61d79c93e0439daaf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

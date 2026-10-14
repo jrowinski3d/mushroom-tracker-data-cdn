@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepiri",
+  "scientific_name": "Lepista irina",
+  "common_name": "Irismusseron",
+  "edibility": "E",
+  "description": "Irismusseronen liknar blåmusseron (L. nuda) men är i allmänhet blekare. Hatten är 4–12 cm bred, först välvd och sedan utbredd, blekt lila till rosa-lila eller beigefärgad med svaga lila toner. Hatten bleknar snabbare än hos L. nuda och blir ofta helt beige-brun. Ytan är slät. Skivorna är vidfästa, blekt lila till rosa och blir blekt beige. Foten är 4–8 cm hög, blekt lila till vitaktig med lila toner och med en svagt lökformig bas. Svampköttet är blekt, tunt och har en karakteristisk söt, parfymlönande blomdoft (starkare och mer blommig än hos L. nuda).",
+  "habitat": "Växer i löv- och barrskogar, skogsbryn och gräsmarker nära träd. Växer i lövförna och näringsrik jord. Fruktkropparna sitter utspridda till flockvis, ibland i ringar. Föredrar områden med god humus och fuktbehållning.",
+  "season": "Sensommar till höst (augusti–november) i de flesta regioner. Tidigare än L. nuda, fruktar vanligtvis före de hårda frosterna. Högsäsong i september–oktober.",
+  "regions": [
+    "Europa (vanlig)",
+    "Östra Nordamerika (ovanlig)",
+    "Stillahavsnordväst (enstaka)",
+    "Tempererade skogar världen över",
+    "Mindre vanlig än L. nuda totalt sett"
+  ],
+  "lookalikes": [
+    "Lepista nuda (ätlig) – mycket lik, djupare lila färg, senare säsong",
+    "Clitocybe nuda (samma art) – synonym för Lepista nuda",
+    "Cortinarius-arter (vissa dödliga) – rostbruna sporer, inte rosa",
+    "Laccaria-arter (ätliga) – mindre, mer jämnt lila"
+  ],
+  "safety_notes": "ÄTLIG med samma försiktighetsåtgärder som L. nuda: Måste tillagas ordentligt – ät ALDRIG rå. Kan orsaka allergiska reaktioner hos vissa personer. Den starka parfymlönande blomdoften kan vara överväldigande i rätter. Prova små mängder först för att testa toleransen. Kontrollera att SPORFÄLLNINGEN ÄR ROSA för att skilja den från Cortinarius. De bleka färgerna och den starka söta doften är diagnostiska. Samlas mindre ofta än L. nuda. Tillaga ordentligt och börja med små portioner. Vissa upplever parfymdoften som obehaglig. Ätlig men var försiktig.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649896.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95348,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dac1ebaf3f7b1b474965747dad73ac4fd6aac9270bb58023ebd33017f0689b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649897.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 94302,
+      "width": 640,
+      "height": 480,
+      "sha256": "70fa8fb81c58d229ce5ed118b93a56066f1f7d3f3c9e264d3bc7e2b39bd640b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

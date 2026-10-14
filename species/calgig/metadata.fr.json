@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "calgig",
+  "scientific_name": "Calvatia gigantea",
+  "common_name": "Vesse-de-loup géante",
+  "edibility": "E",
+  "description": "Vesses-de-loup énormes, rondes à oblongues, de 8 à 20 pouces et plus (peuvent atteindre 5 pieds), ressemblant à de gigantesques ballons de football ou coussins blancs dans les champs. Extérieur blanc et lisse devenant beige-jaunâtre avec l’âge. Chair intérieure d’un blanc pur et ferme quand elle est comestible, devenant jaune-vert puis brune à mesure que les spores mûrissent. Ni pied ni base stérile. Inconfondable à taille adulte.",
+  "habitat": "Saprobe dans les sols riches des champs ouverts, prés, pâturages, pelouses et lisières forestières. Préfère les zones riches en nutriments près de la matière organique en décomposition. Commun dans les zones agricoles, les parcs et les prairies perturbées. Réapparaît souvent au même endroit chaque année.",
+  "season": "De la fin de l’été à l’automne, généralement d’août à octobre. Pic de fructification après les fortes pluies de la fin de l’été. Plus abondant en septembre. Peut apparaître plus tôt dans les régions du sud.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Midwest et Grandes Plaines",
+    "Pacifique Nord-Ouest",
+    "Sud du Canada",
+    "Répandu dans toute l’Amérique du Nord tempérée"
+  ],
+  "lookalikes": [
+    "Autres espèces de Calvatia (plus petites, comestibilité similaire quand l’intérieur est blanc)",
+    "MORTEL : boutons d’amanites immatures (TOUJOURS OUVRIR EN DEUX — on y verra des lames/un chapeau en formation à l’intérieur)",
+    "Sclérodermes / vesses-de-terre (toxiques, chair intérieure violet-noir, peau épaisse et verruqueuse)",
+    "Autres grandes vesses-de-loup (généralement comestibles quand l’intérieur est d’un blanc pur)"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX quand l’intérieur est d’un blanc pur : CRITIQUE — TOUJOURS couper le spécimen complètement en deux du haut vers le bas. Comestible UNIQUEMENT si la chair intérieure est entièrement d’un blanc pur et ferme comme une guimauve partout. Si une teinte jaune, brune, violette ou des structures en formation sont visibles à l’intérieur, NE PAS MANGER. Cette règle évite de consommer des sosies toxiques et des amanites mortelles immatures qui peuvent ressembler à des vesses-de-loup. Écarter si la moindre trace de lames, de chapeau ou de structure de pied est visible à l’intérieur. Bien cuire — excellent pané et frit ou poêlé.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720504.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-27",
+      "file_size_bytes": 51464,
+      "width": 482,
+      "height": 640,
+      "sha256": "7326e09bc739129146ce717bbbc51d4a584aa419d7be1461ee30bf91db625de6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717552.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 41422,
+      "width": 640,
+      "height": 427,
+      "sha256": "19fa36a1c78915de64224dd0c2fa81fcf906c890be7b9bccd277095dee97c971"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

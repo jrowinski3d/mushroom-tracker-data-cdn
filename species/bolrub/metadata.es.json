@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bolrub",
+  "scientific_name": "Boletus rubriceps",
+  "common_name": "Rocky Mountain King Bolete (Boletus rubriceps)",
+  "edibility": "E",
+  "description": "El boleto de sombrero rojo presenta un distintivo sombrero (7-20 cm) de color rojo a rojo rosado, de superficie lisa a ligeramente arrugada. Los poros son amarillos desde joven, volviéndose amarillo oliváceo con la edad, sin azuleamiento o con un leve amarilleamiento. El pie, de amarillo a amarillo pálido, muestra reticulación amarilla y puede presentar tonos rojizos hacia la base. La carne amarilla no cambia de color al cortarla o muestra un amarilleamiento mínimo. La esporada es pardo olivácea.",
+  "habitat": "Micorrícico con frondosas, particularmente roble y a veces castaño, en bosques mixtos caducifolios. Prefiere climas cálidos y suelos bien drenados. Se encuentra en robledales y zonas ribereñas.",
+  "season": "De verano a otoño (julio-octubre), con la fructificación máxima en agosto-septiembre. Fructifica con clima cálido y húmedo tras las lluvias.",
+  "regions": [
+    "suroeste de los Estados Unidos",
+    "California",
+    "Arizona",
+    "Nuevo México",
+    "sur de las Montañas Rocosas",
+    "robledales del oeste"
+  ],
+  "lookalikes": [
+    "Boletus edulis: sombrero blanco/castaño, hábitat diferente",
+    "Otros boletos de sombrero rojo: diversas especies, mayormente comestibles",
+    "Boletus sensibilis: azulea intensamente",
+    "Especies de Tylopilus: poros rosados en las especies amargas"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto de sombrero rojo es un buen comestible de textura firme y sabor suave, aunque no tan apreciado como B. edulis. El llamativo sombrero rojo y su asociación con robles en climas cálidos son rasgos distintivos. Cocine bien antes de comer. Algunas personas pueden experimentar leves molestias digestivas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1481643.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-04",
+      "file_size_bytes": 128618,
+      "width": 480,
+      "height": 640,
+      "sha256": "db93347ab2186ed09f6f1c6dd39f3342e54ffcc1254cf180203f63010d9de5b5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1481244.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-02",
+      "file_size_bytes": 136752,
+      "width": 480,
+      "height": 640,
+      "sha256": "c7f4f683ae2f39eecd269be79c77e4a0d6a6af8b0bbdeba64757e9b57c4bff27"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

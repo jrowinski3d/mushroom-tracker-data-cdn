@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "macpro",
+  "scientific_name": "Macrolepiota procera",
+  "common_name": "큰갓버섯",
+  "edibility": "E",
+  "description": "큰갓버섯은 우산 모양의 독특한 갓이 지름 10-30cm에 달하는 크고 인상적인 종으로, 크림색 바탕에 위로 솟은 갈색 비늘이 덮여 뱀 껍질 무늬를 이룬다. 갓은 키가 크고 가는 대(15-35cm)에 달려 있으며, 대에는 두껍고 양날이며 움직이는 턱받이와 턱받이 아래 갈색 뱀 모양 비늘 무늬가 있다. 주름살은 떨어진주름살(대에 붙지 않음)로 흰색이었다가 자라면서 크림색이 되고 조밀하다. 흰색 살은 순한 견과 향이 나며 잘라도 멍들거나 변색되지 않는다.",
+  "habitat": "목초지, 초지, 잔디밭 가장자리, 숲 개간지, 공원, 길가 등 초지에서 발견된다. 영양이 풍부한 토양에서 땅 위에서 자라며(나무 위 아님), 종종 교란된 지역이다. 대개 흩어져 있거나 작은 무리로 열매를 맺으며, 때로는 버섯고리를 이룬다. 적당한 햇빛과 배수가 잘 되는 토양을 선호한다.",
+  "season": "여름부터 가을까지(북아메리카 7월-11월, 따뜻한 기후 5월-11월). 늦여름에서 초가을, 특히 따뜻한 비가 온 뒤가 최성기이다. 지중해성 기후에서는 봄과 가을에 열매를 맺을 수 있다.",
+  "regions": [
+    "유럽(자생, 널리 분포)",
+    "북아메리카 동부(귀화함)",
+    "태평양 북서부(드묾)",
+    "캘리포니아(가끔 발견)",
+    "지중해 지역",
+    "전 세계 온대 초원"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum(유독) - 녹색빛 포자문, 자르면 붉게 변함, 체구가 단단함",
+    "Chlorophyllum molybdites(유독) - 녹색 포자, 상처 시 녹색으로 변함, 북아메리카",
+    "Lepiota 속(일부 치명적) - 훨씬 작음(갓 10cm 미만), 연약한 턱받이",
+    "Amanita 속(치명적) - 기부에 외피막, 주름살은 붙거나 떨어지나 외피막이 있음"
+  ],
+  "safety_notes": "최상급 식용: 단단한 조직감과 견과 향으로 최고의 식용버섯 중 하나이다. 갓이 선호 부위(대는 섬유질이다). 완전히 익혀 먹을 것 — 날로 먹지 말 것. 핵심 식별: 떨어진 흰색 주름살(대에 붙지 않음), 움직이는 두껍고 양날의 턱받이, 뱀 껍질 무늬 대, 흰색 포자문, 기부에 외피막 없음을 확인할 것. 질기고 섬유질인 대는 버린다. 일부는 가벼운 소화 장애를 호소하므로 먼저 소량만 시도할 것. 녹색빛 포자를 가진 유독한 Chlorophyllum 속과 확실히 구별해야 한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707981.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 126726,
+      "width": 640,
+      "height": 482,
+      "sha256": "48092b17e14085dc876a1c9286a5ce96d9c77732fe4e537500c55825c70e16de"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590126.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-03",
+      "file_size_bytes": 126206,
+      "width": 640,
+      "height": 482,
+      "sha256": "ed4a5b15c67cad23f36c2d4f1e96ee10272c33b21580d35007412ea2982a36dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

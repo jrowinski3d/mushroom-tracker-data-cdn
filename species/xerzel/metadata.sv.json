@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "xerzel",
+  "scientific_name": "Xerocomellus zelleri",
+  "common_name": "Zeller's Bolete (Xerocomellus zelleri)",
+  "edibility": "E",
+  "description": "Zellers sopp har en karakteristisk mörkbrun till svartaktig hatt (4–12 cm) med sammetslen, torr yta som ofta spricker med åldern. Porerna är klargula när de är unga och blir blågröna vid beröring. Den gula foten saknar ådernät men kan visa rödbruna fläckar vid basen. Gult kött missfärgas omedelbart djupblått vid skärning – en dramatisk reaktion. Sporfällningen är olivbrun.",
+  "habitat": "Bildar mykorrhiza med tanoak, madrone och douglasgran i Stillahavskustens skogar. Föredrar blandade löv-barrskogar med tanoak eller madrone. Finns i kustskogar och eklundar med städsegröna lövträd.",
+  "season": "Höst till vinter (oktober–februari) med huvudsäsong i november–december. Sen fruktsättning efter höst- och vinterregn längs kusten.",
+  "regions": [
+    "Nordvästra USA",
+    "Norra Kalifornien",
+    "Kustbergen i Oregon",
+    "Kustbergen i Kalifornien",
+    "Södra Oregon",
+    "Skogar med tanoak och madrone"
+  ],
+  "lookalikes": [
+    "Boletus-arter – de flesta saknar den dramatiska blåningsreaktionen",
+    "Andra Xerocomellus-arter – andra färger eller utbredningar",
+    "Suillus-arter – klibbiga hattar, annan växtplats",
+    "Den mörka sammetslena hatten och den starka blåningsreaktionen är karakteristiska"
+  ],
+  "safety_notes": "ÄTLIG: Zellers sopp är en god matsvamp med fast konsistens och mild smak. Den dramatiska blåfärgningsreaktionen är helt normal och ofarlig. Tillaga noggrant före förtäring. Den mörka sammetslena hatten, de klargula porerna och den starka blåningsreaktionen skiljer denna art åt. Vissa kan få milda magbesvär.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1628073.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 151388,
+      "width": 477,
+      "height": 640,
+      "sha256": "1065d4ae22b7fc7a2af969dc6886731db93070af88a30ab0b37a8f6c860bda5d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1628074.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 108502,
+      "width": 480,
+      "height": 640,
+      "sha256": "edbac5849057adacd51bd5de769ad519ca078bb0708a8ad35f58ab9218700777"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

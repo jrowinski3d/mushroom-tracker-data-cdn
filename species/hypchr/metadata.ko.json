@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypchr",
+  "scientific_name": "Hypomyces chrysospermus",
+  "common_name": "Bolete Eater (Hypomyces chrysospermus)",
+  "edibility": "U",
+  "description": "황금 기생균은 그물버섯에 밝은 황금색에서 주황노란색의 가루 또는 벨벳 같은 피막을 형성하는 기생 균류이다. 기생균은 숙주의 관공과 갓 표면을 밝은 황금색 가루(포자)로 덮는다. 감염 초기에는 노란 반점이 나타나 전체 버섯을 덮을 때까지 퍼진다. 숙주 버섯의 모양은 알아볼 수 있지만 뒤틀려 있다. 노란 피막은 처음에는 벨벳 같다가 가루처럼 된다. 숙주 관공은 노란 가루에 완전히 가려진다. H. lactifluorum 같은 다육질 자실체가 아니라 표면 피막이다.",
+  "habitat": "그물버섯이 있는 삼림에서 발견되며, 특히 Leccinum, Boletus, Suillus 속의 다양한 그물버섯 종에 기생한다. 이 균류는 이미 자란 그물버섯 자실체를 식민지화한다. 다양한 생장 단계의 신선한 그물버섯에 나타난다. 분포는 침엽수림과 혼합림에서 숙주 분포를 따른다.",
+  "season": "숙주 그물버섯이 발생하는 여름부터 가을(6월~11월). 한여름에서 늦여름(7월~9월)에 가장 흔하다. 시기는 숙주 가용성과 연관된다. 어느 발달 단계의 그물버섯에도 나타날 수 있다.",
+  "regions": [
+    "유럽 (널리 분포)",
+    "북미 동부 (드묾)",
+    "태평양 북서부 (가끔)",
+    "적합한 그물버섯 숙주가 있는 곳",
+    "그물버섯이 있는 온대림"
+  ],
+  "lookalikes": [
+    "노란 관공면을 지닌 그물버섯 - 하지만 천연 관공이지 가루 피막이 아님",
+    "H. chrysospermus에 감염된 Russula/Lactarius - 다른 숙주의 다른 기생균",
+    "버섯 위 노란 곰팡이 - 하지만 색이 덜 균일하고 질감이 다름",
+    "감염되지 않은 노란 그물버섯 - 관공은 천연이지 가루가 아님"
+  ],
+  "safety_notes": "섭취 권장되지 않음: 유독하다고 알려지지는 않았으나 요리 가치가 없고, 숙주 그물버섯은 다양한 부패 단계에 있을 수 있다. 감염된 그물버섯은 보통 상하고 먹음직스럽지 않다. 일부 자료에서는 식용 가능성을 시사하지만 섭취 전통이 없고 먹을 이유가 없다. 밝은 노란 가루는 눈에 띄지만 그 아래 그물버섯은 유독종일 수 있다. 섭취를 피하라. 균학적 관점에서 더 흥미롭다. 그물버섯 위 황금노란 가루 피막은 진단적이나 식용에는 무용하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1734294.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 39908,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d2a43beb0f25fae1f93fa65a65aeac3aaa96ef17a4b27b67204441e40222ad7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1734295.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 62044,
+      "width": 640,
+      "height": 480,
+      "sha256": "541354ee51ac12cb5435c558ce390e1bed346b89eb64409571f7e2e42d3ac1e9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

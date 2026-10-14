@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolpin",
+  "scientific_name": "Boletus pinophilus",
+  "common_name": "Boleto de pino",
+  "edibility": "E",
+  "description": "El boleto de pino presenta un sombrero de color marrón rojizo oscuro a caoba (7-30 cm) con superficie lisa a ligeramente pegajosa cuando está húmedo. Los poros son blancos cuando es joven, envejeciendo a amarillo oliva, sin magullamiento. El pie robusto es de color marrón rojizo con reticulación de blanca a rosada, a menudo con tonos de color vino (rojo vino). La carne blanca puede mostrar un ligero matiz rosado bajo la cutícula del sombrero, pero no se tiñe al cortarse. La esporada es de color marrón oliva.",
+  "habitat": "Micorrícico con pinos, píceas y otras coníferas en bosques montanos y subalpinos de coníferas. Prefiere suelos ácidos y mayores elevaciones. A menudo fructifica en grandes cantidades bajo coníferas maduras.",
+  "season": "Desde finales del verano hasta el otoño (julio-octubre), con fructificación máxima en agosto-septiembre a mayor elevación. Aparece después de lluvias sostenidas en clima cálido.",
+  "regions": [
+    "Montañas Rocosas",
+    "Montañas del Pacífico Noroeste",
+    "Cordillera de las Cascadas",
+    "Sierra Nevada",
+    "Tierras altas del norte de California",
+    "Columbia Británica",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Boletus edulis - color de sombrero más claro, menos tonos rojizos",
+    "Boletus aereus - sombrero más oscuro, prefiere roble no pino",
+    "Tylopilus felleus - poros rosados, sabor amargo",
+    "Otras especies de Boletus rojizos - todos comestibles"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: Muchos consideran al boleto de pino el más sabroso de todos los boletos, con rico sabor a nuez y textura firme. Muy apreciado para secar, ya que el sabor se intensifica. El color marrón rojizo y la asociación con pinos son caracteres clave de identificación. Cocinar siempre bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388373.jpg",
+      "photographer": "Vasco Fachada",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-05",
+      "file_size_bytes": 106414,
+      "width": 640,
+      "height": 427,
+      "sha256": "71eac4183b7f7c447c6ce606c4755435a97cc13cca6b91391f03840c6cf27e06"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/27980.jpg",
+      "photographer": "Irene Andersson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2008-11-05",
+      "file_size_bytes": 40752,
+      "width": 640,
+      "height": 415,
+      "sha256": "4813deb8c9c8cd2c5dbc05c3b094fdb28dcacdc5daf6dcd9159ac6fb1b89fcd1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

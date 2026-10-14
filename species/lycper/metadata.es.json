@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycper",
+  "scientific_name": "Lycoperdon perlatum",
+  "common_name": "pedo de lobo perlado",
+  "edibility": "E",
+  "description": "Pequeños pedos de lobo en forma de pera de 2,5-7,5 cm de alto y 2,5-5 cm de ancho, con una superficie distintivamente espinosa o verrugosa cuando son jóvenes. Blancos que se vuelven beige a marrones con la edad. Cubiertos de pequeñas espinas cónicas que se caen dejando un patrón en forma de red. Interior blanco puro cuando es comestible, que se vuelve amarillo oliva y luego marrón. Tiene una pronunciada base estéril. Se abre con un solo poro en la parte superior cuando madura.",
+  "habitat": "Saprobia en el suelo en bosques mixtos de frondosas y coníferas, bordes de bosques, zonas musgosas y madera en descomposición. A menudo crece en grupos o grupos dispersos. Común en suelos forestales con materia orgánica rica, sobre tocones en descomposición y en zonas cubiertas de musgo.",
+  "season": "De verano a otoño, típicamente julio-octubre. Fructificación máxima en agosto-septiembre. Puede aparecer hasta noviembre en regiones suaves. Fructifica después de lluvias cálidas.",
+  "regions": [
+    "este de Norteamérica",
+    "Pacífico Noroeste",
+    "Montañas Rocosas",
+    "región de los Grandes Lagos",
+    "ampliamente extendido en la Norteamérica templada",
+    "distribución circumboreal"
+  ],
+  "lookalikes": [
+    "Otras especies de Lycoperdon (la mayoría comestibles cuando están blancas por dentro)",
+    "MORTAL: botones inmaduros de Amanita (CÓRTELO SIEMPRE POR LA MITAD: mostrará láminas/sombrero en desarrollo en su interior)",
+    "Especies de Scleroderma/bejines (tóxicos, interior morado-negro, piel gruesa verrugosa)",
+    "Lycoperdon pyriforme (superficie lisa, crece en la madera en grupos apretados)"
+  ],
+  "safety_notes": "COMESTIBLE cuando el interior es blanco puro: CRÍTICO: corte SIEMPRE el ejemplar completamente por la mitad de arriba a abajo antes de consumirlo. Comestible SOLO si el interior es completamente blanco puro y firme en toda su extensión, como un malvavisco. Si se ve amarillo, oliva, marrón o estructuras en desarrollo en el interior, NO LO COMA. Esto evita consumir el tóxico Scleroderma y Amanitas mortales inmaduras. La superficie espinosa cuando es joven ayuda a la identificación, pero debe verificarse el interior blanco. Cocínelo a fondo; buen sabor suave.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723310.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 40870,
+      "width": 640,
+      "height": 427,
+      "sha256": "9bd78ffa68b85a9358b87ced4958d2bb98f4ca6f0d2a5d8f47f054e958c3f200"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723311.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 48344,
+      "width": 640,
+      "height": 427,
+      "sha256": "e1e4721679e9a34c106a965d67f391b1f9de88157371d5bf7ee579366346ce5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

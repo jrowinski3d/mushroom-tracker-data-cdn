@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canper",
+  "scientific_name": "Cantharellus persicinus",
+  "common_name": "Peach Chanterelle (Cantharellus persicinus)",
+  "edibility": "E",
+  "description": "La chanterelle pêche a un chapeau pêche à orange rosé pâle ou couleur saumon caractéristique, de 2 à 8 cm de large, à la surface lisse et légèrement veloutée. Le chapeau devient légèrement en entonnoir avec l’âge et présente une marge ondulée et irrégulière. Le dessous porte des plis obtus, peu profonds et fourchus (et NON de vraies lames), pêche pâle à crème rosé, largement espacés, descendant le long du pied. Les plis sont moins prononcés que chez de nombreuses chanterelles. Le pied est plein, de 2 à 6 cm de haut, lisse, blanc à pêche pâle. La chair est blanche à crème pâle, ferme, avec une odeur douce. Sporée blanche à crème pâle.",
+  "habitat": "Mycorhizien avec les feuillus du Sud-Est, en particulier les chênes (surtout le chêne aquatique, le chêne saule), le copalme d’Amérique et le caryer. Trouvé dans les forêts alluviales de feuillus, les forêts mixtes de pins et feuillus et les zones riveraines de toute la plaine côtière du Sud-Est. Préfère les sols sableux humides et les zones proches des cours d’eau.",
+  "season": "Été (juin-septembre), fructifiant pendant les périodes chaudes et humides après les fortes pluies d’été. La haute saison se situe généralement en juillet-août dans la majeure partie de son aire. Plus tolérante à la chaleur et à l’humidité que les chanterelles du Nord.",
+  "regions": [
+    "Sud-est des États-Unis",
+    "Géorgie et Floride",
+    "Carolines",
+    "États de la côte du Golfe (Alabama, Mississippi, Louisiane)",
+    "Est du Texas"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius — comestible, plus orange-rose, plus grand, plis plus prononcés, aire de répartition chevauchante",
+    "Cantharellus cinnabarinus — comestible, couleur rouge-rose plus vive, plus petit, sinon similaire",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de piètre qualité, possède de vraies lames fines, plus orange"
+  ],
+  "safety_notes": "COMESTIBLE : la chanterelle pêche est un bon champignon comestible au goût doux, remarquable par sa délicate coloration pêche. Comme toutes les chanterelles, le caractère clé d’identification est constitué par les plis obtus et fourchus du dessous, cireux au toucher et soudés au chapeau, plutôt que de vraies lames. La couleur pêche pâle et la répartition dans le Sud-Est aident à la distinguer des autres espèces. Toujours vérifier qu’elle pousse du sol en association avec les arbres, jamais sur le bois. Saveur douce et agréable ; à poêler de préférence ou à utiliser en combinaison avec d’autres champignons.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1635909.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 56958,
+      "width": 640,
+      "height": 480,
+      "sha256": "7295ac8a4866890ab9982a94efb79501e768eda92f96bfd934a0855c793bf63f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635910.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 100608,
+      "width": 640,
+      "height": 480,
+      "sha256": "083c35ad5ed2b794d2310fc1d0b2f49737ee54427726dcdaf35b78ec102e55fb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

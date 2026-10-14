@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suibre",
+  "scientific_name": "Suillus brevipes",
+  "common_name": "Stubby-stalk (Suillus brevipes)",
+  "edibility": "E",
+  "description": "El suillus de pie corto muestra un sombrero de color leonado a marrón rojizo (3-12 cm) con superficie viscosa cuando está húmedo, a menudo con aspecto rayado o moteado. Los poros son grandes y angulosos, de amarillo a amarillo oliva, sin azuleamiento. El pie, corto y rechoncho, de color amarillo, carece de anillo — una característica clave. La carne, de blanca a amarillo pálido, no mancha. El sombrero viscoso y el pie sin anillo la distinguen. Esporada de color marrón canela.",
+  "habitat": "Micorrícico exclusivamente con pinos de dos y tres acículas, sobre todo pino ponderosa, pino contorto y pino de Jeffrey en los bosques del oeste. Común en bosques dominados por pinos y en pinares abiertos.",
+  "season": "De finales del verano a otoño (agosto-noviembre), con fructificación máxima en septiembre-octubre. Fructifica tras las lluvias de finales del verano y el otoño.",
+  "regions": [
+    "Pacífico Noroeste",
+    "montañas de California",
+    "Montañas Rocosas",
+    "bosques de pinos del suroeste",
+    "tierras altas de Arizona",
+    "montañas de Nuevo México",
+    "zonas montañosas del oeste"
+  ],
+  "lookalikes": [
+    "Suillus luteus — tiene un anillo oscuro prominente en el pie",
+    "Suillus granulatus — los poros exudan gotas lechosas cuando es joven",
+    "Otras especies de Suillus — comprobar la presencia o ausencia de anillo",
+    "especies de Boletus — no son viscosas, hábitat diferente"
+  ],
+  "safety_notes": "COMESTIBLE: el suillus de pie corto es comestible, de sabor suave pero textura algo blanda. Retirar la cutícula viscosa del sombrero antes de cocinar. El pie sin anillo y la asociación con pinos son diagnósticos. Algunas personas sufren molestias digestivas leves. Cocinar bien antes de comer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715638.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 115520,
+      "width": 640,
+      "height": 427,
+      "sha256": "5baf6a28695fc65eac987612eee3be7fd427df33eca270d1bebf6f58b6ad4d8b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713565.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 44206,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29048d548d1e15f2bc66daa9c5ed99bf2ec3b424f4b97b2bc38acb4925eaba2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

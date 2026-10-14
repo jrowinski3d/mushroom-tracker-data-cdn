@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laehur",
+  "scientific_name": "Laetiporus huroniensis",
+  "common_name": "Chicken of the Woods (Laetiporus huroniensis)",
+  "edibility": "E",
+  "description": "Console orange vif à saumon avec surface des pores jaune soufre à crème, formant de grandes tablettes chevauchantes de 2 à 10 pouces de large sur pruche. Pores souvent plus jaune pâle que L. sulphureus. Tendre et succulent jeune. Distingué par son aire nord-est et son association stricte avec la pruche du Canada. Forme des rosettes sur troncs et bûches. Console annuelle.",
+  "habitat": "Parasite et saprobe spécifiquement sur la pruche du Canada vivante et morte (Tsuga canadensis). Fortement spécifique à la pruche dans les forêts du nord-est. Forme des consoles en étagères sur les troncs, souches et bûches tombées. Provoque une pourriture brune cubique du cœur. Commun là où la pruche du Canada est présente.",
+  "season": "De l'été à l'automne, typiquement de juillet à octobre. Pic de fructification en août-septembre. Poussées après les pluies chaudes d'été. Calendrier similaire aux autres espèces nordiques de Laetiporus.",
+  "regions": [
+    "Nord-Est des États-Unis",
+    "région des Grands Lacs",
+    "montagnes Appalaches",
+    "Sud-Est du Canada",
+    "aire de répartition de la pruche du Canada",
+    "de la Nouvelle-Angleterre à la Géorgie"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (montagnes de l'ouest, conifères différents)",
+    "Laetiporus sulphureus (sur feuillus, pas sur conifères)",
+    "Autres espèces de Laetiporus (hôtes/aires différents)",
+    "Clitocybe illusoire (Omphalotus) — toxique, a des lames et non des pores"
+  ],
+  "safety_notes": "COMESTIBLE jeune, mais PRUDENCE : Comme les autres Laetiporus des conifères, cette espèce provoque plus couramment des troubles digestifs que les espèces des feuillus. Les spécimens sur pruche peuvent causer des maux d'estomac chez les personnes sensibles. Ne récolter que des spécimens très jeunes et tendres. Commencer par de petites quantités pour tester la tolérance. Bien cuire. L'hôte pruche et l'aire nord-est aident à l'identification. Certaines personnes le tolèrent bien, d'autres éprouvent des problèmes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1350974.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-10",
+      "file_size_bytes": 103126,
+      "width": 640,
+      "height": 480,
+      "sha256": "0df314aefa46cac6defefc119c354d4312bbc0555697776c22c1fb4101c223ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1350971.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-09",
+      "file_size_bytes": 55286,
+      "width": 640,
+      "height": 459,
+      "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

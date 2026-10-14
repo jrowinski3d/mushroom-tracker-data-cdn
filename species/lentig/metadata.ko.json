@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lentig",
+  "scientific_name": "Lentinus tigrinus",
+  "common_name": "호랑이주름버섯 (Lentinus tigrinus)",
+  "edibility": "E",
+  "description": "흰색 갓(폭 1~3인치)에 갈색~흑색 비늘이 동심원 고리를 이루며 호랑이 줄무늬 모양을 내는 중소형 버섯. 흰색 톱니(톱날 모양) 주름살 — 동정 특징이다. 중앙의 흰색 대는 높이 1~3인치이며 흔히 비늘 있다. 관공이 아닌 톱니 모양 가장자리의 주름살을 지녔다. 활엽수에 난다. 질기고 가죽 같은 질감. 독특한 호랑이 줄무늬 무늬.",
+  "habitat": "통나무, 그루터기, 가지, 목재 파편 등 죽은 활엽수에 부생성, 특히 버드나무, 오리나무, 포플러 등 강가 활엽수. 하천과 강을 따라 흔하다. 젖거나 물에 잠긴 목재를 선호한다. 흔히 작은 가지와 잔가지에 난다. 백색부후를 일으킨다.",
+  "season": "봄부터 가을, 보통 5~10월. 여름에 최성기. 따뜻하고 습한 날씨에 가장 흔하다. 온화한 기후에서는 연중 나타날 수 있다. 습기가 많은 시기에 왕성하게 결실한다.",
+  "regions": [
+    "북아메리카 동부",
+    "태평양 북서부",
+    "북아메리카 전역",
+    "오대호 지역",
+    "전국 강가 지역",
+    "세계적 분포"
+  ],
+  "lookalikes": [
+    "Neolentinus lepideus (더 큼, 침엽수 목재, 아니스 냄새, 비늘 다름)",
+    "Lentinus arcularius (비슷하나 비늘 작고 무늬 다름)",
+    "Pleurotus dryinus (비늘 있으나 톱니 주름살 없음)",
+    "Panellus 종 (주름살 가장자리 매끄러움, 생장 양상 다름)"
+  ],
+  "safety_notes": "아주 어릴 때 식용이나 권장하지 않음: 부드러운 어린 단추만 먹을 만하다 — 금세 질기고 가죽처럼 된다. 어린 개체도 씹히는 질감이라 충분히 익히거나 말려 가루 내야 한다. 작은 크기와 질긴 질감 때문에 채취할 가치가 없다. 대체로 안전하나 질감 때문에 맛이 없다. 특징적인 톱니 주름살 가장자리와 호랑이 줄무늬 갓은 독특하다. 더 나은 식용 버섯이 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721722.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 51736,
+      "width": 640,
+      "height": 482,
+      "sha256": "0e82849a5dc34798348db9c7f1bfa1f5a3ea4e60a201f43532ef85eb34e51251"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721723.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 58200,
+      "width": 640,
+      "height": 482,
+      "sha256": "d9734262995f308da3b0255496f7b5ef96a142c44bbfa98a54bb62f1f1460f5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

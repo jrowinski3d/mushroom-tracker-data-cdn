@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "hydruf",
+  "scientific_name": "Hydnum rufescens",
+  "common_name": "kolczak rudawy",
+  "edibility": "E",
+  "description": "Kolczak rudawy ma pomarańczowo-brązowy do czerwonawo-brązowego kapelusz (3–10 cm) o rdzawych, terakotowych tonach odróżniających go od bledszych gatunków Hydnum. Kapelusz wypukły do nieregularnego o falistych, klapowanych brzegach. Spód pokryty kruchymi, skierowanymi w dół KOLCAMI lub ZĘBAMI zamiast blaszek lub porów – kolce pomarańczowo-brązowe do blado pomarańczowych, łatwo odpadające przy potarciu. Trzon pomarańczowo-brązowy, centralny do mimośrodkowego, często wygięty, gładki. Miąższ biały do blado pomarańczowego, gruby, kruchy, o łagodnym do lekko pieprznego smaku. Wysyp zarodników biały. Intensywniej ubarwiony niż inne gatunki Hydnum.",
+  "habitat": "Mikoryzowy zarówno z drzewami liściastymi, jak i iglastymi. Rośnie na ziemi w lasach mieszanych, pod dębami, bukami, sosnami i świerkami. Często rośnie rozproszony lub gromadnie. Preferuje gleby kwaśne i miejsca omszone.",
+  "season": "Lato do jesieni (lipiec–listopad), ze szczytem owocnikowania jesienią. W Kalifornii może owocnikować zimą.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia",
+    "Góry Skaliste",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (kolczak obłączasty) – bledszy, bardziej kremowy do blado pomarańczowego",
+    "Hydnum umbilicatum (kolczak dołkowany) – mniejszy, ma wklęsły środek",
+    "Gatunki Sarcodon – większe, ciemnobrązowe, często gorzkie"
+  ],
+  "safety_notes": "JADALNY: dobry smak po ugotowaniu, choć może być nieco bardziej pieprzny niż H. repandum. Charakterystyczne rdzawopomarańczowe kolce lub zeby na spodzie ułatwiają identyfikację. Dokładnie czyścić, gdyż kolce zatrzymują zanieczyszczenia. Zbierać młode okazy dla najlepszej jakości – starsze mogą nabierać gorzkiego smaku.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/600174.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 76816,
+      "width": 640,
+      "height": 480,
+      "sha256": "167152d25d958cdd5654f38018fe7142d1a5e9270a76fecf665ade15d81da26c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/600175.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 73398,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc1df510fa831e5533c10dcaa932758470edcd4aab203d0d412a6e16e0899091"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.645319",
+  "source_language": "en"
+}

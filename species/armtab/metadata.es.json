@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armtab",
+  "scientific_name": "Armillaria tabescens",
+  "common_name": "Ringless Honey Mushroom (Armillaria tabescens)",
+  "edibility": "E",
+  "description": "La armilaria de miel sin anillo tiene un sombrero de color amarillo miel a marrón leonado (3-10 cm) con pequeñas escamas oscuras en el centro. Las láminas son de blancas a crema, adheridas, manchándose de marrón. El CARÁCTER CLAVE es la AUSENCIA DE ANILLO en el pie: es la única especie común de Armillaria que carece consistentemente de anillo. El pie es de amarillento a marrón, liso o ligeramente fibroso, sin zona anular. Crece en GRUPOS DENSOS sobre tocones y raíces de frondosas. La carne es blanca, firme. La esporada es blanca. Rizomorfos negros presentes. Distintiva por carecer del anillo típico del hongo de miel.",
+  "habitat": "Parásita y saprobia en FRONDOSAS en el este de Norteamérica, especialmente robles, nogales americanos, arces y otras frondosas. Crece en grandes grupos en la base de árboles vivos o moribundos, tocones y raíces enterradas. Común en bosques de robles. Causa pudrición blanca y enfermedad de raíces. Raramente en coníferas.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre), a veces más temprano que las especies con anillo.",
+  "regions": [
+    "Este de Estados Unidos",
+    "Sureste",
+    "Medio Oeste",
+    "Medio Atlántico",
+    "Regiones del sur"
+  ],
+  "lookalikes": [
+    "Armillaria mellea - TIENE ANILLO, por lo demás muy similar",
+    "Especies de Xeromphalina - mucho más pequeñas, hábitat diferente",
+    "Especies de Gymnopilus - esporas de color marrón herrumbroso, amargas",
+    "Especies de Pholiota - esporas marrones"
+  ],
+  "safety_notes": "COMESTIBLE CON PRECAUCIÓN: Los hongos de miel (especies de Armillaria) son VENENOSOS en crudo y deben cocinarse bien antes de consumirlos. Cocinar durante al menos 10-15 minutos a fuego fuerte. Incluso bien cocinados, algunas personas experimentan reacciones alérgicas o malestar digestivo. Probar primero una pequeña cantidad para comprobar la tolerancia. Escaldar antes de cocinar puede ayudar a reducir los irritantes gastrointestinales y el sabor amargo. No consumir con alcohol: los hongos de miel pueden causar reacciones adversas combinados con alcohol (similar a Coprinopsis). Recolectar solo ejemplares jóvenes y firmes. La ausencia de anillo hace distintiva la identificación, pero hay que verificarla con otros caracteres de Armillaria.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1608178.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-01",
+      "file_size_bytes": 133036,
+      "width": 480,
+      "height": 640,
+      "sha256": "ede381f535931297f80b431fb59d6fe0265eb8228bf76c24a462ee37f7adffab"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608179.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-27",
+      "file_size_bytes": 103406,
+      "width": 480,
+      "height": 640,
+      "sha256": "6e8264b2d1c15eef591d615e93afaeb2cf2c9d9423255ea16458764bbbf23318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

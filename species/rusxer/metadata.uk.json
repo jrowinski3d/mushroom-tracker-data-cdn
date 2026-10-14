@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusxer",
+  "scientific_name": "Russula xerampelina",
+  "common_name": "Сироїжка креветкова",
+  "edibility": "E",
+  "description": "У сироїжки креветкової шапинка пурпурово-червона до винно-червоної (5–12 см), липка. Пластинки кремові до жовтуватих. Ніжка біла до рожевуватої. КЛЮЧОВЕ: КРИХКИЙ М'ЯКУШ, РИБНИЙ АБО КРЕВЕТКОВИЙ ЗАПАХ (як у креветок), червонувата шапинка. М'якуш білий. Споровий відбиток від кремового до охряного. Смак м'який.",
+  "habitat": "Мікоризний з хвойними та листяними деревами. Росте на землі в змішаних лісах. Широко поширений вид. Розсіяно або групами.",
+  "season": "Літо–осінь (липень-жовтень).",
+  "regions": [
+    "Схід США",
+    "Середній Захід",
+    "Тихоокеанський Північний Захід",
+    "Європа"
+  ],
+  "lookalikes": [
+    "Інші червоні сироїжки — перевірте запах",
+    "Lactarius — містять МОЛОЧНИЙ СІК"
+  ],
+  "safety_notes": "ЇСТІВНИЙ: м'який смак попри рибний запах (зникає під час приготування). РИБНИЙ ЗАПАХ + ЧЕРВОНА ШАПИНКА + КРИХКИЙ М'ЯКУШ — діагностичні ознаки. Ретельно готуйте.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723210.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 90416,
+      "width": 640,
+      "height": 427,
+      "sha256": "7aabcfbc0b4b9a996b8757f8a5870feda97a8951c2b2b89d75d2ea11e9209d84"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723211.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 64826,
+      "width": 640,
+      "height": 427,
+      "sha256": "f23fc4166458df6f9d897d44195e59957d00d45849606408a98876e651549019"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

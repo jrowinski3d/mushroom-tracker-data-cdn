@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "tylfel",
+  "scientific_name": "Tylopilus felleus",
+  "common_name": "Bitter Bolete (Tylopilus felleus)",
+  "edibility": "U",
+  "description": "쓴맛 그물버섯은 왕그물버섯과 비슷하나 독특한 분홍색 관공이 있다. 갈색~황갈색 갓(지름 5–15cm)으로 표면이 건조하다. 관공은 아주 어릴 때는 흰색이나 곧 분홍색~살색이 된다 - 핵심 진단 특징이다. 굵은 대에는 갈색 망상무늬(그물 모양)가 있다. 흰색 살은 변색되지 않으나 강렬하게 쓴맛이 난다. 포자문은 분홍갈색.",
+  "habitat": "혼합림의 침엽수와 활엽수 모두와 균근을 이룬다. 소나무·가문비나무·참나무·너도밤나무와 함께 발견된다. 산성 토양과 배수가 잘 되는 곳을 좋아한다. 성숙 혼합림에서 흔하다.",
+  "season": "여름~가을(7~10월)로 8~9월에 열매를 가장 많이 맺는다. 비 뒤 따뜻하고 습한 날씨에 난다.",
+  "regions": [
+    "북미 동부",
+    "북동부 삼림",
+    "오대호 지역",
+    "애팔래치아산맥",
+    "남동부 주",
+    "태평양 북서부",
+    "북미 전역에 널리 분포"
+  ],
+  "lookalikes": [
+    "Boletus edulis(킹볼레테) - 관공이 흰색~노란색, 분홍색 아님, 쓴맛 없음",
+    "Boletus subcaerulescens - 관공이 노란색으로 파랗게 변색됨",
+    "다른 Boletus 종들 - 관공 색을 주의 깊게 확인할 것",
+    "관공이 분홍색이고 맛이 쓰면 쓴맛 그물버섯이다"
+  ],
+  "safety_notes": "식용 불가: 쓴맛 그물버섯(Tylopilus felleus)은 강렬하게 쓰다 - 한 개체가 버섯 한 상 전체를 망칠 정도이다. 쓴맛은 지속되고 익히면 오히려 강해진다. 독성은 없으나 완전히 맛이 없어 먹을 수 없다. 귀중한 식용 그물버섯인 포르치니로 흔히 오인된다; 분홍색 관공 표면과 망상 대 무늬로 구별할 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718850.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 50034,
+      "width": 640,
+      "height": 427,
+      "sha256": "e44a79ac4907688e85b892bc0db5944518b7238c1b1d7ef058f6f6b65db65502"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718851.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 51248,
+      "width": 640,
+      "height": 427,
+      "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

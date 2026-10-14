@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bolsub",
+  "scientific_name": "Boletus subcaerulescens",
+  "common_name": "Almost Bluing King Bolete (Boletus subcaerulescens)",
+  "edibility": "E",
+  "description": "청변그물버섯은 갈색에서 적갈색의 갓(5~15cm)을 가지며 표면은 매끄럽다. 관공은 노란색에서 올리브황색이며 만지면 서서히 청록색으로 변색되는데, 이는 진단적 특징이다. 누런 대에는 그물무늬가 있고 역시 청변한다. 흰색~연노란색 살은 자르면 청변하는데, 특히 관공면 근처에서 두드러진다. 이 청변 반응으로 유사종과 구분된다. 포자문은 올리브갈색이다.",
+  "habitat": "낙엽수림과 혼합림에서 참나무 및 기타 활엽수와 균근공생한다. 성숙림의 비옥하고 배수가 잘되는 토양을 선호한다. 참나무가 우점하는 서식지에서 흔하다.",
+  "season": "여름부터 가을(7월~10월), 늦여름에 최성기. 따뜻한 비가 내린 뒤 습한 날씨에 나타난다.",
+  "regions": [
+    "미국 동부",
+    "남동부 주들",
+    "중부 대서양 연안 지역",
+    "애팔래치아산맥",
+    "오대호 지역",
+    "북아메리카 동부 전역의 참나무 숲"
+  ],
+  "lookalikes": [
+    "Boletus edulis - 흰색 관공, 청변 반응 없음",
+    "Boletus variipes - 더 극적인 청변, 분포역 다름",
+    "Tylopilus felleus - 분홍색 관공, 쓴맛, 청변 없음",
+    "Boletus sensibilis - 매우 강하게 청변함"
+  ],
+  "safety_notes": "식용 가능: 청변그물버섯은 단단한 식감과 순한 맛의 좋은 식용 버섯이다. 청색으로 변색되는 반응은 정상이며 안전하다 - 이는 독성의 징후가 절대 아니다. 섭취 전 충분히 익히십시오. 청변은 B. edulis 같은 청변하지 않는 종과의 구분에 도움이 된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722125.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 70142,
+      "width": 640,
+      "height": 427,
+      "sha256": "07354155f08a7b03b39453c28f73db981c5f2a131435c593e2e86f9004209fc8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722126.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 60122,
+      "width": 640,
+      "height": 427,
+      "sha256": "392e0e070bd16a650927fcbac5642d898e2e348fcb7a42e33c509e08ac29cf59"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

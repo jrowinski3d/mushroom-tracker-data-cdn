@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimur",
+  "scientific_name": "Tricholoma murrillianum",
+  "common_name": "Southwestern Matsutake (Tricholoma murrillianum)",
+  "edibility": "E",
+  "description": "Tricholoma murrillianum ma masywny biały do kremowego kapelusz (6–15 cm), który z wiekiem nabiera brązowawych tonów. Kapelusz wypukły do płaskiego, suchy, gładki do lekko włóknistego. Blaszki białe do kremowych, przyrośnięte, gęste. Trzon gruby, biały, twardy, z OSŁONĄ CZĘŚCIOWĄ pozostawiającą WATOWATY PIERŚCIEŃ lub włóknistą strefę na górnej części trzonu — często mniej wyraźną niż u T. magnivelare. Cechą diagnostyczną jest KORZENNY, CYNAMONOWY ZAPACH, choć czasem mniej intensywny niż u matsutake z północnego zachodu Pacyfiku. Miąższ biały, twardy, zwarty. Wysyp zarodników biały. Przystosowany do wysokogórskich lasów południowego zachodu.",
+  "habitat": "Mikoryzowy z drzewami iglastymi w górach południowego zachodu, zwłaszcza sosną żółtą, jodłą jednobarwną i daglezją. Tworzy obligatoryjne związki mikoryzowe. Rośnie na ziemi, w ściółce lub opadle igliwia w wysokogórskich lasach iglastych (zazwyczaj na wysokości 6000–10000 stóp, ok. 1800–3000 m). Wymaga dojrzałych lasów o specyficznych sieciach mikoryzowych.",
+  "season": "Od późnego lata do jesieni (sierpień–październik) w górach południowego zachodu, owocnikowanie po monsunowych deszczach.",
+  "regions": [
+    "Nowy Meksyk",
+    "Arizona",
+    "południowe Kolorado",
+    "południowe Góry Skaliste",
+    "wysokie góry południowego zachodu"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — gatunek z północnego zachodu Pacyfiku, bardzo podobny",
+    "Gąska sosnowa (Tricholoma matsutake) — gatunek azjatycki",
+    "Amanita smithiana — TRUJĄCA — ma pochwę u podstawy",
+    "Inne białe gatunki Tricholoma — brak cynamonowego zapachu"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Wysoce ceniony na południowym zachodzie, zbierany komercyjnie. CYNAMONOWY/KORZENNY ZAPACH jest kluczowy dla identyfikacji, choć czasem subtelniejszy niż u północnego matsutake. Najlepszy młody i twardy. KRYTYCZNE: Zawsze sprawdzaj brak pochwy (czarki u podstawy), aby wykluczyć trujące gatunki Amanita. Pierścień i cynamonowy zapach są diagnostyczne. Niektórzy grzybiarze uważają go za nieco mniej aromatycznego niż T. magnivelare, lecz wciąż doskonałego.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725582.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 128318,
+      "width": 640,
+      "height": 563,
+      "sha256": "8c14cd406d0ca0a070dae5d0c8f599a5ab7b67bfb53aa9894c041ca397a82111"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651537.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 12316,
+      "width": 482,
+      "height": 640,
+      "sha256": "63aec1140a6c93f42d8ef6433c91074146579fb2ce078755fbb6bcf824f9ab11"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

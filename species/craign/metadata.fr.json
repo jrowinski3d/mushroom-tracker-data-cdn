@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "craign",
+  "scientific_name": "Craterellus ignicolor",
+  "common_name": "Chanterelle enflammée",
+  "edibility": "E",
+  "description": "La Chanterelle enflammée (aussi appelée Chanterelle dorée de l'Est) possède un chapeau jaune-doré à jaune-orange vif de 2 à 8 cm de large, devenant profondément en entonnoir avec l'âge. La marge du chapeau est fine, ondulée et souvent perforée au centre, s'ouvrant dans le pied creux. Le dessous présente des plis peu profonds, obtus et fourchus (PAS de vraies lames), jaune-doré à jaune-orangé, espacés, décurrents sur le pied. Le pied mesure 3 à 10 cm de haut, creux, élancé, jaune vif à jaune-orangé sur toute sa longueur. La chair est fine, jaune à orange, avec une légère odeur fruitée. La sporée est blanche à jaune pâle.",
+  "habitat": "Mycorhizienne avec les feuillus de l'Est, en particulier le chêne (surtout le chêne blanc et le chêne rouge), le hêtre d'Amérique et le caryer. Présente dans les forêts de feuillus matures, souvent dans les zones moussues ou sur les pentes bien drainées. Pousse de manière dispersée ou en troupes sur le sol forestier dans la litière de feuilles.",
+  "season": "De l'été à l'automne (juillet à octobre), fructifiant pendant les périodes chaudes et humides après les pluies d'été. La pleine saison se situe généralement en août-septembre dans la majeure partie de son aire. Peut produire plusieurs pousses au cours de la saison.",
+  "regions": [
+    "Est des États-Unis",
+    "États du Sud-Est (en particulier les Carolines, le Tennessee, la Géorgie)",
+    "région des Appalaches",
+    "États du Mid-Atlantique",
+    "vallée de l'Ohio"
+  ],
+  "lookalikes": [
+    "Craterellus tubaeformis — comestible, chapeau plus brunâtre avec pied jaune, plus au nord avec les conifères",
+    "Petites espèces de Cantharellus (C. cinnabarinus, C. minor) — comestibles, pied plus plein (non creux), par ailleurs semblables",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de mauvaise qualité, possède de vraies lames fines, plus orangée"
+  ],
+  "safety_notes": "COMESTIBLE : la Chanterelle enflammée est un excellent champignon comestible à la bonne saveur et à l'aspect distinctif. La combinaison de la couleur jaune-doré, de la forme en entonnoir, du pied creux et des plis obtus (non de vraies lames) la rend relativement facile à identifier. Le pied creux sur toute sa longueur la distingue des espèces de Cantharellus à pied plein. Aucun sosie toxique. Souvent trouvée en grand nombre, ce qui en fait une récolte intéressante. Saveur agréable et légèrement fruitée ; excellente poêlée, en soupe ou séchée pour une utilisation ultérieure.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716729.jpg",
+      "photographer": "Jess Evans",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 59018,
+      "width": 479,
+      "height": 640,
+      "sha256": "f3fae7e1255a0ae7a2792a65838543cf197bb4cf15b6d6d737220fe368e0065e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691765.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 36078,
+      "width": 640,
+      "height": 427,
+      "sha256": "1836de388cd2ce82bb1b3fa93695bf67badd48b7368ce1dc8f5fc6c0d6565505"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

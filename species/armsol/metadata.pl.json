@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armsol",
+  "scientific_name": "Armillaria solidipes",
+  "common_name": "Western Honey Mushroom (Armillaria solidipes)",
+  "edibility": "E",
+  "description": "Armillaria solidipes ma brązowy do czerwonobrązowego kapelusz (5-15 cm) pokryty drobnymi CIEMNOBRĄZOWYMI ŁUSKAMI, zwłaszcza w środku - często bardziej czerwonawe odcienie niż u wschodnich gatunków. Blaszki białe do kremowych, przyrośnięte, przebarwiające się na brązowo. Trzon ma TRWAŁY PIERŚCIEŃ i ZWARTĄ, TWARDĄ konsystencję (stąd \"solidipes\"). Trzon białawy nad pierścieniem, brązowawy poniżej z łuskami. Rośnie w DUŻYCH GĘSTYCH KĘPACH na drzewach iglastych. Miąższ biały, bardzo zwarty. Wysyp zarodników biały. Obecne czarne ryzomorfy. BARDZO AGRESYWNY patogen drzew w lasach zachodnich.",
+  "habitat": "Pasożyt i saprofit na DRZEWACH IGLASTYCH w zachodniej Ameryce Północnej, zwłaszcza daglezji, jodłach właściwych, sosnach i cykutach. Rośnie w ogromnych kępach u podstawy żywych lub martwych drzew. Jeden z najbardziej niszczycielskich patogenów leśnych na północno-zachodnim wybrzeżu Pacyfiku, powodujący rozległą zgniliznę korzeni.",
+  "season": "Jesień (wrzesień-listopad), ze szczytem owocowania po jesiennych deszczach.",
+  "regions": [
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Kolumbia Brytyjska",
+    "Północna Kalifornia",
+    "Góry Skaliste",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Armillaria ostoyae - bardzo podobna, ciemniejsze łuski, nieco inny zasięg",
+    "Inne gatunki opieńki - wszystkie wymagają ugotowania",
+    "Gatunki Pholiota - brązowe zarodniki",
+    "Gatunki Galerina - ŚMIERTELNIE TRUJĄCE - mniejsze, brązowe zarodniki"
+  ],
+  "safety_notes": "JADALNY Z OSTROŻNOŚCIĄ: Opieńki (gatunki Armillaria) są TRUJĄCE na surowo i muszą być dokładnie ugotowane przed spożyciem. Gotować przez co najmniej 10-15 minut na dużym ogniu. Nawet prawidłowo ugotowane u niektórych osób wywołują reakcje alergiczne lub dolegliwości żołądkowe. Najpierw spróbować małej ilości, aby sprawdzić tolerancję. Obgotowanie przed gotowaniem pomaga zredukować drażniące substancje żołądkowo-jelitowe i gorzki smak. Nie spożywać z alkoholem - opieńki mogą wywoływać niepożądane reakcje w połączeniu z alkoholem (podobnie jak Coprinopsis). Zbierać tylko młode, zwarte okazy.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716582.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 74746,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6de87b1c3073182ae39b75cd521a11cb3cfbdbfcd88a2c641274c49ab98b4ad"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716572.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 116236,
+      "width": 469,
+      "height": 640,
+      "sha256": "540862e259c52319659734539f72a8ca8d542949b2e5aefb76726012b48ded84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

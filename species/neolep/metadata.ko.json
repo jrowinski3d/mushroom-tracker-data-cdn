@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "neolep",
+  "scientific_name": "Neolentinus lepideus",
+  "common_name": "Train Wrecker (Neolentinus lepideus)",
+  "edibility": "E",
+  "description": "갓이 흰색에서 크림색으로 너비 2-6인치인 중형에서 대형 버섯으로, 특히 중앙 쪽에 갈색 비늘이 덮여 있다. 흰색의 흘러내리는 주름살. 굵은 중앙의 흰색 대는 높이 2-5인치이며, 불완전한 막 아래에 헝클어진 갈색 비늘이 있다. 관공이 아닌 주름살이 있다. 침엽수 목재에서 자란다. 질기고 섬유질인 조직. 신선할 때 강한 아니스 또는 감초 냄새가 난다.",
+  "habitat": "통나무, 그루터기, 철도 침목, 전신주, 건축 목재를 포함한 침엽수 목재에서 부생한다. 갈색 입방 부후를 일으킨다. 소나무, 전나무, 가문비나무 등 침엽수 목재에서 흔하다. 철도 침목과 목조 구조물을 손상시키는 것으로 유명 — '기차 파괴자'라는 이름의 유래. 가공되고 풍화된 침엽수 목재에서 발견된다.",
+  "season": "봄부터 가을까지, 보통 5월-10월. 철도 침목 같은 보호된 목재에서는 연중 나타날 수 있다. 여름이 최성기. 같은 목재에서 여러 해 반복 발생한다.",
+  "regions": [
+    "북아메리카 서부",
+    "로키 산맥",
+    "태평양 북서부",
+    "북부 침엽수림",
+    "침엽수 지역에 널리 분포",
+    "환북극 분포"
+  ],
+  "lookalikes": [
+    "Lentinus tigrinus(비슷하나 더 작고 목재와 무늬가 다름)",
+    "비늘 Pholiota 속(갈색 포자, 주름살이 흘러내리지 않음)",
+    "다른 비늘 목재 버섯(냄새와 포자색이 다름)",
+    "이 특징 조합에는 위험한 유사종 없음"
+  ],
+  "safety_notes": "아주 어릴 때 식용 가능하나 권장하지 않음: 아주 어리고 부드러운 단추만 먹을 만큼 부드럽다 — 표본은 금방 매우 질기고 섬유질이 된다. 어린 것도 조직이 질겨 오래 익혀야 한다. 강한 아니스 향은 많은 사람에게 거북하다. 질긴 조직과 강한 향 때문에 대개 먹을 가치가 없다. 안전하나 맛없다. 독특한 비늘, 아니스 냄새, 침엽수 목재 서식지가 식별에 도움이 된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688175.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 33134,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d59439c5cfa87d28e63a33fd801f1447fa4f31f6650877bc7bfdaf889fe0546"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688176.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 62860,
+      "width": 480,
+      "height": 640,
+      "sha256": "fe6e8a1f10093c4ff50e8c12968ed53c32036e3eabfd84f5194e38aa5eff356c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.670590",
+  "source_language": "en"
+}

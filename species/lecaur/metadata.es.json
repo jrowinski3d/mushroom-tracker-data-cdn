@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecaur",
+  "scientific_name": "Leccinum aurantiacum",
+  "common_name": "Red-capped Scaber Stalk (Leccinum aurantiacum)",
+  "edibility": "E",
+  "description": "El boleto escabroso de sombrero rojo presenta un distintivo sombrero de anaranjado a anaranjado-rojizo (5-20 cm) con superficie de seca a ligeramente pegajosa. Los poros son blancos cuando jóvenes, envejeciendo a grisáceos, y se tiñen de parduzco al magullarse. El pie alto y blanco está cubierto de escabrosidades de color pardo oscuro a negruzco (escamas rugosas), un rasgo diagnóstico. La carne blanca se tiñe de rosa a rojizo al cortarla, envejeciendo a gris o negro. Esporada pardo-oliva.",
+  "habitat": "Micorrícico exclusivamente con álamos y chopos en bosques mixtos. Forma asociaciones obligadas con especies de Populus. Se encuentra en arboledas de álamos, zonas ribereñas con chopos y bosques mixtos de álamo y coníferas.",
+  "season": "Del verano al otoño (junio-octubre), con máxima fructificación en julio-agosto. Suele aparecer poco después de las lluvias de verano en hábitats de álamos.",
+  "regions": [
+    "Montañas Rocosas",
+    "región de los Grandes Lagos",
+    "bosques del noreste con álamos",
+    "rodales de álamo del Pacífico Noroeste",
+    "norte de California",
+    "Alaska",
+    "Canadá"
+  ],
+  "lookalikes": [
+    "Leccinum insigne: sombrero anaranjado-rojizo, hábitat similar con álamos",
+    "Otras especies de Leccinum: las escabrosidades del pie las distinguen de Boletus",
+    "Especies de Boletus: carecen del distintivo pie escabroso",
+    "Especies de Lactarius: tienen láminas y no poros, producen látex"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto escabroso de sombrero rojo es un buen comestible de textura firme, aunque no tan apreciado como el boleto comestible. Debe cocinarse bien; puede causar molestias digestivas si está poco cocido o se come crudo. El oscurecimiento de la carne es normal. El sombrero anaranjado y el pie de escamas rugosas son rasgos diagnósticos.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698286.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 191462,
+      "width": 640,
+      "height": 640,
+      "sha256": "960769b31fc623f0aab525e0fc0fd3302f856913829a4264d2671df9f66ca4ce"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698287.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 80824,
+      "width": 640,
+      "height": 640,
+      "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

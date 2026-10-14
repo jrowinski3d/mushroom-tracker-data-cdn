@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaaug",
+  "scientific_name": "Agaricus augustus",
+  "common_name": "El Príncipe (Agaricus augustus)",
+  "edibility": "E",
+  "description": "El Príncipe es una de las especies de Agaricus más grandes e impresionantes, con un sombrero de 10-30 cm de diámetro. El sombrero está cubierto de escamas fibrilosas de color marrón dorado a ocre dispuestas concéntricamente sobre un fondo blanco a amarillo pálido, lo que le da un aspecto claramente estampado. Las láminas son libres, al principio de color rosa grisáceo pálido y se vuelven marrón chocolate oscuro. El pie mide 10-25 cm de alto, es grueso, de blanco a amarillo pálido, con escamas fibrilosas marrones debajo del gran anillo colgante. La carne es blanca, se magulla lentamente a amarillo parduzco, con un fuerte y agradable olor a almendra-anís. Es una de las especies de Agaricus más aromáticas.",
+  "habitat": "Se encuentra en bosques de coníferas y mixtos, particularmente bajo píceas, abetos y pinos. También en parques urbanos con coníferas y áreas ajardinadas con virutas de madera. Crece en el suelo o en restos leñosos, a menudo cerca de tocones. Fructifica disperso a gregario. Prefiere bosques templados frescos.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre) en la mayoría de las regiones. En el Pacífico Noroeste y California, puede fructificar a finales del otoño y en invierno (noviembre-enero). La fructificación máxima ocurre a principios del otoño. Requiere temperaturas frescas y humedad.",
+  "regions": [
+    "Europa (nativa, extendida)",
+    "Pacífico Noroeste (común)",
+    "norte de California (ocasional)",
+    "Este de Norteamérica (poco común)",
+    "Montañas Rocosas (ocasional)",
+    "Bosques frescos de coníferas templadas"
+  ],
+  "lookalikes": [
+    "Agaricus silvicola (comestible) - más pequeño, sombrero blanco, de bosque pero menos escamoso",
+    "Agaricus moelleri (tóxico) - amarillea intensamente, olor fenólico en lugar de agradable a anís",
+    "Agaricus praeclaresquamosus (comestible) - muy similar, escamas más planas, del oeste de Norteamérica",
+    "Especies grandes de Amanita (algunas mortales) - tienen volva en la base, ausente en Agaricus"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: Considerado uno de los hongos comestibles más finos, con sabor excepcional y textura firme. Muy apreciado por los recolectores. Cocinar bien. Identificación crítica: verificar el agradable olor a ALMENDRA-ANÍS (muy fuerte), escamas fibrilosas marrones en el sombrero, láminas LIBRES que se vuelven marrón chocolate, gran anillo colgante, esporada MARRÓN CHOCOLATE, SIN volva en la base. Evitar cualquier ejemplar con fuerte olor fenólico o químico. Su gran tamaño y su aspecto escamoso distintivo facilitan su identificación en comparación con muchos Agaricus. Excelente salteado o en sopas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677157.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-23",
+      "file_size_bytes": 53230,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fedbb98433e14718bf6a8080e63f7ba7acc29081db375c34dbbc46df455d36"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677141.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-22",
+      "file_size_bytes": 143050,
+      "width": 480,
+      "height": 640,
+      "sha256": "7333e10890823e02c69a8ccac4470feba35fa843ffbcb98dc79e8a1dd424dfad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.264902",
+  "source_language": "en"
+}

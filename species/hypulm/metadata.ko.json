@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypulm",
+  "scientific_name": "Hypsizygus ulmarius",
+  "common_name": "Elm Oyster (Hypsizygus ulmarius)",
+  "edibility": "E",
+  "description": "매끄럽거나 약간 털이 있는 표면의 흰색에서 크림색 갓(너비 2~6인치). 참느타리버섯과 달리 중앙에서 약간 벗어난 대(길이 2~4인치)를 지닌다. 흰색의 밑으로 흐르는 주름살. 종종 살아 있거나 최근에 죽은 활엽수의 높은 곳에 작은 군집으로 자란다. 흰색 포자문.",
+  "habitat": "살아 있거나 죽은 활엽수, 특히 느릅나무, 박스엘더, 단풍나무, 사시나무에서 부생성 및 기생성. 보통 지상 10~40피트 높이의 나무 줄기 높은 곳에서 발생한다. 도시와 삼림 환경의 고사목에 흔하다. 심재의 백색부후를 일으킨다.",
+  "season": "가을, 주로 9월~11월. 북부 지역에서는 늦여름에 나타날 수 있다. 비 뒤 서늘한 가을 날씨에 발생한다. 10월에 가장 흔하다.",
+  "regions": [
+    "북미 동부",
+    "오대호 지역",
+    "중서부 북부",
+    "태평양 북서부",
+    "북반구 온대림"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (측생/무대, 더 느타리 모양)",
+    "Pleurotus populinus (중앙 대 없음, 사시나무/미루나무에서 자람)",
+    "천사날개버섯(Pleurocybella porrigens) - 유독, 순백색, 침엽수에서 자람",
+    "Armillaria 종 (대에 턱받이 있음, 황색빛)"
+  ],
+  "safety_notes": "식용 가능: 어릴 때 단단한 질감과 순한 맛의 좋은 식용버섯. 먹기 전에 충분히 조리하라. 노화된 개체는 질겨질 수 있어 피하는 것이 좋다. 중앙 대와 나무 높은 곳의 생장 위치가 Pleurotus 종과 구별하는 데 도움이 된다. 상업 재배되는 만가닥버섯(H. tessulatus)과 근연이다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649898.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 103612,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2ea476fbf77c1cc41bae7582c177d00e846814708cee474d76c6a0be666527d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649899.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95280,
+      "width": 640,
+      "height": 480,
+      "sha256": "2aa8419d2cca940219b5bdbcaf5a85f45d8e9f0a3b9f020e68a3b07088d4250c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

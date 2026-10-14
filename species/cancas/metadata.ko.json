@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancas",
+  "scientific_name": "Cantharellus cascadensis",
+  "common_name": "Cascade Chanterelle (Cantharellus cascadensis)",
+  "edibility": "E",
+  "description": "캐스케이드꾀꼬리버섯은 너비 2~8cm의 옅은 노랑에서 크림색 갓을 가지며, 저지대의 사촌 C. formosus보다 눈에 띄게 옅다. 갓은 매끄럽고 나이가 들면 깔때기 모양이 되며 가장자리는 물결 모양으로 불규칙하다. 아랫면에는 두껍고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 있고 크림색에서 옅은 노랑이며, 간격이 넓고 대를 따라 강하게 흘러내린다. 대는 속이 차 있고 높이 2~6cm, 흰색에서 옅은 크림색이며 종종 밑동 쪽으로 가늘어진다. 살은 흰색에서 옅은 크림색이며 단단하고 은은한 과일 향이 난다. 포자문은 흰색에서 옅은 크림색이다.",
+  "habitat": "산솔송, 전나무(Abies 종), 엥겔만가문비나무를 포함한 고산 침엽수와 균근공생한다. 고산과 아고산 침엽수림, 종종 눈 녹은 지대 근처의 이끼 낀 지역에서 발견된다. 배수가 잘되는 토양의 서늘하고 습한 산악 환경을 선호한다.",
+  "season": "늦여름부터 가을(8월~11월), 눈이 녹고 가을 비가 시작되며 자실체를 낸다. 최성기는 고지대에서 9월~10월이다. 산악 기온이 낮아 저지대 꾀꼬리버섯보다 시즌이 짧다.",
+  "regions": [
+    "캐스케이드산맥 (워싱턴주, 오리건주)",
+    "북부 로키산맥 (아이다호주, 몬태나주)",
+    "브리티시컬럼비아주 고산 지대 삼림",
+    "시에라네바다산맥 (북부 캘리포니아)",
+    "올림픽산맥"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus - 식용 가능, 더 짙은 황금주황색, 저지대 분포, 더 큰 자실체",
+    "Cantharellus subalbidus - 식용 가능, 흰색에서 크림색, 매우 비슷하나 보통 더 옅고 분포역 다름",
+    "거짓꾀꼬리버섯 (Hygrophoropsis aurantiaca) - 독성은 없으나 품질이 떨어짐, 얇은 진짜 주름살, 더 주황색"
+  ],
+  "safety_notes": "최상급 식용: 캐스케이드꾀꼬리버섯은 섬세한 맛과 단단한 식감의 훌륭한 식용 버섯이다. 모든 꾀꼬리버섯과 마찬가지로 핵심 동정 특징은 아랫면의 뭉툭하고 갈라진 주름이며 진짜 주름살이 아니다. 이 주름은 밀랍 같은 촉감이며 갓 살과 이어져 있다. 반드시 목재가 아닌 토양에서 나무와 함께 자라는지 확인하십시오. 옅은 색이 독성 Jack-O'-Lantern과의 구분에 도움이 된다. 수프와 볶음에 훌륭하며, 순한 맛이 크림 기반 요리와 잘 어울린다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1282798.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 118826,
+      "width": 640,
+      "height": 480,
+      "sha256": "58e1d21cb1d18435de5d1d1c8c7c05cda8d1ee0fa95d5b5f028725272ab56569"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1282799.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 129184,
+      "width": 480,
+      "height": 640,
+      "sha256": "2a36f1b24ec17de27e0c3efb15faaf7be7f697c1aebcb7c61d79c93e0439daaf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

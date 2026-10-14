@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancin",
+  "scientific_name": "Cantharellus cinnabarinus",
+  "common_name": "Cinnabar Chanterelle (Cantharellus cinnabarinus)",
+  "edibility": "E",
+  "description": "Pieprznik cynobrowy (czerwony pieprznik) to mały, charakterystyczny grzyb o jaskrawo cynobrowoczerwonym do różowoczerwonego kapeluszu o szerokości 1–4 cm. Kapelusz gładki do lekko aksamitnego, z wiekiem płytko lejkowaty, o falistych brzegach. Spód pokryty tępymi, płytkimi, rozwidlonymi listewkami (NIE są to prawdziwe blaszki), różowoczerwonymi do łososioworóżowych, często bledszymi niż kapelusz, zbiegającymi po trzonie. Trzon pełny, smukły, 2–5 cm wysokości, w kolorze kapelusza lub nieco bledszy. Miąższ różowobiały, cienki, ale zwarty, o łagodnym zapachu. Wysyp zarodników biały do bladoróżowego.",
+  "habitat": "Grzyb mikoryzowy, związany z wschodnimi drzewami liściastymi, zwłaszcza dębami (gatunki Quercus), bukiem amerykańskim i orzesznikiem. Występuje w dojrzałych lasach liściastych i mieszanych, często w tych samych siedliskach co inne wschodnie pieprzniki. Preferuje dobrze przepuszczalne zbocza z żyzną, kwaśną ściółką liściastą.",
+  "season": "Lato (czerwiec–wrzesień), owocowanie w ciepłych, wilgotnych okresach po letnich deszczach. Szczyt sezonu przypada zwykle na lipiec–sierpień. Często owocuje obok C. lateritius i C. appalachiensis we wschodnich lasach.",
+  "regions": [
+    "wschodnie Stany Zjednoczone",
+    "stany południowo-wschodnie (zwłaszcza Karoliny, Tennessee)",
+    "region Appalachów",
+    "stany środkowoatlantyckie",
+    "dolina rzeki Ohio"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius – jadalny, większy, bardziej pomarańczoworóżowy niż czerwony, podobne siedlisko i sezon",
+    "Omphalotus illudens – TRUJĄCY, ma prawdziwe ostre blaszki, rośnie na drewnie, bardziej pomarańczowy niż czerwony",
+    "Gatunki Hygrocybe (woskownice) – jadalność zróżnicowana, mają prawdziwe blaszki, bardziej krucha konsystencja, mniejsze"
+  ],
+  "safety_notes": "JADALNY: Pieprznik cynobrowy to jadalny grzyb, wyróżniający się małym rozmiarem i charakterystyczną jaskrawoczerwoną barwą. Jak u wszystkich pieprzników, kluczową cechą identyfikacyjną są tępe, rozwidlone listewki, a nie prawdziwe blaszki. Listewki te są płytkie, ale wyraźnie woskowate i zrośnięte z kapeluszem. Jaskrawa cynobrowoczerwona barwa i mały rozmiar sprawiają, że jest stosunkowo łatwy do rozpoznania wśród pieprzników. Ze względu na mały rozmiar często zbierany jest razem z innymi gatunkami pieprzników. Smak łagodny; najlepiej spożywać świeży lub łączyć z innymi grzybami.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700417.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 27518,
+      "width": 640,
+      "height": 427,
+      "sha256": "a998a577154e7fbb29aa9e7ff8a03d85904bd6a1dafecadc5a106e7060fa4d47"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700418.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 47598,
+      "width": 640,
+      "height": 427,
+      "sha256": "5cbe77df51c2eb2f433f2f537ca28b74a956cf29511aa7a93ef36483ee482530"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

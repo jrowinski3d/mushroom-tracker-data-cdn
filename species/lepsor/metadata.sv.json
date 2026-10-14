@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepsor",
+  "scientific_name": "Lepista sordida",
+  "common_name": "Violmusseron",
+  "edibility": "E",
+  "description": "Violmusseronen är en mindre och blekare släkting till blåmusseronen. Hatten är 3–8 cm bred, först välvd och sedan utbredd eller svagt nedtryckt, blekt lila-grå till brun-lila eller beige-brun. Den lila färgen är svag och bleknar snabbt till smutsig beige-brun (därav 'sordid'). Ytan är slät, torr till något fet. Skivorna är vidfästa till svagt nedlöpande, blekt lila och blir beige-bruna. Foten är 3–7 cm hög, slank, blekt lila till beigefärgad med en svagt förstorad bas. Svampköttet är tunt, blekt och har en söt, svagt fruktig doft (mindre uttalad än hos L. nuda).",
+  "habitat": "Växer i gräsmarker, ängar, gräsmattor, betesmarker, gräsiga skogsbryn och parker. Växer som nedbrytare av gräs och humus i kväverik jord. Fruktkropparna sitter utspridda till flockvis, ofta i häxringar eller flockar i gräs. Föredrar öppna gräsområden framför skog.",
+  "season": "Sensommar till höst (augusti–november) i tempererade regioner. Kan frukta in i tidig vinter i milda klimat. Högsäsong i september–oktober.",
+  "regions": [
+    "Europa (vanlig)",
+    "Nordamerika (mindre vanlig)",
+    "Tempererade gräsmarker världen över",
+    "Parker och betesmarker",
+    "Kosmopolitisk i lämpliga livsmiljöer"
+  ],
+  "lookalikes": [
+    "Lepista nuda (ätlig) – mörkare lila, större, skogslivsmiljö",
+    "Clitocybe-arter – vissa giftiga, bleka färger, andra dofter",
+    "Entoloma-arter (vissa giftiga) – rosa sporer men kantiga, bräckligt svampkött",
+    "Laccaria laccata (ätlig) – mindre, mer hygrofan, skog"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Anses ätlig men mindre eftertraktad än L. nuda. Måste tillagas ordentligt – ät ALDRIG rå. De bleka färgerna och det smutsiga utseendet gör den mindre tilltalande och svårare att identifiera säkert. Vissa rapporterar magbesvär. Prova små mängder först. Kontrollera att SPORFÄLLNINGEN ÄR ROSA. De svaga lila tonerna, gräsmarkslivsmiljön och den söta doften är diagnostiska men inte särskilt distinkta. Rekommenderas inte för nybörjare på grund av de bleka färgerna och förväxlingsriskerna. Tillaga ordentligt om du försöker. Det 'smutsiga' bleka utseendet stämmer. Det finns bättre musseroner.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1548011.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 31928,
+      "width": 480,
+      "height": 640,
+      "sha256": "8028f87a93744bb9101150c84d03670677f1580e148d30259312e525f7b55d76"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1548012.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 29522,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c618cc4b080f4a37b0ecd5fb16ac270616d9cb6bfc1137157b215b5295b0bd2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

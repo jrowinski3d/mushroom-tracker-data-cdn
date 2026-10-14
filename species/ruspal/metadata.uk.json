@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruspal",
+  "scientific_name": "Russula paludosa",
+  "common_name": "Сироїжка болотна",
+  "edibility": "E",
+  "description": "Рожева сироїжка має червону до рожево-червоної шапинку (5–15 см), що часто вицвітає. Пластинки жовтуваті. Ніжка біла з рожевими відтінками. КЛЮЧОВІ ОЗНАКИ: ЧЕРВОНА ШАПИНКА, ЖОВТІ ПЛАСТИНКИ, ЛАМКА М'ЯКОТЬ, великий розмір. М'якоть біла. Споровий відбиток жовто-охристий. Смак м'який.",
+  "habitat": "Мікоризний з хвойними деревами, особливо з сосною та ялиною. Росте наземно в хвойних лісах, особливо в північних болотах і вологих місцях. Росте розрізнено.",
+  "season": "З літа до осені (липень–вересень).",
+  "regions": [
+    "Північний схід",
+    "Верхній Середній Захід",
+    "Канада",
+    "Північна Європа"
+  ],
+  "lookalikes": [
+    "Інші червоні сироїжки — перевірте колір пластинок",
+    "Молочники (Lactarius) — виділяють молочний сік"
+  ],
+  "safety_notes": "ЇСТІВНИЙ: м'який смак. ЧЕРВОНА ШАПИНКА + ЖОВТІ ПЛАСТИНКИ + ЛАМКА М'ЯКОТЬ + М'ЯКИЙ СМАК — діагностичні ознаки. Готуйте ретельно.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650964.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 28720,
+      "width": 640,
+      "height": 427,
+      "sha256": "adcc86b416cac3fab16ef0847319527a39c00df45251ce68bf29142a13aadc7a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1650965.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 32172,
+      "width": 640,
+      "height": 427,
+      "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

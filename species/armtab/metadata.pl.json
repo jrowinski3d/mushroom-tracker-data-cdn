@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armtab",
+  "scientific_name": "Armillaria tabescens",
+  "common_name": "opieńka bezpierścieniowa",
+  "edibility": "E",
+  "description": "Armillaria tabescens ma miodowo-żółty do płowobrązowego kapelusz (3-10 cm) z drobnymi ciemnymi łuskami w środku. Blaszki białe do kremowych, przyrośnięte, przebarwiające się na brązowo. KLUCZOWĄ CECHĄ jest BRAK PIERŚCIENIA na trzonie - to jedyny pospolity gatunek opieńki konsekwentnie pozbawiony pierścienia. Trzon żółtawy do brązowego, gładki lub lekko włóknisty, bez strefy pierścienia. Rośnie w GĘSTYCH KĘPACH na pniakach i korzeniach drzew liściastych. Miąższ biały, zwarty. Wysyp zarodników biały. Obecne czarne ryzomorfy. Charakterystyczna brakiem typowego dla opieńki pierścienia.",
+  "habitat": "Pasożyt i saprofit na DRZEWACH LIŚCIASTYCH we wschodniej Ameryce Północnej, zwłaszcza dębie, orzeszniku, klonie i innych drzewach liściastych. Rośnie w dużych kępach u podstawy żywych lub obumierających drzew, pniaków i zakopanych korzeni. Pospolita w lasach dębowych. Powoduje białą zgniliznę i choroby korzeni. Rzadko na drzewach iglastych.",
+  "season": "Od późnego lata do jesieni (sierpień-listopad), czasem wcześniej niż gatunki z pierścieniem.",
+  "regions": [
+    "Wschodnie Stany Zjednoczone",
+    "Południowo-wschodnie Stany Zjednoczone",
+    "Środkowo-zachodnie Stany Zjednoczone",
+    "Środkowo-atlantyckie Stany Zjednoczone",
+    "Regiony południowe"
+  ],
+  "lookalikes": [
+    "Armillaria mellea - MA PIERŚCIEŃ, poza tym bardzo podobna",
+    "Gatunki Xeromphalina - znacznie mniejsze, inne siedlisko",
+    "Gatunki Gymnopilus - rdzawo-brązowe zarodniki, gorzkie",
+    "Gatunki Pholiota - brązowe zarodniki"
+  ],
+  "safety_notes": "JADALNY Z OSTROŻNOŚCIĄ: Opieńki (gatunki Armillaria) są TRUJĄCE na surowo i muszą być dokładnie ugotowane przed spożyciem. Gotować przez co najmniej 10-15 minut na dużym ogniu. Nawet prawidłowo ugotowane u niektórych osób wywołują reakcje alergiczne lub dolegliwości żołądkowe. Najpierw spróbować małej ilości, aby sprawdzić tolerancję. Obgotowanie przed gotowaniem pomaga zredukować drażniące substancje żołądkowo-jelitowe i gorzki smak. Nie spożywać z alkoholem - opieńki mogą wywoływać niepożądane reakcje w połączeniu z alkoholem (podobnie jak Coprinopsis). Zbierać tylko młode, zwarte okazy. Brak pierścienia ułatwia identyfikację, ale należy potwierdzić innymi cechami opieńki.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1608178.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-01",
+      "file_size_bytes": 133036,
+      "width": 480,
+      "height": 640,
+      "sha256": "ede381f535931297f80b431fb59d6fe0265eb8228bf76c24a462ee37f7adffab"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608179.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-27",
+      "file_size_bytes": 103406,
+      "width": 480,
+      "height": 640,
+      "sha256": "6e8264b2d1c15eef591d615e93afaeb2cf2c9d9423255ea16458764bbbf23318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

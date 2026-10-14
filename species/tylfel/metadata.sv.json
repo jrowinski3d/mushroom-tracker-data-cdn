@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "tylfel",
+  "scientific_name": "Tylopilus felleus",
+  "common_name": "Gallsopp",
+  "edibility": "U",
+  "description": "Gallsoppen liknar stensopp men har karakteristiska rosa porer. Den har en brun till beigebrun hatt (5–15 cm) med torr yta. Porerna är vita när de är mycket unga, och blir snabbt rosaaktiga till hudfärgade – ett viktigt kännetecken. Den tjocka foten har brunt ådernät (nätliknande mönster). Vitt kött missfärgas inte men smakar INTENST BESKT. Sporfällningen är rosaaktigt brun.",
+  "habitat": "Bildar mykorrhiza med både barrträd och lövträd i blandskogar. Finns med tall, gran, ek och bok. Föredrar sura jordar och väldränerade områden. Vanlig i mogna blandskogar.",
+  "season": "Sommar till höst (juli–oktober) med huvudsäsong i augusti–september. Fruktsätter under varmt, fuktigt väder efter regn.",
+  "regions": [
+    "Östra Nordamerika",
+    "Skogar i nordöstra USA",
+    "Området kring Stora sjöarna",
+    "Appalacherna",
+    "Sydöstra staterna",
+    "Nordvästra USA",
+    "Utbredd i hela Nordamerika"
+  ],
+  "lookalikes": [
+    "Boletus edulis (Karl-Johan) – vita till gula porer, INTE rosa, inte besk",
+    "Boletus subcaerulescens – gula porer som blånar",
+    "Andra Boletus-arter – kontrollera porfärgen noggrant",
+    "Om porerna är rosa och smaken är besk är det gallsopp"
+  ],
+  "safety_notes": "OÄTLIG: Tylopilus felleus, vanligen kallad gallsopp, är intensivt besk – så besk att ett enda exemplar kan förstöra en hel svampmåltid. Beskan består och förstärks till och med under tillagning. Även om den inte är giftig är den helt osmaklig och oätlig. Förväxlas ofta med uppskattade ätliga soppar som Karl-Johan; kontrollera den rosa porfärgen och det ådernätade fotmönstret för att skilja den åt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718850.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 50034,
+      "width": 640,
+      "height": 427,
+      "sha256": "e44a79ac4907688e85b892bc0db5944518b7238c1b1d7ef058f6f6b65db65502"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718851.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 51248,
+      "width": 640,
+      "height": 427,
+      "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

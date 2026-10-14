@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "rambot",
+  "scientific_name": "Ramaria botrytis",
+  "common_name": "Pink-tipped Coral (Ramaria botrytis)",
+  "edibility": "E",
+  "description": "El coral de puntas rosas es un hongo coral grande y atractivo de 8 a 15 cm de alto y de 7 a 12 cm de ancho. El cuerpo fructífero posee una base gruesa de color blanco a rosa pálido (de 2 a 4 cm de ancho) que sostiene numerosas ramas erguidas. Las ramas son de color blanco a amarillento pálido, con distintivas puntas de color rojo vino a rosa rosado (característica diagnóstica). Los ejemplares jóvenes presentan un color rosa más vivo. La ramificación es densa y compacta. La carne es blanca, quebradiza cuando está fresca, con un olor suave y agradable. Toda la estructura es carnosa y similar a la coliflor.",
+  "habitat": "Se encuentra en bosques de frondosas y de coníferas, formando asociaciones micorrícicas en particular con haya, roble y pícea. Crece en el suelo desde la tierra o la madera muy descompuesta. Fructifica de forma dispersa a gregaria en humus rico. Prefiere bosques maduros con abundante materia orgánica. Común en bosques mixtos.",
+  "season": "Desde finales de verano hasta el otoño (agosto-noviembre) en regiones templadas. En Europa, principalmente en septiembre-octubre. La fructificación máxima ocurre a principios de otoño. Requiere un verano cálido seguido de lluvias de otoño.",
+  "regions": [
+    "Europa (ampliamente distribuida, común)",
+    "este de Norteamérica (poco común)",
+    "Pacífico Noroeste (raro)",
+    "bosques templados del norte",
+    "Particularmente abundante en Europa",
+    "Montañas Rocosas (ocasional)"
+  ],
+  "lookalikes": [
+    "Ramaria formosa (tóxica) — ramas de color naranja salmón sin puntas rosas diferenciadas",
+    "Ramaria aurea (comestible) — amarilla dorada en su totalidad, sin puntas rosas",
+    "Ramaria rubripermanens (comestible) — todo el cuerpo fructífero se tiñe de rojo al manipularlo",
+    "Otras especies de Ramaria — muchas son similares, la identificación es difícil"
+  ],
+  "safety_notes": "COMESTIBLE: se considera uno de los mejores hongos coral, con buen sabor y textura cuando es joven. Muy apreciada en Europa. Cocinar bien. Recolectar solo ejemplares jóvenes y firmes antes de que se encharquen o se agusanen. El sabor es suave y a seta. Desechar la base dura. CRÍTICO: las puntas de las ramas de color rojo vino a rosa son diagnósticas y ayudan a distinguirla de las especies tóxicas. Algunos hongos coral causan molestias digestivas en personas sensibles. Evitar los ejemplares de sabor amargo. Las puntas rosas deben ser claramente visibles. Probar primero en pequeñas cantidades. Más fiable y segura que muchos hongos coral.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714687.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 29446,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc4845126cad5a597d358e912fddbbe5fa0c1b55aa2837a88713ddac9cc67245"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1714688.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-07",
+      "file_size_bytes": 34460,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc67458e097361f0f3f6bf23374d7b10551d60426fb10171557abde9cb880cf8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

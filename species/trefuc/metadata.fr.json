@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trefuc",
+  "scientific_name": "Tremella fuciformis",
+  "common_name": "Trémelle blanche",
+  "edibility": "E",
+  "description": "La trémelle blanche est un champignon gélatineux blanc à jaune pâle formant des masses molles et frisées ressemblant à du corail marin ou à de la neige. Fructifications de 5-15 cm de diamètre à l'état frais, composées de lobes minces, ramifiés et translucides à l'aspect délicatement ondulé. La couleur est blanc pur à crème pâle ou jaune clair. La texture est molle, gélatineuse et tremblotante. Les lobes sont minces et en forme de pétales, créant une structure dentelée complexe. Devient dure et ratatinée au sec, revivant une fois humidifiée.",
+  "habitat": "Trouvée sur les branches mortes et le bois des feuillus, généralement haut sur les arbres morts sur pied ou les troncs tombés. Souvent parasite d'autres champignons lignicoles. Dans la nature, trouvée sur les feuillus dans les forêts. Largement cultivée commercialement sur substrat de sciure de feuillus. Préfère les environnements chauds et humides.",
+  "season": "À l'état sauvage, principalement de l'été à l'automne (juin-novembre) dans les climats chauds. Dans les régions tropicales et subtropicales, peut fructifier toute l'année. Cultivée toute l'année commercialement. Le pic de fructification sauvage survient par temps chaud et humide après les pluies.",
+  "regions": [
+    "Asie (originaire, répandu)",
+    "régions tropicales et subtropicales du monde entier",
+    "Sud des États-Unis (rare à l'état sauvage)",
+    "cultivé commercialement dans le monde entier",
+    "naturel dans les forêts tempérées chaudes à tropicales"
+  ],
+  "lookalikes": [
+    "Tremella mesenterica (comestible) — jaune vif, plus compacte, en forme de cerveau",
+    "Souches cultivées de Tremella fuciformis — couleur variable du blanc au crème",
+    "Espèces d'Exidia (comestibles) — plus foncées, plus compactes, non frisées",
+    "Aucun sosie toxique"
+  ],
+  "safety_notes": "COMESTIBLE : Très prisée dans la cuisine asiatique et la médecine traditionnelle chinoise. Saveur douce et sucrée et texture croquante-gélatineuse une fois préparée. Doit être cuite — ne pas manger crue. Populaire dans les soupes sucrées, les desserts et les boissons. Réputée avoir des bienfaits pour la santé, notamment l'amélioration de la peau et le soutien immunitaire. Presque toujours consommée comme produit cultivé plutôt que sauvage. Les formes séchées doivent être trempées pour se réhydrater. Sûre, sans sosie toxique. L'aspect blanc et frisé est distinctif. Ingrédient de spécialité coûteux sur les marchés asiatiques.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1684389.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 22236,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4dc59fd528c2bddd0ea121e6b9c3ad082895aa996fbf88c2890bf63affe3a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1684390.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 59496,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbb8fd49a0a994ba488f9c69af2375975d1f8daf9b8396d3db7977a1292cce1c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.173269",
+  "source_language": "en"
+}

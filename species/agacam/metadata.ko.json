@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacam",
+  "scientific_name": "Agaricus campestris",
+  "common_name": "들양송이",
+  "edibility": "E",
+  "description": "들양송이는 재배 양송이의 야생 원종으로, 갓 지름 5-12cm이며 처음에는 둥글다가 넓게 볼록해지며 평평해진다. 갓은 흰색에서 크림색으로 매끄럽거나 미세한 납작한 인편이 있으며, 나이가 들면 분홍갈색 기운이 도는 경우가 많다. 주름살은 떨어진주름살로, 처음에는 선명한 분홍색이다가 진한 초콜릿 갈색이 된다(진단 특징 - 분홍색 주름살로 흰 광대버섯과 구분). 대는 높이 3-8cm로 흰색이며 매끄럽고, 얇고 약한 턱받이가 있어 자주 사라진다. 조직은 흰색이며 때로 약간 분홍빛이 돌고, 온화하고 기분 좋은 버섯 냄새가 난다.",
+  "habitat": "초원, 목초지, 잔디밭, 골프장, 공원 등 탁 트인 초지 지역에서 발견된다. 소가 방목하거나 유기 비료가 있는 영양분 풍부한 초원을 선호한다. 수림은 피한다. 지상에서 산재하거나 무리지어 자라며, 종종 요정고리를 이룬다. 관리되는 초원에서 흔하다.",
+  "season": "온대 지역에서는 늦여름부터 가을까지(7-11월). 온화한 기후에서는 봄과 가을에 발생할 수 있다. 따뜻한 비가 내린 뒤 늦여름과 이른 가을에 가장 많이 발생한다. 목초지의 대표적인 가을 버섯 중 하나이다.",
+  "regions": [
+    "유럽 (자생, 널리 분포)",
+    "북아메리카 (널리 분포, 전 지역)",
+    "미국 동부 (매우 흔함)",
+    "캘리포니아 (흔함)",
+    "태평양 북서부 (흔함)",
+    "전 세계 온대 초원"
+  ],
+  "lookalikes": [
+    "독우산광대버섯류 Amanita (치명적) - 흰 주름살(분홍색이 아님)이 있고 기부 외피막이 있음",
+    "Agaricus xanthodermus (독성) - 자르면 강하게 황변하고 페놀 냄새가 남",
+    "Agaricus arvensis (식용) - 더 크고 아니스 향이 나며 톱니 모양 턱받이",
+    "Chlorophyllum molybdites (독성) - 녹색 포자, 더 크며 주름살이 결국 녹색이 됨"
+  ],
+  "safety_notes": "최상급 식용: 재배종과 비슷한 훌륭한 향미를 지닌 대표적인 야생 버섯. 충분히 익혀 먹는다. 치명적인 흰 광대버섯을 피하기 위한 핵심 식별: 어릴 때 분홍색 주름살 확인(광대버섯은 흰 주름살), 주름살이 나이가 들면 초콜릿 갈색으로 변함, 초콜릿 갈색 포자문, 대 기부 외피막 없음, 온화하고 기분 좋은 냄새(페놀 냄새가 아님). 분홍색 주름살이 가장 중요한 특징이다 - 주름살이 흰색이면 이 종이 아니다. 자르면 강하게 황변하는 개체는 피한다. 매우 인기 있는 야생 식용종이지만 신중한 식별이 필요하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1637875.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 49032,
+      "width": 640,
+      "height": 427,
+      "sha256": "23a834b68e3daa7b3a096f468aa31c432e37f3837cb0a60675c59a2eae41efcd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1637876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 76590,
+      "width": 640,
+      "height": 427,
+      "sha256": "c1dd63a0a61f671647be7697f74475e2bfd753f007e551708cd67112dadbef1f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "leuleu",
+  "scientific_name": "Leucoagaricus leucothites",
+  "common_name": "pieczareczka pospolita",
+  "edibility": "E",
+  "description": "Pieczareczka pospolita to mały do średniego biały grzyb o kapeluszu średnicy 4–10 cm, początkowo zaokrąglonym, z wiekiem szeroko wypukłym do prawie płaskiego. Kapelusz całkowicie biały do kremowego, gładki i jedwabisty, bez łusek (kluczowa cecha odróżniająca go od gatunków Chlorophyllum). Miąższ biały i nie zmienia barwy po przecięciu. Blaszki wolne, białe, z wiekiem różowiejące, gęste do bardzo gęstych. Trzon o wysokości 5–12 cm, gładki, biały, z cienkim, kruchym, białym pierścieniem, który często zanika z wiekiem, oraz lekko rozszerzoną podstawą.",
+  "habitat": "Występuje na obszarach trawiastych, w tym na trawnikach, w parkach, ogrodach, na polach golfowych, pastwiskach i trawiastych skrajach lasów. Preferuje żyzną glebę w miejscach utrzymanych lub naruszonych, o regularnej wilgotności. Rośnie naziemnie, często w miejscach z nawozem organicznym lub kompostem. Owocniki rozproszone do gromadnych, czasem w łukach lub czarcich kołach.",
+  "season": "Późna wiosna do jesieni (maj–listopad) w regionach umiarkowanych. W ciepłym klimacie, jak Kalifornia i południe, może owocować przez cały rok ze szczytami po deszczach. Najliczniejsza latem i wczesną jesienią podczas ciepłej, wilgotnej pogody.",
+  "regions": [
+    "Wschodnia Ameryka Północna (pospolita)",
+    "Kalifornia i zachodnie wybrzeże",
+    "południowe Stany Zjednoczone",
+    "Północno-Zachodni Pacyfik (sporadycznie)",
+    "Europa (rozpowszechniona)",
+    "użytki zielone strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "gatunki Agaricus (jadalne) – blaszki różowe do brązowych, czekoladowobrązowe zarodniki, często anyżowy zapach",
+    "Leucoagaricus naucinus (jadalny) – bardzo podobny, szarobrązowy środek kapelusza u dojrzałych",
+    "Chlorophyllum molybdites (trujący) – wykształca zielone zarodniki, większy, może mieć subtelne łuski",
+    "gatunki Amanita (śmiertelnie trujące) – mają pochwę (miseczkę) u podstawy trzonu, której Leucoagaricus nie ma"
+  ],
+  "safety_notes": "JADALNY: uważany za jadalny i zbierany przez niektórych grzybiarzy, ale NIEZALECANY dla początkujących ze względu na poważne ryzyko pomyłki. Całkowicie gładki, biały kapelusz i brak pochwy odróżniają go od śmiertelnie trujących muchomorów, ale rozpoznanie wymaga doświadczenia. Zweryfikuj: BRAK pochwy u podstawy, WOLNE białe blaszki, które z wiekiem mogą lekko różowieć, BIAŁY wysyp zarodników (nie zielony), gładki kapelusz bez łusek. Istnieją doniesienia o dolegliwościach żołądkowo-jelitowych u niektórych osób. Ryzyko pomylenia ze śmiertelnie trującymi białymi muchomorami lub trującym Chlorophyllum molybdites czyni ten wybór ryzykownym. Wiele atlasów odradza zbieranie białych grzybów z trawników.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720338.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 75188,
+      "width": 640,
+      "height": 452,
+      "sha256": "dcc39dac32497c06d17d47f37568a9264dbb711586c85e206aba92e263e1485a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720339.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 35128,
+      "width": 482,
+      "height": 640,
+      "sha256": "072a1c980d4fc308dfdeeb9f1d060891f6113ac231af9c9d9cefb66fd73d83c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

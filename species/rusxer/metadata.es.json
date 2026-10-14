@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusxer",
+  "scientific_name": "Russula xerampelina",
+  "common_name": "Shrimp Russula (Russula xerampelina)",
+  "edibility": "E",
+  "description": "La rúsula camarón tiene un sombrero de color rojo púrpura a rojo vino (5-12 cm), viscoso. Láminas de color crema a amarillentas. Pie blanco a rosado. CLAVE: CARNE QUEBRADIZA, OLOR A PESCADO o A MARISCO (como camarón), sombrero rojizo. Carne blanca. Esporada de color crema a ocre. Sabor suave.",
+  "habitat": "Micorrícica con coníferas y frondosas. Crece en el suelo de bosques mixtos. Especie extendida. Dispersa o en grupos.",
+  "season": "De verano a otoño (julio-octubre).",
+  "regions": [
+    "este de EE. UU.",
+    "Medio Oeste",
+    "Pacífico Noroeste",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Otras rúsulas rojas — comprobar el olor",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave a pesar del olor a pescado (desaparece al cocinarla). OLOR A PESCADO + SOMBRERO ROJO + CARNE QUEBRADIZA son diagnósticos. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723210.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 90416,
+      "width": 640,
+      "height": 427,
+      "sha256": "7aabcfbc0b4b9a996b8757f8a5870feda97a8951c2b2b89d75d2ea11e9209d84"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723211.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-02",
+      "file_size_bytes": 64826,
+      "width": 640,
+      "height": 427,
+      "sha256": "f23fc4166458df6f9d897d44195e59957d00d45849606408a98876e651549019"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

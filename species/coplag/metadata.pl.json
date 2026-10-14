@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "coplag",
+  "scientific_name": "Coprinopsis lagopus",
+  "common_name": "czernidłówka srokata",
+  "edibility": "E",
+  "description": "Czernidłówka srokata to mały, delikatny grzyb, wysoki na 4–10 cm, o kapeluszu o średnicy 2–5 cm. Kapelusz jest owalny do dzwonkowatego, biały do blado szarobrązowego, pokryty gęstymi białymi watowatymi lub wełnistymi włoskami, zwłaszcza za młodu, co daje futrzany wygląd (jak zajęcza łapa, stąd nazwa). Powierzchnia ma długie jedwabiste włókna. Blaszki są wolne, białe, z czasem szare, potem czarne i rozpływające się. Trzon wysoki na 4–10 cm, smukły, biały, pokryty podobnymi watowatymi włoskami, pusty. Cały grzyb ma kosmaty, owłosiony wygląd.",
+  "habitat": "Występuje na terenach trawiastych, trawnikach, pastwiskach, w parkach, na poboczach dróg i zaburzonej ziemi. Preferuje żyzną glebę, często tam, gdzie pasie się bydło lub w pobliżu odchodów. Rośnie naziemnie w trawie, owocnikuje rozproszony do gromadnego. Pospolity na utrzymanych użytkach zielonych i wypasanych terenach.",
+  "season": "Od wiosny do jesieni (maj–listopad) w regionach umiarkowanych. Szczyt owocnikowania późną wiosną i latem. W ciepłych klimatach może owocnikować do zimy. Najpospolitszy w ciepłą, wilgotną pogodę.",
+  "regions": ["Europa (rozpowszechniony)", "Ameryka Północna (rzadziej)", "Umiarkowane użytki zielone na całym świecie", "Wypasane pastwiska", "Kosmopolityczny w odpowiednich siedliskach"],
+  "lookalikes": ["Coprinus comatus (jadalny) – znacznie większy, kosmate łuski, nie watowate włoski", "Coprinopsis lagopides – niemal identyczny, rozróżnienie wymaga mikroskopii", "Młode Agaricus lub Amanita – ale brak watowatej powierzchni i czarnych rozpływających się blaszek", "Gatunki Parasola – mniejsze, mniej owłosione"],
+  "safety_notes": "Jadalny, ale słaby: Uważany za jadalny, gdy młody, ale smak jest mdły, a konsystencja słaba. Mały rozmiar i delikatna natura sprawiają, że jest niepraktyczny. Brak znanych właściwości trujących, ale nie jest powszechnie zbierany. Brak interakcji z alkoholem. Trzeba zużyć natychmiast, ponieważ blaszki szybko się rozpływają. Jadalne są tylko młode okazy, zanim blaszki sczernieją. Watowato-owłosiony wygląd jest uroczy, ale nie przekłada się na jakość kulinarną. Bezpieczny, ale niewarty zachodu. Brak trujących gatunków podobnych. Watowate białe włoski nadają mu atrakcyjny futrzany wygląd. Ciekawszy jako okaz niż jako pożywienie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723677.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 80168,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb65a2e8b50fd754a18e94db92f351c950f6aad16c9436862b1b4e582849bcf9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723658.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-08",
+      "file_size_bytes": 69772,
+      "width": 640,
+      "height": 524,
+      "sha256": "12799b2ca72edccdf51732a8de50992a20502b6b4f9c593c8dcde2c35988af72"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

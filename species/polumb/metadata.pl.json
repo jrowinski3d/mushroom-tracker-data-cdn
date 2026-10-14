@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "polumb",
+  "scientific_name": "Polyporus umbellatus",
+  "common_name": "Umbrella Polypore (Polyporus umbellatus)",
+  "edibility": "E",
+  "description": "Jest to duży, okazały grzyb wieloporowy, tworzący złożone rozetki szerokości 20–50 cm, składające się z wielu nakładających się, wachlarzowatych kapeluszy. Poszczególne kapelusze mają 5–15 cm szerokości, są cienkie i elastyczne, osadzone na wspólnej, rozgałęzionej podstawie. Kapelusze są beżowe do brązowych, gładkie do lekko owłosionych, ze strefami barwy. Powierzchnia porów biała do kremowej, pory bardzo drobne. Miąższ biały, sprężysto-twardy, gdy świeży, o łagodnym zapachu. Cała struktura ma centralny lub ekscentryczny, gruby trzon wysokości 3–8 cm, łączący się z zagrzebanymi sklerocjami (twardymi, podziemnymi bulwami).",
+  "habitat": "Występuje u podstawy drzew liściastych, zwłaszcza dębów, wyrastając z zagrzebanych sklerocjów (stwardniałych struktur podziemnych). Sklerocja są połączone z korzeniami drzew pod ziemią. Owocuje rozproszona, zazwyczaj jedna rozetka na stanowisko. Pojawia się w tym samym miejscu co roku, jeśli sklerocjum przetrwa. Powszechna w dojrzałych lasach liściastych.",
+  "season": "Lato do jesieni (czerwiec–listopad) w większości regionów. Szczyt owocowania późnym latem i jesienią (sierpień–październik). Może owocować wielokrotnie w sezonie z tego samego sklerocjum.",
+  "regions": [
+    "Wschodnia Ameryka Północna (powszechna)",
+    "Środkowe Stany Zjednoczone",
+    "Północno-Zachodni Pacyfik (sporadycznie)",
+    "Europa (szeroko rozpowszechniona)",
+    "Umiarkowane lasy liściaste",
+    "Szczególnie powszechna przy dębach"
+  ],
+  "lookalikes": [
+    "Żagiew wielogłowa (Grifola frondosa, jadalna) – szarobrązowe, łyżeczkowate kapelusze, inna budowa",
+    "Meripilus sumstinei (jadalny młody) – wachlarze, lecz czernieje przy dotykaniu",
+    "Bondarzewia berkeleyi (jadalna młoda) – kremowo-beżowe rozetki, lecz olbrzymie, z zatęchłym zapachem",
+    "Polyporus tuberaster – podobna, lecz mniejsza, region śródziemnomorski"
+  ],
+  "safety_notes": "JADALNA bardzo młoda, lecz twarda: Tylko najmłodsze, najdelikatniejsze części są jadalne – starsze okazy są zbyt twarde i włókniste. Konsystencja przypomina kurczaka, gdy młoda. Wymaga dokładnego ugotowania. Zbieraj tylko, gdy kapelusze są jeszcze miękkie i giętkie. Smak łagodny. Wraz z dojrzewaniem grzyb staje się coraz twardszy i skórzasty. Większość napotkanych okazów jest zbyt stara, by była smaczna. Sklerocja (bulwy) można wykorzystać do uprawy grzybów. Historyczna uprawa we Włoszech z użyciem sklerocjów. Ciekawsza ze względu na wzrost ze sklerocjum niż wartość kulinarną. Jeśli próbujesz, ugotuj dokładnie i spodziewaj się ciągnącej konsystencji nawet przy młodych okazach.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681947.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-11",
+      "file_size_bytes": 102498,
+      "width": 640,
+      "height": 427,
+      "sha256": "3567d6a3cd2846607f830eadf210f6931a23071d02d93dd1068e26f2fc95e056"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1675033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-13",
+      "file_size_bytes": 62674,
+      "width": 640,
+      "height": 482,
+      "sha256": "a60d23af0e0eae434c753cec153c6cee9717c908b574fd051734e3e569d8636c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

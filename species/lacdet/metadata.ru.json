@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "lacdet",
+  "scientific_name": "Lactarius deterrimus",
+  "common_name": "Рыжик еловый",
+  "edibility": "E",
+  "description": "Рыжик еловый имеет оранжевую шляпку (4–12 см) с концентрическими зонами, зеленоватые пятна. Пластинки оранжевые, частые. Ножка оранжевая с ямочками. КЛЮЧ: ОРАНЖЕВЫЙ МЛЕЧНЫЙ СОК, БЫСТРО ЗЕЛЕНЕЮЩИЙ — быстрее, чем у L. deliciosus. Как L. deliciosus, но под ЕЛЬЮ, а не сосной. Мякоть бледная. Споровый отпечаток кремовый.",
+  "habitat": "Микоризный с ЕЛЬЮ (Picea) в Европе и Северной Америке. Растёт под елями в хвойных лесах. Предпочитает кислую почву.",
+  "season": "Осень (сентябрь–ноябрь), плодоносит после дождей.",
+  "regions": [
+    "Европа (родина)",
+    "Интродуцирован в Северную Америку",
+    "Тихоокеанский Северо-Запад",
+    "Северо-Восток США",
+    "Скалистые горы"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus — хозяин сосна, а не ель",
+    "Другие оранжевые Lactarius — смотрите на дерево-хозяина"
+  ],
+  "safety_notes": "СЪЕДОБЕН: хороший вкус, как у L. deliciosus. ОРАНЖЕВЫЙ МЛЕЧНЫЙ СОК, ЗЕЛЕНЕЮЩИЙ + хозяин ЕЛЬ — диагностические признаки. При готовке может зеленеть — это нормально. Лучше всего молодые. Тщательно готовьте.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700139.jpg",
+      "photographer": "Paul V\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdzina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-25",
+      "file_size_bytes": 108002,
+      "width": 640,
+      "height": 640,
+      "sha256": "90b6e01c130f522abda29a4108c5559f5b93a795bab5d588539f4a2122ea8e5f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700140.jpg",
+      "photographer": "Paul V\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdzina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-25",
+      "file_size_bytes": 42854,
+      "width": 640,
+      "height": 640,
+      "sha256": "04c137c844da045a3b7f34f1bf6584202217e9912a3c86baab9980057c0692e7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
+,
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armsol",
+  "scientific_name": "Armillaria solidipes",
+  "common_name": "Western Honey Mushroom (Armillaria solidipes)",
+  "edibility": "E",
+  "description": "Den västliga honungsskivlingen har en brun till rödbrun hatt (5–15 cm) täckt med små MÖRKBRUNA FJÄLL, särskilt i mitten – ofta mer rödaktiga toner än östliga arter. Skivorna är vita till krämfärgade, vidfästa, och blir bruna. Foten har en KVARSTÅENDE RING och SOLID, FAST konsistens (därav namnet 'solidipes'). Foten är vitaktig ovanför ringen, brunaktig nedanför med fjäll. Växer i STORA TÄTA KNIPPEN på barrträd. Köttet är vitt, mycket fast. Sporfällning vit. Svarta rhizomorfer förekommer. MYCKET AGGRESSIV trädskadegörare i västra skogar.",
+  "habitat": "Parasitisk och saprofyt på BARRTRÄD i västra Nordamerika, särskilt douglasgran, äkta granar, tallar och hemlock. Växer i massiva knippen vid basen av levande eller döda träd. En av de mest destruktiva skogsskadegörarna i nordvästra USA, orsakar omfattande rotröta.",
+  "season": "Höst (september–november), med topp efter höstregn.",
+  "regions": [
+    "nordvästra USA",
+    "British Columbia",
+    "norra Kalifornien",
+    "Klippiga bergen",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Armillaria ostoyae – mycket lik, mörkare fjäll, något annan utbredning",
+    "andra honungsskivlingar – kräver alla tillagning",
+    "Pholiota-arter – bruna sporer",
+    "Galerina-arter – DÖDLIGA – mindre, bruna sporer"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Honungsskivlingar (Armillaria-arter) är GIFTIGA som råa och måste tillagas ordentligt före förtäring. Tillaga minst 10–15 minuter på hög värme. Även vid korrekt tillagning får vissa personer allergiska reaktioner eller magbesvär. Smaka en liten mängd först för att testa din tolerans. Förvällning före tillagning kan minska magirriterande ämnen och bitter smak. Ät inte tillsammans med alkohol – honungsskivlingar kan ge oönskade reaktioner i kombination med alkohol (liknande Coprinopsis). Plocka endast unga, fasta exemplar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716582.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 74746,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6de87b1c3073182ae39b75cd521a11cb3cfbdbfcd88a2c641274c49ab98b4ad"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716572.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 116236,
+      "width": 469,
+      "height": 640,
+      "sha256": "540862e259c52319659734539f72a8ca8d542949b2e5aefb76726012b48ded84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

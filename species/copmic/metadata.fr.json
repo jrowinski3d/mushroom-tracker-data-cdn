@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copmic",
+  "scientific_name": "Coprinellus micaceus",
+  "common_name": "Coprin micacé",
+  "edibility": "E",
+  "description": "Le Coprin micacé est un petit champignon délicat de 2 à 6 cm de haut avec un chapeau de 1 à 4 cm de diamètre. Le chapeau est ovale à en cloche, fauve à brun-jaune ou brun-rougeâtre, avec des particules micacées scintillantes distinctives sur la surface quand il est jeune (caractère diagnostique — les particules sont lessivées par la pluie). Le chapeau présente des sillons radiaux de la marge jusqu'au milieu. Les lames sont adnées, blanches devenant grises puis noires et se liquéfiant. Le pied mesure 3 à 7 cm de haut, lisse, blanc, fragile, creux. Fructifie en touffes denses.",
+  "habitat": "Présent sur et autour des souches, troncs et bois enterré de feuillus morts. Très commun sur le bois en décomposition dans les forêts, les parcs et les jardins. Pousse comme décomposeur du bois en touffes ou troupes denses. Particulièrement abondant sur les vieilles souches et à la base des arbres. Préfère les endroits humides et ombragés.",
+  "season": "Du printemps à l'automne (avril à novembre), avec quelques fructifications en hiver dans les climats doux. Abondance maximale de la fin du printemps à l'automne. Peut fructifier toute l'année dans les régions chaudes. Très persistant et commun.",
+  "regions": [
+    "Amérique du Nord (très commun, répandu)",
+    "Europe (très commun)",
+    "dans le monde entier, en régions tempérées",
+    "forêts et zones urbaines",
+    "cosmopolite sur le bois en décomposition"
+  ],
+  "lookalikes": [
+    "Coprinellus disseminatus (comestible) — beaucoup plus petit, gris pâle, pas de particules micacées",
+    "Espèces de Psathyrella — semblables mais sans particules micacées et se liquéfiant moins",
+    "Autres espèces de Coprinellus — difficiles à distinguer sans microscopie",
+    "Pas de sosies toxiques"
+  ],
+  "safety_notes": "COMESTIBLE : considéré comme comestible et sans danger quand il est jeune et frais, mais la petite taille rend la récolte fastidieuse. La saveur est douce et banale. Pas d'interaction avec l'alcool comme Coprinopsis atramentaria. À utiliser immédiatement car les lames se liquéfient rapidement. Ne récoltez que de jeunes spécimens frais. La petite taille et la déliquescence rapide le rendent peu pratique pour la plupart des cueilleurs. Sans danger, sans sosies toxiques. Les reflets micacés quand il est jeune sont diagnostiques et charmants. Souvent abondant, mais l'effort de récolte n'en vaut pas la peine. L'espèce est plus intéressante écologiquement que culinairement.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750440.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120384,
+      "width": 640,
+      "height": 480,
+      "sha256": "1651497c786b3947aaa6ca4ea11f16b5d12be9c846fac4005e9eefc2b4c4d987"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750441.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120102,
+      "width": 640,
+      "height": 480,
+      "sha256": "04b8ac4eead336dafb401fa91130915d85a5a17a21fe8da3b20b38ab86026638"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

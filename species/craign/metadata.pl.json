@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "craign",
+  "scientific_name": "Craterellus ignicolor",
+  "common_name": "Flame-colored Chanterelle (Craterellus ignicolor)",
+  "edibility": "E",
+  "description": "Lejkowiec płomienisty (zwany też wschodnim pieprznikiem złocistym) ma złocisto-żółty do jasno pomarańczowo-żółtego kapelusz o szerokości 2–8 cm, który z wiekiem staje się głęboko lejkowaty. Brzeg kapelusza jest cienki, falisty i często przedziurawiony w środku, otwierając się do pustego trzonu. Spodnia strona ma płytkie, tępe, rozwidlone listewki (NIE są to prawdziwe blaszki), złocisto-żółte do pomarańczowo-żółtych, rzadko rozstawione, zbiegające po trzonie. Trzon wysoki na 3–10 cm, pusty, smukły, jasnożółty do pomarańczowo-żółtego w całości. Miąższ cienki, żółty do pomarańczowego, o łagodnym owocowym zapachu. Wysyp zarodników biały do blado żółtego.",
+  "habitat": "Mikoryzowy z wschodnimi drzewami liściastymi, szczególnie dębem (zwłaszcza dębem białym, dębem czerwonym), bukiem amerykańskim i orzesznikiem. Występuje w dojrzałych lasach liściastych, często w miejscach mszystych lub na dobrze przepuszczalnych zboczach. Rośnie rozproszony lub w skupiskach na dnie lasu wśród ściółki liściowej.",
+  "season": "Od lata do jesieni (lipiec–październik), owocnikuje w ciepłych, wilgotnych okresach po letnich deszczach. Szczyt sezonu przypada zwykle na sierpień–wrzesień w większości zasięgu. Może dawać wiele rzutów w ciągu sezonu.",
+  "regions": ["Wschodnie Stany Zjednoczone", "Stany południowo-wschodnie (zwłaszcza Karoliny, Tennessee, Georgia)", "Rejon Appalachów", "Stany środkowoatlantyckie", "Dolina rzeki Ohio"],
+  "lookalikes": ["Craterellus tubaeformis – jadalny, bardziej brązowawy kapelusz z żółtym trzonem, występuje dalej na północy przy drzewach iglastych", "Małe gatunki Cantharellus (C. cinnabarinus, C. minor) – jadalne, masywniejszy trzon (nie pusty), poza tym podobne", "Hygrophoropsis aurantiaca (lisówka pomarańczowa) – nietrująca, ale słabej jakości, ma prawdziwe cienkie blaszki, bardziej pomarańczowa"],
+  "safety_notes": "JADALNY: Lejkowiec płomienisty to znakomity grzyb jadalny o dobrym smaku i charakterystycznym wyglądzie. Połączenie złocisto-żółtej barwy, lejkowatego kształtu, pustego trzonu i tępych listewek (nie prawdziwych blaszek) sprawia, że stosunkowo łatwo go rozpoznać. Pusty trzon na całej długości odróżnia go od gatunków Cantharellus o pełnych trzonach. Brak trujących gatunków podobnych. Często występuje w dużych liczbach, co czyni go wartym zbierania. Smak przyjemny i lekko owocowy; doskonały duszony, w zupach lub suszony na później.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716729.jpg",
+      "photographer": "Jess Evans",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 59018,
+      "width": 479,
+      "height": 640,
+      "sha256": "f3fae7e1255a0ae7a2792a65838543cf197bb4cf15b6d6d737220fe368e0065e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691765.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 36078,
+      "width": 640,
+      "height": 427,
+      "sha256": "1836de388cd2ce82bb1b3fa93695bf67badd48b7368ce1dc8f5fc6c0d6565505"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

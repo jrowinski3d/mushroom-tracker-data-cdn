@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramaur",
+  "scientific_name": "Ramaria aurea",
+  "common_name": "Golden Coral (Ramaria aurea)",
+  "edibility": "E",
+  "description": "Jest to piękny, wyprostowany grzyb koralowy wysokości 8–20 cm i szerokości 8–15 cm. Owocnik składa się z licznych, wzniesionych gałązek wyrastających z grubego, białego do bladożółtego trzonu-podstawy. Młode gałązki są jasno złotożółte do pomarańczowo-żółtych, z wiekiem stają się ochrowo-brązowe. Wierzchołki gałązek są zazwyczaj tępe i zaokrąglone. Rozgałęzienia gęste i zwarte, nadające wygląd kalafiora. Miąższ biały do bladożółtego, kruchy, o łagodnym, przyjemnym zapachu. Cały grzyb ma mięsistą, niegalaretowatą konsystencję.",
+  "habitat": "Występuje w lasach liściastych i mieszanych, zwłaszcza pod dębami, bukami i innymi drzewami liściastymi. Tworzy związki mikoryzowe z korzeniami drzew. Rośnie naziemnie, z gleby, zazwyczaj rozproszona lub w małych grupach. Preferuje bogatą, próchniczną glebę w dojrzałych lasach. Powszechna w ściółce liściowej i przy butwiejącym drewnie.",
+  "season": "Późne lato do jesieni (sierpień–listopad) w większości regionów. Szczyt owocowania przypada na wczesną do środkowej jesieni. W cieplejszym klimacie może owocować aż do grudnia. Wymaga ciepłej gleby, po której następują jesienne deszcze.",
+  "regions": [
+    "Europa (szeroko rozpowszechniona)",
+    "Wschodnia Ameryka Północna (powszechna)",
+    "Północno-Zachodni Pacyfik (sporadycznie)",
+    "Kalifornia (rzadka)",
+    "Umiarkowane lasy liściaste na całym świecie",
+    "Szczególnie powszechna na południowym wschodzie"
+  ],
+  "lookalikes": [
+    "Ramaria botrytis (jadalna) – różowe/winnoczerwone wierzchołki gałązek, podobna wielkość",
+    "Ramaria formosa (trująca) – łososiowo-różowe do pomarańczowych gałązki, żółknie po uszkodzeniu",
+    "Ramaria rasilispora (jadalna) – bardzo podobna, rozróżnienie wymaga mikroskopii",
+    "Gatunki Clavariadelphus (jadalne) – prostszy, maczugowaty kształt, nie tak misternie rozgałęzione"
+  ],
+  "safety_notes": "JADALNY: Uznawany za jadalny i dobry, gdy młody i jędrny. Jeden z lepszych grzybów koralowych do jedzenia. Dokładnie ugotować. Smak łagodny i przyjemny. Zbieraj tylko młode, świeże okazy – starsze stają się twarde i gorzkie. Odrzuć wszystkie nasiąknięte wodą lub uszkodzone przez owady. Niektóre osoby zgłaszają łagodne dolegliwości trawienne po grzybach koralowych. KLUCZOWE: Odróżnij od trującej R. formosa, która ma bardziej łososiowo-różowe zabarwienie i żółknie po uszkodzeniu. Unikaj też gorzkich w smaku grzybów koralowych. Kluczowy jest złotożółty kolor bez różowych tonów. Najpierw spróbuj małych ilości.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388061.jpg",
+      "photographer": "Michael",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-27",
+      "file_size_bytes": 91920,
+      "width": 480,
+      "height": 640,
+      "sha256": "9c1c0893dc78a533f9bc522ce2c89b42a9dd00f30f4adc88cdb30a4ac7ea3f96"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530391.jpg",
+      "photographer": "Ann B.",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-20",
+      "file_size_bytes": 48046,
+      "width": 640,
+      "height": 640,
+      "sha256": "20bb95f5d78dacbcfa204ab28017d8ab1ced84bc147ee2ae6936b5ecc386d78a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

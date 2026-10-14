@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "cersqu",
+  "scientific_name": "Cerioporus squamosus",
+  "common_name": "żagiew łuskowata",
+  "edibility": "E",
+  "description": "Duży, wachlarzowaty owocnik o szerokości 10–30 cm (4–12 cali) z charakterystyczną kremową do brązowawej powierzchnią pokrytą ciemnobrązowymi, zachodzącymi na siebie łuskami przypominającymi pióra bażanta. Od spodu białe do kremowych, duże, kanciaste pory. Gruby, niecentryczny czarno-brązowy trzon (przy wzroście na powierzchniach pionowych). Silny zapach ogórka lub skórki arbuza. Miękki za młodu, twardy z wiekiem. Bardzo charakterystyczny łuskowaty wzór.",
+  "habitat": "Saprotroficzny na martwych i obumierających drzewach liściastych, pniakach i kłodach, szczególnie wiązach, klonach, jesionach, wierzbach i klonie jesionolistnym. Powoduje białą zgniliznę. Tworzy duże owocniki na pniach, gałęziach i powalonych kłodach. Pospolity na stojących martwych wiązach i innych drzewach liściastych w miastach i lasach.",
+  "season": "Od wiosny do lata, zwykle kwiecień–lipiec. Szczyt owocnikowania w maju–czerwcu. Jeden z najwcześniejszych dużych hubiaków. Krótki okres owocnikowania – pojawia się szybko wiosną. Może owocnikować ponownie jesienią.",
+  "regions": ["Wschodnia Ameryka Północna", "Środkowy Zachód", "Północny Zachód Pacyfiku", "Rejon Wielkich Jezior", "Rozpowszechniony w całej Ameryce Północnej", "Europa i Azja"],
+  "lookalikes": ["Gatunki Polyporus (mniejsze, inny wzór łusek)", "Inne łuskowate hubiaki (inna wielkość, drzewa żywicielskie)", "Gatunki Inonotus (inny kolor, brak łusek)", "Brak niebezpiecznych gatunków podobnych – bardzo charakterystyczny"],
+  "safety_notes": "JADALNY tylko bardzo młody: Tylko delikatne młode okazy (poniżej 10 cm) o miękkiej konsystencji są warte jedzenia – mają ogórkowy smak. Starsze okazy szybko stają się twarde i niejadalne jak guma lub skóra. Do jedzenia zbieraj tylko w stadium guzika. Gotuj dokładnie. Silny zapach ogórka jest charakterystyczny. Generalnie bezpieczny, ale okres jadalności jest bardzo krótki. Większość napotkanych okazów jest zbyt stara i twarda do jedzenia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750888.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 117050,
+      "width": 640,
+      "height": 480,
+      "sha256": "6784806d7184bcd1bf84aadc36d73634e1df251be0a75d436880aaf5f1516bcf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750889.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 143762,
+      "width": 480,
+      "height": 640,
+      "sha256": "d2f449e8570e864f434ce05a81072a3d2f52db49f2d507865e13ff76c0495dff"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

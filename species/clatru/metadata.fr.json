@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clatru",
+  "scientific_name": "Clavariadelphus truncatus",
+  "common_name": "Clavaire tronquée",
+  "edibility": "E",
+  "description": "La Clavaire tronquée est un champignon en massue, grand et distinctif, de 7 à 15 cm de haut et 2 à 6 cm de large au sommet. La fructification est en forme de massue à colonnaire avec un sommet aplati ou tronqué caractéristique (comme coupé au couteau — caractère diagnostique). La couleur est fauve, ocre ou brun-jaunâtre à brun-orangé, devenant souvent brun plus foncé avec l'âge. La surface est lisse à légèrement ridée. La base est souvent blanchâtre et peut présenter des filaments mycéliens blancs. La chair est blanche, cassante quand elle est fraîche, avec une odeur douce. Structure unique non ramifiée.",
+  "habitat": "Présente dans les forêts de conifères et mixtes, en particulier sous les épinettes, les sapins, les pruches et les pins. Forme des associations mycorhiziennes avec les conifères. Pousse au sol, souvent dans la mousse. Fructifie de manière dispersée à grégaire, parfois en troupes ou en rangées. Préfère les forêts de montagne fraîches et humides avec d'abondants débris de conifères.",
+  "season": "De la fin de l'été à l'automne (août à novembre) dans les régions montagneuses. Dans le Pacifique Nord-Ouest, fructifie de septembre à novembre. La fructification maximale a lieu à l'automne après les premières pluies. Nécessite des températures fraîches et une humidité constante.",
+  "regions": [
+    "Pacifique Nord-Ouest (très commun)",
+    "montagnes Rocheuses",
+    "montagnes de la Californie du Nord",
+    "Nord-Est de l'Amérique du Nord",
+    "Europe (répandu)",
+    "forêts boréales et tempérées du Nord, forêts de conifères"
+  ],
+  "lookalikes": [
+    "Clavariadelphus pistillaris (comestible) — en forme de massue mais sommet arrondi, non plat",
+    "Clavariadelphus ligula (comestible) — plus petit, plus élancé, base teintée de violet",
+    "Gomphus clavatus (comestible) — sommet en forme d'oreille de porc, tons violets, structure différente",
+    "Vieux vesses-de-loup (Lycoperdon) — couleur semblable mais ronds, deviennent poudreux à l'intérieur"
+  ],
+  "safety_notes": "COMESTIBLE : considéré comme comestible, mais la qualité est médiocre. La texture devient caoutchouteuse ou coriace à la cuisson. Saveur douce, peu attrayante. Historiquement consommé, mais rarement récolté aujourd'hui en raison de sa piètre qualité culinaire. Sans danger, sans sosies toxiques. Bien cuire si vous tentez l'expérience. Les jeunes spécimens fermes sont meilleurs. Le sommet aplati est absolument diagnostique — aucun autre grand champignon en massue ne présente ce caractère. Plus intéressant comme spécimen que comme aliment. Souvent abondant dans les habitats appropriés, mais ne vaut pas la récolte.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1260808.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-13",
+      "file_size_bytes": 65916,
+      "width": 640,
+      "height": 435,
+      "sha256": "b3e73fe1062f84de12e17846003ba46292b1ef06993bad8b68cb6ac45ef22656"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1260809.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-03",
+      "file_size_bytes": 31658,
+      "width": 640,
+      "height": 400,
+      "sha256": "5d1ca550cc37e7b992629accd6592c72648f01bb74233805253d038de54f9f20"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

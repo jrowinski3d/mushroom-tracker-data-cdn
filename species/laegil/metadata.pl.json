@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laegil",
+  "scientific_name": "Laetiporus gilbertsonii",
+  "common_name": "Chicken of the Woods (Laetiporus gilbertsonii)",
+  "edibility": "E",
+  "description": "Jaskrawo pomarańczowy do łososioworóżowego grzyb półkowy o siarkowo-żółtej powierzchni porów, tworzący duże zachodzące na siebie półki o szerokości 2–10 cali. Bardzo podobny do L. sulphureus, ale zazwyczaj o bardziej różowopomarańczowych tonach. Miękki i soczysty, gdy młody, z wiekiem twardniejący. Od wschodnich gatunków odróżnia go zachodni zasięg i drzewa-gospodarze, zwłaszcza eukaliptus i dąb. Roczna półka.",
+  "habitat": "Pasożytniczy i saprotroficzny na żywych i martwych drzewach liściastych w zachodniej Ameryce Północnej, zwłaszcza na eukaliptusie, dębie i innych drzewach liściastych. Tworzy duże rozety na pniach i u podstawy drzew. Pospolity na ozdobnych eukaliptusach w Kalifornii. Powoduje brunatną kostkową zgniliznę rdzeniową.",
+  "season": "Od późnej jesieni do wiosny w Kalifornii, zazwyczaj październik–marzec, w porze deszczowej. W łagodnym klimacie przybrzeżnym może owocnikować przez cały rok. Szczyt w grudniu–lutym. Odwrotny wzorzec sezonowy niż u wschodnich Laetiporus.",
+  "regions": [
+    "Wybrzeże Kalifornii",
+    "Pacyficzne tereny przybrzeżne",
+    "Pustynie Południowego Zachodu",
+    "Baja California",
+    "Zachodnia Ameryka Północna",
+    "Szczególnie pospolity w miejskich terenach Kalifornii"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (wschodni, inna pora/gospodarze)",
+    "Laetiporus conifericola (na drzewach iglastych, inny region)",
+    "Inne zachodnie gatunki Laetiporus (podobna jadalność)",
+    "Jack-o'-lantern (Omphalotus olivascens) — trujący, ma blaszki, nie pory"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY, gdy młody i na odpowiednich gospodarzach: Zbierać tylko młode, delikatne, giętkie owocniki. UNIKAĆ okazów rosnących na eukaliptusie, ponieważ u wielu osób często powodują dolegliwości trawienne. Okazy z dębu i innych rodzimych drzew liściastych są bezpieczniejsze. Zacząć od małych ilości, aby sprawdzić tolerancję. Gotować dokładnie. Najlepsze, gdy miękkie i wilgotne. Niektóre osoby reagują źle niezależnie od drzewa-gospodarza.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709999.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 45092,
+      "width": 640,
+      "height": 407,
+      "sha256": "01b5b2cb2a6a93d860d9de1d6cb30146ba0f77c7601e5288af9fefe4708c8037"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1710000.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 61780,
+      "width": 345,
+      "height": 640,
+      "sha256": "a8e4a312bb3db79fe35cb25936fd52ccc0bf8329cf077e77abb78ad9d880cf65"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

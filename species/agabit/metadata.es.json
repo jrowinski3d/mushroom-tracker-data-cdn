@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agabit",
+  "scientific_name": "Agaricus bitorquis",
+  "common_name": "Pavement Mushroom (Agaricus bitorquis)",
+  "edibility": "E",
+  "description": "El champiñón del pavimento es una especie robusta y compacta con un sombrero de 5-15 cm de diámetro, inicialmente redondeado que se vuelve convexo. El sombrero es blanco a crema, liso o con ligeras grietas, a menudo manchándose de amarillo parduzco con la edad o al magullarse. Las láminas son libres, al principio de color rosa pálido y se vuelven marrón chocolate. El pie mide 3-8 cm de alto, muy corto y grueso (carácter distintivo), blanco, con un anillo doble (a menudo aparece como dos anillos separados, de ahí 'bitorquis'). La carne es firme, blanca, con un suave y agradable olor. Notablemente duro y resistente en comparación con otros Agaricus.",
+  "habitat": "Se encuentra en entornos urbanos muy alterados, como grietas de aceras, suelo compactado junto a carreteras, aparcamientos, caminos de grava, parterres ajardinados y bajo el asfalto. Notablemente tolerante a suelos pobres y a la perturbación humana. También en jardines y céspedes con suelo compacto. Fructifica disperso a agrupado, a menudo empujando a través de superficies duras.",
+  "season": "Desde la primavera hasta el otoño (abril-noviembre), con pico a finales de la primavera y principios del verano. Puede fructificar todo el año en climas suaves como California. Más tolerante al frío que la mayoría de los Agaricus, a menudo aparece en clima fresco cuando otros están ausentes.",
+  "regions": [
+    "Europa (nativa)",
+    "Norteamérica (extendida, todas las regiones)",
+    "California (muy común)",
+    "Zonas urbanas de todo el mundo",
+    "Climas templados a subtropicales",
+    "Cosmopolita en ciudades"
+  ],
+  "lookalikes": [
+    "Agaricus campestris (comestible) - más delicado, pie más alto, hábitat de pradera",
+    "Agaricus bisporus (champiñón cultivado, comestible) - similar pero cultivado, menos robusto",
+    "Amanitas jóvenes (algunas mortales) - tienen volva en la base, las láminas no se vuelven rosa-marrón",
+    "Agaricus bernardii (comestible) - especie costera, hábitat salino, aspecto similar"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: Excelente para comer, con textura firme y densa que aguanta bien la cocción. A menudo más sabroso que los champiñones comprados en tienda. Cocinar bien. Identificación crítica: verificar el pie muy CORTO Y GRUESO (carácter distintivo), anillo DOBLE, láminas LIBRES que se vuelven rosadas y luego marrón chocolate, esporada MARRÓN CHOCOLATE, SIN volva en la base, hábitat urbano/alterado. Su complexión compacta y su hábitat en pavimentos son distintivos. Lavar bien, ya que los ejemplares suelen crecer en entornos urbanos sucios. Muy resistente a magulladuras y daños de insectos.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667634.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 30240,
+      "width": 299,
+      "height": 640,
+      "sha256": "b8c0822eca069f9adac112fea1b3b5f29ede428a0e55ca49c9c310abc42faec6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667635.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 44562,
+      "width": 640,
+      "height": 351,
+      "sha256": "a0618a54d140d180bee42b7373c27eb12cfb3ab5d05f36b110833f80a157b540"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

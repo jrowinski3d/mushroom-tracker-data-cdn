@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepsor",
+  "scientific_name": "Lepista sordida",
+  "common_name": "Sordid Blewit (Lepista sordida)",
+  "edibility": "E",
+  "description": "소디드 블루잇은 민자주방망이버섯의 더 작고 색이 옅은 근연종이다. 갓은 지름 3-8cm로 볼록하다가 편평하거나 약간 오목해지며, 옅은 라일락 회색에서 갈빛 라일락색 또는 담황갈색을 띤다. 보라색은 은은하고 빠르게 칙칙한 황갈색으로 바랜다('소디드'라는 이름의 유래). 표면은 매끄럽고 건조하거나 약간 끈적거린다. 주름살은 붙은주름살에서 약간 흘러내리는 주름살까지 다양하며, 옅은 라일락색이었다가 황갈색이 된다. 대는 높이 3-7cm로 가늘고, 옅은 라일락색에서 담황색을 띠며 기부가 약간 굵어진다. 살은 얇고 옅으며, 달콤하고 약간 과일 향이 나는 냄새(민자주방망이버섯보다 약함)가 난다.",
+  "habitat": "초원, 목초지, 잔디밭, 초지, 초원 숲 가장자리, 공원에서 발견된다. 질소가 풍부한 토양의 풀과 부식질 분해자로 자란다. 흩어져 있거나 무리 지어 열매를 맺으며, 종종 초원에서 버섯고리나 무리를 이룬다. 숲보다 탁 트인 초원을 선호한다.",
+  "season": "온대 지역의 늦여름부터 가을까지(8월-11월). 온화한 기후에서는 초겨울까지 열매를 맺을 수 있다. 9월-10월이 최성기이다.",
+  "regions": [
+    "유럽(흔함)",
+    "북아메리카(흔하지 않음)",
+    "전 세계 온대 초원",
+    "공원과 목초지",
+    "적합한 서식지에 광범위하게 분포"
+  ],
+  "lookalikes": [
+    "Lepista nuda(식용 가능) - 보라색이 더 진하고 크며 삼림 서식지",
+    "Clitocybe 속 - 일부 유독, 옅은 색, 냄새가 다름",
+    "Entoloma 속(일부 유독) - 분홍색 포자지만 각이 지고 살이 연약함",
+    "Laccaria laccata(식용 가능) - 더 작고 습윤성이 더 강하며 삼림에서 자람"
+  ],
+  "safety_notes": "주의하여 식용 가능: 식용으로 여겨지나 민자주방망이버섯보다 덜 선호된다. 반드시 완전히 익혀 먹어야 함 — 절대 날로 먹지 말 것. 옅은 색과 칙칙한 모습 때문에 식욕을 돋우지 않고 자신 있게 식별하기 어렵다. 일부는 소화 장애를 호소한다. 먼저 소량만 시도할 것. 분홍색 포자문을 확인할 것. 은은한 보라빛, 초원 서식지, 달콤한 냄새가 진단적 특징이나 뚜렷하지는 않다. 옅은 색과 혼동 위험 때문에 초보자에게 권장하지 않는다. 시도한다면 완전히 익혀 먹을 것. '소디드'라는 칙칙한 모습 표현은 정확하다. 더 나은 블루잇이 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1548011.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 31928,
+      "width": 480,
+      "height": 640,
+      "sha256": "8028f87a93744bb9101150c84d03670677f1580e148d30259312e525f7b55d76"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1548012.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 29522,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c618cc4b080f4a37b0ecd5fb16ac270616d9cb6bfc1137157b215b5295b0bd2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

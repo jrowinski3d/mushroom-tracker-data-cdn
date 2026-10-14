@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "lacpar",
+  "scientific_name": "Lactarius paradoxus",
+  "common_name": "Paradoxical Milk Cap (Lactarius paradoxus)",
+  "edibility": "E",
+  "description": "Paradoxical Milk Cap har en gråbrun hatt (3-8 cm), ofta med rosa toner. Skivor bleka. Fot liknande. NYCKEL: VIT MJÖLKSAFT som LÅNGSAMT blir GRÅ eller GRÖNGRÅ. Hatten kan ha rosaaktiga toner. Liten art. Kött blekt. Sporfällning krämfärgad.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD. Växer under tallar och granar. Norra skogar. Spridd.",
+  "season": "Höst (september-oktober).",
+  "regions": [
+    "nordöstra USA",
+    "övre mellanvästern",
+    "Kanada"
+  ],
+  "lookalikes": [
+    "Andra små riskor – kontrollera mjölksaftens färgomslag"
+  ],
+  "safety_notes": "ÄTLIG: Mild. VIT MJÖLKSAFT som långsamt blir grå är diagnostisk. Bäst som ung. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 113234,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-12-12",
+      "photographer": "beelime",
+      "sha256": "d131613c503a0eba91bc857b843c2839b6f8cfb2635388c82d2859c06b5e8fd8",
+      "source_url": "https://mushroomobserver.org/images/640/1531873.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 109428,
+      "height": 480,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-12-12",
+      "photographer": "beelime",
+      "sha256": "0babad4ba5728a6edea081ac4f2ac8b04b787983a5ee556d0fde561c0300c649",
+      "source_url": "https://mushroomobserver.org/images/640/1531874.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

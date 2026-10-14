@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacind",
+  "scientific_name": "Lactarius indigo",
+  "common_name": "Indigo Milk Cap (Lactarius indigo)",
+  "edibility": "E",
+  "description": "Indigo Milk Cap har en slående INDIGOBLÅ hatt (5-15 cm) som bleknar till gråaktig eller grönaktig med åldern. Skivor blå, täta. Fot blå. NYCKEL: MÖRKT INDIGOBLÅ MJÖLKSAFT vid snitt – omisskännlig! Mjölksaften och köttet fläckar långsamt grönt. Hela svampen är blå. Sporfällning krämfärgad. En av de mest distinkta svamparna.",
+  "habitat": "Bildar mykorrhiza med lövträd och TALLAR i sydöstra USA, Mexiko. Växer på marken i blandskog, ek-tall. Spridd eller i grupper. Vanlig i södra skogar.",
+  "season": "Sommar till höst (juni-november), lång fruktkroppsperiod i varma klimat.",
+  "regions": [
+    "sydöstra USA",
+    "Texas",
+    "Mexiko",
+    "mellanatlantiska USA",
+    "golfkusten"
+  ],
+  "lookalikes": [
+    "INGA LIKNANDE ARTER – den blå färgen och den blå mjölksaften är unika"
+  ],
+  "safety_notes": "ÄTLIG: Den omisskännliga INDIGOBLÅ FÄRGEN och BLÅ MJÖLKSAFTEN gör bestämningen bombsäker. Mild smak, något pepprig. Fläckar maten blå/grön – normalt. Bäst som ung. Populär i Mexiko. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 68194,
+      "height": 427,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "photographer": "Eva Skific",
+      "sha256": "a2e72275996dbc2acc74b39bd093e3c70970209b21f6f919a6be24f0849b21ac",
+      "source_url": "https://mushroomobserver.org/images/640/1721805.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 46472,
+      "height": 427,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "photographer": "Eva Skific",
+      "sha256": "d1253a27350141fbac8ed1de140874ff71ffbfced03ecdfdd64cc92a14fdf6d8",
+      "source_url": "https://mushroomobserver.org/images/640/1721806.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

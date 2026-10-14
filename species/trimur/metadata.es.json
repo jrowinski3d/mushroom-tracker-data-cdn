@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimur",
+  "scientific_name": "Tricholoma murrillianum",
+  "common_name": "Matsutake del suroeste",
+  "edibility": "E",
+  "description": "El matsutake del suroeste tiene un sombrero robusto de color blanco a crema (6-15 cm) que desarrolla tonos parduzcos con la edad. El sombrero es convexo a plano, seco, liso a ligeramente fibriloso. Las láminas son de color blanco a crema, adheridas, apretadas. El pie es grueso, blanco, firme, con un VELO PARCIAL que deja un ANILLO ALGODONOSO o una zona fibrilosa en la parte superior del pie — a menudo menos prominente que en T. magnivelare. La característica diagnóstica es el OLOR PICANTE, PARECIDO A CANELA, aunque a veces menos intenso que en el matsutake del Pacífico Noroeste. La carne es blanca, firme, densa. Esporada blanca. Adaptado a los bosques de alta montaña del suroeste.",
+  "habitat": "Micorrícico con CONÍFERAS en las montañas del suroeste, sobre todo pino ponderosa, abeto blanco y abeto de Douglas. Forma relaciones micorrícicas obligadas. Crece en el suelo, entre la broza o la hojarasca de acículas, en bosques de coníferas de alta montaña (normalmente entre 6.000 y 10.000 pies). Requiere bosques maduros con redes micorrícicas específicas.",
+  "season": "De finales del verano a otoño (agosto-octubre) en las montañas del suroeste, fructificando tras las lluvias monzónicas.",
+  "regions": [
+    "Nuevo México",
+    "Arizona",
+    "sur de Colorado",
+    "Montañas Rocosas del sur",
+    "altas montañas del suroeste"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — especie del Pacífico Noroeste, muy similar",
+    "Tricholoma matsutake — especie asiática",
+    "Amanita smithiana — TÓXICA: tiene volva en la base",
+    "Otras especies blancas de Tricholoma — carecen del olor a canela"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciado en el suroeste, recolectado comercialmente. El OLOR A CANELA/PICANTE es clave para la identificación, aunque a veces más sutil que en el matsutake norteño. Mejor cuando es joven y firme. CRÍTICO: comprobar siempre la ausencia de volva (copa en la base) para descartar especies tóxicas de Amanita. El anillo y el olor a canela son diagnósticos. Algunos recolectores lo consideran ligeramente menos aromático que T. magnivelare, pero igualmente excelente.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725582.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 128318,
+      "width": 640,
+      "height": 563,
+      "sha256": "8c14cd406d0ca0a070dae5d0c8f599a5ab7b67bfb53aa9894c041ca397a82111"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651537.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 12316,
+      "width": 482,
+      "height": 640,
+      "sha256": "63aec1140a6c93f42d8ef6433c91074146579fb2ce078755fbb6bcf824f9ab11"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

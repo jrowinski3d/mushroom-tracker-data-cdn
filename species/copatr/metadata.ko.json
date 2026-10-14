@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copatr",
+  "scientific_name": "Coprinopsis atramentaria",
+  "common_name": "보통먹물버섯",
+  "edibility": "E",
+  "description": "흔한먹물버섯 또는 술꾼의 재앙은 높이 5–15cm, 갓 너비 3–7cm의 중형 버섯이다. 갓은 타원형에서 종 모양이며, 회갈색에서 황갈색에 옅은 회색에서 갈색의 가루 같은 표면(미세한 인편이나 섬유로 덮임)을 가진다. 중앙은 종종 약간 더 짙다. 주름살은 이생에서 부착형, 흰색에서 회색이 되었다가 검어지며 잉크처럼 자가용해된다. 대는 높이 8–15cm, 매끄럽고 흰색이며 속이 비고, 작고 여린 턱받이 흔적이 있다. 묻힌 목재나 유기물에서 빽빽한 무리를 이루어 발생한다.",
+  "habitat": "잔디밭, 정원, 공원, 목재 칩 멀치, 퇴비 지역, 그루터기나 묻힌 목재 근처에서 발견된다. 묻힌 활엽수 파편에서 목재 분해자로 자란다. 도시와 교외 경관에서 매우 흔하다. 빽빽하고 촘촘한 무리를 이루며, 종종 대량으로 발생한다. 영양분이 풍부한 교란 토양을 선호한다.",
+  "season": "온대 지역에서는 봄에서 가을(4–11월). 온화한 기후에서는 연중 발생할 수 있다. 늦여름과 가을에 가장 풍부하다. 비가 온 뒤 대량으로 발생할 수 있다.",
+  "regions": [
+    "북아메리카(매우 흔함, 널리 분포)",
+    "유럽(매우 흔함)",
+    "전 세계 온대 지역",
+    "전 세계 도시 지역",
+    "범세계적 분포"
+  ],
+  "lookalikes": [
+    "Coprinus comatus(식용) — 키가 더 크고, 털이 많은 흰색 인편, 알코올 상호작용 없음",
+    "Coprinellus micaceus(식용) — 갓에 운모 같은 입자, 더 작음",
+    "Coprinopsis 속 — 비슷한 회색 잉크버섯이 많음",
+    "Psathyrella 속 — 비슷하나 자가용해가 덜 쉽게 일어남"
+  ],
+  "safety_notes": "주의 — 알코올 상호작용: Coprinopsis atramentaria는 코프린을 함유하고 있어 알코올 대사를 차단하고, 알코올과 함께 섭취하면 심각한 반응을 일으킨다. 이 버섯을 먹기 전 24시간, 먹은 후 최대 72시간 동안 알코올을 섭취하지 마라. 증상에는 안면 홍조, 메스꺼움, 구토, 심계항진, 팔다리 저림, 두통, 흉통이 포함된다. 제대로 익히고 알코올 없이 섭취하면 식용 가능하지만, 심각한 상호작용 위험 때문에 대부분의 채집가에게 적합하지 않다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723335.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-06",
+      "file_size_bytes": 51172,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9f845c360fd59b871bda93baaa0c0830a86fec122b83661c898ff70e174b1ae"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659341.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-03",
+      "file_size_bytes": 67868,
+      "width": 353,
+      "height": 640,
+      "sha256": "9446ede186e58a31d122204a1fc0a987c47e238da67bdaec005abb33923e7814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:53:05.984277",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigra",
+  "scientific_name": "Suillus granulatus",
+  "common_name": "Weeping Bolete (Suillus granulatus)",
+  "edibility": "E",
+  "description": "El boleto granulado presenta un sombrero de color marrón canela a marrón amarillento (4-10 cm) con superficie viscosa y glutinosa cuando está húmedo. Los poros son de color amarillo pálido y exudan gotas lechosas cuando es joven — una característica diagnóstica. El pie, de color amarillo pálido, está cubierto de diminutos puntos granulares marrones (puntos glandulares) y carece de anillo. La carne, de color amarillo pálido, no mancha. Las gotas lechosas de los poros y los puntos granulares del pie son distintivos. Esporada de color marrón canela.",
+  "habitat": "Micorrícico exclusivamente con pinos de dos y tres acículas en diversos hábitats. Común en plantaciones de pinos, zonas alteradas con pinos jóvenes y pinares regenerados de forma natural. Extendida donde se han plantado pinos.",
+  "season": "De finales del verano a otoño (agosto-noviembre), con fructificación máxima en septiembre-octubre. Suele fructificar abundantemente tras las lluvias otoñales.",
+  "regions": [
+    "noreste de Estados Unidos",
+    "región de los Grandes Lagos",
+    "Pacífico Noroeste",
+    "plantaciones de pinos del sureste",
+    "Montañas Rocosas",
+    "donde haya plantaciones de pinos",
+    "Canadá"
+  ],
+  "lookalikes": [
+    "Suillus luteus — tiene anillo oscuro en el pie, carece de gotas lechosas",
+    "Suillus brevipes — carece de las gotas lechosas en los poros",
+    "Otras especies de Suillus — buscar gotas lechosas en los poros jóvenes",
+    "especies de Boletus — no son viscosas, hábitat diferente"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto granulado es comestible, de sabor suave pero textura blanda. Retirar la cutícula viscosa del sombrero antes de cocinar. Las gotas lechosas en los poros jóvenes y los puntos granulares del pie son diagnósticos. Algunas personas sufren molestias digestivas. Cocinar siempre bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699876.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 134442,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa09a25fc62426dcb808a3f67b840074a1ff24276f0127ea378dd610d33e7016"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699877.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 109388,
+      "width": 640,
+      "height": 482,
+      "sha256": "02918768915d5a8f5894ffac5d79ee1fb7f128668b01c42d7090b26a3abad8cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

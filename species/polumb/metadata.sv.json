@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "polumb",
+  "scientific_name": "Polyporus umbellatus",
+  "common_name": "Grenticka",
+  "edibility": "E",
+  "description": "Grenticka är en stor, slående ticka som bildar sammansatta rosetter, 20–50 cm över, bestående av flera överlappande solformade hattar. Enskilda hattar är 5–15 cm över, tunna och flexibla, fästa vid en gemensam förgrenad bas. Hattarna är beigebruna till bruna, släta till lite ludna med färgzoner. Porytan är vit till krämfärgad, mycket små porer. Köttet är vitt, segt och flexibelt när det är färskt, med mild doft. Hela strukturen har en central eller excentrisk tjock fot, 3–8 cm hög, som ansluter till nergrävda sklerotier (hårda underjordiska knölar).",
+  "habitat": "Finns vid basen av lövträd, särskilt ek, och växer från nergrävda sklerotier (härdade underjordiska strukturer). Sklerotierna är förbundna med trädens rötter under jord. Bildar fruktkroppar spritt, vanligen en rosett per växtplats. Kommer tillbaka på samma ställe varje år om sklerotiet består. Vanlig i mogen lövskog.",
+  "season": "Sommar till höst (juni–november) i de flesta regioner. Toppen infaller under sensommar och höst (augusti–oktober). Kan bilda fruktkroppar flera gånger per säsong från samma sklerotium.",
+  "regions": [
+    "Östra Nordamerika (vanlig)",
+    "Centrala USA",
+    "Nordvästra USA (tillfällig)",
+    "Europa (utbrett)",
+    "Tempererade lövskogar",
+    "Särskilt vanlig med ek"
+  ],
+  "lookalikes": [
+    "Korallticka (Grifola frondosa) (ätlig) – gråbruna skedformade hattar, annan struktur",
+    "Meripilus sumstinei (ätlig som ung) – solformar men svartnar vid beröring",
+    "Bondarzewia berkeleyi (ätlig som ung) – krämbeige rosetter men massiva, unken doft",
+    "Polyporus tuberaster – liknande men mindre, medelhavsområdet"
+  ],
+  "safety_notes": "ÄTLIG endast som mycket ung, annars seg: Endast de yngsta, mjukaste delarna är ätliga – äldre exemplar är för sega och fibriga. Konsistensen liknar kyckling när den är ung. Måste stekas ordentligt. Plocka endast när hattarna fortfarande är mjuka och flexibla. Smaken är mild. När svampen mognar blir den allt segare och läderaktig. De flesta exemplar man stöter på är för gamla för att vara goda. Sklerotierna (knölen) kan odlas för att producera svampar. Historisk odling i Italien med sklerotier. Mer intressant för sin tillväxt från sklerotier än för kulinariskt värde. Om du försöker: stek ordentligt och räkna med seg konsistens även när den är ung.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681947.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-11",
+      "file_size_bytes": 102498,
+      "width": 640,
+      "height": 427,
+      "sha256": "3567d6a3cd2846607f830eadf210f6931a23071d02d93dd1068e26f2fc95e056"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1675033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-13",
+      "file_size_bytes": 62674,
+      "width": 640,
+      "height": 482,
+      "sha256": "a60d23af0e0eae434c753cec153c6cee9717c908b574fd051734e3e569d8636c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

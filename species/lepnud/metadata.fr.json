@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepnud",
+  "scientific_name": "Lepista nuda",
+  "common_name": "Pied-bleu",
+  "edibility": "E",
+  "description": "Le Pied-bleu est un champignon de taille moyenne à grande avec un chapeau de 5 à 15 cm de diamètre, d’abord convexe devenant plat avec l’âge. Le chapeau est lilas à bleu-violet quand il est jeune, se décolorant vers le chamois ou le brun fauve avec l’âge tout en conservant des tons violets, surtout à la marge. La surface est lisse et légèrement grasse par temps humide. Les lames sont adnées à sinuées, d’abord lilas-violet se décolorant vers le chamois mais conservant généralement un peu de violet. Le pied mesure 4 à 10 cm de haut, robuste, fibreux, violet à lilas avec une base bulbeuse. La chair est épaisse, violet pâle à blanche, avec un parfum floral sucré.",
+  "habitat": "Se trouve dans les forêts de feuillus et mixtes, les lisières, les haies, les parcs, les jardins et les tas de compost. Pousse comme décomposeur de litière de feuilles dans les sols organiques riches. Commun dans les zones riches en feuilles mortes. Fructifie de manière dispersée à grégaire, souvent en grandes troupes ou en ronds de fées. Préfère les milieux riches en azote.",
+  "season": "De la fin de l’été au début de l’hiver (septembre-décembre) dans les régions tempérées. L’un des champignons classiques de fin de saison, fructifiant après les gelées. Dans les climats doux, peut fructifier jusqu’en janvier. Pic à la fin de l’automne (octobre-novembre).",
+  "regions": [
+    "Europe (très commun)",
+    "Est de l’Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie (occasionnel)",
+    "Régions tempérées dans le monde entier",
+    "Largement cultivé"
+  ],
+  "lookalikes": [
+    "Espèces de Cortinarius (dont certaines mortelles) - spores brun rouille et voile aranéeux, pas de spores roses",
+    "Laccaria amethystina (comestible) - plus petite, vraiment violette partout, chair plus mince",
+    "Mycena pura (toxique) - plus petite, plus fragile, odeur de radis",
+    "Jeune Cortinarius violaceus (comestible) - voile aranéeux, spores rouille"
+  ],
+  "safety_notes": "COMESTIBLE : champignon comestible populaire au bon goût, mais nécessitant une préparation adéquate. ESSENTIEL : doit être bien cuit - NE JAMAIS manger cru ou insuffisamment cuit car cela peut provoquer des troubles gastriques. Certaines personnes ont des réactions allergiques même après cuisson. Le parfum sucré est caractéristique mais tout le monde ne l’apprécie pas dans l’assiette. Essayer d’abord en petites quantités. Vérifier la SPORÉE ROSE (pas brun rouille comme les Cortinarius toxiques). La couleur violette, les lames adnées, les spores roses et l’odeur sucrée le distinguent des Cortinarius. Populaire en Europe et de plus en plus cultivé. Idéal poêlé ou en ragoût. Jeter les pieds, trop fibreux.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1729531.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 51382,
+      "width": 640,
+      "height": 427,
+      "sha256": "48030c7b7b53e03ab995d71e30dcdb4c1212999e9c208a3e605c861cc6744dd0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1729532.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 34452,
+      "width": 640,
+      "height": 427,
+      "sha256": "00ec1b3bf91a4164b77443db971fa27ebec3c4a254d394f51e8c9e9f3d435136"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

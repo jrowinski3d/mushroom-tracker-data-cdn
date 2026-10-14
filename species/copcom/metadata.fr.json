@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copcom",
+  "scientific_name": "Coprinus comatus",
+  "common_name": "Coprin chevelu",
+  "edibility": "E",
+  "description": "Le Coprin chevelu, aussi appelé « perruque d'avocat », est un champignon distinctif de 10 à 20 cm de haut avec un chapeau cylindrique allongé de 5 à 15 cm de haut et 2 à 5 cm de large. Le chapeau est blanc, couvert d'écailles hirsutes et recourbées devenant brunes vers le centre. La marge du chapeau est d'abord frangée. Les lames sont libres, blanches devenant roses puis noires et se liquéfiant (autodigestion) en encre noire du bas vers le haut. Le pied mesure 10 à 20 cm de haut, lisse, blanc, creux, avec un petit anneau mobile qui disparaît souvent. Les jeunes boutons sont en forme d'œuf et entièrement blancs.",
+  "habitat": "Présent dans les sols perturbés : pelouses, bords de routes, sentiers, chantiers, jardins, copeaux de bois et zones herbeuses. Préfère les sols compactés ou perturbés riches en matière organique. Pousse sur du bois enterré ou un humus riche. Fructifie en touffes denses, apparaissant souvent du jour au lendemain. Très commun en zones urbaines et suburbaines.",
+  "season": "Du printemps à l'automne (avril à novembre) avec des pics à la fin du printemps et à l'automne. Dans les climats doux, peut fructifier toute l'année. Plus abondant par temps frais et humide. Peut apparaître après de fortes pluies à tout moment.",
+  "regions": [
+    "Amérique du Nord (très commun, toutes régions)",
+    "Europe (répandu)",
+    "régions tempérées du monde entier",
+    "cosmopolite dans les habitats perturbés",
+    "zones urbaines du monde entier"
+  ],
+  "lookalikes": [
+    "Jeunes espèces d'Amanita (mortelles) — possèdent une volve à la base, les lames ne se liquéfient pas en encre",
+    "Coprinus sterquilinus (comestible) — plus petit, sur le fumier, par ailleurs semblable",
+    "Espèces de Coprinopsis (variées) — aucune avec les écailles hirsutes distinctives",
+    "ESSENTIEL : les écailles blanches hirsutes et les lames noires qui se liquéfient sont diagnostiques"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : l'un des meilleurs champignons sauvages quand il est frais et jeune. Doit être récolté et consommé dans les heures suivant la cueillette car il s'autodigère rapidement. Les lames se transforment en encre noire en quelques heures. Saveur et texture excellentes quand il est bien préparé. Bien cuire. Ne récoltez que les jeunes spécimens blancs avant que les lames ne deviennent roses ou noires. Une fois que les lames commencent à noircir, le champignon est passé. Le processus d'autodigestion ne peut pas être arrêté. Cuisinez immédiatement ou réfrigérez dans de l'eau glacée pour ralentir la déliquescence. Pas d'interaction avec l'alcool comme Coprinopsis atramentaria. L'aspect blanc et hirsute est inimitable. Très sûr — pas de sosies toxiques. Meilleur poêlé ou en omelette. Un favori des cueilleurs, mais exige un traitement rapide.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722755.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-01",
+      "file_size_bytes": 76464,
+      "width": 491,
+      "height": 640,
+      "sha256": "8980c9ad2ade061eb0f4399b7be26bb415263cb5103eb81f8c08e920d6e612ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719565.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 99224,
+      "width": 640,
+      "height": 427,
+      "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

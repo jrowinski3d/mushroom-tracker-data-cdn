@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleost",
+  "scientific_name": "Pleurotus ostreatus",
+  "common_name": "느타리버섯",
+  "edibility": "E",
+  "description": "너비 2-10인치의 부채꼴에서 굴 모양 갓으로, 어릴 때는 대개 회갈색에서 황갈색이었다가 자라면서 흰색으로 바랜다. 매끄럽고 촉촉한 표면에 짧은 측생 또는 없는 대로 흘러내리는 흰색 주름살이 있다. 죽거나 죽어가는 활엽수 통나무와 그루터기에서 빽빽하게 겹쳐진 선반 모양으로 자란다. 흰색 포자문.",
+  "habitat": "죽거나 죽어가는 활엽수, 통나무, 그루터기에서 부생하며, 특히 너도밤나무, 참나무, 단풍나무, 사시나무이다. 나무에서 빽빽하게 무리 지은 선반을 이룬다. 스트레스 받은 살아 있는 나무에 가끔 기생한다. 혼효 활엽수림의 쓰러진 통나무에서 흔하다.",
+  "season": "대부분 지역에서 가을부터 봄까지, 10월-11월이 최성기이다. 수분이 충분한 온화한 해안 기후에서는 연중 열매를 맺을 수 있다. 폭우와 서늘한 기온 뒤에 종종 나타난다.",
+  "regions": [
+    "북아메리카 동부",
+    "태평양 북서부",
+    "오대호 지역",
+    "애팔래치아 산맥",
+    "전 세계 온대 지역"
+  ],
+  "lookalikes": [
+    "Pleurotus pulmonarius(거의 동일, 더 옅고 여름 발생)",
+    "천사날개버섯(Pleurocybella porrigens) - 유독, 더 작고 순백색이며 침엽수에서 자람",
+    "Crepidotus 속 - 갈색 포자, 더 작고 조직이 다름",
+    "느릅나무느타리(Hypsizygus ulmarius) - 중앙 대, 굴 모양이 덜 뚜렷함"
+  ],
+  "safety_notes": "최상급 식용: 뛰어난 맛과 조직감으로 전 세계에서 가장 인기 있는 재배버섯 중 하나이다. 야생 표본은 제대로 식별하면 안전하고 맛있다. 날 느타리버섯은 일부 사람에게 소화 장애를 일으킬 수 있으므로 먹기 전에 완전히 익힐 것. 질기거나 벌레가 있을 수 있는 오래된 표본은 피할 것. 상업적으로 널리 재배되어 대부분의 사람에게 익숙하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1670345.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-20",
+      "file_size_bytes": 67850,
+      "width": 640,
+      "height": 482,
+      "sha256": "4251e7d8ec1831c63cd96dc3e16d0730735f7b0eff7fb476e4b838cf3d599a1e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1733337.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-31",
+      "file_size_bytes": 86858,
+      "width": 640,
+      "height": 507,
+      "sha256": "440d644be0f31fba34ae26f88cf441151573f5b18ee03aeabbf3ef42375bfc37"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.261591",
+  "source_language": "en"
+}

@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusaer",
+  "scientific_name": "Russula aeruginea",
+  "common_name": "Tacky Green Russula (Russula aeruginea)",
+  "edibility": "E",
+  "description": "La rúsula verde pegajosa tiene el sombrero de color verde hierba a verde oliva (de 4 a 10 cm), pegajoso cuando está húmedo. Láminas de color blanco a crema. Pie blanco. CLAVE: SOMBRERO VERDE, CARNE QUEBRADIZA COMO TIZA, SIN LÁTEX, sombrero pegajoso. Carne blanca. Esporada de color blanco a crema pálido. De sabor suave a ligeramente picante.",
+  "habitat": "Micorrícica con abedules y otras frondosas. Crece en el suelo en bosques caducifolios, especialmente cerca de abedules. Europea y norteamericana. De forma dispersa.",
+  "season": "Del verano al otoño (julio-octubre).",
+  "regions": [
+    "Noreste",
+    "Medio Oeste",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Russula virescens — verde, pero con el sombrero agrietado",
+    "Otras rúsulas verdes",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave. SOMBRERO VERDE PEGAJOSO + CARNE QUEBRADIZA + SIN LÁTEX: diagnóstico. Prueba de sabor (los ejemplares suaves son comestibles). Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1631952.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-19",
+      "file_size_bytes": 60388,
+      "width": 640,
+      "height": 427,
+      "sha256": "69b1c98854062c313f197d877e43ca38db38d2e2dc254f7cd910b475928d951a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1357697.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-25",
+      "file_size_bytes": 55306,
+      "width": 640,
+      "height": 480,
+      "sha256": "f95be09168fabfe181504b56bd48e2b4e6937476750e8c86363ed210cb0c0f67"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

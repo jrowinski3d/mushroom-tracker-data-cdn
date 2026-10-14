@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canper",
+  "scientific_name": "Cantharellus persicinus",
+  "common_name": "Peach Chanterelle (Cantharellus persicinus)",
+  "edibility": "E",
+  "description": "Persikokantarellen har en distinkt persiko- till blek rosa-orange eller laxfärgad hatt 2–8 cm bred med slät, lätt sammetslik yta. Hatten blir grunt trattlik med åldern och har vågig, oregelbunden kant. Undersidan har trubbiga, grunda, gafflade ribbor (INTE äkta skivor) som är blekt persiko till rosa-gräddvita, glest ställda och löper nedför foten. Ribborna är mindre framträdande än hos många kantareller. Foten är solid, 2–6 cm hög, slät, vit till blek persikofärgad. Köttet är vitt till blekt gräddvitt, fast, med mild doft. Sporfällningen är vit till blek gräddvit.",
+  "habitat": "Mykorrhiza med sydöstra lövträd, särskilt ekarter (vattenek och videek), amberträd och hickory. Förekommer i låglänta lövskogar, blandade tall-lövskogar och flodnära områden över hela sydöstra kustslätten. Föredrar fuktiga, sandiga jordar och områden nära vattendrag.",
+  "season": "Sommar (juni–september), fruktar under varma, fuktiga perioder efter kraftiga sommarregn. Högsäsong är vanligen juli–augusti i större delen av utbredningsområdet. Tål värme och fuktighet bättre än nordliga kantarellarter.",
+  "regions": [
+    "Sydöstra USA",
+    "Georgia och Florida",
+    "Carolinas",
+    "Golfkuststaterna (Alabama, Mississippi, Louisiana)",
+    "Östra Texas"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius – Ätlig, mer orange-rosa, större, mer framträdande ribbor, överlappande utbredning",
+    "Cantharellus cinnabarinus – Ätlig, klarare rödrosa färg, mindre, i övrigt lik",
+    "Narrkantarell (Hygrophoropsis aurantiaca) – Inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange"
+  ],
+  "safety_notes": "ÄTLIG: Persikokantarellen är en god matsvamp med mild smak, anmärkningsvärd för sin delikata persikofärg. Som hos alla kantareller är det avgörande identifieringskännetecknet de trubbiga, gafflade ribborna på undersidan som känns vaxartade och är sammanvuxna med hatten, snarare än äkta skivor. Den bleka persikofärgen och sydöstra utbredningen hjälper till att skilja den från andra arter. Verifiera alltid att den växer från jord i samband med träd, aldrig på trä. Smaken är mild och behaglig; bäst stekt eller i kombination med andra svampar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1635909.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 56958,
+      "width": 640,
+      "height": 480,
+      "sha256": "7295ac8a4866890ab9982a94efb79501e768eda92f96bfd934a0855c793bf63f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635910.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 100608,
+      "width": 640,
+      "height": 480,
+      "sha256": "083c35ad5ed2b794d2310fc1d0b2f49737ee54427726dcdaf35b78ec102e55fb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

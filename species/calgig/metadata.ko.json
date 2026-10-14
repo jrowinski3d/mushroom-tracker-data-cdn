@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "calgig",
+  "scientific_name": "Calvatia gigantea",
+  "common_name": "말불버섯",
+  "edibility": "E",
+  "description": "지름 20~50cm 이상(최대 1.5m까지)의 거대한 둥글거나 긴 타원형 말불버섯으로, 들판에 거대한 흰 축구공이나 베개처럼 나타난다. 매끄러운 흰색 겉면은 나이가 들면 황갈색이 된다. 속은 식용 가능한 시기엔 순백색이며 단단하고, 포자가 성숙하면 황록색을 거쳐 갈색으로 변한다. 대나 불임대가 없다. 완전히 자라면 혼동할 수 없다.",
+  "habitat": "탁 트인 들판, 초원, 목초지, 잔디밭, 숲 가장자리의 비옥한 토양에서 부생한다. 분해 중인 유기물 근처의 양분 풍부한 지역을 선호한다. 농경지, 공원, 교란된 초지에서 흔하다. 매년 같은 장소에서 나타나는 경우가 많다.",
+  "season": "늦여름부터 가을, 보통 8월~10월. 늦여름에 비가 많이 내린 뒤 최성기. 9월에 가장 풍부하다. 남부 지역에서는 더 일찍 나타날 수 있다.",
+  "regions": [
+    "북아메리카 동부",
+    "중서부와 그레이트플레인스",
+    "태평양 북서부",
+    "캐나다 남부",
+    "북아메리카 온대 지역 전역에 널리 분포"
+  ],
+  "lookalikes": [
+    "기타 Calvatia 종 (작으며 속이 순백색일 때 식용 가능성 비슷)",
+    "치명적: 어린 광대버섯(Amanita) 단추 모양 자실체 (반드시 잘라 확인하십시오 - 내부에 발달 중인 주름살/갓이 보입니다)",
+    "Scleroderma 종/댕기버섯 (독성, 자주검은 속, 두껍고 사마귀 같은 껍질)",
+    "기타 대형 말불버섯 (속이 순백색일 때는 대체로 식용 가능)"
+  ],
+  "safety_notes": "속이 완전히 흰색일 때 최상급 식용: 중요 - 반드시 표본을 위에서 아래까지 완전히 반으로 자르십시오. 속이 전체적으로 마시멜로처럼 완전히 순백색이고 단단할 때만 식용 가능합니다. 노란색, 갈색, 자주색 기운이나 발달 중인 구조물이 조금이라도 보이면 절대로 먹지 마십시오. 이 규칙은 말불버섯처럼 보일 수 있는 독성 유사종과 미성숙한 치명적 광대버섯을 먹는 것을 막아줍니다. 주름살, 갓, 대 구조물의 흔적이라도 보이면 버리십시오. 충분히 익히십시오 - 빵가루를 입혀 튀기거나 볶으면 훌륭합니다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720504.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-27",
+      "file_size_bytes": 51464,
+      "width": 482,
+      "height": 640,
+      "sha256": "7326e09bc739129146ce717bbbc51d4a584aa419d7be1461ee30bf91db625de6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717552.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 41422,
+      "width": 640,
+      "height": 427,
+      "sha256": "19fa36a1c78915de64224dd0c2fa81fcf906c890be7b9bccd277095dee97c971"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

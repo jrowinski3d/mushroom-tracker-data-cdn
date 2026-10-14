@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "moresc",
+  "scientific_name": "Morchella esculenta",
+  "common_name": "Rund toppmurkla",
+  "edibility": "E",
+  "description": "Hatten är 2–10 cm hög, konisk till äggformad med ett karakteristiskt honungskaksmönster av åsar och gropar; färgen varierar från blekt kräm till gulbrun till gulbrunt, med åsar något blekare än gropar. Foten är 2–9 cm hög, 2–5 cm tjock, vit till gulaktig, ihålig med kornig yta. Helt ihålig från hattens spets genom fotbasen vid längssnitt. Sporfällning krämfärgad till blekgul.",
+  "habitat": "Växer under lövträd som ask, alm, äppel, asp och poppel, ibland med barrträd som vit tall. Gynnas av gamla fruktodlingar, störd mark, nyligen brända områden och skogsbryn. Föredrar fuktig men väldränerad jord med högre kalkhalt. Fruktar ofta rikligt under döende almar och i övergivna äppelodlingar.",
+  "season": "Vår (mars–juni i de flesta regioner, med högsäsong i april–maj). Uppkomsten sammanfaller vanligtvis med att marktemperaturen når 10–13 °C efter vårregn eller snösmältning. Södra regioner fruktar tidigare (mars–april), medan norra områden och högre höjder kan frukta senare (maj–juni).",
+  "regions": [
+    "Nordost",
+    "Mellersta Atlantkusten",
+    "Mellanvästern",
+    "Stora sjöarna",
+    "Sydost",
+    "Klippiga bergen",
+    "Stillahavsnordväst"
+  ],
+  "lookalikes": [
+    "Falsk murkla (Gyromitra esculenta) – GIFTIG: hjärnliknande skrynklig eller flikig hatt istället för honungskaksåsar, hatten fäst endast vid fotens topp (inte sammansmält längs foten), kammarförsett inre istället för helt ihåligt, rödbrun till mörkbrun färg. Innehåller det dödliga giftet gyromitrin även när den är tillagad.",
+    "Halvfri murkla (Morchella punctipes) – Ätlig: hatten fäst endast halvvägs ner på foten vilket ger ett kjolliknande utseende, jämfört med helt fäst hos äkta murklor; hatten proportionellt kortare i förhållande till fotlängden.",
+    "Verpa-arter – Ätliga med försiktighet: hatten sitter ovanpå foten med sidorna hängande helt fria, bomullsliknande substans inuti foten istället för helt ihålig som hos äkta murklor.",
+    "Andra Morchella-arter – Ätliga: inkluderar M. americana (nästan identisk), M. importuna (mörkare, anläggningsmiljöer), svåra att skilja utan mikroskopi, alla äkta murklor kräver samma tillagning."
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad matsvamp, en av de mest eftersökta vilda ätliga svamparna i världen. Måste tillagas ordentligt i minst 15–25 minuter; råa eller otillräckligt tillagade murklor innehåller hydrazingifter som orsakar kraftiga magbesvär, illamående och kräkningar. Tillagning vid temperaturer över 71 °C bryter ner de giftiga föreningarna. Vissa personer får allergiska reaktioner även när den är korrekt tillagad; ät små portioner vid första försöket. Undvik alkohol i samband med murklor eftersom sällsynta negativa reaktioner har dokumenterats. Förväxla aldrig med dödliga falska murklor (Gyromitra-arter) som har hjärnliknande hattar istället för honungskaksmönster.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1329025.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 49674,
+      "width": 640,
+      "height": 480,
+      "sha256": "793f73a5d86bf33ec577e898cc6c501f08ecda5975bcbca73fd4ac8b1396369c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1329026.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 55150,
+      "width": 640,
+      "height": 480,
+      "sha256": "79f349c5ed6b710dcf09709725b0d74e5cea46998d4aa9bfe9c59c1e8313a289"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

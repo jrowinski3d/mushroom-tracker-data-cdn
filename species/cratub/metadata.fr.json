@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cratub",
+  "scientific_name": "Craterellus tubaeformis",
+  "common_name": "Chanterelle en tube",
+  "edibility": "E",
+  "description": "La Chanterelle en tube (Chanterelle d'hiver) est un petit champignon avec un chapeau brun-jaune à brun-grisâtre de 1 à 6 cm de large, devenant profondément en entonnoir avec l'âge. Le chapeau a une marge fine et ondulée, souvent perforée au centre, s'ouvrant dans le pied creux. Le dessous présente des plis peu profonds, obtus et fourchus (PAS de vraies lames), gris-jaunâtre à jaune pâle, espacés, décurrents sur le pied. Le pied distinctif mesure 2 à 8 cm de haut, creux, élancé, et jaune vif à jaune-orangé (d'où son nom de « pied jaune »). La chair est fine, jaunâtre, avec une odeur douce. La sporée est blanche à jaune pâle.",
+  "habitat": "Mycorhizienne avec les conifères, en particulier l'épinette, le sapin et la pruche dans les forêts du Nord et de montagne. Présente dans les forêts de conifères moussues, souvent en grandes troupes sur le sol couvert de mousse, le bois en décomposition ou parmi les aiguilles de conifères. Préfère les environnements frais et humides à plus haute altitude ou aux latitudes nordiques.",
+  "season": "De la fin de l'automne à l'hiver (octobre à février), l'un des champignons comestibles les plus tardifs. Apparaît souvent après les premières gelées et peut fructifier sous la neige. La pleine saison se situe généralement de novembre à janvier dans le Pacifique Nord-Ouest et les régions du Nord.",
+  "regions": [
+    "Pacifique Nord-Ouest (Oregon, Washington, Colombie-Britannique)",
+    "Nord des États-Unis (du Maine au Minnesota)",
+    "région des Grands Lacs",
+    "montagnes Rocheuses du Nord",
+    "États du Nord-Est",
+    "Europe du Nord (également présent)"
+  ],
+  "lookalikes": [
+    "Craterellus ignicolor — comestible, plus jaune-doré dans l'ensemble, présent dans l'est de l'Amérique du Nord",
+    "Petites espèces de Cantharellus — comestibles, plus robustes, sans le pied jaune distinctif ni le centre creux",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de mauvaise qualité, possède de vraies lames fines, plus orangée"
+  ],
+  "safety_notes": "COMESTIBLE : la Chanterelle en tube est un excellent champignon comestible malgré sa petite taille. Le pied creux jaune vif distinctif et le chapeau brunâtre la rendent facile à identifier. Comme les chanterelles, elle possède des plis obtus plutôt que de vraies lames, bien qu'ils soient peu profonds et parfois à peine visibles. Aucun sosie toxique. La petite taille signifie qu'il faut en récolter beaucoup pour un repas, mais elles fructifient souvent en abondance. Saveur délicate et légèrement poivrée ; excellente en soupe, en pâtes ou poêlée. Peut être séchée avec succès pour une utilisation ultérieure.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719682.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 69358,
+      "width": 480,
+      "height": 640,
+      "sha256": "fc9fb71e90d30d54edf3e5aa489e4451406c1669a8b5215ca31bdf4596317759"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719683.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 45096,
+      "width": 480,
+      "height": 640,
+      "sha256": "f91bd6be1fc4662333cd75708085d399ebe96caae4a04e3927a4f45985eb9c7c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

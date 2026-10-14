@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolrex",
+  "scientific_name": "Boletus rex-veris",
+  "common_name": "borowik król wiosny",
+  "edibility": "E",
+  "description": "Borowik król wiosny ma różowobrązowy do czerwonobrązowego kapelusz (5–25 cm) o gładkiej, u dojrzałych owocników często pomarszczonej powierzchni. Pory u młodych owocników białe, z wiekiem żółtawe, nie przebarwiają się. Gruby, biały trzon pokryty białą siateczką, u nasady często z różowoczerwonymi tonami. Biały miąższ jest zwarty i nie przebarwia się na przekroju. Wysyp zarodników oliwkowobrązowy.",
+  "habitat": "Grzyb mikoryzowy, związany z sosną, daglezją zieloną i innymi drzewami iglastymi w lasach nisko- i średniogórskich. Towarzyszy topnieniu śniegów i wiosennej wilgoci. Preferuje piaszczyste lub żwirowe gleby pod dojrzałymi drzewami iglastymi.",
+  "season": "Wiosna do wczesnego lata (kwiecień–lipiec), szczyt owocowania w maju–czerwcu. Znany jako „król wiosny” ze względu na wczesne pojawianie się, często owocuje, gdy w wyższych partiach gór leży jeszcze śnieg.",
+  "regions": [
+    "zachodnie Stany Zjednoczone",
+    "północno-zachodnie wybrzeże Pacyfiku",
+    "góry Kalifornii",
+    "Góry Skaliste",
+    "Oregon",
+    "Waszyngton",
+    "Kolumbia Brytyjska"
+  ],
+  "lookalikes": [
+    "Boletus edulis – późniejszy sezon, inna barwa kapelusza",
+    "Boletus pinophilus – ciemniejszy, czerwonobrązowy kapelusz",
+    "Tylopilus felleus – różowe pory, gorzki smak",
+    "Inne wiosenne gatunki borowików – wszystkie jadalne"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Borowik król wiosny jest wysoko ceniony za wczesne pojawianie się i doskonały smak. Zwarta konsystencja i bogaty smak czynią go ulubieńcem grzybiarzy. Wiosenny okres owocowania oraz różowawe tony kapelusza pomagają odróżnić go od innych gatunków. Przed spożyciem zawsze dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677950.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 78788,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dc8681a13b2adf4c8d031d5a882aa0a579ff14fc12af3a898a3127bff4667cf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677951.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 113608,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd6ecd0e3cf80b45bb0612fd32833b55f0d92078b287e3bc8c877eb4955ff265"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

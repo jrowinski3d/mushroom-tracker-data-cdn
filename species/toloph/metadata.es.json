@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "toloph",
+  "scientific_name": "Tolypocladium ophioglossoides",
+  "common_name": "Goldenthread Cordyceps (Tolypocladium ophioglossoides)",
+  "edibility": "U",
+  "description": "El cordyceps hilo dorado u oruga vegetal es un fascinante hongo parásito que ataca a hongos subterráneos (falsas trufas, en particular Elaphomyces). El cuerpo fructífero consiste en una maza o espiga larga y delgada de 3-12 cm de alto y 0,5-1,5 cm de ancho, que emerge del suelo. La maza es cilíndrica, a menudo curvada, de color marrón amarillento a marrón oliva, con superficie ligeramente rugosa. La porción fértil superior está ligeramente ensanchada. La maza emerge de un hongo huésped subterráneo (Elaphomyces) que aparece como una bola oscura unida a la base. Al desenterrarla, se ve la bola huésped de color negro a marrón unida a ella.",
+  "habitat": "Se encuentra en bosques mixtos de frondosas y coníferas, emergiendo del suelo donde el hongo huésped Elaphomyces crece bajo tierra. El huésped es micorrícico con raíces de árboles. La maza empuja a través del suelo, el musgo y la hojarasca. Fructifica dispersa, a menudo poco visible. Común en bosques húmedos con suelo orgánico rico.",
+  "season": "De verano a otoño (julio-noviembre) en la mayoría de las regiones. Fructificación máxima a finales del verano y principios del otoño (agosto-octubre). Puede persistir durante semanas una vez emergida. Más común en años con humedad constante.",
+  "regions": [
+    "este de Norteamérica (extendido)",
+    "Pacífico Noroeste (común)",
+    "norte de California",
+    "Montañas Rocosas",
+    "Europa (extendida)",
+    "bosques templados del norte en todo el mundo"
+  ],
+  "lookalikes": [
+    "especies de Cordyceps en insectos — parasitan insectos y no hongos, sustrato diferente",
+    "Clavariadelphus ligula (comestible) — forma de maza pero más grande, con tonos violáceos, no parásita",
+    "lenguas de tierra (Geoglossum, Trichoglossum) — de color marrón oscuro a negro, no en huéspedes fúngicos",
+    "Xylaria hypoxylon (no comestible) — con forma de cornamenta, en madera y no en hongos subterráneos"
+  ],
+  "safety_notes": "NO COMESTIBLE: aunque técnicamente no es tóxico, este hongo no tiene valor culinario y es demasiado pequeño y duro para que merezca la pena. Históricamente no se ha comido en la tradición occidental. Algunas especies de Cordyceps se usan en la medicina tradicional china, pero esta especie no se usa comúnmente. Su rareza y su papel ecológico hacen inapropiada su recolección. Es más valioso como interesante espécimen ecológico que muestra el parasitismo de hongo sobre hongo. La unión a la trufa subterránea Elaphomyces es distintiva y fascinante, pero no comestible. Dejarlo en su lugar para observar esta relación natural única.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695832.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 124104,
+      "width": 640,
+      "height": 482,
+      "sha256": "1e2ef7dcb84f3cda23d2b104b4f5a6220a69ae2f488693e464c8a5335f539fc9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695833.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 120130,
+      "width": 640,
+      "height": 482,
+      "sha256": "9b1b60be8962b17ec5d5a62e529b453d1553ba641e4af729a3fabca5aa254aad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

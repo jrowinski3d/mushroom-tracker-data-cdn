@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calcya",
+  "scientific_name": "Calvatia cyathiformis",
+  "common_name": "Purple-spored Puffball (Calvatia cyathiformis)",
+  "edibility": "E",
+  "description": "Vesses-de-loup moyennes à grandes de 3 à 8 pouces de haut et 2 à 6 pouces de large, en forme de poire inversée, de toupie ou de vase, avec une épaisse base stérile proéminente formant la moitié inférieure. Extérieur blanc à brun grisâtre devenant brun-violet avec l’âge. Chair intérieure d’un blanc pur quand elle est comestible, devenant une masse sporale brun-violet. Se distingue par sa base stérile en forme de coupe qui persiste après la dispersion des spores.",
+  "habitat": "Saprobe dans les prairies, pâturages, prés, pelouses, champs et bois ouverts. Préfère les zones perturbées à sol riche. Commun dans les parcs, terrains de golf, bords de routes et terres agricoles. Pousse souvent en ronds ou en groupes épars.",
+  "season": "De la fin de l’été à l’automne, généralement d’août à octobre. Pic de fructification en septembre après les pluies de la fin de l’été. Peut apparaître jusqu’en novembre dans les climats doux.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Midwest et Grandes Plaines",
+    "Côte du Pacifique",
+    "Sud du Canada",
+    "Répandu dans toute l’Amérique du Nord",
+    "Répartition cosmopolite"
+  ],
+  "lookalikes": [
+    "Autres espèces de Calvatia à base stérile (comestibilité similaire quand l’intérieur est blanc)",
+    "MORTEL : boutons d’amanites immatures (TOUJOURS OUVRIR EN DEUX — on y verra des lames/un chapeau en formation à l’intérieur)",
+    "Sclérodermes / vesses-de-terre (toxiques, chair intérieure violet-noir dès le départ, pas de base stérile)",
+    "Handkea (Calvatia) excipuliformis (presque identique, même comestibilité)"
+  ],
+  "safety_notes": "COMESTIBLE quand l’intérieur est d’un blanc pur : CRITIQUE — TOUJOURS couper le spécimen complètement en deux du haut vers le bas avant de consommer. Comestible UNIQUEMENT si la chair intérieure est entièrement d’un blanc pur et ferme partout. Si une teinte violette, jaune, brune ou des structures en formation sont visibles à l’intérieur, NE PAS MANGER. Les spores brun-violet à maturité sont inoffensives mais non comestibles. Cette règle de coupe évite de consommer des sosies toxiques et des amanites mortelles immatures. La base persistante en forme de coupe est distinctive. Bien cuire tant qu’elle est blanche.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699011.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 81978,
+      "width": 640,
+      "height": 480,
+      "sha256": "08eb68f45de38ccaf4d9a4033e068336d755458b634870abe6fe2568f29cefde"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699012.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 79784,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec43de6f829e776db61ff6efc95aa3911da73444fbdc60655ed8c16da167bab"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

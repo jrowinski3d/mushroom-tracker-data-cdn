@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycper",
+  "scientific_name": "Lycoperdon perlatum",
+  "common_name": "Vesse-de-loup perlée",
+  "edibility": "E",
+  "description": "Petites vesses-de-loup en forme de poire de 1 à 3 pouces de haut et de 1 à 2 pouces de large, avec une surface épineuse ou verruqueuse caractéristique quand elles sont jeunes. Blanches devenant chamois à brunes avec l’âge. Couvertes de petites épines coniques qui tombent en laissant un motif réticulé. Intérieur blanc pur quand elles sont comestibles, devenant jaune-olive puis brun. Base stérile prononcée. S’ouvrent par un pore unique au sommet à maturité.",
+  "habitat": "Saprotrophe au sol dans les forêts mixtes de feuillus et de conifères, les lisières, les zones moussues et sur le bois en décomposition. Pousse souvent en troupes ou en groupes dispersés. Commun sur les sols forestiers riches en matière organique, sur les souches en décomposition et dans les zones moussues.",
+  "season": "De l’été à l’automne, généralement de juillet à octobre. Pic de fructification en août-septembre. Peut apparaître jusqu’en novembre dans les régions douces. Fructifie après les pluies chaudes.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "région des Grands Lacs",
+    "Largement répandu dans l’Amérique du Nord tempérée",
+    "Distribution circumboréale"
+  ],
+  "lookalikes": [
+    "Autres espèces de Lycoperdon (la plupart comestibles quand l’intérieur est blanc)",
+    "MORTEL : boutons d’amanites immatures (TOUJOURS COUPER EN DEUX - on y verrait des lames ou un chapeau en formation à l’intérieur)",
+    "Espèces de Scleroderma / sclérodermes (toxiques, intérieur violet-noir, peau épaisse verruqueuse)",
+    "Lycoperdon pyriforme (surface lisse, pousse sur le bois en touffes serrées)"
+  ],
+  "safety_notes": "COMESTIBLE quand l’intérieur est blanc pur : ESSENTIEL - TOUJOURS couper le spécimen complètement en deux de haut en bas avant de le consommer. Comestible UNIQUEMENT si l’intérieur est entièrement blanc pur et ferme partout, comme de la guimauve. Si du jaune, de l’olive, du brun ou des structures en formation sont visibles à l’intérieur, NE PAS MANGER. Cela évite de consommer des Scleroderma toxiques et des amanites mortelles immatures. La surface épineuse quand elles sont jeunes aide à l’identification, mais il faut vérifier l’intérieur blanc. Bien cuire - bon goût doux.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723310.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 40870,
+      "width": 640,
+      "height": 427,
+      "sha256": "9bd78ffa68b85a9358b87ced4958d2bb98f4ca6f0d2a5d8f47f054e958c3f200"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723311.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 48344,
+      "width": 640,
+      "height": 427,
+      "sha256": "e1e4721679e9a34c106a965d67f391b1f9de88157371d5bf7ee579366346ce5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

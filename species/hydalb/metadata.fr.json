@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "hydalb",
+  "scientific_name": "Hydnum albidum",
+  "common_name": "Hydne blanc",
+  "edibility": "E",
+  "description": "L’hydne blanc a un chapeau blanc pur à crème (3-10 cm), pouvant développer des tons jaunâtres pâles avec l’âge ou au toucher. La forme du chapeau est convexe à irrégulière, avec une marge ondulée. Le dessous est couvert d’AIGUILLONS ou DENTS fragiles, pointant vers le bas, au lieu de lames ou de pores - ces aiguillons sont blancs à crème et se détachent facilement au frottement. Le pied est blanc, central à excentré, souvent courbé, lisse, ferme. La chair est blanche, épaisse, fragile, au goût doux et à l’odeur agréable. Sporée blanche. Se distingue par sa coloration constamment pâle.",
+  "habitat": "Mycorhizien avec les conifères, en particulier le pin et l’épinette. Trouvé au sol dans les forêts de conifères et mixtes. Pousse souvent dispersé ou en petits groupes dans la litière d’aiguilles ou la mousse. Préfère les sols acides bien drainés.",
+  "season": "De la fin de l’été à l’automne (septembre-novembre), parfois jusqu’en début d’hiver dans les climats doux.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "Nord-Est",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (Pied-de-mouton) - a généralement des tons orange ou pêche",
+    "Espèces d’Hericium - forme de croissance différente, aiguillons en cascade plus longs",
+    "Climacodon septentrionale - pousse sur le bois, aiguillons plus grands"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce et agréable, semblable à H. repandum. Sa couleur blanche pure et ses aiguillons/dents caractéristiques rendent toute confusion improbable. Bien nettoyer, car les aiguillons retiennent les débris et les aiguilles de pin. Récolter de jeunes spécimens pour la meilleure texture - les spécimens âgés peuvent développer une légère amertume.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1601564.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 54376,
+      "width": 640,
+      "height": 477,
+      "sha256": "56293c519adfb2d25da34b960ae4f8c169e13afc2f30e0c79aa7aac919b83ce1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1601565.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 38400,
+      "width": 640,
+      "height": 477,
+      "sha256": "03513469f6ff79ebad654a1dc0315f4b394e1643601683e5e1e38fd7646584f2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

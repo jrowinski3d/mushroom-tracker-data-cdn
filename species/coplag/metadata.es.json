@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "coplag",
+  "scientific_name": "Coprinopsis lagopus",
+  "common_name": "Coprino pata de liebre (Coprinopsis lagopus)",
+  "edibility": "E",
+  "description": "El coprino de tinta pata de liebre es un hongo pequeño y delicado de 4-10 cm de alto con un sombrero de 2-5 cm de ancho. El sombrero es ovalado a acampanado, de blanco a gris-marrón pálido, cubierto de densos pelos blancos algodonosos o lanosos, especialmente cuando es joven, lo que le da un aspecto peludo (como la pata de una liebre, de ahí el nombre). La superficie tiene largas fibras sedosas. Las láminas son libres, blancas que se vuelven grises y luego negras, delicuescentes. El pie es de 4-10 cm de alto, esbelto, blanco, cubierto de pelos lanosos similares, hueco. Todo el hongo tiene un aspecto peludo y desgreñado.",
+  "habitat": "Se encuentra en zonas herbáceas, céspedes, pastizales, parques, bordes de caminos y terreno alterado. Prefiere suelo rico en nutrientes, a menudo donde pasta el ganado o cerca de estiércol. Crece terrestremente en hierba, fructifica disperso a gregario. Común en praderas mantenidas y zonas de pastoreo.",
+  "season": "Primavera hasta otoño (mayo-noviembre) en regiones templadas. Fructificación pico a finales de primavera y en verano. En climas cálidos puede fructificar hasta el invierno. Más común durante el clima cálido y húmedo.",
+  "regions": [
+    "Europa (ampliamente distribuido)",
+    "Norteamérica (menos común)",
+    "pastizales templados de todo el mundo",
+    "pastos de pastoreo",
+    "cosmopolita en hábitats adecuados"
+  ],
+  "lookalikes": [
+    "Coprinus comatus (comestible) - mucho más grande, escamas peludas no pelos algodonosos",
+    "Coprinopsis lagopides - casi idéntico, la distinción requiere microscopía",
+    "Agaricus o Amanita jóvenes - pero carecen de la superficie algodonosa y las láminas negras delicuescentes",
+    "Especies de Parasola - más pequeñas, menos peludas"
+  ],
+  "safety_notes": "COMESTIBLE pero de mala calidad: Considerado comestible cuando es joven, pero el sabor es insípido y la textura pobre. El pequeño tamaño y la naturaleza delicada lo hacen poco práctico. Sin propiedades tóxicas conocidas, pero no se recolecta comúnmente. Sin interacción con el alcohol. Debe usarse inmediatamente, ya que las láminas se delicuescen rápidamente. Solo los ejemplares jóvenes antes de que las láminas se vuelvan negras son comestibles. El aspecto lanoso-peludo es encantador, pero no se traduce en calidad culinaria. Seguro pero no merece la pena. Sin especies similares tóxicas. Los pelos blancos algodonosos le dan un atractivo aspecto peludo. Más interesante como ejemplar que como alimento.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723677.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 80168,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb65a2e8b50fd754a18e94db92f351c950f6aad16c9436862b1b4e582849bcf9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723658.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-08",
+      "file_size_bytes": 69772,
+      "width": 640,
+      "height": 524,
+      "sha256": "12799b2ca72edccdf51732a8de50992a20502b6b4f9c593c8dcde2c35988af72"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

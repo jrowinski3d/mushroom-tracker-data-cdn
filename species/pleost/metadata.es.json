@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleost",
+  "scientific_name": "Pleurotus ostreatus",
+  "common_name": "seta de ostra",
+  "edibility": "E",
+  "description": "Sombreros en forma de abanico a ostra de 5-25 cm de ancho, típicamente de gris-marrón a marrón claro cuando son jóvenes, destiñéndose a blanco. Superficie lisa y húmeda con láminas blancas decurrentes que descienden por el pie corto lateral o ausente. Crece en densas repisas superpuestas de troncos y tocones de frondosas muertos o moribundos. Esporada blanca.",
+  "habitat": "Saprobia sobre árboles de frondosas muertos y moribundos, troncos y tocones, especialmente haya, roble, arce y álamo. Forma densas repisas agrupadas que crecen de la madera. Ocasionalmente parásita en árboles vivos estresados. Común en troncos caídos en bosques mixtos de frondosas.",
+  "season": "De otoño a primavera en la mayoría de las regiones, con fructificación máxima en octubre-noviembre. Puede fructificar todo el año en climas costeros suaves con humedad adecuada. A menudo aparece después de lluvias intensas y temperaturas frescas.",
+  "regions": [
+    "este de Norteamérica",
+    "Pacífico Noroeste",
+    "región de los Grandes Lagos",
+    "montes Apalaches",
+    "regiones templadas de todo el mundo"
+  ],
+  "lookalikes": [
+    "Pleurotus pulmonarius (casi idéntica, más pálida, fructifica en verano)",
+    "Alas de ángel (Pleurocybella porrigens): tóxica, más pequeña, blanco puro, sobre coníferas",
+    "Especies de Crepidotus: esporas marrones, más pequeñas, textura diferente",
+    "Seta de ostra del olmo (Hypsizygus ulmarius): pie central, forma de ostra menos pronunciada"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: una de las setas cultivadas más populares del mundo con excelente sabor y textura. Los ejemplares silvestres son seguros y deliciosos cuando se identifican correctamente. Cocínela a fondo antes de comerla, ya que las setas de ostra crudas pueden causar molestias digestivas en algunas personas. Evite los ejemplares viejos que pueden estar duros o infestados de insectos. Ampliamente cultivada comercialmente, lo que la hace familiar para la mayoría de las personas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1670345.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-20",
+      "file_size_bytes": 67850,
+      "width": 640,
+      "height": 482,
+      "sha256": "4251e7d8ec1831c63cd96dc3e16d0730735f7b0eff7fb476e4b838cf3d599a1e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1733337.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-31",
+      "file_size_bytes": 86858,
+      "width": 640,
+      "height": 507,
+      "sha256": "440d644be0f31fba34ae26f88cf441151573f5b18ee03aeabbf3ef42375bfc37"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.261591",
+  "source_language": "en"
+}

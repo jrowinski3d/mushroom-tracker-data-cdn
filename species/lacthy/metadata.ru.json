@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacthy",
+  "scientific_name": "Lactarius thyinos",
+  "common_name": "Aromatic Milk Cap (Lactarius thyinos)",
+  "edibility": "E",
+  "description": "Lactarius thyinos имеет оранжевую шляпку (4–12 см) с концентрическими зонами, часто с зеленоватыми пятнами. Пластинки бледно-оранжевые, частые. Ножка оранжевая, с ямками. КЛЮЧЕВОЙ ПРИЗНАК: ОРАНЖЕВЫЙ МЛЕЧНЫЙ СОК и характерный АРОМАТНЫЙ ЗАПАХ КЕДРА или ЛАДАНА. Млечный сок может зеленеть. Мякоть бледная. Споровый отпечаток кремовый. Ароматный запах отличает его от похожих видов.",
+  "habitat": "Микоризный, образует микоризу с КЕДРОМ и КИПАРИСОМ (семейство кипарисовые, Cupressaceae) на западе Северной Америки. Растёт под ладанным кедром, туей складчатой и кипарисом Лоусона. Встречается в хвойных лесах.",
+  "season": "Осень (сентябрь–ноябрь), плодоносит в хвойных лесах.",
+  "regions": [
+    "Тихоокеанский Северо-Запад",
+    "Северная Калифорния",
+    "Западный Орегон",
+    "Британская Колумбия"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus — сосновый хозяин, менее ароматный",
+    "Lactarius rubrilacteus — красный млечный сок",
+    "Другие оранжевые млечники — проверяйте дерево-хозяина и запах"
+  ],
+  "safety_notes": "ОТЛИЧНЫЙ СЪЕДОБНЫЙ ГРИБ: отличный вкус. ОРАНЖЕВЫЙ МЛЕЧНЫЙ СОК и КЕДРОВЫЙ ЗАПАХ в сочетании с кедровым/кипарисовым хозяином — диагностический признак. Может зеленеть — это нормально. Лучше молодые. Готовьте тщательно.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1705100.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 63272,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa2a7d5936d1b759d24738c55c3f0c7d9cbf7a2cd5b08a51e5b5c30da7b5233f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705101.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 82012,
+      "width": 640,
+      "height": 482,
+      "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

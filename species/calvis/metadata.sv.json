@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calvis",
+  "scientific_name": "Calocera viscosa",
+  "common_name": "Gullhorn",
+  "edibility": "E",
+  "description": "Gullhorn är en klargul till orange gelésvamp som bildar små upprätta korallika grenar 2–6 cm höga. Fruktkroppen består av flera cylindriska till tillplattade grenar som förgrenar sig dikotont (delas i två lika delar upprepade gånger). Färgen är klar guldgul till orange-gul. Konsistensen är seg-gelatinös, något gummiartad och klibbig (slimmig) som färsk. Grenarna är 2–5 mm breda och kan ha spetsiga eller gafflade toppar. Basen kan vara sammanvuxen eller ha korta fotar. Blir mörkorange och skrumpnad som torr.",
+  "habitat": "På döda barrträdsstockar, stubbar och nedgrävt trä, särskilt tall, gran och ädelgran. Växer på väl ruttnat trä eller ur vedrester i jorden. Vanlig i barr- och blandskogar. Fruktar spritt till flockvis, ofta på samma stockar år efter år. Föredrar fuktiga svala skogar med rikligt med barrträdsrester.",
+  "season": "Sensommar till höst (augusti–november) i de flesta regioner. I milda klimat som nordvästra USA kan den frukta året runt med toppar på höst och vår. Kan uppträda efter sommarregn i bergstrakter. Vanligast under svala våta perioder.",
+  "regions": [
+    "Europa (utbredd)",
+    "Östra Nordamerika (vanlig)",
+    "Nordvästra USA (mycket vanlig)",
+    "Klippiga bergen",
+    "Norra Kalifornien",
+    "Nordliga tempererade barrskogar över hela världen"
+  ],
+  "lookalikes": [
+    "Calocera cornea (ätlig) – mindre, enklare förgrening, på lövträ",
+    "Dacryopinax spathularia (ätlig) – orange, mer spatelformade toppar",
+    "Clavulinopsis-arter (vissa ätliga) – gula men inte gelatinösa, skörare",
+    "Ramaria-arter (varierande ätlighet) – korallsvampar men köttiga, inte gelatinösa"
+  ],
+  "safety_notes": "ÄTLIG men seg: Anses ätlig men för seg och gelatinös för att vara smaklig. Den gummiartade konsistensen och lilla storleken gör den oaptitlig. Ingen smak av betydelse. Ofarlig att äta men rekommenderas inte. Inga giftiga liknande arter bland gelésvampar. Den klar gula färgen, korallika förgreningen och gelatinösa konsistensen på barrträ är distinkta. Den klibbiga (slimmiga) ytan hjälper till att skilja den från köttiga korallsvampar. Mer intressant som skogsprydnad än mat. Vanligt förekommande men samlas sällan för förtäring.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.101594",
+  "source_language": "en"
+}

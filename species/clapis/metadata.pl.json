@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "clapis",
+  "scientific_name": "Clavariadelphus pistillaris",
+  "common_name": "buławka pałeczkowata",
+  "edibility": "E",
+  "description": "Buławka pałeczkowata to duży, okazały grzyb maczugowaty, wysoki na 10–30 cm i szeroki na 3–8 cm. Owocnik jest tłuczkowaty lub maczugowaty, z zaokrąglonym do lekko zaostrzonego wierzchołkiem (nie spłaszczonym). Barwa biała, gdy bardzo młody, z wiekiem staje się żółtawa, ochrowa, brązowawa lub różowobrązowa. Powierzchnia gładka lub drobno pomarszczona. Podstawa często biaława z białymi sznurami grzybni. Miąższ biały, kruchy, gdy świeży, o łagodnym zapachu, z wiekiem stającym się nieprzyjemnym. Pojedyncza, nierozgałęziona struktura, czasem lekko spłaszczona lub rowkowana.",
+  "habitat": "Występuje w lasach liściastych i mieszanych, szczególnie pod bukami, dębami i klonami. Tworzy związki mikoryzowe z drzewami liściastymi. Rośnie naziemnie z gleby w bogatej próchnicy. Owocnikuje rozproszony lub w małych grupach. Preferuje dojrzałe lasy z głęboką ściółką liściową. Pospolitszy w terenie górzystym lub pagórkowatym.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad) w większości regionów. W Europie głównie wrzesień–październik. Szczyt owocnikowania jesienią. Wymaga ciepłego lata, po którym następują jesienne deszcze i niskie temperatury.",
+  "regions": ["Europa (rozpowszechniony)", "Wschodnia Ameryka Północna (nieczęsto)", "Appalachy", "Północno-wschodnie Stany Zjednoczone", "Południowo-wschodnia Kanada", "Umiarkowane lasy liściaste"],
+  "lookalikes": ["Clavariadelphus truncatus (jadalny) – podobna wielkość, ale spłaszczony wierzchołek, drzewa iglaste", "Clavariadelphus sachalinensis (jadalny) – bardziej pomarańczowo-brązowy, zachodnie wybrzeże", "Gomphus clavatus (jadalny) – fioletowo-szare odcienie, wierzchołek w kształcie świńskiego ucha", "Duże purchawki Lycoperdon – podobne, ale okrągłe, z wiekiem pyliste zarodniki"],
+  "safety_notes": "Jadalny, ale mierny: Uważany za jadalny, gdy młody, ale konsystencja jest słaba, a smak mdły do nieprzyjemnego. Z wiekiem staje się gumowaty, twardy i gorzki. Historycznie jedzony w czasach niedostatku, ale niezalecany. Brak trujących gatunków podobnych. Najlepsze są młode białe okazy, jeśli próbujesz. Duży rozmiar może kusić, ale jakość kulinarna jest rozczarowująca. Zaokrąglony wierzchołek (nie płaski) i duży rozmiar odróżniają go od innych grzybów maczugowatych. Bardziej godny uwagi jako okazały okaz leśny niż jako pożywienie. Bezpieczny, ale niewarty zachodu.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/540202.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 67776,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9583c792682c2c0b37471be7c3bf74d658405b13b0238083c11b4412338a8f7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/540203.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 76540,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e8de2d8a0b2d2204727f6bdb137e5c81ae9c5e996140edce69b790b8db18c9a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

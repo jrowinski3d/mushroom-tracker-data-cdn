@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clapis",
+  "scientific_name": "Clavariadelphus pistillaris",
+  "common_name": "Stor klubbsvamp",
+  "edibility": "E",
+  "description": "Stor klubbsvamp är en stor imponerande klubbsvamp, 10–30 cm hög och 3–8 cm bred. Fruktkroppen är mortel- eller klubbformad med rundad till lätt spetsig topp (inte tillplattad). Färgen är vit som mycket ung, blir gulaktig, ockrafärgad, beige eller rosabrun med åldern. Ytan är slät eller fint skrynklig. Basen är ofta vitaktig med vita myceltrådar. Köttet är vitt, sprött som färskt, med mild doft som blir obehaglig med åldern. Enkel ogrenad struktur, ibland lätt tilltryckt eller fårad.",
+  "habitat": "Finns i löv- och blandskog, särskilt under bok, ek och lönn. Bildar mykorrhiza med lövträd. Växer marklevande från jord i rik mull. Fruktsätter spritt eller i små grupper. Föredrar mogna skogar med djup förna. Vanligare i bergiga eller kuperade områden.",
+  "season": "Sensommar till höst (augusti–november) i de flesta regioner. I Europa främst september–oktober. Fruktsättningstoppen på hösten. Kräver varm sommar följd av höstregn och svala temperaturer.",
+  "regions": [
+    "Europa (utbredd)",
+    "Östra Nordamerika (ovanlig)",
+    "Appalacherna",
+    "Nordöstra USA",
+    "Sydöstra Kanada",
+    "Tempererade lövskogar"
+  ],
+  "lookalikes": [
+    "Clavariadelphus truncatus (ätlig) – liknande storlek men tillplattad topp, barrträd",
+    "Clavariadelphus sachalinensis (ätlig) – mer orangebrun, västkusten",
+    "Gomphus clavatus (ätlig) – purpurgrå toner, topp formad som grisöra",
+    "Stora Lycoperdon-röksvampar – liknande men runda, pudriga sporer som mogna"
+  ],
+  "safety_notes": "ÄTLIG men medelmåttig: Anses ätlig som ung men konsistensen är dålig och smaken intetsägande till obehaglig. Blir gummiartad, seg och bitter med åldern. Historiskt äten i tider av nöd men rekommenderas inte. Inga giftiga förväxlingssvampar. Unga vita exemplar är bäst om man försöker. Den stora storleken kan vara tilltalande men den kulinariska kvaliteten är en besvikelse. Den rundade toppen (inte platt) och stora storleken skiljer den från andra klubbsvampar. Mer anmärkningsvärd som imponerande skogsexemplar än som mat. Säker men inte värd besväret.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/540202.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 67776,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9583c792682c2c0b37471be7c3bf74d658405b13b0238083c11b4412338a8f7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/540203.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 76540,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e8de2d8a0b2d2204727f6bdb137e5c81ae9c5e996140edce69b790b8db18c9a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

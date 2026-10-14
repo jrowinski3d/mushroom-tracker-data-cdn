@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bonber",
+  "scientific_name": "Bondarzewia berkeleyi",
+  "common_name": "Berkeley's Polypore (Bondarzewia berkeleyi)",
+  "edibility": "E",
+  "description": "Enorme roseta de grandes sombreros superpuestos en forma de abanico de 4 a 12 pulgadas de ancho; el cuerpo fructífero total puede alcanzar de 12 a más de 36 pulgadas de diámetro. Superficie superior de color crema a castaño a pardo claro, con arrugas radiales. Superficie de poros blanca a crema. Textura gruesa, dura y fibrosa incluso cuando es joven. Los sombreros individuales son más grandes y están menos organizados que los de Grifola. Puede pesar de 20 a más de 50 libras. Fuerte olor a humedad.",
+  "habitat": "Parásito y saprobio en la base de árboles vivos y muertos de frondosas, particularmente robles, causando pudrición del tocón y de las raíces. Forma rosetas enormes en la base de los árboles, a partir de raíces y sobre tocones. Común en bosques maduros de frondosas. A menudo reaparece en el mismo lugar durante varios años.",
+  "season": "De verano a otoño, típicamente de julio a octubre. Fructificación máxima en agosto-septiembre. Puede persistir durante varias semanas. Más abundante a finales del verano y principios del otoño tras las lluvias.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste",
+    "sureste de los Estados Unidos",
+    "región de los Grandes Lagos",
+    "montañas Apalaches",
+    "Pacífico Noroeste"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (sombreros individuales más pequeños, pardo grisáceo, roseta mejor organizada)",
+    "Meripilus sumstinei (más oscuro, ennegrece al manipularlo)",
+    "Otras rosetas grandes de políporos (textura y organización diferentes)",
+    "Albatrellus joven (más pequeño, hábitat diferente)"
+  ],
+  "safety_notes": "COMESTIBLE cuando es muy joven, pero generalmente se evita: solo los bordes tiernos en crecimiento de ejemplares muy jóvenes son palatables; la mayor parte del cuerpo fructífero es demasiado dura para comerla incluso cuando es joven. El fuerte olor a humedad y la textura fibrosa lo hacen poco atractivo. Puede causar molestias digestivas. Debe cocinarse bien. Generalmente no vale la pena recolectarlo por su dureza. Existen mejores políporos para comer. Algunas personas pulverizan ejemplares secos para usarlos como condimento.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1708313.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 89214,
+      "width": 640,
+      "height": 480,
+      "sha256": "935b8fc5b3803aa029baf2bcb81d1f9ba55995e4017c9b3ccb79c238195119c1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1708314.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 110054,
+      "width": 480,
+      "height": 640,
+      "sha256": "78d3bea57198757ee2d96e32c3c6c4be2d9d9c54bb8f36074c19ebb323cd806f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

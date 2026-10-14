@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canfor",
+  "scientific_name": "Cantharellus formosus",
+  "common_name": "Pacific Golden Chanterelle (Cantharellus formosus)",
+  "edibility": "E",
+  "description": "Pieprznik pacyficzny ma złocistopomarańczowy do głęboko żółtego kapelusz o szerokości 3–15 cm, często większy i intensywniej ubarwiony niż pieprzniki europejskie. Brzeg kapelusza falisty i nieregularny, z wiekiem głęboko lejkowaty. Spód pokryty grubymi, tępymi, szeroko rozstawionymi rozwidlonymi listewkami (NIE są to prawdziwe blaszki), w tym samym kolorze co kapelusz lub nieco bledszymi, zbiegającymi po trzonie. Trzon pełny, zwarty, 3–10 cm wysokości, często gruby i maczugowaty. Miąższ biały do bladożółtego, zwarty, o łagodnym owocowym, morelowym aromacie. Wysyp zarodników biały do bladożółtego.",
+  "habitat": "Grzyb mikoryzowy, związany głównie z daglezją zieloną, a także z choiną zachodnią, świerkiem sitkajskim i jodłą olbrzymią w nadbrzeżnych lasach iglastych. Preferuje dobrze przepuszczalne zbocza z grubą warstwą mchu i ściółki. Często występuje w lasach odroślowych i wzdłuż dróg leśnych na północno-zachodnim wybrzeżu Pacyfiku.",
+  "season": "Jesień do zimy (wrzesień–luty), owocowanie wraz z nadejściem jesiennych deszczów, przez całą porę wilgotną. Szczyt zbiorów przypada zwykle na październik–grudzień. W łagodnym klimacie nadbrzeżnym przy odpowiedniej wilgotności może owocować przez cały rok.",
+  "regions": [
+    "północno-zachodnie wybrzeże Pacyfiku (od Kolumbii Brytyjskiej po północną Kalifornię)",
+    "nadbrzeżny Oregon i Waszyngton",
+    "Wyspa Vancouver",
+    "Góry Kaskadowe",
+    "nadbrzeżne góry północnej Kalifornii"
+  ],
+  "lookalikes": [
+    "Omphalotus olivascens – TRUJĄCY, ma prawdziwe ostre blaszki, rośnie na drewnie lub zagrzebanym drewnie, pomarańczowy",
+    "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) – nietrująca, ale kiepskiej jakości, ma prawdziwe cienkie blaszki, intensywniej pomarańczowa",
+    "Cantharellus cascadensis – jadalny, bledszy żółty, mniejszy, wyższe wysokości, poza tym bardzo podobny"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Pieprznik pacyficzny to jeden z najbardziej poszukiwanych grzybów dziko rosnących w Ameryce Północnej, ceniony za zwartą konsystencję oraz owocowy, pieprzny smak. Kluczową cechą identyfikacyjną są tępe, rozwidlone listewki, woskowate w dotyku i trudne do oddzielenia od miąższu kapelusza – w przeciwieństwie do cienkich, ostrych prawdziwych blaszek trujących gatunków podobnych. Zawsze sprawdzaj, czy grzyb rośnie z gleby, a nie z drewna. Dusić, aby skoncentrować smak; dobrze znosi gotowanie. U niektórych osób może powodować łagodne dolegliwości trawienne – najpierw przetestuj małe ilości.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1732115.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 89902,
+      "width": 640,
+      "height": 482,
+      "sha256": "6fbcbcc69caf03c2bb6d4bc64be53e4036b0256d636415e8a12a4ad359db7a1b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1732116.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 91936,
+      "width": 482,
+      "height": 640,
+      "sha256": "7ab193f467d64ceebfc9493be4052476e454a1dc8c285797973833e9a671c959"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

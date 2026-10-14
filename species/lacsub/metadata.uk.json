@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "lacsub",
+  "scientific_name": "Lactarius subpurpureus",
+  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
+  "edibility": "E",
+  "description": "Гриб із червонувато-коричневою шапинкою (3–8 см), гладенькою. Пластинки блідо-рожеві. Ніжка подібного кольору. Ключова ознака: БІЛИЙ МОЛОЧНИЙ СІК, м'який смак. Невеликий вид з рожево-буруватими кольорами. М'якуш блідий. Споровий відбиток рожево-кремовий.",
+  "habitat": "Мікоризний з ХВОЙНИМИ та листяними породами. Росте в мішаних лісах. Розсіяно.",
+  "season": "Літо–осінь (липень–жовтень).",
+  "regions": [
+    "Схід США",
+    "Середній Захід"
+  ],
+  "lookalikes": [
+    "Інші дрібні хрящі-молочники — перевіряйте колір і смак"
+  ],
+  "safety_notes": "ЇСТІВНИЙ: м'який смак. БІЛИЙ МОЛОЧНИЙ СІК + М'ЯКИЙ СМАК — діагностичні ознаки підгрупи. Найкращі молоді. Ретельно приготувати.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722244.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 44232,
+      "width": 640,
+      "height": 427,
+      "sha256": "0498b5201c9cd15c3c0834733e401ccbc2f1868abfe53781f01aab90cb4ac699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722245.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 42834,
+      "width": 640,
+      "height": 427,
+      "sha256": "f200757574e7abfcd0ced99c8ee3b2668fe99470c04396ee020ca016d951e0f8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

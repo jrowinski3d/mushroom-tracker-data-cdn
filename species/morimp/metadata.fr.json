@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morimp",
+  "scientific_name": "Morchella importuna",
+  "common_name": "Landscape Morel (Morchella importuna)",
+  "edibility": "E",
+  "description": "Fructification de 6 à 20 cm (2,4 à 8 po) de haut au total. Chapeau de 3 à 15 cm (1,2 à 6 po) de haut, de 2 à 9 cm de large au point le plus large, conique à largement conique ou occasionnellement ovoïde, avec un motif alvéolé distinctif en échelle présentant 12 à 20 crêtes verticales principales proéminentes croisées par de nombreuses crêtes horizontales créant des fossettes rectangulaires. Couleur généralement plus foncée que les morilles jaunes, allant du brun clair au brun au brun grisâtre. Pied creux, proportionné au chapeau. Entièrement creux en coupe. Sporée crème.",
+  "habitat": "Morille distinctive des milieux urbains et paysagers, trouvée dans les plates-bandes de paillis de copeaux de bois, les jardins, les foyers extérieurs, les jardinières, les espaces paysagers et les sols perturbés en milieu résidentiel et commercial. Contrairement à la plupart des morilles qui sont mycorhiziennes, M. importuna est largement saprotrophe (décompose les copeaux de bois et la matière organique de façon indépendante). Fortement associée au paillis de copeaux de bois frais dans les plantations ornementales, les parcs et les espaces verts urbains. Rarement trouvée en milieu forestier naturel.",
+  "season": "Printemps (mars-mai dans la plupart des régions, le calendrier variant selon le climat local). En Californie et dans le Pacifique Nord-Ouest, peut fructifier de février à avril. L’émergence est souvent déclenchée par l’humidité suivant l’application de paillis de copeaux de bois la saison précédente. Peut fructifier aux mêmes endroits paillés plusieurs années de suite.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie",
+    "Midwest",
+    "Nord-Est",
+    "Mid-Atlantique"
+  ],
+  "lookalikes": [
+    "Fausse morille (espèces de Gyromitra) - TOXIQUE : chapeau lobé en forme de cerveau au lieu de crêtes en échelle, chapeau attaché uniquement au sommet du pied, intérieur cloisonné, couleur brun-rougeâtre. Toxique mortel même après cuisson.",
+    "Autres morilles noires (groupe Morchella elata) - Comestible : apparence similaire mais généralement en milieu forestier naturel plutôt que dans le paillis paysager, difficile à distinguer visuellement, toutes comestibles avec une cuisson adéquate.",
+    "Morille à moitié libre (Morchella punctipes) - Comestible : chapeau attaché à mi-hauteur du pied créant une jupe, plutôt qu’entièrement attaché sur la longueur.",
+    "Morchella tomentosa - Comestible : texture duveteuse/poilue quand elle est jeune, surtout à la base du pied, trouvée dans les sites de conifères après incendie contre les paysages urbains."
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : champignon culinaire très prisé, désormais cultivé commercialement en Asie avec des centaines de tonnes produites chaque année. Doit être bien cuit pendant 15 à 25 minutes minimum ; les morilles crues ou insuffisamment cuites contiennent des toxines d’hydrazine provoquant de graves nausées, vomissements et troubles gastriques. Cuire à des températures supérieures à 160 °F (71 °C) pour détruire les composés toxiques. Certaines personnes ont des réactions allergiques même après une cuisson adéquate ; essayer d’abord de petites portions. Éviter de consommer avec de l’alcool en raison de rares interactions indésirables documentées. S’assurer d’une identification correcte pour distinguer des fausses morilles mortelles (Gyromitra) qui ont des chapeaux ridés en forme de cerveau. Lors de la cueillette dans du paillis paysager, vérifier qu’aucun pesticide ou herbicide n’a été appliqué dans la zone.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751485.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 61022,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f486307fe8bc9b853309c9d16f0e5a3baa20133c6f1468621bbd300e2a405cc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751432.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 64566,
+      "width": 640,
+      "height": 480,
+      "sha256": "788ee443df988d03a975784a7e4493e160afd271619e90d83e1011258704f823"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.697677",
+  "source_language": "en"
+}

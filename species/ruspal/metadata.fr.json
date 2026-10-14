@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruspal",
+  "scientific_name": "Russula paludosa",
+  "common_name": "Russule des marais",
+  "edibility": "E",
+  "description": "La Russule des marais a un chapeau rouge à rouge rosé (5 à 15 cm), souvent décoloré. Lames jaunâtres. Pied blanc avec des tons roses. CLÉ : CHAPEAU ROUGE, LAMES JAUNES, CHAIR CASSANTE, grande taille. Chair blanche. Sporée blanche à crème.",
+  "habitat": "Mycorhizienne avec les conifères, surtout le pin et l'épinette. Pousse au sol dans les forêts de conifères, surtout les tourbières nordiques et les zones humides. Dispersée.",
+  "season": "De l'été à l'automne (juillet-septembre).",
+  "regions": [
+    "Nord-Est",
+    "Haut-Midwest",
+    "Canada",
+    "Europe du Nord"
+  ],
+  "lookalikes": [
+    "Autres russules rouges — vérifier la couleur des lames",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce. CHAPEAU ROUGE + LAMES JAUNES + CHAIR CASSANTE + GOÛT DOUX : diagnostique. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650964.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 28720,
+      "width": 640,
+      "height": 427,
+      "sha256": "adcc86b416cac3fab16ef0847319527a39c00df45251ce68bf29142a13aadc7a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1650965.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 32172,
+      "width": 640,
+      "height": 427,
+      "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

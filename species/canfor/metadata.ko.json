@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canfor",
+  "scientific_name": "Cantharellus formosus",
+  "common_name": "Pacific Golden Chanterelle (Cantharellus formosus)",
+  "edibility": "E",
+  "description": "태평양황금꾀꼬리버섯은 너비 3~15cm의 황금주황색에서 진노랑의 갓을 가지며, 유럽 꾀꼬리버섯보다 종종 더 크고 색이 진하다. 갓 가장자리는 물결 모양으로 불규칙하고 성숙하면 깊이 깔때기 모양이 된다. 아랫면에는 두껍고 뭉툭하며 간격이 넓은 갈라진 주름(진짜 주름살이 아님)이 있고 갓과 같은 색이거나 약간 옅으며 대를 따라 흘러내린다. 대는 속이 차 있고 단단하며 높이 3~10cm, 종종 굵고 곤봉 모양이다. 살은 흰색에서 연노랑이며 단단하고 순한 살구 향이 난다. 포자문은 흰색에서 옅은 노랑이다.",
+  "habitat": "주로 미송(더글러스퍼)와 균근공생하며, 해안 침엽수림의 서부솔송, 시트카가문비나무, 그랜드전나무와도 공생한다. 두꺼운 이끼와 낙엽층이 있는 배수가 잘되는 경사면을 선호한다. 태평양 북서부의 이차림과 벌목 도로변에서 자주 발견된다.",
+  "season": "가을부터 겨울(9월~2월), 가을 비가 시작되며 자실체를 내고 우기가 이어지는 동안 계속된다. 수확 최성기는 보통 10월~12월이다. 습기가 충분한 온화한 해안 기후에서는 연중 자실체를 낼 수 있다.",
+  "regions": [
+    "태평양 북서부 (브리티시컬럼비아주~북부 캘리포니아)",
+    "오리건주와 워싱턴주 해안",
+    "밴쿠버섬",
+    "캐스케이드산맥",
+    "북부 캘리포니아 해안 산맥"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus olivascens) - 독성, 날카로운 진짜 주름살, 목재나 묻힌 목재에서 자라며 주황색",
+    "거짓꾀꼬리버섯 (Hygrophoropsis aurantiaca) - 독성은 없으나 품질이 떨어짐, 얇은 진짜 주름살, 더 진한 주황색",
+    "Cantharellus cascadensis - 식용 가능, 더 옅은 노랑, 작고 고지대 분포, 그 외 매우 비슷"
+  ],
+  "safety_notes": "최상급 식용: 태평양황금꾀꼬리버섯은 북아메리카에서 가장 탐나는 야생 버섯 중 하나로, 단단한 식감과 과일 향의 매콤한 맛으로 귀하게 여겨진다. 핵심 동정 특징은 뭉툭하고 갈라진 주름으로, 밀랍 같은 촉감이며 갓 살에서 분리하기 어려워 독성 유사종의 얇고 칼날 같은 진짜 주름살과 대비된다. 반드시 토양에서 자라는지, 목재에서 자라지 않는지 확인하십시오. 볶으면 풍미가 농축되며 조리에 잘 견딘다. 일부 사람에게는 가벼운 소화 불량이 생길 수 있으니 처음엔 소량으로 시험하십시오.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1732115.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 89902,
+      "width": 640,
+      "height": 482,
+      "sha256": "6fbcbcc69caf03c2bb6d4bc64be53e4036b0256d636415e8a12a4ad359db7a1b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1732116.jpg",
+      "photographer": "M. Astrophel Crisp",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-18",
+      "file_size_bytes": 91936,
+      "width": 482,
+      "height": 640,
+      "sha256": "7ab193f467d64ceebfc9493be4052476e454a1dc8c285797973833e9a671c959"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

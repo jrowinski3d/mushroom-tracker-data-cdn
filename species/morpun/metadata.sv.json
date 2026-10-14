@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morpun",
+  "scientific_name": "Morchella punctipes",
+  "common_name": "Half-free Morel (Morchella punctipes)",
+  "edibility": "E",
+  "description": "Hatten är vanligtvis 1–4 cm hög, konisk med honungskaksmönster av åsar och gropar, gulbrun till brun. Karakteristiskt drag: hatten fäster vid foten ungefär halvvägs ner längs dess längd (inte helt sammansmält som hos äkta murklor), vilket ger ett karakteristiskt kjolliknande utseende där den nedre halvan flagnar ut från foten. Foten är 3–10 cm hög, proportionellt längre än hatten, vit till krämfärgad, kornig (täckt med små korn), ihålig. Vid längssnitt helt ihålig genom hatt och fot. Sporfällning krämfärgad till gulaktig.",
+  "habitat": "Växer under olika lövträd i östra Nordamerika, bland annat ask, alm, tulpanträd, äppel och andra lövträd. Föredrar rika, fuktiga skogsjordar, ofta i översvämningsslätter, strandnära områden och fuktiga skogar. Fruktar vanligtvis på samma platser som äkta murklor men dyker typiskt upp något tidigare på säsongen. Hittas ibland i gamla fruktodlingar och parker med mogna lövträd.",
+  "season": "Tidig till mitten av våren (mars–maj i de flesta områden, kan börja i slutet av februari i södra regioner). Fruktar ofta 1–2 veckor före högsäsongen för äkta murklor. Uppkomsten sammanfaller med att marken värms till 7–10 °C och att tidiga vårblommor blommar. Södra regioner mars–april, norra områden och högre höjder april–maj.",
+  "regions": [
+    "Nordost",
+    "Mellersta Atlantkusten",
+    "Mellanvästern",
+    "Stora sjöarna",
+    "Sydost"
+  ],
+  "lookalikes": [
+    "Verpa bohemica (vindlad klockmurkla) – Ätlig med försiktighet: hatten fäst endast vid fotens topp med sidorna hängande helt fria (istället för halvfritt fäste), bomullsliknande märg inuti foten (istället för helt ihålig), fingerborgsliknande slät hatt. Vissa personer får magbesvär; begränsa förtäringen.",
+    "Verpa conica – Ätlig med försiktighet: liknar V. bohemica, hatten helt frihängande från fästet endast vid toppen, slätare hattyta. Ät med måtta eftersom reaktioner har rapporterats.",
+    "Äkta murklor (Morchella americana, M. esculenta) – Ätliga: hatten sammansmält med foten längs hela längden (istället för halvfritt), hatten proportionellt större i förhållande till foten, identiska tillagningskrav.",
+    "Falsk murkla (Gyromitra-arter) – GIFTIG: hjärnliknande skrynklig hatt istället för honungskaksmönster, rödbrun färg, kammarförsett inre. Dödligt giftig."
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Bra matsvamp, även om den allmänt anses mindre smakrik än helt fästa äkta murklor. Måste tillagas ordentligt i 15–25 minuter; ät aldrig råa eller otillräckligt tillagade eftersom murklor innehåller hydrazingifter som orsakar kraftigt illamående, kräkningar och magbesvär. Tillagning över 71 °C förstör de giftiga föreningarna. Vissa personer kan få allergiska reaktioner även när den är korrekt tillagad; ät små portioner vid första försöket. Undvik alkohol i samband med murklor eftersom sällsynta negativa reaktioner har dokumenterats. Kritiskt att skilja från Verpa-arter genom att undersöka hattens fästpunkt: halvfria murklor fäster halvvägs ner på foten, medan Verpa-hattar hänger helt fria från fästet endast vid toppen.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667024.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 57148,
+      "width": 640,
+      "height": 482,
+      "sha256": "cdf8ccaf8393ce574dd7fd3d4c03dac08f5ff6b765864d0b6bcfec1f864e38d4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667025.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 67512,
+      "width": 640,
+      "height": 482,
+      "sha256": "8caf59108b82c0f05597c420fa38a09720623411e13ec3515fe5c579095422c1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

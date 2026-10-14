@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimag",
+  "scientific_name": "Tricholoma magnivelare",
+  "common_name": "Matsutake americano",
+  "edibility": "E",
+  "description": "El matsutake americano tiene un sombrero robusto de color blanco a crema (7-20 cm) que desarrolla parches fibrilosos parduzcos o manchas con la edad, sobre todo en el centro. El sombrero es convexo a plano, seco, liso a fibriloso. Las láminas son blancas, adheridas, apretadas, y se manchan de marrón. El pie es grueso, blanco, muy firme y sólido, con un DISTINTIVO VELO PARCIAL GRUESO que deja un GRAN ANILLO ALGODONOSO en la parte superior del pie. La característica diagnóstica es el FUERTE OLOR PICANTE, A CANELA o parecido a caramelo rojo — inconfundible y potente. La carne es blanca, muy densa y firme. Esporada blanca. A menudo parcialmente enterrado, creando montículos de tierra.",
+  "habitat": "Micorrícico con CONÍFERAS en el oeste de Norteamérica, sobre todo pino, abeto de Douglas, tsuga y abetos verdaderos. Forma relaciones micorrícicas obligadas. Crece en el suelo, a menudo profundamente enterrado en broza, hojarasca de acículas o suelo arenoso. Se encuentra en bosques maduros de coníferas desde el nivel del mar hasta altas montañas. Prefiere suelos bien drenados.",
+  "season": "Otoño (septiembre-noviembre), fructificando con el clima fresco otoñal tras las lluvias. Temporada ideal en octubre en el Pacífico Noroeste.",
+  "regions": [
+    "Pacífico Noroeste",
+    "Columbia Británica",
+    "norte de California",
+    "Montañas Rocosas",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Tricholoma matsutake — especie asiática, prácticamente idéntica",
+    "Tricholoma magnivelare (matsutake americano) — especie norteamericana, muy similar",
+    "Amanita smithiana — TÓXICA: tiene volva en la base, olor dulzón enfermizo y no a canela",
+    "Catathelasma — similar pero tiene doble velo, olor diferente"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciado y recolectado comercialmente, se vende a 20-100+ dólares por libra. El fuerte OLOR A CANELA/PICANTE es la característica clave de identificación: una vez olido, nunca se olvida. Mejor cuando es joven y firme («botones» o medio emergidos). Limpiar con cuidado para conservar el delicado sabor. CRÍTICO: no confundir nunca con la tóxica Amanita smithiana — comprobar la ausencia de volva (copa en la base) y verificar el olor a canela. El grueso anillo algodonoso y la ausencia de volva lo distinguen de las mortales Amanita.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715643.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 122810,
+      "width": 640,
+      "height": 427,
+      "sha256": "fd4963ca29205aff3919c81291d7ceee7ffab7bff6418162025184f0f4ae0439"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1715644.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 113832,
+      "width": 427,
+      "height": 640,
+      "sha256": "7916660a2d94152ffd8f39f242604094222ba8708ef19f62821eea3b280c2d84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

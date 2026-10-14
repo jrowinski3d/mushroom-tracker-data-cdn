@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "dacchr",
+  "scientific_name": "Dacrymyces chrysospermus",
+  "common_name": "Orange Jelly Spot (Dacrymyces chrysospermus)",
+  "edibility": "E",
+  "description": "Dacrymyces chrysospermus tworzy małe, jasno pomarańczowe do żółtopomarańczowych, galaretowate grudki lub poduszeczki o średnicy 2–10 mm (rzadko do 15 mm). Poszczególne owocniki są guzikowate lub tarczowate, czasem stają się lekko klapowane lub mózgowate. Powierzchnia gładka i błyszcząca. Barwa żywo pomarańczowa do złoto-pomarańczowej, gdy świeże, ciemniejąca do pomarańczowej i marszcząca się, gdy suche. Konsystencja miękko-galaretowata, drżąca. Często występuje w gęstych skupiskach tworzących pomarańczowe plamy na drewnie. Ożywia się i pęcznieje po zwilżeniu.",
+  "habitat": "Występuje na martwym drewnie iglastym, w tym na kłodach, pniakach, deskach i drewnie konstrukcyjnym. Szczególnie pospolity na sośnie, świerku i jodle. Pojawia się także na obrobionym drewnie, jak słupki ogrodzeniowe i belki budowlane. Rośnie jako rozkładacz drewna w lasach i na konstrukcjach drewnianych. Owocnikuje w gęstych skupiskach, często tworząc pomarańczowe plamy o średnicy kilku cm. Bardzo pospolity na odpowiednich podłożach.",
+  "season": "Przez cały rok, ale najobfitszy od jesieni do wiosny (wrzesień–maj). W wilgotnych klimatach może owocnikować nieprzerwanie. Szczyt późną jesienią i zimą (październik–marzec). Bardzo odporny na zimno, może owocnikować pod śniegiem. Pospolity zimą, gdy niewiele innych grzybów jest aktywnych.",
+  "regions": ["Europa (bardzo pospolity)", "Ameryka Północna (rozpowszechniony, wszystkie regiony)", "Północny Zachód Pacyfiku (obfity)", "Wschodnie lasy", "Górskie regiony iglaste", "Na całym świecie w lasach iglastych"],
+  "lookalikes": ["Dacrymyces palmatus (jadalny) – większy, bardziej mózgowaty i powyginany", "Tremella mesenterica (jadalny) – żółty, ale na drzewach liściastych, bardziej mózgowaty", "Calocera cornea (jadalny) – pomarańczowy, ale koralowato rozgałęziony", "Bisporella citrina (niejadalny) – malutkie żółte tarczki, ale jędrne, nie galaretowate"],
+  "safety_notes": "Jadalny, ale niewarty zbierania: Technicznie jadalny i nietrujący, ale zdecydowanie za mały i mdły, by mieć znaczenie kulinarne. Bez smaku i prawie bez substancji. Bezpieczny, ale zbieranie go nie ma sensu. Brak trujących gatunków podobnych. Malutkie pomarańczowe galaretowate plamki na drewnie iglastym są charakterystyczne i niezwykle pospolite. Często występuje w takiej obfitości, że martwe kłody wyglądają na pomarańczowe. Bardziej godny uwagi jako wskaźnik rozkładu drewna niż jako pożywienie. Jaskrawo pomarańczowa barwa i występowanie na drzewach iglastych odróżniają go od żółtej trzęsaki na drzewach liściastych.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751397.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 63394,
+      "width": 640,
+      "height": 427,
+      "sha256": "4f3d6fd2ee98ee79c3f97f3aa0ce9a66d5f6115c9f9127bfd0bec7b416d1c9d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751398.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 82544,
+      "width": 640,
+      "height": 427,
+      "sha256": "839863966225a75f0a4e3f0bbd4b6baf231f3f879cfdf0961bc574b6d120d434"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

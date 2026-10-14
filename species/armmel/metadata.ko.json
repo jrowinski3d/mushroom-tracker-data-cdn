@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "armmel",
+  "scientific_name": "Armillaria mellea",
+  "common_name": "뽕나무버섯",
+  "edibility": "E",
+  "description": "뽕나무버섯은 꿀황색에서 황갈색의 갓(3-15cm)에 중심부에 집중되고 가장자리로 갈수록 흩어지는 작은 어두운 인편이 덮여 있다. 주름살은 흰색에서 크림색이며 대에 붙어 있고, 나이가 들면 종종 갈색 반점이 생긴다. 대에는 상부 근처의 영존성 백색 턱받이(환)가 있어 핵심 식별 특징이다. 대는 턱받이 위는 흰색, 아래는 어두우며, 종종 어두운 인편이나 섬유가 있다. 나무 기부나 그루터기에 빽빽한 군집을 이루어 자란다. 갓은 젖으면 끈적거린다. 조직은 흰색이며 단단하고 온화한 냄새가 난다. 포자문은 백색이다. 검은 근상균사(구두끈 같은 구조)가 토양이나 수피 아래에서 자주 보인다.",
+  "habitat": "활엽수와 침엽수 모두에 기생성 및 부생성으로 자란다. 살아 있는 나무 기부, 고사 그루터기, 매몰된 뿌리에 큰 군집을 이루어 자란다. 백색부후를 일으켜 숙주 나무를 죽일 수 있다. 참나무, 단풍나무, 자작나무, 소나무 등 많은 수종에서 발견된다. 삼림에서 가장 흔한 수목 병원체 중 하나이다.",
+  "season": "가을(9-11월), 가을비가 내린 뒤에 가장 많이 발생한다. 간혹 봄에도 발생한다.",
+  "regions": [
+    "미국 동부",
+    "중서부",
+    "태평양 북서부",
+    "로키 산맥",
+    "캘리포니아",
+    "유럽",
+    "아시아"
+  ],
+  "lookalikes": [
+    "다른 Armillaria 종 - 매우 유사하며 모두 조리 필요",
+    "Gymnopilus 종 - 쓴맛, 녹황색 포자",
+    "Pholiota 종 - 갈색 포자문, 서식지가 다름",
+    "Galerina 종 - 치명적 - 더 작고 갈색 포자, 토양/뿌리가 아닌 목재에서 자람"
+  ],
+  "safety_notes": "주의하여 식용: 뽕나무버섯류(Armillaria 종)는 생으로는 독성이 있으며 섭취 전 반드시 충분히 익혀야 한다. 강한 불에서 최소 10-15분 이상 조리한다. 제대로 익혔더라도 일부 사람은 알레르기 반응이나 소화 불량을 겪는다. 내성을 확인하기 위해 먼저 소량을 먹어본다. 미리 데치면 위장 자극 물질과 쓴맛을 줄이는 데 도움이 된다. 술과 함께 먹지 말 것 - 뽕나무버섯은 술과 함께 먹으면 부작용을 일으킬 수 있다(Coprinopsis와 유사). 어리고 단단한 개체만 채취한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713848.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 88552,
+      "width": 640,
+      "height": 482,
+      "sha256": "34090da069cb4b8a3e9d18038d30d81e1ede01849df4cd7c2e790e1b1dcfe045"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713849.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 96164,
+      "width": 640,
+      "height": 482,
+      "sha256": "70a5d56d5c39a6061d328040d5578fb2b56b5789de7702de08045cf7bbd19e93"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

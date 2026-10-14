@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "morsny",
+  "scientific_name": "Morchella snyderi",
+  "common_name": "Snyder's Morel (Morchella snyderi)",
+  "edibility": "E",
+  "description": "Kapelusz o wysokości 3–10 cm, stożkowaty do wydłużonego, wzór plastra miodu żeberek i jamek. Barwa charakterystyczna: młode owocniki żółte do brązowych, dojrzewając do brązowej lub czarnobrązowej na żeberkach kapelusza, przy jaśniejszych jamkach; wysuszone okazy ciemnieją do ciemnobrązowego do czarnego. Pomimo jasnego początkowego zabarwienia genetycznie grupuje się z czarnymi smardzami (klad elata). Trzon proporcjonalny do kapelusza, jasny, pusty, gładki do lekko pomarszczonego. Całkowicie pusty od wierzchołka kapelusza przez trzon po przecięciu wzdłuż. Wysyp zarodników kremowy do żółtawego.",
+  "habitat": "Występuje pod drzewami iglastymi w zachodnich lasach górskich, szczególnie związany z daglezją (Pseudotsuga menziesii), sosną żółtą (Pinus ponderosa) i jodłą kalifornijską (Abies concolor). Owocuje w nienaruszonym starodrzewie iglastym, lekko naruszonych miejscach jak kempingi i drogi leśne oraz na obszarach z ciężkim sprzętem i resztkami drzewnymi. W przeciwieństwie do wielu zachodnich smardzów NIE jest głównie zależny od ognia; może pojawiać się kilka lat po pożarach, ale powszechnie owocuje w niespalonych lasach. Jeden z niewielu zachodnich smardzów niezawodnie znajdowanych w naturalnych siedliskach bez niedawnego pożaru.",
+  "season": "Wiosna do wczesnego lata (kwiecień–czerwiec w większości obszarów). Czas zależy od wysokości i topnienia śniegu; wyższe stanowiska owocują później. W Sierra Nevada i Kaskadach pojawianie się następuje po topnieniu śniegu, gdy gleba się ociepla. W pasmach nadbrzeżnych może owocować wcześniej (kwiecień–maj), podczas gdy wysoko górskie stanowiska owocują od maja do czerwca.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia",
+    "Góry Skaliste"
+  ],
+  "lookalikes": [
+    "piestrzenica (gatunki Gyromitra) – TRUJĄCA: mózgowato pomarszczony lub klapowany kapelusz zamiast plastra miodu żeberek, kapelusz przyrośnięty tylko na wierzchołku, wnętrze komorowe, a nie całkowicie puste, czerwonobrązowa barwa. Zawiera śmiertelnie trującą gyromitrynę.",
+    "Morchella tomentosa (smardz szary) – jadalny: puszysta i owłosiona faktura, szczególnie na młodych trzonach, ograniczony do pogorzelisk, grubszy dwuścienny trzon. Wymaga tego samego przygotowania.",
+    "inne czarne smardze (grupa M. elata) – jadalne: różne zachodnie gatunki czarnych smardzów trudne do odróżnienia w terenie, wszystkie mają podobną ekologię i wartość kulinarną, prawidłowe ugotowanie niezbędne dla wszystkich.",
+    "Morchella importuna (smardz parastożkowaty) – jadalny: podobny wygląd, ale występuje w miejskiej ściółce z wiórów, a nie w naturalnych lasach iglastych, drabinkowy wzór żeberek."
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoko ceniony grzyb kulinarny o doskonałym smaku, poszukiwany przez grzybiarzy w zachodnich górach. Musi być dokładnie ugotowany przez 15–25 minut; surowe lub niedogotowane smardze zawierają toksyny hydrazynowe powodujące silne nudności, wymioty i dolegliwości żołądkowe. Gotuj w temperaturze powyżej 71°C, aby rozłożyć toksyczne związki. Niektóre osoby doświadczają reakcji alergicznych nawet po prawidłowym przygotowaniu; przy pierwszej próbie spożywaj małe porcje. Zgłaszano rzadkie niepożądane reakcje przy spożyciu z alkoholem. Kluczowe jest odróżnienie od śmiertelnie trujących piestrzenic (Gyromitra), które mają mózgowato pomarszczone kapelusze, a nie wzory plastra miodu, oraz komorowe (nie puste) wnętrza.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1672682.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-27",
+      "file_size_bytes": 63674,
+      "width": 640,
+      "height": 427,
+      "sha256": "33ccb0ad8089463faff78b6f80c699296e83aff8ba45680027a7953bce20b952"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1668917.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-13",
+      "file_size_bytes": 136614,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef847e0c1c4278192c4cf822dae33d3130dfa2cab3defbac8d80f41f0396b9b4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.300097",
+  "source_language": "en"
+}

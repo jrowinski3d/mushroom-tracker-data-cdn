@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "mersum",
+  "scientific_name": "Meripilus sumstinei",
+  "common_name": "Black-staining Polypore (Meripilus sumstinei)",
+  "edibility": "E",
+  "description": "Gran roseta compuesta de 20-60+ cm de ancho formada por muchos sombreros superpuestos en forma de abanico de 5-15 cm de ancho que surgen de una base central. Sombreros de beige pálido a marrones que se ENNEGRECEN al magullarse o con la edad: característica diagnóstica. Superficie de poros blanca a crema que también se ennegrece. Textura suave y esponjosa. Puede pesar 5-14+ kg. Ennegrecimiento negro distintivo.",
+  "habitat": "Saprobia y parásita en las bases de árboles de frondosas vivos y muertos, particularmente roble, arce, haya y olmo. Causa podredumbre blanca de las raíces y la parte baja del tronco. Forma grandes rosetas en las bases de los árboles, tocones y raíces enterradas. Común en bosques maduros de frondosas y entornos urbanos.",
+  "season": "Desde finales del verano hasta el otoño, típicamente julio-octubre. Fructificación máxima en agosto-septiembre. Puede brotar varias veces por temporada. Más abundante a finales del verano. A menudo en el mismo lugar cada año.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste",
+    "sureste de Estados Unidos",
+    "región de los Grandes Lagos",
+    "Pacífico Noroeste",
+    "ampliamente extendido en Norteamérica"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (gris-marrón, no se ennegrece, diferente disposición de sombreros)",
+    "Bondarzewia berkeleyi (más clara, sombreros más grandes, no se ennegrece rápidamente)",
+    "Otras grandes rosetas de políporos (no se ennegrecen al manipularse)",
+    "Polyporus umbellatus (más pequeño, estructura diferente)"
+  ],
+  "safety_notes": "COMESTIBLE cuando es muy joven pero no selecta: solo los ejemplares jóvenes y tiernos son apetecibles; los viejos se vuelven duros y amargos. El rápido ennegrecimiento al tocarlo es distintivo pero no afecta a la comestibilidad de los ejemplares jóvenes. Debe cocinarse a fondo. Generalmente no es buscada debido a su sabor mediocre y a su tendencia a causar molestias digestivas en algunas personas. Coseche solo porciones muy jóvenes, blancas y tiernas. Existen mejores políporos comestibles.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688474.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 86536,
+      "width": 482,
+      "height": 640,
+      "sha256": "d11d8bcfd4625365125d32a50af1e5f58bde58d9859e3f55d5d9057146549163"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688475.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 89766,
+      "width": 482,
+      "height": 640,
+      "sha256": "14784a9de79f16b8dd7a16e1acd87da31b87a5c26de5c66af1759e7beaa1afac"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trical",
+  "scientific_name": "Tricholoma caligatum",
+  "common_name": "California Matsutake (Tricholoma caligatum)",
+  "edibility": "E",
+  "description": "캘리포니아 송이는 튼튼한 흰색~크림색 갓(지름 5–15cm)으로 나이가 들면 종종 갈색 얼룩이나 고리 무늬가 생긴다. 갓은 볼록하고 건조하며 매끄럽거나 약간 비늘/섬유상이다. 주름살은 흰색~크림색으로 대에 붙고 빽빽하며 갈색으로 얼룩질 수 있다. 대는 굵고 단단하며 흰색으로, 내피막에서 온 막질~솜털 같은 턱받이가 있다 - 턱받이 특징은 다양할 수 있다. 핵심 특징은 독특한 매콤하고 계피 향 같은 방향성 냄새이다. 살은 흰색으로 단단하다. 포자문은 흰색. 캘리포니아 해안 산맥 서식지와 특정 수종 공생으로 구별된다.",
+  "habitat": "캘리포니아의 침엽수 및 활엽수와 균근을 이룬다. 특히 라이브오크(Quercus agrifolia)·타노악(Notholithocarpus)·마드론(Arbutus)·더글러스퍼와 공생한다. 캘리포니아 해안 삼림에서 균근 관계를 맺는다. 낙엽층이나 부엽토 지상에서 자란다. 해안 산맥부터 시에라네바다 산록까지의 혼합 상록수림에서 발견된다.",
+  "season": "늦가을~겨울(11~2월)로 캘리포니아 우기에 열매를 맺는다 - 다른 송이보다 늦다.",
+  "regions": [
+    "캘리포니아 해안",
+    "시에라네바다 산록",
+    "해안 산맥",
+    "북캘리포니아",
+    "오리건 접경 지역"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare - 태평양 북서부 송이, 침엽수 전용",
+    "다른 Tricholoma 종들 - 다양하나 계피 향이 없음",
+    "Amanita 종들 - 독성 있음 - 밑동에 외피막이 있음",
+    "Catathelasma - 이중 막 구조"
+  ],
+  "safety_notes": "최상급 식용: 캘리포니아에서 높이 평가받아 상업 채집된다. 매콤한 계피 향이 진단 포인트이다. 어리고 단단할 때가 가장 좋다. 침엽수에 더해 활엽수(참나무·타노악·마드론)와 공생하는 점이 송이 중 독특하다. 중요: 독성 Amanita 종을 배제하기 위해 반드시 외피막(밑동의 컵)이 없음을 확인할 것. 턱받이와 독특한 향이 동정을 확정한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709829.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 48448,
+      "width": 640,
+      "height": 427,
+      "sha256": "3d523855db60033f8584ae1a15f1acd6727619de2cbc5db25006025b3844aea8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709830.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 39640,
+      "width": 640,
+      "height": 427,
+      "sha256": "1342cf701d1c7ffb2a2df10c0f7671b8bb3dd32a98a987505432c3b3c9bf7046"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

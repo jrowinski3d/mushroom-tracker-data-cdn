@@ -1,0 +1,53 @@
+{
+  "mushroom_id": "morame",
+  "scientific_name": "Morchella americana",
+  "common_name": "colmenilla amarilla",
+  "edibility": "E",
+  "description": "Sombrero de 3-10 cm (1-4 pulg.) de alto, en forma de cono a huevo o de piña con una red en forma de panal de crestas y fosas dispuestas principalmente en vertical; el color va del gris al blanquecino al amarillento, con crestas más pálidas que las fosas. Pie más corto que el sombrero, a veces bulboso, de 2-9 cm de largo, arrugado y a menudo manchado de amarillo, de blanco a amarillento, hueco. Completamente hueco desde la punta del sombrero hasta el pie cuando se corta longitudinalmente. Esporada de blanquecina a crema.",
+  "habitat": "Muy extendida bajo frondosas, especialmente fresno, olmo (en particular olmos moribundos o recientemente muertos), álamo, álamo balsámico, sicómoro, tuliperos y manzanos en viejos huertos abandonados. En las regiones occidentales se encuentra típicamente con álamos en las riberas de los ríos. Ocasionalmente asociada con coníferas, en particular pino blanco. Prefiere suelos húmedos y bien drenados en bosques y zonas ribereñas.",
+  "season": "Primavera (marzo-junio, con fructificación máxima en abril-mayo en la mayoría de las regiones). La fructificación se desencadena cuando la temperatura del suelo alcanza aproximadamente 50 °F (10 °C) combinada con humedad adecuada. Más temprana en las zonas del sur (marzo-abril), más tardía en las regiones del norte y las montañas (mayo-junio).",
+  "regions": [
+    "noreste",
+    "Atlántico medio",
+    "Medio Oeste",
+    "Grandes Lagos",
+    "sureste",
+    "Montañas Rocosas",
+    "Pacífico Noroeste",
+    "California"
+  ],
+  "lookalikes": [
+    "Falsa colmenilla (especies de Gyromitra): TÓXICA: sombrero arrugado como un cerebro en lugar de crestas en forma de panal, sombrero unido solo en la punta (no fusionado con el pie), con cámaras en lugar de completamente hueco, a menudo marrón rojizo. Contiene toxinas mortales que persisten incluso después de cocinarla.",
+    "Morchella ulmaria: comestible: apariencia casi idéntica, áreas de distribución superpuestas en la región de los Grandes Lagos, no se puede distinguir con fiabilidad sin análisis de ADN, mismos requisitos de comestibilidad y preparación.",
+    "Half-free Morel (Morchella punctipes): comestible: el sombrero se une a mitad del pie en lugar de estar fusionado en toda su longitud, aspecto de falda, sombrero proporcionalmente más corto.",
+    "Otras especies de Morchella: comestible: M. esculenta (colmenilla amarilla casi idéntica), M. importuna (más oscura, en mantillo de jardines), todas las colmenillas verdaderas comparten el mismo valor culinario y requisitos de cocción."
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: una de las setas silvestres más apreciadas de Norteamérica, muy valorada en la cocina. Debe cocinarse a fondo durante al menos 15-25 minutos a fuego medio; los ejemplares crudos o poco cocinados contienen compuestos de hidrazina que causan náuseas severas, vómitos y molestias gástricas. Cocinar por encima de 160 °F (71 °C) destruye los compuestos tóxicos. Algunas personas pueden experimentar reacciones alérgicas incluso bien preparadas; pruebe primero pequeñas cantidades. Se han reportado raras reacciones adversas con el consumo de alcohol. Es crítico distinguirla de las mortales falsas colmenillas (Gyromitra), que tienen sombreros arrugados como cerebros en lugar de patrones en forma de panal.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751691.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 103280,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3b1ae2def037cc001b8b159ede57e88fa653c4695528be30768ba492bcc818"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751690.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 122176,
+      "width": 480,
+      "height": 640,
+      "sha256": "65c699f6f9b0055e3654f3987b1070e6147d0da24fd69f93c28fb3d62cbd9ff8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

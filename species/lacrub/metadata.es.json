@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacrub",
+  "scientific_name": "Lactarius rubrilacteus",
+  "common_name": "Bleeding Milk Cap (Lactarius rubrilacteus)",
+  "edibility": "E",
+  "description": "El níscalo sangrante presenta un sombrero anaranjado a pardo-anaranjado (5-15 cm) con zonas concéntricas más oscuras. Las láminas son de color anaranjado pálido, apretadas, decurrentes. El pie es anaranjado con escrobiculaciones. RASGO CLAVE: LÁTEX (leche) DE ROJO OSCURO a ROJO VINO que brota al cortarlo, de un distintivo color rojo sangre. El látex tiñe lentamente los tejidos de rojo púrpura. La carne es pálida. Esporada de crema pálida a rosada.",
+  "habitat": "Micorrícico con CONÍFERAS, especialmente abetos, píceas y tsugas en el oeste de Norteamérica. Crece en el suelo en bosques de coníferas, bosques de montaña. Prefiere suelos bien drenados.",
+  "season": "Otoño (septiembre-noviembre), fructificando tras las lluvias en las montañas.",
+  "regions": [
+    "Pacífico Noroeste",
+    "Montañas Rocosas",
+    "norte de California",
+    "Columbia Británica"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus: látex anaranjado, no rojo",
+    "Lactarius sanguifluus: látex rojo similar, huésped diferente",
+    "Otros Lactarius anaranjados: compruebe el color del látex"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciado por su sabor suave. El distintivo LÁTEX ROJO OSCURO es diagnóstico. Se tiñe de púrpura al cocinarlo, es normal. Mejor joven y firme. Cocine bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1658712.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48660,
+      "width": 480,
+      "height": 640,
+      "sha256": "330d6d686c4c6eec82f184e2024bc25c9c78d3ccecdff9997803a1ae40d383e3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1577192.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-09",
+      "file_size_bytes": 118808,
+      "width": 640,
+      "height": 433,
+      "sha256": "ba2520b53037757160ff97986ba5a026033f1816e35e91e7e692e4cfa1760b21"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:48:51.384959",
+  "source_language": "en"
+}

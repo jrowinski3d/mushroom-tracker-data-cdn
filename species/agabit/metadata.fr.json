@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agabit",
+  "scientific_name": "Agaricus bitorquis",
+  "common_name": "Agaric des trottoirs",
+  "edibility": "E",
+  "description": "L'agaric des trottoirs ou agaric printanier est une espèce trapue et robuste au chapeau de 5 à 15 cm de diamètre, d'abord arrondi puis convexe. Le chapeau est blanc à crème, lisse ou légèrement craquelé, souvent marqué de taches jaune-brun avec l'âge ou au toucher. Les lames sont libres, d'abord rose pâle puis brun chocolat. Le pied mesure 3 à 8 cm de hauteur, très court et trapu (distinctif), blanc, avec un double anneau (apparaissant souvent comme deux anneaux distincts, d'où « bitorquis »). La chair est ferme, blanche, à l'odeur douce et agréable. Remarquablement résistant et tenace comparé aux autres Agaricus.",
+  "habitat": "Pousse dans des environnements urbains très perturbés, notamment les fissures de trottoirs, les sols compactés le long des routes, les parkings, les allées de gravier, les massifs paysagers et sous l'asphalte. Remarquablement tolérant aux sols pauvres et aux perturbations humaines. Aussi dans les jardins et les pelouses à sol durci. Fructifie de manière dispersée à groupée, perçant souvent les surfaces dures.",
+  "season": "Du printemps à l'automne (avril-novembre) avec un pic à la fin du printemps et au début de l'été. Peut fructifier toute l'année dans les climats doux comme la Californie. Plus tolérant au froid que la plupart des espèces d'Agaricus, apparaissant souvent par temps frais quand les autres sont absents.",
+  "regions": [
+    "Europe (indigène)",
+    "Amérique du Nord (répandue, toutes régions)",
+    "Californie (très commune)",
+    "Zones urbaines du monde entier",
+    "Climats tempérés à subtropicaux",
+    "Cosmopolite dans les villes"
+  ],
+  "lookalikes": [
+    "Agaricus campestris (comestible) — plus délicat, pied plus élancé, habitat des prairies",
+    "Agaricus bisporus (champignon cultivé, comestible) — semblable mais cultivé, moins robuste",
+    "Jeunes espèces d'Amanita (certaines mortelles) — avec une volve à la base, lames ne virant pas au rose-brun",
+    "Agaricus bernardii (comestible) — espèce côtière, habitat saumâtre, aspect semblable"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : excellente chair à la texture dense et ferme qui tient bien à la cuisson. Souvent plus savoureux que les champignons de Paris du commerce. Bien cuire. Identification critique : vérifier le pied très COURT ET TRAPU (caractéristique distinctive), le DOUBLE anneau, des lames LIBRES virant au rose puis au brun chocolat, une sporée BRUN CHOCOLAT, AUCUNE volve à la base, l'habitat urbain/perturbé. La carrure trapue et l'habitat des trottoirs sont distinctifs. Bien laver, les spécimens poussant souvent dans des environnements urbains sales. Très résistant au bleuissement et aux dégâts d'insectes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667634.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 30240,
+      "width": 299,
+      "height": 640,
+      "sha256": "b8c0822eca069f9adac112fea1b3b5f29ede428a0e55ca49c9c310abc42faec6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667635.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 44562,
+      "width": 640,
+      "height": 351,
+      "sha256": "a0618a54d140d180bee42b7373c27eb12cfb3ab5d05f36b110833f80a157b540"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigre",
+  "scientific_name": "Suillus grevillei",
+  "common_name": "Lärksopp",
+  "edibility": "E",
+  "description": "Lärksoppen har en karakteristisk klart gyllengul till orangegul hatt (3–10 cm) med mycket slemmig, klibbig yta när den är våt. Porerna är klargula och blir brunaktiga vid beröring. En tydlig hinnaktig ring på den gula foten blir ofta brunfläckad av sporer. Gult kött missfärgas inte. De klargula färgerna och associationen med lärk är kännetecken. Sporfällningen är kanelbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med lärk (Larix-arter) – kan inte fruktsätta utan lärkträd. Bildar obligatoriska associationer med europeisk lärk, västamerikansk lärk och amerikansk lärk. Finns i lärkplantager och naturliga lärkskogar.",
+  "season": "Sensommar till höst (augusti–november) med huvudsäsong i september–oktober. Fruktsätter synkront med lärken i tempererade områden.",
+  "regions": [
+    "Nordvästra USA (västamerikansk lärk)",
+    "Klippiga bergen",
+    "Skogar i nordöstra USA (amerikansk lärk)",
+    "Området kring Stora sjöarna",
+    "Lärkplantager i hela Nordamerika",
+    "Kanada",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Suillus luteus – mörkare hatt, växer med tall inte lärk",
+    "Andra Suillus-arter – ingen är lika klargul",
+    "Boletus-arter – inte klibbiga, annan växtplats",
+    "Inga giftiga liknande arter när den hittas med lärk"
+  ],
+  "safety_notes": "ÄTLIG: Lärksopp är en god matsvamp med fast konsistens och mild smak. Ta bort den mycket slemmiga hatthuden före tillagning. Den obligatoriska associationen med lärk gör identifieringen enkel – om inga lärkträd finns i närheten är det inte denna art. Vissa får magbesvär. Tillaga noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1514245.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 81080,
+      "width": 480,
+      "height": 640,
+      "sha256": "2107c1ba7397ae9b012d8dde6e396d9ab6720ac9ad6b0d69cceb47499a0eb10b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1514246.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 102390,
+      "width": 480,
+      "height": 640,
+      "sha256": "63324e26cc0f1ce46d1f506e95ec446d2124bd4d7dfd867474f8d87d9e5f4991"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

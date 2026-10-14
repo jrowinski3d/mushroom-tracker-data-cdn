@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laehur",
+  "scientific_name": "Laetiporus huroniensis",
+  "common_name": "솔송닭벼슬버섯 (Laetiporus huroniensis)",
+  "edibility": "E",
+  "description": "황유황색~크림색 관공면을 지닌 선명한 주황색~연어색 선반이 폭 2~10인치의 겹겹이 큰 선반을 이루는 솔송나무 종이다. 관공이 L. sulphureus보다 흔히 더 창백한 노란색이다. 어릴 때는 부드럽고 즙이 많다. 북동부 분포와 동부 솔송나무에 대한 엄격한 기주 특이성으로 구분된다. 줄기와 통나무에 로제트를 이룬다. 일년생 선반균이다.",
+  "habitat": "살아 있는 및 죽은 동부 솔송나무(Tsuga canadensis)에 기생 및 부생, 기주 특이성 강함. 북동부 산림에서 솔송나무에 강하게 의존한다. 줄기, 그루터기, 쓰러진 통나무에 선반균을 이룬다. 갈색 입방심재부후를 일으킨다. 동부 솔송나무가 있는 곳에서 흔하다.",
+  "season": "여름부터 가을, 보통 7~10월. 8~9월에 결실 최성기. 따뜻한 여름 비 온 뒤 다발로 난다. 다른 북부 Laetiporus 종과 비슷한 시기.",
+  "regions": [
+    "미국 북동부",
+    "오대호 지역",
+    "애팔래치아산맥",
+    "캐나다 남동부",
+    "동부 솔송나무 분포지",
+    "뉴잉글랜드~조지아"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (서부 산지, 침엽수 다름)",
+    "Laetiporus sulphureus (활엽수에, 침엽수 아님)",
+    "기타 Laetiporus 종 (기주/지역 다름)",
+    "광대버섯(Omphalotus) — 유독, 주름살 있음(관공 아님)"
+  ],
+  "safety_notes": "어릴 때 식용이나 주의: 다른 침엽수 Laetiporus와 마찬가지로 활엽수 종보다 소화불량을 더 흔히 일으킨다. 솔송나무 개체는 예민한 사람에게 위장 장애를 일으킬 수 있다. 매우 어리고 부드러운 개체만 채취하라. 내성을 시험하려고 소량부터 시작하라. 충분히 익혀 먹으라. 솔송나무 기주와 북동부 분포가 동정을 돕는다. 잘 견디는 사람도 있고 문제를 겪는 사람도 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1350974.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-10",
+      "file_size_bytes": 103126,
+      "width": 640,
+      "height": 480,
+      "sha256": "0df314aefa46cac6defefc119c354d4312bbc0555697776c22c1fb4101c223ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1350971.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-09",
+      "file_size_bytes": 55286,
+      "width": 640,
+      "height": 459,
+      "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

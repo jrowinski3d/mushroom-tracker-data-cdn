@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "tylfel",
+  "scientific_name": "Tylopilus felleus",
+  "common_name": "Boleto amargo",
+  "edibility": "U",
+  "description": "El boleto amargo se parece al boleto real, pero tiene unos distintivos poros rosas. Presenta un sombrero de color marrón a pardo (5-15 cm) con superficie seca. Los poros son blancos cuando es muy joven, volviéndose rápidamente rosados a color carne — una característica diagnóstica clave. El pie grueso tiene reticulación marrón (patrón parecido a una red). La carne blanca no azulea, pero sabe INTENSAMENTE AMARGA. Esporada de color marrón rosado.",
+  "habitat": "Micorrícico con coníferas y frondosas en bosques mixtos. Se encuentra con pino, pícea, roble y haya. Prefiere suelos ácidos y zonas bien drenadas. Común en bosques mixtos maduros.",
+  "season": "De verano a otoño (julio-octubre), con fructificación máxima en agosto-septiembre. Fructifica con el clima cálido y húmedo tras las lluvias.",
+  "regions": [
+    "este de Norteamérica",
+    "bosques del noreste",
+    "región de los Grandes Lagos",
+    "montes Apalaches",
+    "estados del sureste",
+    "Pacífico Noroeste",
+    "extendida por toda Norteamérica"
+  ],
+  "lookalikes": [
+    "Boletus edulis (boleto real) — poros de blancos a amarillos, NO rosas, no amargo",
+    "Boletus subcaerulescens — poros amarillos que azulean",
+    "Otras especies de Boletus — comprobar el color de los poros con cuidado",
+    "Si los poros son rosas y el sabor es amargo, es boleto amargo"
+  ],
+  "safety_notes": "NO COMESTIBLE: Tylopilus felleus, conocido comúnmente como boleto amargo, es intensamente amargo — tan amargo que un solo ejemplar puede arruinar una comida entera de setas. El amargor persiste e incluso se intensifica al cocinarlo. Aunque no es tóxico, es completamente desagradable e incomestible. A menudo se confunde con apreciados boletos comestibles como el porcini; comprobar la superficie rosa de los poros y el patrón reticulado del pie para distinguirlo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718850.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 50034,
+      "width": 640,
+      "height": 427,
+      "sha256": "e44a79ac4907688e85b892bc0db5944518b7238c1b1d7ef058f6f6b65db65502"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718851.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 51248,
+      "width": 640,
+      "height": 427,
+      "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

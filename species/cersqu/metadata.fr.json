@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "cersqu",
+  "scientific_name": "Cerioporus squamosus",
+  "common_name": "Polypore écailleux",
+  "edibility": "E",
+  "description": "Grand carpophore en console en forme d'éventail de 10 à 30 cm de large, avec une surface crème à fauve caractéristique couverte d'écailles brunes superposées ressemblant à des plumes de faisan. Grands pores anguleux blancs à crème en dessous. Pied épais, excentré, brun-noir (lorsqu'il pousse sur des surfaces verticales). Forte odeur de concombre ou d'écorce de pastèque. Tendre quand il est jeune, coriace avec l'âge. Motif écailleux très distinctif.",
+  "habitat": "Saprotrophe sur les feuillus morts et dépérissants, les souches et les troncs, en particulier l'orme, l'érable, le frêne, le saule et l'érable négondo. Cause une pourriture blanche. Forme de grandes consoles sur les troncs, les branches et les troncs tombés. Commun sur les ormes morts sur pied et autres feuillus en milieu urbain et forestier.",
+  "season": "Du printemps à l'été, généralement d'avril à juillet. Fructification maximale en mai-juin. L'un des premiers grands polypores. Courte période de fructification — apparaît rapidement au printemps. Peut refaire une pousse à l'automne.",
+  "regions": [
+    "Est de l'Amérique du Nord",
+    "Midwest",
+    "Pacifique Nord-Ouest",
+    "région des Grands Lacs",
+    "répandu dans toute l'Amérique du Nord",
+    "Europe et Asie"
+  ],
+  "lookalikes": [
+    "Espèces de Polyporus (plus petites, motif d'écailles différent)",
+    "Autres polypores écailleux (taille différente, arbres hôtes différents)",
+    "Espèces d'Inonotus (couleur différente, pas d'écailles)",
+    "Pas de sosies dangereux — très distinctif"
+  ],
+  "safety_notes": "COMESTIBLE uniquement très jeune : seuls les jeunes spécimens tendres (moins de 10 cm) à la texture souple valent la peine d'être mangés — ils ont un goût de concombre. Les spécimens âgés deviennent rapidement coriaces et non comestibles comme du caoutchouc ou du cuir. À récolter au stade bouton pour la consommation. Bien cuire. La forte odeur de concombre est distinctive. Généralement sans danger, mais la période de comestibilité est très brève. La plupart des spécimens rencontrés sont trop vieux et coriaces pour être mangés.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750888.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 117050,
+      "width": 640,
+      "height": 480,
+      "sha256": "6784806d7184bcd1bf84aadc36d73634e1df251be0a75d436880aaf5f1516bcf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750889.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 143762,
+      "width": 480,
+      "height": 640,
+      "sha256": "d2f449e8570e864f434ce05a81072a3d2f52db49f2d507865e13ff76c0495dff"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

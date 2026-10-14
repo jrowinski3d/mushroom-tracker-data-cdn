@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cratub",
+  "scientific_name": "Craterellus tubaeformis",
+  "common_name": "Trattkantarell",
+  "edibility": "E",
+  "description": "Trattkantarellen är en liten svamp med brunaktigt gul till gråbrun hatt 1–6 cm bred som blir djupt trattformad med åldern. Hatten har en tunn, vågig kant och är ofta perforerad i mitten, med öppning ned i den ihåliga foten. Undersidan har grunda, trubbiga, gaffelformade åsar (INTE äkta skivor) som är gulgrå till blekgula, glest stående och löper nedför foten. Den distinkta foten är 2–8 cm hög, ihålig, smal och klart gul till orangegul (vilket gett den dess engelska namn yellowfoot). Köttet är tunt, gulaktigt, med mild doft. Sporfällningen är vit till blekgul.",
+  "habitat": "Lever i mykorrhiza med barrträd, särskilt gran, ädelgran och hemlock i nordliga och bergiga skogar. Finns i mossiga barrskogar, ofta i stora trupper på mossbeklädd mark, multnande ved eller bland barr. Föredrar svala, fuktiga miljöer på högre höjder eller nordliga breddgrader.",
+  "season": "Sen höst till vinter (oktober–februari), en av de senast fruktsättande ätliga svamparna. Dyker ofta upp efter de första frosterna och kan fruktsätta under snö. Högsäsongen är vanligen november–januari i nordvästra Stillahavsområdet och nordliga regioner.",
+  "regions": [
+    "Nordvästra Stillahavsområdet (Oregon, Washington, British Columbia)",
+    "Norra USA (från Maine till Minnesota)",
+    "Regionen kring de stora sjöarna",
+    "Norra Klippiga bergen",
+    "Nordöstra stater",
+    "Norra Europa (förekommer även)"
+  ],
+  "lookalikes": [
+    "Craterellus ignicolor – ätlig, mer gyllengul överlag, finns i östra Nordamerika",
+    "Små Cantharellus-arter – ätliga, robustare, saknar den distinkta gula foten och ihåliga mitten",
+    "Falsk kantarell (Hygrophoropsis aurantiaca) – inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange"
+  ],
+  "safety_notes": "ÄTLIG: Trattkantarellen är en utmärkt matsvamp trots sin lilla storlek. Den distinkta klart gula ihåliga foten och bruna hatten gör den lätt att identifiera. Liksom kantareller har den trubbiga åsar snarare än äkta skivor, även om de är grunda och ibland knappt synliga. Inga giftiga förväxlingssvampar finns. Den lilla storleken gör att man behöver samla många till en måltid, men de fruktsätter ofta rikligt. Smaken är finstämd och lätt pepprig; utmärkt i soppor, pasta eller stekt. Kan torkas framgångsrikt för senare bruk.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719682.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 69358,
+      "width": 480,
+      "height": 640,
+      "sha256": "fc9fb71e90d30d54edf3e5aa489e4451406c1669a8b5215ca31bdf4596317759"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719683.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 45096,
+      "width": 480,
+      "height": 640,
+      "sha256": "f91bd6be1fc4662333cd75708085d399ebe96caae4a04e3927a4f45985eb9c7c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

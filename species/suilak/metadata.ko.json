@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilak",
+  "scientific_name": "Suillus lakei",
+  "common_name": "Western Painted Suillus (Suillus lakei)",
+  "edibility": "E",
+  "description": "레이크 그물버섯은 독특한 적오렌지색~녹슨 오렌지색 갓(지름 5–15cm)으로, 젖으면 표면이 끈적거리고 마르면 비늘 모양이 특징적이다. 관공은 크고 각이 진 밝은 노란색으로 갈색으로 변색된다. 노란색 대에는 적갈색 선점이 있고 턱받이가 없다. 노란색 살은 자르면 적갈색으로 변색된다. 밝은 색과 선점이 진단 포인트. 포자문은 계피갈색.",
+  "habitat": "태평양 북서부 삼림에서 더글러스퍼와만 균근을 이룬다. 더글러스퍼와 절대적 공생을 이룬다. 순수 더글러스퍼 임분과 더글러스퍼가 우점하는 혼합 침엽수림에서 발견된다.",
+  "season": "가을(9~11월)로 10월에 열매를 가장 많이 맺는다. 더글러스퍼 서식지의 가을비 뒤에 난다.",
+  "regions": [
+    "태평양 북서부",
+    "오리건",
+    "워싱턴",
+    "북캘리포니아",
+    "브리티시컬럼비아",
+    "밴쿠버섬",
+    "해안 더글러스퍼 지대"
+  ],
+  "lookalikes": [
+    "Suillus pungens - 역시 더글러스퍼와 공생하나 갈색이 더 많음",
+    "다른 Suillus 종들 - 색과 수종 공생이 다름",
+    "Leccinum 종들 - 선점이 아닌 거친 대",
+    "Boletus 종들 - 끈적거리지 않고 외형이 다름"
+  ],
+  "safety_notes": "식용 가능: 레이크 그물버섯은 조직이 단단하고 맛이 순한 식용버섯이다. 요리 전에 끈적거리는 갓 표피를 제거할 것. 밝은 오렌지색과 오로지 더글러스퍼와의 공생 덕분에 동정이 쉽다. 일부 사람은 소화불량을 겪을 수 있다. 반드시 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709514.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-26",
+      "file_size_bytes": 62464,
+      "width": 640,
+      "height": 480,
+      "sha256": "9579c5a5f755a3673e808110cdf4eec0260e4377a6a3996da18df50cc2a0b2fc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709502.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-24",
+      "file_size_bytes": 119214,
+      "width": 480,
+      "height": 640,
+      "sha256": "6675cb1f67829b3437f2b76ef7f0b720b7f7db65efe92c9d62381199da3bf13f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.555992",
+  "source_language": "en"
+}

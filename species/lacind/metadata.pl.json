@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacind",
+  "scientific_name": "Lactarius indigo",
+  "common_name": "Mleczaj indygowy",
+  "edibility": "E",
+  "description": "Mleczaj indygowy ma uderzająco INDYGOWO-NIEBIESKI kapelusz (5–15 cm), z wiekiem blednący do szarawego lub zielonkawego. Blaszki niebieskie, gęste. Trzon niebieski. KLUCZ: CIEMNE INDYGOWO-NIEBIESKIE MLECZKO po przekrojeniu — nie do pomylenia! Mleczko i miąższ powoli przebarwiają się na zielono. Cały grzyb jest niebieski. Wysyp zarodników kremowy. Jeden z najbardziej charakterystycznych grzybów.",
+  "habitat": "Mikoryzowy z drzewami liściastymi i SOSNAMI w południowo-wschodnich USA i Meksyku. Rośnie na ziemi w lasach mieszanych, dębowo-sosnowych. Rozproszony lub w grupach. Pospolity w południowych lasach.",
+  "season": "Od lata do jesieni (czerwiec–listopad), długa pora owocnikowania w ciepłym klimacie.",
+  "regions": [
+    "Południowy Wschód",
+    "Teksas",
+    "Meksyk",
+    "Środkowy Atlantyk",
+    "Wybrzeże Zatoki Meksykańskiej"
+  ],
+  "lookalikes": [
+    "BRAK GATUNKÓW PODOBNYCH — niebieska barwa i niebieskie mleczko są unikatowe"
+  ],
+  "safety_notes": "JADALNY: Nie do pomylenia INDYGOWO-NIEBIESKA BARWA i NIEBIESKIE MLECZKO sprawiają, że identyfikacja jest niezawodna. Łagodny smak, lekko pieprzny. Barwi potrawy na niebiesko/zielono — to normalne. Najlepszy młody. Popularny w Meksyku. Gotować dokładnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721805.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 68194,
+      "width": 640,
+      "height": 427,
+      "sha256": "a2e72275996dbc2acc74b39bd093e3c70970209b21f6f919a6be24f0849b21ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721806.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 46472,
+      "width": 640,
+      "height": 427,
+      "sha256": "d1253a27350141fbac8ed1de140874ff71ffbfced03ecdfdd64cc92a14fdf6d8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

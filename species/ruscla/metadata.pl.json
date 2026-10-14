@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscla",
+  "scientific_name": "Russula claroflava",
+  "common_name": "gołąbek żółty",
+  "edibility": "E",
+  "description": "Gołąbek żółty ma jaskrawożółty kapelusz (3–10 cm), lepki. Blaszki białe do kremowych. Trzon biały. KLUCZ: JASKRAWOŻÓŁTY KAPELUSZ, KRUCHY MIĄŻSZ, rośnie w MOKRYCH/TORFOWYCH miejscach. Miąższ biały. Wysyp zarodników biały do kremowego. Smak łagodny do lekko piekącego.",
+  "habitat": "Mikoryzowa z brzozą i wierzbą w MOKRYCH miejscach – bagna, torfowiska, mokre lasy. Charakterystyczne siedlisko podmokłe. Gatunek północny. Rozproszona.",
+  "season": "Lato do jesieni (lipiec–wrzesień).",
+  "regions": [
+    "Północny Wschód",
+    "Górny Środkowy Zachód",
+    "Kanada",
+    "Europa Północna"
+  ],
+  "lookalikes": [
+    "Inne żółte gołąbki – sprawdź siedlisko",
+    "Mleczaje – mają MLECZKO"
+  ],
+  "safety_notes": "JADALNY: Łagodny smak. JASKRAWOŻÓŁTY + SIEDLISKO PODMOKŁE + KRUCHY MIĄŻSZ – diagnostyczne. Próba smaku (łagodne okazy jadalne). Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681665.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-09",
+      "file_size_bytes": 51142,
+      "width": 640,
+      "height": 550,
+      "sha256": "bd860f8e55839072f83b62dc560ed844b31f7c93e77777ce7007fb6f53b28d13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1681662.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-08",
+      "file_size_bytes": 27474,
+      "width": 640,
+      "height": 480,
+      "sha256": "40b560f384bb490cd8305e722afeafd8634a91715bdc1637b162df8f4e37f12f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

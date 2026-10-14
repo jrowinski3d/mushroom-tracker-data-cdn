@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepiri",
+  "scientific_name": "Lepista irina",
+  "common_name": "Flowery Blewit (Lepista irina)",
+  "edibility": "E",
+  "description": "플라워리 블루잇은 민자주방망이버섯(L. nuda)과 비슷하지만 대체로 색이 더 연하다. 갓은 지름 4-12cm로 볼록하다가 자라면서 편평해지며, 옅은 라일락색에서 분홍빛 라일락색 또는 담황색을 띠고 은은한 보라빛이 감돈다. 갓은 민자주방망이버섯보다 빨리 색이 바래어 대개 완전히 담황갈색이 된다. 표면은 매끄럽다. 주름살은 붙은주름살로 옅은 라일락색에서 분홍빛을 띠다가 옅은 황갈색이 된다. 대는 높이 4-8cm로 옅은 라일락색에서 흰빛을 띠고 보라빛이 감돌며, 기부가 약간 부풀어 있다. 살은 연하고 얇으며, 특유의 달콤한 꽃향기 같은 향(민자주방망이버섯보다 강하고 꽃 향이 더 진함)이 난다.",
+  "habitat": "활엽수림과 침엽수림, 숲 가장자리, 나무 근처 초지에서 발견된다. 낙엽층과 유기물이 풍부한 토양에서 자란다. 흩어져 있거나 무리 지어 열매를 맺으며, 때로는 버섯고리를 이룬다. 부식질이 풍부하고 수분이 잘 유지되는 곳을 선호한다.",
+  "season": "대부분 지역에서 늦여름부터 가을까지(8월-11월). 민자주방망이버섯보다 일찍 발생하며, 대개 혹한이 오기 전에 열매를 맺는다. 9월-10월이 최성기이다.",
+  "regions": [
+    "유럽(흔함)",
+    "북아메리카 동부(흔하지 않음)",
+    "태평양 북서부(가끔 발견)",
+    "전 세계 온대림",
+    "전반적으로 민자주방망이버섯보다 드묾"
+  ],
+  "lookalikes": [
+    "Lepista nuda(식용 가능) - 매우 비슷함, 색이 더 진한 보라색, 발생 시기가 더 늦음",
+    "Clitocybe nuda(동일 종) - Lepista nuda의 동종이명",
+    "Cortinarius 속(일부 치명적) - 녹슨 갈색 포자가 나며 분홍색이 아님",
+    "Laccaria 속(식용 가능) - 더 작고 전체적으로 고른 보라색"
+  ],
+  "safety_notes": "식용 가능 — 민자주방망이버섯과 동일한 주의사항: 반드시 완전히 익혀 먹어야 함 — 절대 날로 먹지 말 것. 일부 사람에게 알레르기 반응을 일으킬 수 있음. 강한 꽃 향기는 요리에 압도적일 수 있음. 내성을 확인하기 위해 먼저 소량만 시도할 것. Cortinarius와 구별하기 위해 분홍색 포자문을 확인할 것. 옅은 색과 강한 달콤한 향기가 진단적 특징. 민자주방망이버섯보다 흔히 채취되지 않음. 완전히 익히고 처음에는 소량만 먹을 것. 일부 사람은 향수 같은 냄새를 불쾌하게 느낄 수 있음. 식용 가능하나 주의할 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649896.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95348,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dac1ebaf3f7b1b474965747dad73ac4fd6aac9270bb58023ebd33017f0689b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649897.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 94302,
+      "width": 640,
+      "height": 480,
+      "sha256": "70fa8fb81c58d229ce5ed118b93a56066f1f7d3f3c9e264d3bc7e2b39bd640b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

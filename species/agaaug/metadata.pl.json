@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaaug",
+  "scientific_name": "Agaricus augustus",
+  "common_name": "pieczarka okazała",
+  "edibility": "E",
+  "description": "Pieczarka okazała to jeden z największych i najbardziej okazałych gatunków pieczarek, o kapeluszu 10-30 cm średnicy. Kapelusz pokryty koncentrycznie ułożonymi złocistobrązowymi do ochrowych włóknistymi łuskami na białym do bladożółtego tle, co daje wyraźnie wzorzysty wygląd. Blaszki wolne, początkowo bladoszaro-różowe, z wiekiem ciemnoczekoladowobrązowe. Trzon 10-25 cm wysokości, krępy, biały do bladożółtego, z brązowymi włóknistymi łuskami poniżej dużego zwisającego pierścienia. Miąższ biały, powoli przebarwiający się na żółtobrązowo, o silnym przyjemnym zapachu migdałowo-anyżowym. To jeden z najbardziej aromatycznych gatunków pieczarek.",
+  "habitat": "Występuje w lasach iglastych i mieszanych, zwłaszcza pod świerkiem, jodłą i sosną. Także w parkach miejskich z drzewami iglastymi oraz na zagospodarowanych terenach ze zrębkami drzewnymi. Rośnie naziemnie na ziemi lub w szczątkach drzewnych, często w pobliżu pniaków. Owocnikuje rozproszone do gromadnie. Preferuje chłodne lasy strefy umiarkowanej.",
+  "season": "Od późnego lata do jesieni (sierpień-listopad) w większości regionów. Na północno-zachodnim wybrzeżu Pacyfiku i w Kalifornii może owocować późną jesienią i zimą (listopad-styczeń). Szczyt owocowania przypada na wczesną jesień. Wymaga niskich temperatur i wilgoci.",
+  "regions": [
+    "Europa (rodzima, rozpowszechniona)",
+    "Północno-zachodnie wybrzeże Pacyfiku (pospolita)",
+    "Północna Kalifornia (sporadycznie)",
+    "Wschodnia Ameryka Północna (rzadka)",
+    "Góry Skaliste (sporadycznie)",
+    "Chłodne lasy iglaste strefy umiarkowanej"
+  ],
+  "lookalikes": [
+    "Agaricus silvicola (jadalny) - mniejszy, biały kapelusz, leśny, ale mniej łuskowaty",
+    "Agaricus moelleri (trujący) - intensywnie żółknie, zapach fenolowy zamiast przyjemnego anyżu",
+    "Agaricus praeclaresquamosus (jadalny) - bardzo podobny, płaskie łuski, zachodnia Ameryka Północna",
+    "Duże gatunki muchomorów (niektóre śmiertelnie trujące) - mają pochwę u podstawy, której pieczarki nie mają"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Uznawany za jeden z najlepszych grzybów jadalnych, o wyjątkowym smaku i zwartej konsystencji. Wysoce ceniony przez grzybiarzy. Dokładnie ugotować. Kluczowa identyfikacja: potwierdzić przyjemny zapach MIGDAŁOWO-ANYŻOWY (bardzo silny), brązowe włókniste łuski na kapeluszu, WOLNE blaszki brązowiejące do czekoladowego, duży zwisający pierścień, CZEKOLADOWOBRĄZOWY wysyp zarodników, BRAK pochwy u podstawy. Unikać okazów o silnym zapachu fenolowym lub chemicznym. Duży rozmiar i charakterystyczny łuskowaty wygląd ułatwiają identyfikację w porównaniu z wieloma pieczarkami. Doskonały smażony lub w zupach.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677157.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-23",
+      "file_size_bytes": 53230,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fedbb98433e14718bf6a8080e63f7ba7acc29081db375c34dbbc46df455d36"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677141.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-22",
+      "file_size_bytes": 143050,
+      "width": 480,
+      "height": 640,
+      "sha256": "7333e10890823e02c69a8ccac4470feba35fa843ffbcb98dc79e8a1dd424dfad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.264902",
+  "source_language": "en"
+}

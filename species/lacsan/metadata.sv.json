@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacsan",
+  "scientific_name": "Lactarius sanguifluus",
+  "common_name": "Vinriska",
+  "edibility": "E",
+  "description": "Vinriska har en orange till rosaorange hatt (4-12 cm) med mörkare koncentriska zoner och grönaktiga fläckar. Skivorna är orangerosa, täta. Foten är orange med mörkare gropar. NYCKELFUNKTION: BLODRÖD till VINRÖD MJÖLKSAFT vid snitt – mycket distinkt mörkröd färg. Mjölksaften mörknar till lilaröd. Köttet är blekt till rosaaktigt. Sporfällningen är blekt rosaaktig. Den blodröda mjölksaften är diagnostisk.",
+  "habitat": "Bildar mykorrhiza med TALL (Pinus) i Europa och introducerad i Nordamerika. Växer under tallar, särskilt medelhavstallar. Finns i tallplantager, parker. Föredrar sandiga jordar.",
+  "season": "Höst (september-december), fruktkroppar efter regn i tallområden.",
+  "regions": [
+    "Europa (inhemsk)",
+    "introducerad i Nordamerika",
+    "Kalifornien",
+    "där tallar planterats"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus – liknande röd mjölksaft, västerländsk inhemsk art",
+    "Lactarius deliciosus – orange mjölksaft, inte röd",
+    "Andra orange riskor – kontrollera mjölksaftens färg"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad i Europa. Den BLODRÖDA MJÖLKSAFTEN är diagnostisk. Mild, utmärkt smak. Kan fläcka lila vid tillagning – normalt. Bäst som ung. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 57538,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-29",
+      "photographer": "Micah Courteau",
+      "sha256": "69d9fd1a7862763aeab529efa5337d0a1477dd758fefc40d1b468553ecdf5142",
+      "source_url": "https://mushroomobserver.org/images/640/1512554.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 63930,
+      "height": 480,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2018-12-15",
+      "photographer": "zaca",
+      "sha256": "5adf5b9c0a2b9cfe7ed1a97dadc6fad4a73e8b1cdda03b85eb6ba2387bf0a5f6",
+      "source_url": "https://mushroomobserver.org/images/640/980994.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

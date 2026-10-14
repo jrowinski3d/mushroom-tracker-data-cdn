@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepcly",
+  "scientific_name": "Lepiota clypeolaria",
+  "common_name": "Spenslig fjällskivling",
+  "edibility": "U",
+  "description": "Spenslig fjällskivling är en liten skir svamp med en hatt 2-6 cm bred, klockformad som blir brett välvd med en framträdande knöl. Hatten är täckt med ulliga koncentriska ringar av bruna till ljusbruna fjäll på en blekt krämfärgad till vit bakgrund, vilket ger ett distinkt raggigt utseende. Köttet är tunt, vitt och skört. Skivorna är fria, vita till krämfärgade, täta till mycket täta. Foten är 3-8 cm hög, smal, vit till krämfärgad med en bomullsaktig eller ullig yta som ofta har brunaktiga zoner eller band nedanför den sköra ringen.",
+  "habitat": "Finns i blandade löv- och barrskogar, särskilt under ek, bok och barrträd. Växer i förna och humusrik jord, ofta på väl multnade stockar eller vedrester. Föredrar fuktiga skuggiga skogsbottnar med sur jord. Bär frukt spritt till sällskapligt, vanligen i små grupper bland skogsförna.",
+  "season": "Sommar till höst (juli-november) i större delen av Nordamerika. I Europa bär den frukt sen vår till höst (maj-november). Toppfruktkroppar sker i sensommar och tidig höst under perioder med jämn fukt. Sällsynt i tidig vår i varma klimat.",
+  "regions": [
+    "Europa (vitt spridd, inhemsk)",
+    "östra Nordamerika (vanlig)",
+    "nordvästra Stillahavsregionen (tillfällig)",
+    "Kalifornien (sällsynt)",
+    "norra tempererade skogar",
+    "boreala och montana regioner"
+  ],
+  "lookalikes": [
+    "Lepiota cristata (oätlig) – liknande storlek och utseende, obehaglig doft, rödbruna fjäll",
+    "Lepiota-arter (många dödliga) – extremt svåra att skilja åt, många innehåller amatoxiner",
+    "Små Agaricus-arter (ätliga) – bruna skivor, chokladfärgade sporer, liknande fria skivor",
+    "Små Chlorophyllum-arter (giftiga) – större, kraftigare, grönaktiga sporer"
+  ],
+  "safety_notes": "ÄTLIG MEN REKOMMENDERAS INTE: Även om den historiskt ansetts ätlig i Europa, REKOMMENDERAS DEN INTE för konsumtion på grund av den extrema faran att förväxla den med dödliga fjällskivlingar. Många små fjällskivlingar innehåller amatoxiner (samma gifter som i dödliga flugsvampar) och är omöjliga att skilja åt utan mikroskop. Flera dödliga arter, inklusive L. brunneoincarnata, L. helveola och L. subincarnata, ser nästan identiska ut. Även erfarna mykologer har svårt att skilja små fjällskivlingar åt på ett tillförlitligt sätt. Den lilla storleken betyder att det finns lite att vinna mot den enorma risken. UNDVIK ALLA SMÅ FJÄLLSKIVLINGAR – risken överväger vida allt kulinariskt värde.",
+  "images": [
+    {
+      "file_size_bytes": 40008,
+      "height": 427,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "photographer": "Fx_Kling",
+      "sha256": "aad0ef4e4430c9520df50ce20bec403a3766672088c3f003ac67274d2ed1590b",
+      "source_url": "https://mushroomobserver.org/images/640/1751244.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 35696,
+      "height": 427,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "photographer": "Fx_Kling",
+      "sha256": "e5919625a3c7ea7d40ccaae7a61c66522471a43f4328502a17d0008b5ff194dd",
+      "source_url": "https://mushroomobserver.org/images/640/1751245.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

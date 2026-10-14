@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolpin",
+  "scientific_name": "Boletus pinophilus",
+  "common_name": "Rödbrun stensopp",
+  "edibility": "E",
+  "description": "Den rödbruna stensoppen har en mörkt rödbrun till mahognyfärgad hatt (7–30 cm) med slät till lätt klibbig yta när den är våt. Porerna är vita när den är ung, åldras till gul-oliv, utan blånad. Den robusta foten är rödbrun med vitt till rosa ådernät, ofta med vinröda (vinfärgade) toner. Det vita köttet kan visa lätt rosa ton under hatthuden men fläckas inte när det skärs. Sporfällning olivbrun.",
+  "habitat": "Mykorrhizabildande med tall, gran och andra barrträd i montana och subalpina barrskogar. Föredrar sura jordar och högre höjder. Växer ofta i stort antal under mogna barrträd.",
+  "season": "Sensommar till höst (juli–oktober), med topp i augusti–september på högre höjder. Kommer efter ihållande regn i varmt väder.",
+  "regions": [
+    "Klippiga bergen",
+    "bergsområden i nordvästra USA",
+    "Cascadebergen",
+    "Sierra Nevada",
+    "höglänta områden i norra Kalifornien",
+    "British Columbia",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Boletus edulis – ljusare hattfärg, mindre rödaktiga toner",
+    "Boletus aereus – mörkare hatt, föredrar ek inte tall",
+    "Tylopilus felleus – rosa porer, bitter smak",
+    "andra rödaktiga Boletus-arter – alla ätliga"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Den rödbruna stensoppen anses av många vara den bäst smakande av alla soppar, med rik nötsmak och fast konsistens. Högt uppskattad för torkning, eftersom smaken intensifieras. Den rödbruna färgningen och tallassociationen är viktiga kännetecken. Tillaga alltid ordentligt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388373.jpg",
+      "photographer": "Vasco Fachada",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-05",
+      "file_size_bytes": 106414,
+      "width": 640,
+      "height": 427,
+      "sha256": "71eac4183b7f7c447c6ce606c4755435a97cc13cca6b91391f03840c6cf27e06"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/27980.jpg",
+      "photographer": "Irene Andersson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2008-11-05",
+      "file_size_bytes": 40752,
+      "width": 640,
+      "height": 415,
+      "sha256": "4813deb8c9c8cd2c5dbc05c3b094fdb28dcacdc5daf6dcd9159ac6fb1b89fcd1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

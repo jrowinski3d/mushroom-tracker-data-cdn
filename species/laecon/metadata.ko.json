@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecon",
+  "scientific_name": "Laetiporus conifericola",
+  "common_name": "침엽수닭벼슬버섯 (Laetiporus conifericola)",
+  "edibility": "E",
+  "description": "황유황색 관공면을 지닌 선명한 주황색~연어색 선반이 폭 2~12인치의 겹겹이 큰 선반을 이루는 침엽수 종이다. 외형은 L. sulphureus와 비슷하나 서부 산지의 침엽수 기주로 구분된다. 어릴 때는 부드럽고 즙이 많으며, 나이가 들면 질겨진다. 여러 선반이 침엽수 줄기와 통나무에 로제트를 이룬다. 선명한 색의 일년생 선반균이다.",
+  "habitat": "서부 산지의 살아 있는 및 죽은 침엽수에 기생 및 부생, 특히 미송, 서부낙엽송, 솔송나무 등 침엽수. 줄기, 그루터기, 통나무에 큰 선반균을 이룬다. 침엽수에 갈색 입방심재부후를 일으킨다. 산지 및 아고산대 침엽수림.",
+  "season": "산지에서는 여름부터 가을, 보통 6~10월. 7~9월에 결실 최성기. 여름 몬순과 따뜻한 비 온 뒤 나타난다. 저지대 종보다 시즌이 늦다.",
+  "regions": [
+    "로키산맥",
+    "캐스케이드산맥",
+    "시에라네바다",
+    "북부 로키산맥",
+    "서부 산지 산림",
+    "브리티시컬럼비아~뉴멕시코"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (활엽수에, 침엽수 아님)",
+    "Laetiporus huroniensis (북동부, 솔송나무에)",
+    "침엽수에 나는 기타 서부 Laetiporus",
+    "광대버섯(Omphalotus) — 유독, 주름살 있음(관공 아님)"
+  ],
+  "safety_notes": "어릴 때 식용이나 주의: 침엽수(이 종 포함)에 난 개체는 활엽수 종보다 소화불량을 더 흔히 일으킨다. 침엽수에 사는 Laetiporus로 위장 장애를 겪었다는 보고가 많다. 매우 어리고 부드러운 개체만 채취하라. 내성을 시험하려고 아주 소량부터 시작하라. 사람마다 다르다 — 잘 견디는 사람도 있고 심하게 반응하는 사람도 있다. 충분히 익혀 먹으라. 황화합물에 예민하면 피하는 것을 고려하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.139829",
+  "source_language": "en"
+}

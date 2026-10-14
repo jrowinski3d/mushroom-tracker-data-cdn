@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlbru",
+  "scientific_name": "Chlorophyllum brunneum",
+  "common_name": "갈색큰갓버섯",
+  "edibility": "P",
+  "description": "거짓큰갓버섯 또는 갈색큰갓버섯은 갓 너비 5–20cm의 중대형 버섯으로, 처음에는 둥글다가 넓게 볼록해진다. 갓은 흰색에서 크림색이며, C. rhacodes보다 납작하고 더 밀착된 갈색에서 적갈색 인편이 덮여 있고 중앙으로 갈수록 집중된다. 자르면 살이 주황갈색에서 적색으로 변하지만 C. rhacodes만큼 강렬하지는 않다. 주름살은 이생, 흰색에서 크림색이며 촘촘하고 가깝다. 대는 높이 8–18cm, 매끄럽거나 미세하게 인편이 있고, 뚜렷하게 움직이는 턱받이와 구근형 밑동이 있다.",
+  "habitat": "정원, 공원, 조경 화단, 잔디, 목재 칩 멀치, 퇴비질 토양 등 도시 및 교외 지역에서 발견된다. 인간의 재배 및 교란 서식지와 강하게 연관되어 있다. 영양분이 풍부한 유기질 기질에서 지생한다. 흩어지거나 무리지어 발생하며, 관리되는 조경과 관개 지역에서 자주 나타난다.",
+  "season": "온대 지역에서는 늦여름에서 가을(8–12월). 캘리포니아와 온화한 기후에서는 비가 온 뒤 가을과 봄(10–5월)에 절정을 이루며 연중 발생한다. 습기가 있는 따뜻한 날씨에 가장 흔하다.",
+  "regions": [
+    "캘리포니아(매우 흔함, 특히 도시 지역)",
+    "태평양 북서부(정원에서 흔함)",
+    "미국 남서부",
+    "텍사스 및 걸프만 연안 주",
+    "지중해성 기후 지역",
+    "북아메리카 전역으로 확산 중"
+  ],
+  "lookalikes": [
+    "Chlorophyllum rhacodes(주의 식용) — 외관이 동일, 구분에는 현미경이나 염기서열 분석 필요",
+    "Macrolepiota procera(최상 식용) — 훨씬 키가 크고 가늘며, 뱀가죽 무늬 대, 변색되지 않음",
+    "Chlorophyllum molybdites(유독) — 녹색 포자문이 진단적, 멍들면 녹색으로 변함",
+    "Lepiota 속(일부 치명적) — 훨씬 작고 섬세한 구조"
+  ],
+  "safety_notes": "유독: Chlorophyllum brunneum은 심한 메스꺼움, 구토, 설사, 복부 경련을 포함한 위장관 중독을 일으킨다. 증상은 보통 섭취 후 1–6시간 이내에 나타나며, 민감한 사람에게는 입원이 필요할 정도로 심할 수 있다. 이 버섯은 식용 큰갓버섯(Macrolepiota procera)과 흔히 혼동된다. 고온에서 충분히 익히면 견디는 사람도 있으나, 심한 위장 장애 위험 때문에 섭취가 안전하지 않다. 이 버섯을 먹지 마라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713955.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 73850,
+      "width": 480,
+      "height": 640,
+      "sha256": "43f57bc65101b11b8cc5c61cc5822029939dd2195c52fb4d8f5b7d7f28e87303"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635375.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-15",
+      "file_size_bytes": 127184,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

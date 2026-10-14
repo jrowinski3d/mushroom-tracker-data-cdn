@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycpyr",
+  "scientific_name": "Lycoperdon pyriforme",
+  "common_name": "Gyttrad röksvamp",
+  "edibility": "E",
+  "description": "Små päronformade röksvampar, 2,5–5 cm höga och 2–4 cm breda, med slät till finkornig yta utan taggar. Vita till beige till bruna med åldern. Växer i täta klungor sammanbundna med vita myceltrådar (rhizomorfer). Innanmätet är helt vitt när den är ätlig och blir olivgult och sedan brunt. Kännetecknas av slät yta och klungvis tillväxt på ved.",
+  "habitat": "Saprofytisk direkt på väl murkad ved som stockar, stubbar, nedgrävd ved och vedrester. Växer i täta klungor med dussintals fruktkroppar förenade vid basen. Vanlig på multnande löv- och barrved i skogar. Verkar ofta växa från jorden men är alltid förenad med nedgrävd ved.",
+  "season": "Sommar till höst, vanligtvis juli–november. Kan dyka upp vår till höst i milda klimat. Högsäsong augusti–oktober. En av de senast fruktande röksvamparna.",
+  "regions": [
+    "Östra Nordamerika",
+    "Stillahavsnordväst",
+    "Klippiga bergen",
+    "Området kring Stora sjöarna",
+    "Utbredd över Nordamerika",
+    "Kosmopolitisk utbredning världen över"
+  ],
+  "lookalikes": [
+    "Lycoperdon perlatum (taggig yta, växer inte i klungor på ved)",
+    "DÖDLIG: Omogna Amanita-knappar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Andra små Lycoperdon-arter (annat habitat, växer inte i klungor på ved)",
+    "Unga Apioperdon (Lycoperdon)-arter (annan ytstruktur)"
+  ],
+  "safety_notes": "ÄTLIG när den är helt vit inuti: KRITISKT – skär ALLTID exemplaret helt itu från topp till botten innan förtäring. Ätlig ENDAST om innanmätet är helt kritvitt och fast igenom. Om något gult, olivfärgat, brunt eller utvecklande strukturer syns inuti, ÄT INTE. Detta förhindrar att man äter giftiga dubbelgångare och omogna dödliga Amanita-arter. Den klungvisa tillväxten på ved och de vita myceltrådarna underlättar identifieringen. Tillaga ordentligt – mild behaglig smak när den är ung.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719866.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 45098,
+      "width": 640,
+      "height": 427,
+      "sha256": "025b68dcca9112710f3959f8bb7d0f77f9d8cd19726479ecbe880eb39fe3fb8c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717930.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 44818,
+      "width": 640,
+      "height": 427,
+      "sha256": "69d292fb21699cee44f79057132cff9d0cf638d5adf550166783c068eb52dfe5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

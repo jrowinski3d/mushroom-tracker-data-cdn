@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacdet",
+  "scientific_name": "Lactarius deterrimus",
+  "common_name": "rydz świerkowy",
+  "edibility": "E",
+  "description": "Rydz świerkowy ma pomarańczowy kapelusz (4–12 cm) z koncentrycznymi strefami, zielonkawymi plamami. Blaszki pomarańczowe, gęste. Trzon pomarańczowy z jamkami. KLUCZOWE: POMARAŃCZOWE MLECZKO szybko ZIELENIEJE – szybciej niż u L. deliciosus. Podobny do L. deliciosus, lecz pod ŚWIERKIEM, nie sosną. Miąższ blady. Wysyp zarodników kremowy.",
+  "habitat": "Mikoryzowy ze ŚWIERKIEM (Picea) w Europie i Ameryce Północnej. Rośnie pod świerkami w lasach iglastych. Preferuje gleby kwaśne.",
+  "season": "Jesień (wrzesień–listopad), owocnikuje po deszczach.",
+  "regions": [
+    "Europa (rodzima)",
+    "Introdukowana Ameryka Północna",
+    "Północno-Zachodni Pacyfik",
+    "Północny Wschód",
+    "Góry Skaliste"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus – żywiciel sosna, nie świerk",
+    "Inne pomarańczowe mleczaje – sprawdź drzewo-żywiciela"
+  ],
+  "safety_notes": "JADALNY: dobry smak, podobny do L. deliciosus. POMARAŃCZOWE MLECZKO zielenieje + ŚWIERKOWY żywiciel diagnostyczne. Może zielenieć po ugotowaniu – to normalne. Najlepszy młody. Dokładnie gotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700139.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-25",
+      "file_size_bytes": 108002,
+      "width": 640,
+      "height": 640,
+      "sha256": "90b6e01c130f522abda29a4108c5559f5b93a795bab5d588539f4a2122ea8e5f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700140.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-25",
+      "file_size_bytes": 42854,
+      "width": 640,
+      "height": 640,
+      "sha256": "04c137c844da045a3b7f34f1bf6584202217e9912a3c86baab9980057c0692e7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

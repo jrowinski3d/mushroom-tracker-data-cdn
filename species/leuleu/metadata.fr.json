@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "leuleu",
+  "scientific_name": "Leucoagaricus leucothites",
+  "common_name": "Smooth Parasol (Leucoagaricus leucothites)",
+  "edibility": "E",
+  "description": "Le Smooth Parasol est un champignon blanc de petite à moyenne taille avec un chapeau de 4 à 10 cm de diamètre, d’abord arrondi devenant largement convexe à presque plat avec l’âge. Le chapeau est entièrement blanc à crème, lisse et soyeux, sans écailles (caractère clé le distinguant des espèces de Chlorophyllum). La chair est blanche et ne change pas de couleur à la coupe. Les lames sont libres, blanches devenant rosâtres avec l’âge, serrées. Le pied mesure 5 à 12 cm de haut, lisse, blanc, avec un anneau blanc mince et fragile qui disparaît souvent avec l’âge, et une base légèrement élargie.",
+  "habitat": "Se trouve dans les zones herbeuses : pelouses, parcs, jardins, terrains de golf, pâturages et lisières herbeuses. Préfère les sols riches en nutriments dans les zones entretenues ou perturbées, avec une humidité régulière. Pousse sur le sol, souvent dans les zones avec engrais organique ou compost. Fructifie de manière dispersée à grégaire, parfois en arcs ou en ronds de fées.",
+  "season": "De la fin du printemps à l’automne (mai-novembre) dans les régions tempérées. Dans les climats chauds comme la Californie et le Sud, peut fructifier toute l’année avec des pics après les pluies. Plus abondant en été et au début de l’automne par temps chaud et humide.",
+  "regions": [
+    "Est de l’Amérique du Nord (commun)",
+    "Californie et côte Ouest",
+    "Sud des États-Unis",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Europe (répandu)",
+    "Prairies tempérées dans le monde entier"
+  ],
+  "lookalikes": [
+    "Espèces d’Agaricus (comestible) - lames roses à brunes, spores brun chocolat, souvent odeur d’anis",
+    "Leucoagaricus naucinus (comestible) - très similaire, centre du chapeau gris-brun à maturité",
+    "Chlorophyllum molybdites (toxique) - développe des spores vertes, plus grand, peut avoir de subtiles écailles",
+    "Espèces d’Amanita (mortel) - ont une volve (coupe) à la base du pied, absente chez Leucoagaricus"
+  ],
+  "safety_notes": "COMESTIBLE : considéré comme comestible et récolté par certains cueilleurs, mais DÉCONSEILLÉ aux débutants en raison de graves risques de confusion. Le chapeau blanc entièrement lisse et l’absence de volve le distinguent des amanites mortelles, mais l’identification exige de l’expérience. Vérifier : PAS de volve à la base, lames LIBRES blanches pouvant légèrement rosir avec l’âge, SPORÉE BLANCHE (pas verte), chapeau lisse sans écailles. Des troubles gastro-intestinaux ont été signalés chez certaines personnes. Le risque de le confondre avec des amanites blanches mortelles ou le toxique Chlorophyllum molybdites en fait un choix risqué. De nombreux guides de terrain déconseillent de récolter les champignons blancs des pelouses.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720338.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 75188,
+      "width": 640,
+      "height": 452,
+      "sha256": "dcc39dac32497c06d17d47f37568a9264dbb711586c85e206aba92e263e1485a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720339.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 35128,
+      "width": 482,
+      "height": 640,
+      "sha256": "072a1c980d4fc308dfdeeb9f1d060891f6113ac231af9c9d9cefb66fd73d83c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

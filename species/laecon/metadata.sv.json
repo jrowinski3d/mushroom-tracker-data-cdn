@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecon",
+  "scientific_name": "Laetiporus conifericola",
+  "common_name": "Chicken of the Woods (Laetiporus conifericola)",
+  "edibility": "E",
+  "description": "Ljusorange till laxfärgad ticka med svavelgult porskikt, som bildar stora överlappande hyllor 5-30 cm breda på barrträd. Liknar L. sulphureus men skiljs åt genom barrvärdar i västra bergstrakter. Mjuk och saftig som ung, seg med åldern. Flera tickor bildar rosetter på barrträds stammar och stockar. Ettårig ticka med ljusa färger.",
+  "habitat": "Parasitisk och saprofytisk specifikt på levande och döda barrträd i västra bergstrakter, särskilt douglasgran, västamerikansk lärk, hemlock och andra barrträd. Bildar stora hylltickor på stammar, stubbar och stockar. Orsakar brun kubisk kärnröta i barrträd. Bergs- och subalpina barrskogar.",
+  "season": "Sommar till höst i bergen, vanligen juni-oktober. Toppfruktkroppar i juli-september. Dyker upp efter sommarens monsuner och varma regn. Senare säsong än låglänta arter.",
+  "regions": [
+    "Klippiga bergen",
+    "Kaskadbergen",
+    "Sierra Nevada",
+    "norra Klippiga bergen",
+    "västra bergsskogar",
+    "British Columbia till New Mexico"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (på lövträd, inte barrträd)",
+    "Laetiporus huroniensis (nordöstlig, på hemlock)",
+    "Andra västliga Laetiporus på barrträd",
+    "Omphalotus (giftig, har skivor inte porer)"
+  ],
+  "safety_notes": "ÄTLIG som ung, men OBS: Exemplar som växer på barrträd (inklusive denna art) orsakar oftare magbesvär än de från lövträd. Många rapporterar magproblem från barrlevande Laetiporus. Plocka endast mycket unga, mjuka exemplar. Börja med mycket små mängder för att testa tolerans. Vissa tolererar den bra, andra reagerar dåligt. Tillaga ordentligt. Överväg att undvika om du är känslig för svavelföreningar.",
+  "images": [
+    {
+      "file_size_bytes": 116100,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "photographer": "Drew Henderson",
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a",
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 116100,
+      "height": 640,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "photographer": "Drew Henderson",
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a",
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "width": 480
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.139829",
+  "source_language": "en"
+}

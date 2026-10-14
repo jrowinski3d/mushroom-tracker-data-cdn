@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecins",
+  "scientific_name": "Leccinum insigne",
+  "common_name": "Aspen Scaber Stalk (Leccinum insigne)",
+  "edibility": "E",
+  "description": "El boleto escabroso del álamo muestra un sombrero de anaranjado-rojizo a rojo ladrillo (5-18 cm) con textura seca y ligeramente aterciopelada. Los poros son blancos cuando jóvenes, envejeciendo a pardo-grisáceos apagados, y se tiñen de parduzco al magullarse. El pie, de blanco a amarillento, está densamente cubierto de escabrosidades (escamas rugosas) de color pardo-anaranjado a pardo-rojizo. La carne blanca se tiñe de rosado a rojo vino al cortarla, oscureciéndose finalmente a gris púrpura o negro. Esporada pardo-oliva.",
+  "habitat": "Micorrícico exclusivamente con álamos (Populus tremuloides) en bosques montanos y subalpinos. Forma asociaciones obligadas con el álamo temblón. Común en arboledas de álamos a mayor altitud.",
+  "season": "Del verano al otoño (julio-septiembre), con máxima fructificación en agosto a mayor altitud. Aparece tras las lluvias monzónicas en los bosques montanos de álamos.",
+  "regions": [
+    "Montañas Rocosas",
+    "tierras altas de Colorado",
+    "montañas de Nuevo México",
+    "zonas altas de Arizona",
+    "bosques de álamo de Utah",
+    "Wyoming",
+    "regiones montanosas del oeste"
+  ],
+  "lookalikes": [
+    "Leccinum aurantiacum: aspecto similar, también con álamos",
+    "Otras especies de Leccinum: las escabrosidades del pie son distintivas",
+    "Especies de Boletus: carecen de escamas rugosas en el pie",
+    "Especies de Suillus: sombrero viscoso, hábitat diferente"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto escabroso del álamo es un buen comestible de textura firme. Debe cocinarse bien durante al menos 20 minutos; los ejemplares poco cocidos pueden causar molestias digestivas. Los drásticos cambios de color de la carne son normales y seguros. Más común en los bosques montanos de álamos del suroeste.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1488161.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-21",
+      "file_size_bytes": 76548,
+      "width": 480,
+      "height": 640,
+      "sha256": "8c5d73a0b2a91de96a83317f55f23729071463c8350c4c2f27b21f30c41c5110"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1476740.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-07-19",
+      "file_size_bytes": 48106,
+      "width": 640,
+      "height": 480,
+      "sha256": "69ea5eb95fedcbc3f5687115b45c15b6a0aeecec49bb7d9b07cd713c5badb4cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacdel",
+  "scientific_name": "Lactarius deliciosus",
+  "common_name": "Lactaire délicieux",
+  "edibility": "E",
+  "description": "Le lactaire délicieux a un chapeau orange (4-14 cm) avec des zones concentriques orange plus foncé, souvent avec des taches verdâtres quand il est vieux ou froissé. Le chapeau est convexe à en entonnoir, avec une marge enroulée quand il est jeune. Les lames sont orange, serrées, décurrentes, se tachant de vert. Le pied est orange avec des fossettes ou scrobiculations orange plus foncé. La CARACTÉRISTIQUE CLÉ est le LAIT ORANGE À ORANGE CAROTTE qui s’écoule à la coupe - ce lait verdit lentement. Chair blanche à orange pâle. Sporée crème pâle. Le lait orange vif est diagnostique.",
+  "habitat": "Mycorhizien avec le PIN (espèces de Pinus), en particulier les pins exotiques plantés. Pousse au sol sous les pins dans les plantations, les parcs et les plantations ornementales. Souvent trouvé sous les pins parasols méditerranéens et autres pins introduits. Préfère les sols sableux.",
+  "season": "Automne (septembre-décembre), fructifiant après les pluies. Dans les climats doux, peut fructifier jusqu’en hiver.",
+  "regions": [
+    "Amérique du Nord (introduit)",
+    "Californie",
+    "Pacifique Nord-Ouest",
+    "Europe (indigène)",
+    "Là où les pins sont plantés"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus - orange mais lait rouge et non orange carotte",
+    "Lactarius thyinos - semblable, lait également orange mais hôte arborescent différent",
+    "Lactarius sanguifluus - lait rouge vin",
+    "Espèces de Russula - PAS DE LAIT, chair fragile"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : très prisé en Europe, l’une des meilleures espèces de Lactarius. Le LAIT ORANGE qui verdit est diagnostique. Saveur douce et agréable. Meilleur jeune et ferme. Le champignon lui-même peut verdir à la cuisson ou en conserve - c’est normal et sans danger. Certaines personnes peuvent ressentir de légers troubles digestifs. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1425085.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 79476,
+      "width": 640,
+      "height": 480,
+      "sha256": "500444773c3c9f6342878d1f78f4b384b3a3667e98ffac7efe527baf5e594239"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1425086.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 112986,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffc9822fd7d75f11622408b47847ee3ded0ae1f040c9a529ef5c971535109240"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancin",
+  "scientific_name": "Cantharellus cinnabarinus",
+  "common_name": "Cinnabar Chanterelle (Cantharellus cinnabarinus)",
+  "edibility": "E",
+  "description": "La chanterelle cinabre (chanterelle rouge) est un petit champignon distinctif au chapeau rouge cinabre vif à rouge rosé de 1 à 4 cm de large. Le chapeau est lisse à légèrement velouté, devenant légèrement en entonnoir avec l’âge, avec une marge ondulée. Le dessous porte des plis obtus, peu profonds et fourchus (et NON de vraies lames), rouge rosé à rose saumon, souvent plus pâles que le chapeau, descendant le long du pied. Le pied est plein, élancé, de 2 à 5 cm de haut, de la même couleur que le chapeau ou légèrement plus pâle. La chair est blanc rosé, fine mais ferme, avec une odeur douce. Sporée blanche à rose pâle.",
+  "habitat": "Mycorhizien avec les feuillus de l’est, en particulier le chêne (espèces de Quercus), le hêtre américain et le caryer. Trouvé dans les forêts matures de feuillus et mixtes, souvent dans les mêmes habitats que les autres chanterelles de l’est. Préfère les versants bien drainés à la litière riche et acide.",
+  "season": "Été (juin-septembre), fructifiant pendant les périodes chaudes et humides après les pluies d’été. La haute saison se situe généralement en juillet-août. Fructifie souvent aux côtés de C. lateritius et C. appalachiensis dans les forêts de l’est.",
+  "regions": [
+    "Est des États-Unis",
+    "États du Sud-Est (surtout Carolines, Tennessee)",
+    "Région des Appalaches",
+    "États médio-atlantiques",
+    "Vallée de l’Ohio"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius — comestible, plus grand, plus orange-rose que rouge, habitat et saison similaires",
+    "Clitocybe lumineux (Omphalotus illudens) — TOXIQUE, possède de vraies lames à arêtes vives, pousse sur le bois, plus orange que rouge",
+    "Espèces d’Hygrocybe (hygrocybes) — comestibilité variable, possèdent de vraies lames, texture plus fragile, plus petits"
+  ],
+  "safety_notes": "COMESTIBLE : la chanterelle cinabre est un champignon comestible remarquable par sa petite taille et sa couleur rouge vive distinctive. Comme toutes les chanterelles, le caractère clé d’identification est constitué par les plis obtus et fourchus plutôt que de vraies lames. Ces plis sont peu profonds mais nettement cireux et soudés au chapeau. La couleur rouge cinabre vif et la petite taille la rendent relativement facile à identifier parmi les chanterelles. En raison de sa petite taille, elle est souvent récoltée avec d’autres espèces de chanterelles. Saveur douce ; à utiliser fraîche de préférence ou mélangée à d’autres champignons.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1700417.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 27518,
+      "width": 640,
+      "height": 427,
+      "sha256": "a998a577154e7fbb29aa9e7ff8a03d85904bd6a1dafecadc5a106e7060fa4d47"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1700418.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-20",
+      "file_size_bytes": 47598,
+      "width": 640,
+      "height": 427,
+      "sha256": "5cbe77df51c2eb2f433f2f537ca28b74a956cf29511aa7a93ef36483ee482530"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

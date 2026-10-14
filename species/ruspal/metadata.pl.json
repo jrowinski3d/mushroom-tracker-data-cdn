@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruspal",
+  "scientific_name": "Russula paludosa",
+  "common_name": "gołąbek błotny",
+  "edibility": "E",
+  "description": "Gołąbek błotny ma czerwony do różowoczerwonego kapelusz (5–15 cm), często blaknący. Blaszki żółtawe. Trzon biały z różowymi tonami. KLUCZ: CZERWONY KAPELUSZ, ŻÓŁTE BLASZKI, KRUCHY MIĄŻSZ, duża wielkość. Miąższ biały. Wysyp zarodników żółto-ochrowy. Łagodny smak.",
+  "habitat": "Mikoryzowa z drzewami iglastymi, zwłaszcza sosną i świerkiem. Rośnie na ziemi w lasach iglastych, zwłaszcza na północnych bagnach i wilgotnych miejscach. Rozproszona.",
+  "season": "Lato do jesieni (lipiec–wrzesień).",
+  "regions": [
+    "Północny Wschód",
+    "Górny Środkowy Zachód",
+    "Kanada",
+    "Europa Północna"
+  ],
+  "lookalikes": [
+    "Inne czerwone gołąbki – sprawdź kolor blaszek",
+    "Mleczaje – mają MLECZKO"
+  ],
+  "safety_notes": "JADALNY: Łagodny smak. CZERWONY KAPELUSZ + ŻÓŁTE BLASZKI + KRUCHY MIĄŻSZ + ŁAGODNY SMAK – diagnostyczne. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650964.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 28720,
+      "width": 640,
+      "height": 427,
+      "sha256": "adcc86b416cac3fab16ef0847319527a39c00df45251ce68bf29142a13aadc7a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1650965.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 32172,
+      "width": 640,
+      "height": 427,
+      "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "aurame",
+  "scientific_name": "Auricularia americana",
+  "common_name": "Wood Ear (Auricularia americana)",
+  "edibility": "E",
+  "description": "Auricularia americana jest podobna do A. auricula-judae, ale generalnie grubsza i bardziej masywna. Owocniki 4-15 cm średnicy, uszkowate do muszlowatych, galaretowato-gumowate. Zewnętrzna płodna powierzchnia gładka do nieco pomarszczonej, brązowa do czerwonobrązowej lub fioletowobrązowej. Wewnętrzna powierzchnia szarawa, pokryta drobniutkimi aksamitnymi włoskami (widoczne pod lupą). Konsystencja twardo-galaretowata, gdy świeża, kurcząca się podczas suszenia i odżywiająca po nawilżeniu. Grubszy miąższ niż u europejskiego uszaka.",
+  "habitat": "Występuje na martwych kłodach liściastych, gałęziach i stojących martwych drzewach. Pospolitymi żywicielami są klon, dąb, wiąz i inne drzewa liściaste. Rośnie jako rozłożyciel drewna w lasach, parkach i terenach zadrzewionych. Owocnikuje w zachodzących na siebie kępach lub rzędach. Preferuje wilgotne zacienione miejsca o stałej wilgotności.",
+  "season": "Od późnej wiosny do jesieni (maj-listopad) ze szczytami pod koniec lata i jesienią. W łagodnym klimacie, jak na północno-zachodnim wybrzeżu Pacyfiku, może owocować przez cały rok. Najobfitszy podczas ciepłej, wilgotnej pogody. Może pojawiać się po obfitych deszczach nawet latem.",
+  "regions": [
+    "Wschodnia Ameryka Północna (bardzo pospolita)",
+    "Środkowe Stany Zjednoczone",
+    "Północno-zachodnie wybrzeże Pacyfiku (pospolita)",
+    "Kalifornia",
+    "Południowa Kanada",
+    "Cała strefa umiarkowana Ameryki Północnej"
+  ],
+  "lookalikes": [
+    "Auricularia auricula-judae (jadalny) - gatunek europejski, cieńszy, głównie na bzie",
+    "Exidia glandulosa (jadalny) - bardziej mózgowaty, guzikowaty, nie uszkowaty",
+    "Tremella foliacea (jadalny) - bardziej pofałdowana i mózgowata budowa",
+    "Brak trujących gatunków podobnych"
+  ],
+  "safety_notes": "JADALNY: Doskonały grzyb jadalny o zastosowaniach kulinarnych identycznych jak azjatycki uszak. Ceniony za chrupiącą galaretowatą konsystencję utrzymującą się podczas gotowania. Popularny w kuchni azjatycko-amerykańskiej, zupach i daniach smażonych. Dokładnie ugotować - nie jeść na surowo. Gatunek dobrze wchłania smaki, zachowując konsystencję. Nie istnieją niebezpieczne gatunki podobne wśród grzybów galaretowatych. Dokładnie oczyścić przed gotowaniem. Można suszyć i namaczać jak odmiany azjatyckie. Kształt ucha i wzrost na drzewach liściastych są diagnostyczne. Coraz częściej zbierany komercyjnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1529622.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 108454,
+      "width": 640,
+      "height": 480,
+      "sha256": "feb8d0b7fa0f9d7834066e8f605377bb4ed08e38816d0e953c62bdb67c943230"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1529623.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 89374,
+      "width": 480,
+      "height": 640,
+      "sha256": "34035053592c400b146540f7b4d19fa43a71ceb7abd03512ea30029ac42d7d42"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

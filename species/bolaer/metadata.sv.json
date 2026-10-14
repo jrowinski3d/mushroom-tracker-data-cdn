@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "bolaer",
+  "scientific_name": "Boletus aereus",
+  "common_name": "Svartbrun stensopp",
+  "edibility": "E",
+  "description": "Den svartbruna stensoppen visar en distinkt mörkbrun till brons-svart hatt (6–20 cm) med sammetisk yta när den är ung, blir slät med åldern. Porerna är vita när den är ung, åldras till gulgröna, utan blåningsreaktion. Den kraftiga, lökformade foten är blekt brun med vitt ådernät koncentrerat nära toppen. Det vita köttet ändrar inte färg när det skärs. Sporfällning olivbrun.",
+  "habitat": "Mykorrhizabildande främst med ekar, ibland med bok och äkta kastanj i blandad lövskog. Föredrar varma, torra miljöer med väldränerade jordar. Finns ofta på sluttningar och skogsbryn.",
+  "season": "Sommar till höst (juni–oktober), kommer tidigare än B. edulis i varmare klimat. Högst produktion under varma perioder efter regn.",
+  "regions": [
+    "sydöstra USA",
+    "mellersta Atlantstaterna",
+    "södra Kalifornien",
+    "södra Klippiga bergen",
+    "sydvästra Stillahavsområdet"
+  ],
+  "lookalikes": [
+    "Boletus edulis – ljusare brun hatt, föredrar barrträd",
+    "Tylopilus felleus – rosa porer, bitter smak",
+    "andra mörkhattade Boletus-arter – alla ätliga",
+    "Xerocomellus-arter – mindre med annan miljö"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Den svartbruna stensoppen är högt uppskattad i Europa och anses av vissa vara likvärdig eller bättre än karljohanssvampen. Utmärkt fast konsistens och nötsmak som intensifieras vid torkning. Tillaga ordentligt för bästa resultat. Den mörka hattfärgen är diagnostisk och hjälper till att skilja den från andra arter.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1565467.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 81716,
+      "width": 640,
+      "height": 480,
+      "sha256": "18a7756a0c33dd630276c40e6695acadf2f6a932749979e40810de1873f23d82"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1565468.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 77270,
+      "width": 480,
+      "height": 640,
+      "sha256": "b9a429096996249a3fbade549352e72d0b48c88fa3163dba00fa888305e5724c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.585198",
+  "source_language": "en"
+}

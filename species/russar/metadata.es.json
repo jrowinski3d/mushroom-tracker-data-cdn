@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "russar",
+  "scientific_name": "Russula sardonia",
+  "common_name": "Primrose Russula (Russula sardonia)",
+  "edibility": "U",
+  "description": "La rúsula prímula tiene el sombrero de color morado a rojo vino (de 3 a 10 cm), pegajoso. Láminas amarillentas. Pie de color blanco a rosado. CLAVE: CARNE QUEBRADIZA COMO TIZA, SIN LÁTEX, SABOR INTENSAMENTE PICANTE/ÁCIDO. Sombrero morado-rojizo. Carne blanca. Esporada ocre. El sabor picante es inmediato e intenso.",
+  "habitat": "Micorrícica con CONÍFERAS, especialmente pino y pícea. Crece en el suelo en bosques de coníferas y mixtos. A menudo en suelo ácido. Especie del norte y de montaña. De forma dispersa.",
+  "season": "Del verano al otoño (julio-octubre).",
+  "regions": [
+    "Noreste",
+    "norte del Medio Oeste",
+    "Montañas Rocosas",
+    "Pacífico Noroeste",
+    "Canadá",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Otras rúsulas moradas/rojas — PRUEBA DE SABOR (morder y escupir)",
+    "Russula emetica — similar, picante y roja",
+    "Lactarius rufus — tiene LÁTEX"
+  ],
+  "safety_notes": "NO COMESTIBLE: Russula sardonia tiene un sabor intensamente picante, acre y caliente que la hace completamente incomestible. El nombre de la especie «sardonia» proviene del griego y significa amargo o acre. Aunque algunas fuentes debaten si podría ser técnicamente comestible tras una preparación extensa, el extremo calor picante la hace impalatable y puede causar molestias gastrointestinales. Evitar su consumo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1279557.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 63552,
+      "width": 640,
+      "height": 480,
+      "sha256": "be0573fb193d83ca13d213b80336d3193cb3074e717e73443062fc4c5b7346e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1279558.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 101028,
+      "width": 480,
+      "height": 640,
+      "sha256": "dd9df0d9882a745a495036f89e4aa33404d26dd0d37ec6a7584e352b08bbd3ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

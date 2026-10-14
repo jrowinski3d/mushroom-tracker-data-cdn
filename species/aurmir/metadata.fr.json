@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "aurmir",
+  "scientific_name": "Aureoboletus mirabilis",
+  "common_name": "Bolet admirable",
+  "edibility": "E",
+  "description": "Le bolet admirable présente un chapeau distinctif brun-rougeâtre foncé à bordeaux (5 à 20 cm) à la surface veloutée et sèche. Les pores sont jaune doré vif, bleuissant en bleu-vert. Le pied jaune affiche des tons bordeaux et une réticulation jaune distinctive. La chair jaune bleuit à la coupe. Pousse souvent sur le bois de pruche en décomposition — un habitat unique parmi les bolets. La sporée est brun olivâtre.",
+  "habitat": "Mycorhizien des pruches mais fructifie distinctivement sur ou près du bois de pruche en décomposition, des souches et des troncs. Pousse dans les forêts anciennes et matures de pruches. Le mode de croissance associé au bois est inhabituel pour les bolets et diagnostique pour cette espèce.",
+  "season": "De la fin de l'été à l'automne (août-octobre) avec une fructification maximale en septembre. Apparaît après les pluies de fin d'été dans les habitats de pruches.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie du Nord",
+    "Oregon",
+    "Washington",
+    "Colombie-Britannique",
+    "Forêts côtières de pruches",
+    "Zone de la pruche occidentale"
+  ],
+  "lookalikes": [
+    "Espèces de Boletus — pas sur le bois, couleurs différentes",
+    "Espèces de Xerocomellus — plus petites, habitat différent",
+    "Espèces de Leccinum — pieds scabres, pas sur le bois",
+    "La croissance associée au bois et les couleurs bordeaux sont distinctives"
+  ],
+  "safety_notes": "COMESTIBLE : le bolet admirable est un bon comestible à la texture ferme et à la saveur agréable. Le bleuissement est normal et sans danger. La croissance unique sur ou près du bois de pruche rend l'identification simple. Bien cuire avant de manger. Certaines personnes peuvent ressentir de légers troubles digestifs. Espèce relativement peu fréquente.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725765.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 150640,
+      "width": 640,
+      "height": 606,
+      "sha256": "814e356be5517f04c9d57950a24d9848d5876f0ce45ad179af08b9fe61821613"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1725766.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 99810,
+      "width": 617,
+      "height": 640,
+      "sha256": "a7dea91a17c0ee221a8abd93059d972fddf1117e4c021788e9398cd02170e32a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

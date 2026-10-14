@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusden",
+  "scientific_name": "Russula densifolia",
+  "common_name": "Crowded Russula (Russula densifolia)",
+  "edibility": "E",
+  "description": "이 무당버섯은 흰색에서 크림색의 갓(4~10cm)을 가지며, 때로 갈색빛이 돈다. 주름살은 흰색이며 매우 빽빽하다. 대는 흰색이다. 핵심: 잘 부서지는 육질, 매우 빽빽한 주름살, 흰색 계열. 육질은 흰색이다. 포자문은 흰색이다. 온화하거나 약간 톡 쏘는 맛.",
+  "habitat": "침엽수와 활엽수와 균근 공생을 이룬다. 혼합림의 지상에서 자란다. 태평양 북서부 종이다. 흩어지거나 무리 지어 발생한다.",
+  "season": "가을(9~11월)에 발생한다.",
+  "regions": [
+    "태평양 북서부",
+    "캘리포니아",
+    "브리티시컬럼비아"
+  ],
+  "lookalikes": [
+    "다른 흰색 무당버섯류",
+    "젖버섯류(Lactarius) - 유액이 있음"
+  ],
+  "safety_notes": "식용: 온화한 맛. 흰색 갓 + 매우 빽빽한 주름살 + 잘 부서지는 육질이 동정 포인트. 맛보기 시험(온화한 개체는 식용 가능). 충분히 익혀 먹는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714127.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-29",
+      "file_size_bytes": 70928,
+      "width": 640,
+      "height": 427,
+      "sha256": "8aff2c8839ac4152dde72b2b7b07ea8ed17b19b9a8bd921e95b6419ba4b60b98"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1644739.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-17",
+      "file_size_bytes": 67462,
+      "width": 640,
+      "height": 427,
+      "sha256": "8abc0be6a366ca5fcb6b67ae26230389bed72f12c82bf446ab568db283c66c53"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

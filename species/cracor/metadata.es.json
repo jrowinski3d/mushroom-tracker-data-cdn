@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cracor",
+  "scientific_name": "Craterellus cornucopioides",
+  "common_name": "Trompeta negra (Craterellus cornucopioides)",
+  "edibility": "E",
+  "description": "La trompeta negra (cuerno de la abundancia) tiene un distintivo cuerpo fructífero de gris oscuro a negro, profundamente en forma de embudo o trompeta, de 3-12 cm de alto y 2-8 cm de ancho en la parte superior. El sombrero es ondulado e irregular con un margen fino y levantado. La superficie interior es de gris oscuro a negra, lisa o ligeramente escamosa. La superficie exterior (portadora de esporas) es lisa a ligeramente arrugada, de gris a gris-marrón, SIN pliegues ni láminas. Todo el cuerpo fructífero es hueco de arriba abajo como una trompeta. La carne es fina, quebradiza cuando está seca, elástica cuando está fresca, gris oscuro. La esporada es blanca a crema pálido.",
+  "habitat": "Micorrícico con árboles de frondosas, particularmente haya americana, roble y abedul. Se encuentra en bosques maduros caducifolios, a menudo en zonas con musgo o cerca de arroyos. Crece disperso o en grandes tropas en el suelo del bosque, a menudo camuflado entre la hojarasca. Prefiere suelos ricos y húmedos.",
+  "season": "Verano hasta otoño (julio-noviembre), con fructificación pico de agosto a octubre en la mayoría de las regiones. A menudo fructifica en los mismos lugares año tras año. Puede ser abundante después de períodos de lluvia.",
+  "regions": [
+    "este de Norteamérica (ampliamente distribuido)",
+    "noreste de Estados Unidos",
+    "región de los Apalaches",
+    "región de los Grandes Lagos",
+    "Pacífico Noroeste (menos común)",
+    "Europa (también presente)"
+  ],
+  "lookalikes": [
+    "Craterellus fallax - Comestible, muy similar pero más marrón, se encuentra en diferentes regiones, esencialmente el mismo uso",
+    "Craterellus foetidus - Comestible, similar pero con olor fétido cuando está seco, por lo demás casi idéntico",
+    "Urnula craterium (urna del diablo) - No comestible, en forma de copa no de trompeta, crece sobre madera, textura gomosa"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: La trompeta negra es uno de los hongos silvestres más apreciados, famosa por su rico sabor ahumado. A pesar de su aspecto oscuro, es completamente segura y deliciosa. La distintiva forma de trompeta, el interior hueco y la ausencia de láminas o pliegues la hacen relativamente fácil de identificar una vez que sabes qué buscar. Sin embargo, el color oscuro las hace muy difíciles de ver en el suelo del bosque: se mimetizan con la hojarasca y las sombras. Excelente fresca o seca; el secado intensifica el sabor. No existen especies similares tóxicas. Algunas personas las encuentran ligeramente indigestas; cocina bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.178989",
+  "source_language": "en"
+}

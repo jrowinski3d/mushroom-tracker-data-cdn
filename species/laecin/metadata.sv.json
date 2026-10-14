@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecin",
+  "scientific_name": "Laetiporus cincinnatus",
+  "common_name": "White-pored Chicken of the Woods (Laetiporus cincinnatus)",
+  "edibility": "E",
+  "description": "Orange till laxfärgad ticka med VITT till blekt krämfärgat porskikt (inte gult), som bildar rosetter av överlappande hyllor 5-25 cm breda. Liknar L. sulphureus men skiljs åt genom vita porer och markbunden fruktbildning. Mjuk och saftig som ung. Flera hyllor utgår från ett centralt rotande fäste vid begravd ved eller trädrötter. Ettårig ticka.",
+  "habitat": "Saprofyt på begravd ved och rötter av döda lövträd, särskilt ek. Ser ut att växa från marken vid trädbaser eller från begravda rötter och stubbar. Bildar stora flervåningsrosetter nära eller runt ekar. Östra lövskogar. Orsakar vitröta i begravd ved.",
+  "season": "Sen vår till höst, vanligen maj-september. Toppfruktkroppar i juni-augusti. Liknande tidpunkt som L. sulphureus men dyker ofta upp något senare på säsongen. Fruktkroppar efter varma regn.",
+  "regions": [
+    "östra Nordamerika",
+    "mellanvästern",
+    "Stora sjöarna-regionen",
+    "sydöstra USA",
+    "Appalacherna",
+    "öster om de stora slätterna"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (gula porer, växer på stam/stockar)",
+    "Andra Laetiporus-arter (gula porer)",
+    "Meripilus sumstinei (mörkare brun, svartnar, annan konsistens)",
+    "Bondarzewia berkeleyi (krämbrun, annan konsistens/porer)"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP som ung och mjuk: Orsakar generellt färre magbesvär än L. sulphureus hos känsliga personer. Plocka endast unga, mjuka, böjbara exemplar med fuktig konsistens. Undvik gamla, sega, torra exemplar. Tillaga ordentligt. Det vita porskiktet och den markbundna växten hjälper till att identifiera denna mildare art. Anses vara en av de säkraste Laetiporus för nybörjare. Utmärkt konsistens och smak.",
+  "images": [
+    {
+      "file_size_bytes": 64984,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "photographer": "Nathan Wilson",
+      "sha256": "cfcfc8e6929b6b7b186c9d8b7f453a52eafdab1c72b10833292eaae440b74631",
+      "source_url": "https://mushroomobserver.org/images/640/1713404.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 85890,
+      "height": 482,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-06",
+      "photographer": "Huafang",
+      "sha256": "4c8aa9fcaf1604f40898dd031118dab429d31bb1ba246b123438ea956c844655",
+      "source_url": "https://mushroomobserver.org/images/640/1707085.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

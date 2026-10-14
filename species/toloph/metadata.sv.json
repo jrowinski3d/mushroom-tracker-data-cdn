@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "toloph",
+  "scientific_name": "Tolypocladium ophioglossoides",
+  "common_name": "Smal svampklubba",
+  "edibility": "U",
+  "description": "Smal svampklubba är en fascinerande parasitisk svamp som angriper underjordiskt levande svampar (falska tryfflar, särskilt Elaphomyces). Fruktkroppen består av en lång smal klubba eller spets 3–12 cm hög och 0,5–1,5 cm bred som kommer upp ur jorden. Klubban är cylindrisk, ofta böjd, gulbrun till olivbrun, med en lätt skrovlig yta. Den fertila övre delen är lätt förtjockad. Klubban kommer upp från en underjordisk svampvärd (Elaphomyces) som framträder som en mörk boll förbunden med basen. Vid uppgrävning syns den svarta till bruna värdbollen fäst vid basen.",
+  "habitat": "Finns i blandade löv- och barrskogar och kommer upp ur jorden där värdsvampen Elaphomyces växer underjordiskt. Värden bildar mykorrhiza med trädrötter. Klubban tränger upp genom jord, mossa och förna. Fruktsätter spridd, ofta oansenlig. Vanlig i fuktiga skogar med rik organisk jord.",
+  "season": "Sommar till höst (juli–november) i de flesta områden. Huvudsäsong i sensommar och tidig höst (augusti–oktober). Kan bestå i veckor när den väl kommit upp. Vanligare under år med jämn fuktighet.",
+  "regions": [
+    "Östra Nordamerika (utbredd)",
+    "Nordvästra USA (vanlig)",
+    "Norra Kalifornien",
+    "Klippiga bergen",
+    "Europa (utbredd)",
+    "Nordliga tempererade skogar världen över"
+  ],
+  "lookalikes": [
+    "Cordyceps-arter på insekter – parasiterar insekter inte svampar, annat substrat",
+    "Clavariadelphus ligula (ätlig) – klubbformad men större, lilaaktig, inte parasitisk",
+    "Jordtungor (Geoglossum, Trichoglossum) – mörkbruna till svarta, inte på svampvärdar",
+    "Xylaria hypoxylon (oätlig) – hornliknande, på ved inte på underjordiska svampar"
+  ],
+  "safety_notes": "EJ ÄTLIG: Även om den tekniskt sett inte är giftig har denna svamp inget kulinariskt värde och är alldeles för liten och seg för att vara värd besväret. Har historiskt inte ätits i västerländsk tradition. Vissa Cordyceps-arter används i traditionell kinesisk medicin men denna art används inte vanligtvis. Sällsyntheten och den ekologiska rollen gör insamling olämplig. Mer värdefull som intressant ekologiskt fynd som visar svamp-på-svamp-parasitism. Fästet vid den underjordiska Elaphomyces-tryffeln är karakteristiskt och fascinerande men inte ätligt. Låt den stå kvar för att observera detta unika naturliga samband.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695832.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 124104,
+      "width": 640,
+      "height": 482,
+      "sha256": "1e2ef7dcb84f3cda23d2b104b4f5a6220a69ae2f488693e464c8a5335f539fc9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695833.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 120130,
+      "width": 640,
+      "height": 482,
+      "sha256": "9b1b60be8962b17ec5d5a62e529b453d1553ba641e4af729a3fabca5aa254aad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

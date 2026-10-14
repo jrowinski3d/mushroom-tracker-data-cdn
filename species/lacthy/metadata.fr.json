@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacthy",
+  "scientific_name": "Lactarius thyinos",
+  "common_name": "Aromatic Milk Cap (Lactarius thyinos)",
+  "edibility": "E",
+  "description": "Le lactaire aromatique présente un chapeau orange (4-12 cm) avec des zones concentriques, souvent avec des taches verdâtres. Lames orange pâle, serrées. Pied orange avec des fossettes. CARACTÈRE CLÉ : LAIT ORANGE et ODEUR AROMATIQUE DISTINCTIVE DE CÈDRE ou D'ENCENS. Le lait peut tacher de vert. Chair pâle. Sporée crème. L'odeur aromatique le distingue des espèces similaires.",
+  "habitat": "Mycorhizien du CÈDRE et du CYPRÈS (famille des Cupressacées) dans l'ouest de l'Amérique du Nord. Pousse sous le cèdre à encens, le thuya géant et le cyprès de Lawson. Trouvé dans les forêts de conifères.",
+  "season": "Automne (septembre-novembre), fructification dans les forêts de conifères.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie du Nord",
+    "Oregon occidental",
+    "Colombie-Britannique"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus — hôte pin, moins aromatique",
+    "Lactarius rubrilacteus — lait rouge",
+    "Autres lactaires orange — vérifier l'arbre hôte et l'odeur"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Saveur excellente. Le LAIT ORANGE et l'ODEUR DE CÈDRE combinés à l'hôte cèdre/cyprès sont diagnostiques. Peut tacher de vert — c'est normal. Meilleur jeune. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1705100.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 63272,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa2a7d5936d1b759d24738c55c3f0c7d9cbf7a2cd5b08a51e5b5c30da7b5233f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705101.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 82012,
+      "width": 640,
+      "height": 482,
+      "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

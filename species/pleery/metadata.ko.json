@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleery",
+  "scientific_name": "Pleurotus eryngii",
+  "common_name": "새송이버섯",
+  "edibility": "E",
+  "description": "너비 1-4인치의 작은 황갈색에서 갈색 갓과 두껍고 흰색이며 육질인 높이 2-6인치 대를 가진 독특한 버섯이다. 일반적인 느타리버섯과 달리 두껍고 원통형인 대가 귀한 부위이다. 갓에는 흘러내리는 주름살이 있다. 나무가 아닌 죽은 초본 식물의 뿌리에서 자란다. 북아메리카 Pleurotus 종 중 독특하다.",
+  "habitat": "사막과 건조 초원 지역의 죽거나 죽어가는 초본 식물, 특히 에린지움(Eryngium 속)과 기타 산형과 식물의 뿌리에서 부생한다. 다른 Pleurotus 종과 달리 나무에서는 발견되지 않는다. 모래 또는 교란된 토양의 묻힌 뿌리에서 자란다.",
+  "season": "건조 지역의 가을부터 봄까지, 보통 10월-4월. 사막과 반건조 환경에서는 겨울과 봄 비가 온 뒤 열매를 맺는다. 수분이 충분하면 서늘한 계절 내내 산발적으로 나타날 수 있다.",
+  "regions": [
+    "남서부 사막",
+    "남부 캘리포니아",
+    "지중해성 기후 지역",
+    "건조 및 반건조 초원",
+    "지중해 원산, 북아메리카에 정착"
+  ],
+  "lookalikes": [
+    "다른 Pleurotus 속(모두 나무에서 자라며 뿌리 아님)",
+    "Pleurotus nebrodensis(비슷하나 분포 지역이 다름)",
+    "재배 왕느타리(동일 종, 상점에서 널리 판매)",
+    "어린 갓버섯(주름살 부착과 포자색이 다름)"
+  ],
+  "safety_notes": "최상급 식용: 두껍고 육질인 대의 뛰어난 조직감과 순한 맛으로 매우 귀하게 여겨진다. '왕느타리' 또는 '킹 트럼펫'으로 판매되는 가장 인기 있는 재배 특용버섯 중 하나이다. 야생 표본은 제대로 식별하면 최상급 식용버섯이다. 가장 탐나는 부위는 두꺼운 대이다. 최고의 맛과 조직감을 위해 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1452110.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 35740,
+      "width": 640,
+      "height": 447,
+      "sha256": "a76c50852810d3c2a992f8ad40877ef012a925a1c9fd62260dff561521521378"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1452111.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 33090,
+      "width": 640,
+      "height": 466,
+      "sha256": "81d27168cf26c777b1997fbad54c80acaed53c24e15b7bcd027be23aeb19eab3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

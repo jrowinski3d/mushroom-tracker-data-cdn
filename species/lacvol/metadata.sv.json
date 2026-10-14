@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacvol",
+  "scientific_name": "Lactifluus volemus",
+  "common_name": "Mandelriska",
+  "edibility": "E",
+  "description": "Mandelriska har en orangebrun till rödbrun hatt (5-12 cm), torr, sammetshårig. Skivor krämfärgade, täta, fläckas bruna. Fot liknande hatten. NYCKEL: RIKLIG VIT MJÖLKSAFT, FISKLUKT som gammal. Mjölksaften ändrar inte färg. Kött fast, vitt. Sporfällning vit. Den rikliga mjölksaften och fisklukten är diagnostiska.",
+  "habitat": "Bildar mykorrhiza med LÖVTRÄD, särskilt ek. Växer på marken i bland- och lövskog. Vanlig i östra skogar. Spridd eller i grupper.",
+  "season": "Sommar till höst (juli-oktober), fruktkroppar under hela säsongen.",
+  "regions": [
+    "östra USA",
+    "mellanvästern",
+    "sydöstra USA",
+    "södra centrala USA"
+  ],
+  "lookalikes": [
+    "Lactifluus corrugis – liknande men större, veckad hatt",
+    "Andra Lactifluus – kontrollera doft och mjölksaftens riklighet"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt nötaktig smak trots fisklukten (försvinner vid tillagning). RIKLIG VIT MJÖLKSAFT + FISKLUKT diagnostiskt. En av de bästa riskorna att äta. Bäst som ung. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 58696,
+      "height": 482,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "photographer": "Huafang",
+      "sha256": "9110570d37ed7ac338b3c87edd414ce36612f3b4b12e9342a702d3b8fab14cd9",
+      "source_url": "https://mushroomobserver.org/images/640/1713865.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 75838,
+      "height": 482,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "photographer": "Huafang",
+      "sha256": "5ee558641d816d1e4d4d17fd656481c977ca91568cbd39ab8da7f573934640ea",
+      "source_url": "https://mushroomobserver.org/images/640/1713866.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolrex",
+  "scientific_name": "Boletus rex-veris",
+  "common_name": "Spring King Bolete (Boletus rex-veris)",
+  "edibility": "E",
+  "description": "봄왕그물버섯은 분홍빛 갈색에서 적갈색의 갓(5~25cm)을 가지며, 성숙하면 표면이 매끄럽고 종종 주름진다. 관공은 어릴 때 흰색이며 나이가 들면 누렇게 되고, 상처에 변색되지 않는다. 굵고 흰 대에는 흰색 그물무늬가 있고 밑동 쪽에 분홍빛 적색 기운이 도는 경우가 많다. 흰색 살은 단단하며 잘라도 변색되지 않는다. 포자문은 올리브갈색이다.",
+  "habitat": "저지대~중산간 삼림에서 소나무, 미송(더글러스퍼), 기타 침엽수와 균근공생한다. 눈 녹은 물과 봄철 습기와 관련 있다. 성숙한 침엽수 아래의 모래질 또는 자갈질 토양을 선호한다.",
+  "season": "봄부터 초여름(4월~7월), 5월~6월에 최성기. 이른 계절에 나타난다고 '봄의 왕'이라 불리며, 고지대에서는 아직 눈이 남아 있을 때 자실체를 내는 경우도 많다.",
+  "regions": [
+    "미국 서부",
+    "태평양 북서부",
+    "캘리포니아 산악 지대",
+    "로키산맥",
+    "오리건주",
+    "워싱턴주",
+    "브리티시컬럼비아주"
+  ],
+  "lookalikes": [
+    "Boletus edulis - 계절이 더 늦고 갓 색이 다름",
+    "Boletus pinophilus - 더 짙은 적갈색 갓",
+    "Tylopilus felleus - 분홍색 관공, 쓴맛",
+    "기타 봄철 그물버섯류 - 모두 식용 가능"
+  ],
+  "safety_notes": "최상급 식용: 이른 시기에 나타나고 맛이 뛰어나 크게 사랑받는 봄왕그물버섯. 단단한 식감과 풍부한 맛으로 채집가들이 가장 좋아하는 버섯 중 하나다. 봄철 발생 시기와 분홍빛 갓이 다른 종과의 구분에 도움이 된다. 섭취 전 반드시 충분히 익히십시오.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677950.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 78788,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dc8681a13b2adf4c8d031d5a882aa0a579ff14fc12af3a898a3127bff4667cf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677951.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 113608,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd6ecd0e3cf80b45bb0612fd32833b55f0d92078b287e3bc8c877eb4955ff265"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

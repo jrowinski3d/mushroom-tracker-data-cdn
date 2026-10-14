@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimag",
+  "scientific_name": "Tricholoma magnivelare",
+  "common_name": "American Matsutake (Tricholoma magnivelare)",
+  "edibility": "E",
+  "description": "Amerikansk matsutake har en kraftig vit till krämfärgad hatt (7–20 cm) som får brunaktiga fibriga fläckar eller fläckar med åldern, särskilt i mitten. Hatten är välvd till utbredd, torr, slät till fibrig. Skivorna är vita, vidfästa, täta, och får bruna fläckar. Foten är tjock, vit, mycket fast och solid, med en KARAKTERISTISK TJOCK PARTIELL SLÖJA som lämnar en STOR BOMULLSLIKNANDE RING på övre delen av foten. Kännetecknet är den STARKA KRYDDIGA, KANELDOFTANDE eller kanelgodisliknande LUKTEN – omisskännlig och kraftfull. Köttet är vitt, mycket tätt och fast. Sporfällningen är vit. Ofta delvis nedgrävd och skapar jordhögar.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD i västra Nordamerika, särskilt tall, douglasgran, hemlock och äkta ädelgranar. Bildar obligatoriska mykorrhizaassociationer. Växer på marken, ofta djupt nedgrävd i förna, barrförna eller sandjord. Finns i mogna barrskogar från havsnivå till höga berg. Föredrar väldränerade jordar.",
+  "season": "Höst (september–november), fruktsätter i svalt höstväder efter regn. Huvudsäsong i oktober i nordvästra USA.",
+  "regions": [
+    "Nordvästra USA",
+    "British Columbia",
+    "Norra Kalifornien",
+    "Klippiga bergen",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Tricholoma matsutake – asiatisk art, i stort sett identisk",
+    "Tricholoma murrillianum – sydvästlig art, liknande",
+    "Amanita smithiana – GIFTIG – har volva vid basen, sjukligt söt lukt inte kanel",
+    "Catathelasma – liknande men har dubbel slöja, annan lukt"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Mycket uppskattad och skördas kommersiellt, säljs för 20–100+ dollar per pund. Den starka KANEL-/KRYDDLUKTEN är huvudkännetecknet – en gång känd, aldrig glömd. Bäst när den är ung och fast ('knoppar' eller halvt framträdande). Rengör varsamt för att bevara den delikata smaken. KRITISKT: Förväxla aldrig med giftiga Amanita smithiana – kontrollera att volva (skål vid basen) saknas och verifiera kanellukten. Den tjocka bomullsliknande ringen och avsaknaden av volva skiljer den från dödliga Amanita-arter.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715643.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 122810,
+      "width": 640,
+      "height": 427,
+      "sha256": "fd4963ca29205aff3919c81291d7ceee7ffab7bff6418162025184f0f4ae0439"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1715644.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 113832,
+      "width": 427,
+      "height": 640,
+      "sha256": "7916660a2d94152ffd8f39f242604094222ba8708ef19f62821eea3b280c2d84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

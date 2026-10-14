@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecsca",
+  "scientific_name": "Leccinum scabrum",
+  "common_name": "Birch Bolete (Leccinum scabrum)",
+  "edibility": "E",
+  "description": "El boleto del abedul muestra un sombrero de gris-pardo a pardo-canela (4-15 cm) con superficie lisa a ligeramente arrugada, que a veces se agrieta con la edad. Los poros son blancos cuando jóvenes, volviéndose pardo-grisáceos apagados, y se tiñen ligeramente de parduzco al magullarse. El pie blanquecino está cubierto de escabrosidades (escamas rugosas) de negras a pardo oscuro. La carne blanca no cambia de color o puede mostrar un ligero tono rosado al cortarla. Esporada pardo-oliva.",
+  "habitat": "Micorrícico exclusivamente con abedules (especies de Betula) en bosques mixtos del norte. Forma asociaciones obligadas con abedules. Se encuentra en arboledas de abedules, bosques mixtos de abedul y coníferas, y zonas ribereñas con abedul de papel.",
+  "season": "Del verano al otoño (junio-octubre), con máxima fructificación en julio-septiembre. Común a finales de verano en los bosques norteños de abedules.",
+  "regions": [
+    "norte de Estados Unidos",
+    "Alaska",
+    "Canadá",
+    "región de los Grandes Lagos",
+    "bosques del noreste",
+    "rodales de abedul del Pacífico Noroeste",
+    "zonas de abedul de las Montañas Rocosas"
+  ],
+  "lookalikes": [
+    "Otras especies de Leccinum: diferentes colores de sombrero y asociaciones arbóreas",
+    "Especies de Boletus: carecen del característico pie escabroso",
+    "Leccinum holopus: colores más pálidos, también con abedul",
+    "Especies de Tylopilus: algunas tienen escabrosidades pero poros de colores diferentes"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto del abedul es un buen comestible de sabor suave y textura algo blanda cuando madura. Debe cocinarse bien; nunca lo coma crudo. Mejor joven y firme. La asociación obligada con el abedul y el pie escabroso son diagnósticos. Algunas personas pueden experimentar leves molestias digestivas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1080620.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 61574,
+      "width": 464,
+      "height": 640,
+      "sha256": "c5c8cc696ee70f1749403a77f42681e5089f69dfe0b9f19ae5af2fe36c5a5ae4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1080621.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 36138,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e7a4bebc027d8c8e72afac8c632f8b542311af4fbc5451a4f10f10ab6d20559"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

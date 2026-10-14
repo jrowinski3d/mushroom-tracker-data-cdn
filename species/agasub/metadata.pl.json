@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agasub",
+  "scientific_name": "Agaricus subrutilescens",
+  "common_name": "Wine-colored Agaricus (Agaricus subrutilescens)",
+  "edibility": "E",
+  "description": "Agaricus subrutilescens to gatunek średniej do dużej wielkości o kapeluszu 8-20 cm średnicy, początkowo kulistym, z wiekiem szeroko wypukłym do płaskiego. Kapelusz biały do kremowego z brązowymi do czerwonobrązowych włóknistymi łuskami, z wiekiem lub przy dotyku często z winno-czerwonymi do różowoczerwonych przebarwieniami. Blaszki wolne, początkowo bladoróżowe, z wiekiem ciemnoczekoladowobrązowe. Trzon 6-15 cm wysokości, biały nad pierścieniem, przebarwiający się na winno-czerwono do różowawego, zwłaszcza u podstawy (cecha diagnostyczna). Pierścień duży i zwisający. Miąższ biały, w przekroju powoli przebarwiający się na różowawo do winno-czerwonego, o przyjemnym zapachu migdałowo-anyżowym.",
+  "habitat": "Występuje w lasach iglastych i mieszanych, zwłaszcza pod sosną, jodłą i świerkiem. Także na terenach miejskich z drzewami iglastymi oraz na zagospodarowanych obszarach ze zrębkami drzewnymi i ściółką korową. Rośnie naziemnie w glebie bogatej w próchnicę i rozkładających się szczątkach drzewnych. Owocnikuje rozproszone do gromadnie, często gromadnie w zrębkach drzewnych.",
+  "season": "Od jesieni do zimy (październik-luty) w Kalifornii i klimacie śródziemnomorskim. Od późnego lata do jesieni (sierpień-listopad) w regionach umiarkowanych. Szczyt owocowania przypada na późną jesień i wczesną zimę. Bardziej odporny na zimno niż wiele pieczarek.",
+  "regions": [
+    "Kalifornia (bardzo pospolita)",
+    "Północno-zachodnie wybrzeże Pacyfiku (pospolita)",
+    "Południowo-zachodnie Stany Zjednoczone",
+    "Zachodnia Ameryka Północna (rozpowszechniona)",
+    "Klimat śródziemnomorski",
+    "Regiony lasów iglastych"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (jadalny) - większy, bardziej złociste łuski, mniej winno-czerwonych przebarwień",
+    "Agaricus crocodilinus (jadalny) - podobny, ale brak charakterystycznego winno-czerwonego przebarwienia u podstawy trzonu",
+    "Agaricus moelleri (trujący) - intensywnie żółknie, zapach fenolowy zamiast anyżu",
+    "Duże gatunki muchomorów (niektóre śmiertelnie trujące) - mają pochwę u podstawy, której pieczarki nie mają"
+  ],
+  "safety_notes": "JADALNY: Uznawany za jadalny o dobrym smaku i zwartej konsystencji po ugotowaniu. Popularny wśród grzybiarzy w Kalifornii. Dokładnie ugotować. Kluczowa identyfikacja: potwierdzić przyjemny zapach MIGDAŁOWO-ANYŻOWY (nie fenolowy), WINNO-CZERWONE do różowawego przebarwienie, zwłaszcza u podstawy trzonu (cecha diagnostyczna), WOLNE blaszki różowiejące, a potem czekoladowobrązowe, CZEKOLADOWOBRĄZOWY wysyp zarodników, BRAK pochwy u podstawy. Unikać okazów z intensywnym żółtym przebarwianiem lub nieprzyjemnym zapachem fenolowym. Winno-czerwone przebarwienie u podstawy trzonu jest najbardziej charakterystyczną cechą. Doskonały w zupach i daniach smażonych.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716382.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 80414,
+      "width": 640,
+      "height": 480,
+      "sha256": "2282913404fba100a85b46b81b99da6902789dc53d82cfe38e734143809ca12b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716373.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 92004,
+      "width": 640,
+      "height": 480,
+      "sha256": "d36a5a5cc111729564d1e8943cf126c3e8233ccf4dcede126b2a13cd99d81814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.615608",
+  "source_language": "en"
+}

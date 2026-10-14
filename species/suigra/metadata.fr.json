@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigra",
+  "scientific_name": "Suillus granulatus",
+  "common_name": "Bolet granuleux",
+  "edibility": "E",
+  "description": "Le bolet granuleux porte un chapeau brun cannelle à brun jaunâtre (4-10 cm), à surface visqueuse et gluante par temps humide. Les pores sont jaune pâle, exsudant des gouttelettes laiteuses quand ils sont jeunes — un caractère diagnostique. Le pied jaune pâle est couvert de minuscules points granuleux bruns (points glanduleux) et dépourvu d'anneau. La chair jaune pâle ne se tache pas. Les gouttelettes laiteuses des pores et les points granuleux du pied sont distinctifs. Sporée brun cannelle.",
+  "habitat": "Mycorhizien exclusivement avec les pins à deux et trois aiguilles dans divers habitats. Commun dans les plantations de pins, les zones perturbées avec de jeunes pins et les pinèdes régénérées naturellement. Répandu avec les pins plantés.",
+  "season": "De la fin de l'été à l'automne (août-novembre) avec un pic de fructification en septembre-octobre. Fructifie souvent abondamment après les pluies d'automne.",
+  "regions": [
+    "Nord-Est des États-Unis",
+    "région des Grands Lacs",
+    "Pacifique Nord-Ouest",
+    "plantations de pins du Sud-Est",
+    "montagnes Rocheuses",
+    "partout où il y a des plantations de pins",
+    "Canada"
+  ],
+  "lookalikes": [
+    "Suillus luteus — anneau foncé sur le pied, sans gouttelettes laiteuses",
+    "Suillus brevipes — sans les gouttelettes laiteuses sur les jeunes pores",
+    "Autres espèces de Suillus — vérifier les gouttelettes laiteuses sur les jeunes pores",
+    "Espèces de Boletus — non visqueux, habitat différent"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet granuleux est comestible, de saveur douce mais de texture molle. Retirer la cuticule visqueuse du chapeau avant la cuisson. Les gouttelettes laiteuses sur les jeunes pores et les points granuleux du pied sont diagnostiques. Certaines personnes ressentent des troubles digestifs. Toujours bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699876.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 134442,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa09a25fc62426dcb808a3f67b840074a1ff24276f0127ea378dd610d33e7016"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699877.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 109388,
+      "width": 640,
+      "height": 482,
+      "sha256": "02918768915d5a8f5894ffac5d79ee1fb7f128668b01c42d7090b26a3abad8cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

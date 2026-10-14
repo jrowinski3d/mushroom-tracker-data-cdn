@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacam",
+  "scientific_name": "Agaricus campestris",
+  "common_name": "Champiñón campestre",
+  "edibility": "E",
+  "description": "El champiñón campestre es el ancestro silvestre clásico del champiñón cultivado. Sombrero de 5-12 cm de diámetro, inicialmente redondeado que se vuelve ampliamente convexo hasta plano. El sombrero es blanco a crema, liso o con finas escamas planas, a menudo desarrollando tonos rosado-parduzcos con la edad. Las láminas son libres, al principio de un rosa vivo que se vuelve marrón chocolate oscuro (diagnóstico: las láminas rosadas lo distinguen de las Amanitas blancas). El pie mide 3-8 cm de alto, blanco, liso, con un anillo fino y frágil que a menudo desaparece. La carne es blanca, a veces ligeramente rosada, con un suave y agradable olor a seta.",
+  "habitat": "Se encuentra en áreas abiertas con hierba, como praderas, pastizales, céspedes, campos de golf y parques. Prefiere pastizales ricos en nutrientes, a menudo donde pasta el ganado o en áreas con fertilizante orgánico. Evita el bosque. Crece en el suelo, fructifica disperso a gregario, a menudo en corros de brujas. Común en pastizales mantenidos.",
+  "season": "Desde finales del verano hasta el otoño (julio-noviembre) en regiones templadas. En climas suaves puede fructificar en primavera y otoño. La fructificación máxima ocurre a finales del verano y principios del otoño después de lluvias cálidas. Uno de los hongos otoñales clásicos de los pastizales.",
+  "regions": [
+    "Europa (nativa, extendida)",
+    "Norteamérica (extendida, todas las regiones)",
+    "Este de Estados Unidos (muy común)",
+    "California (común)",
+    "Pacífico Noroeste (común)",
+    "Pastizales templados de todo el mundo"
+  ],
+  "lookalikes": [
+    "Amanitas ángel destructor (mortales) - blancas con láminas blancas (no rosadas), con volva en la base",
+    "Agaricus xanthodermus (tóxico) - amarillea intensamente al cortarse, olor fenólico",
+    "Agaricus arvensis (comestible) - más grande, olor a anís, anillo en rueda dentada",
+    "Chlorophyllum molybdites (tóxico) - esporas verdes, más grande, láminas finalmente verdes"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: El hongo silvestre clásico con excelente sabor similar al de las variedades cultivadas. Cocinar bien. Identificación CRÍTICA para evitar las mortales Amanitas blancas: verificar láminas ROSADAS cuando es joven (las Amanitas tienen láminas blancas), láminas que se vuelven MARRÓN CHOCOLATE con la edad, esporada MARRÓN CHOCOLATE, SIN volva en la base del pie, olor suave y agradable (no fenólico). Las láminas rosadas son el carácter más importante: si las láminas son blancas, NO es esta especie. Evitar los ejemplares que amarillean intensamente al cortarse. Comestible silvestre muy popular pero que requiere una identificación cuidadosa.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1637875.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 49032,
+      "width": 640,
+      "height": 427,
+      "sha256": "23a834b68e3daa7b3a096f468aa31c432e37f3837cb0a60675c59a2eae41efcd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1637876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 76590,
+      "width": 640,
+      "height": 427,
+      "sha256": "c1dd63a0a61f671647be7697f74475e2bfd753f007e551708cd67112dadbef1f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

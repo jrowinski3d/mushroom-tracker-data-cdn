@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaarv",
+  "scientific_name": "Agaricus arvensis",
+  "common_name": "Champiñón anisado",
+  "edibility": "E",
+  "description": "El champiñón anisado es una especie robusta con un sombrero de 8-20 cm de diámetro, inicialmente redondeado que se vuelve ampliamente convexo hasta plano. El sombrero es blanco a crema, liso o con finas escamas aplanadas, que a menudo amarillea ligeramente al magullarse. Las láminas son libres, al principio de color rosa pálido y se vuelven marrón chocolate con la edad. El pie mide 6-15 cm de alto, es grueso, blanco, liso, con un gran anillo colgante de doble capa que presenta un patrón en forma de rueda dentada en el envés. La carne es blanca y tiene un característico y agradable olor a anís o almendra (carácter diagnóstico).",
+  "habitat": "Se encuentra en áreas abiertas con hierba, como pastizales, praderas, céspedes, campos agrícolas y bordes de bosques herbosos. Prefiere suelos ricos en nutrientes, a menudo en zonas pastoreadas por ganado o enriquecidas con estiércol. Crece en el suelo en grupos, corros o tropas. Común en áreas con suelo rico en nitrógeno.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre) en regiones templadas. En climas suaves, puede fructificar en primavera (abril-mayo). La fructificación máxima ocurre a principios y mediados del otoño después de lluvias cálidas. Puede ser abundante algunos años y estar ausente en otros.",
+  "regions": [
+    "Europa (nativa, extendida)",
+    "Este de Norteamérica (común)",
+    "Pacífico Noroeste (común)",
+    "California (ocasional)",
+    "Grandes Llanuras",
+    "Pastizales templados de todo el mundo"
+  ],
+  "lookalikes": [
+    "Agaricus xanthodermus (tóxico) - amarillea intensamente al magullarse, olor fenólico desagradable",
+    "Agaricus campestris (comestible) - más pequeño, sin olor a anís, anillo frágil y efímero",
+    "Agaricus silvicola (comestible) - especie de bosque, por lo demás muy similar con olor a anís",
+    "Amanitas ángel destructor (mortales) - blancas pero con volva en la base, sin láminas marrones"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: Muy apreciado por su textura firme y su agradable sabor a almendra-anís. Cocinar bien. Identificación crítica: verificar el olor a ANÍS o ALMENDRA (no fenólico/químico), láminas LIBRES que se vuelven rosadas y luego marrón chocolate, patrón de rueda dentada en el anillo, esporada MARRÓN CHOCOLATE, SIN volva en la base. Evitar los ejemplares que amarillean intensamente al cortarse (indica el tóxico A. xanthodermus). El agradable olor a anís es el carácter distintivo clave. Algunas personas encuentran el sabor demasiado fuerte. Desechar el pie, que suele ser fibroso.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713410.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 57694,
+      "width": 480,
+      "height": 640,
+      "sha256": "f2eda6a0aeaa603b8c41e35977d212f1f7010cfc9778cfd5390a93980e5c05fb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1629600.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-21",
+      "file_size_bytes": 111536,
+      "width": 640,
+      "height": 480,
+      "sha256": "0568abd08e8ed2565aa98202b0c6907b0bd4cb8761e6d47963b4d2fb4e554c17"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

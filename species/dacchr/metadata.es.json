@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "dacchr",
+  "scientific_name": "Dacrymyces chrysospermus",
+  "common_name": "Gelatina anaranjada (Dacrymyces chrysospermus)",
+  "edibility": "E",
+  "description": "La gelatina anaranjada forma pequeñas manchas gelatinosas de color naranja brillante a naranja-amarillento de 2-10 mm de ancho (rara vez hasta 15 mm). Los cuerpos fructíferos individuales tienen forma de botón o disco, a veces volviéndose ligeramente lobulados o como un cerebro. La superficie es lisa y brillante. El color es naranja vivo a naranja-dorado cuando está fresco, volviéndose naranja más oscuro y arrugado cuando está seco. La textura es blanda-gelatinosa, temblorosa. A menudo aparece en densos grupos creando manchas anaranjadas sobre la madera. Revive y se hincha cuando se humedece.",
+  "habitat": "Se encuentra sobre madera muerta de coníferas, incluyendo troncos, tocones, tablas y madera de construcción. Particularmente común sobre pino, pícea y abeto. También aparece sobre madera trabajada como postes de cercas y vigas de construcción. Crece como descomponedor de madera en bosques y sobre estructuras de madera. Fructifica en densos grupos, creando a menudo manchas anaranjadas de varios cm de ancho. Muy común sobre sustratos adecuados.",
+  "season": "Todo el año, pero más abundante de otoño a primavera (septiembre-mayo). En climas húmedos puede fructificar de forma continua. Picos a finales de otoño e invierno (octubre-marzo). Muy tolerante al frío y puede fructificar bajo la nieve. Común en invierno, cuando pocos otros hongos están activos.",
+  "regions": [
+    "Europa (muy común)",
+    "Norteamérica (ampliamente distribuido, todas las regiones)",
+    "Pacífico Noroeste (abundante)",
+    "bosques del este",
+    "regiones montañosas de coníferas",
+    "todo el mundo en bosques de coníferas"
+  ],
+  "lookalikes": [
+    "Dacrymyces palmatus (comestible) - más grande, más como un cerebro y convoluto",
+    "Tremella mesenterica (comestible) - amarilla pero sobre frondosas, más como un cerebro",
+    "Calocera cornea (comestible) - anaranjada pero con ramificación como coral",
+    "Bisporella citrina (no comestible) - diminutos discos amarillos pero firmes, no gelatinosos"
+  ],
+  "safety_notes": "COMESTIBLE pero no merece la pena: Técnicamente comestible y no tóxico, pero demasiado pequeño e insípido para tener interés culinario. Sin sabor y con sustancia mínima. Seguro pero inútil recolectarlo. Sin especies similares tóxicas. Las diminutas manchas gelatinosas anaranjadas sobre madera de coníferas son distintivas y extremadamente comunes. A menudo se ven en tal abundancia que los troncos muertos parecen anaranjados. Más notable como indicador de descomposición de la madera que como alimento. El color naranja brillante y la presencia sobre coníferas lo distinguen de la Tremella amarilla sobre frondosas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751397.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 63394,
+      "width": 640,
+      "height": 427,
+      "sha256": "4f3d6fd2ee98ee79c3f97f3aa0ce9a66d5f6115c9f9127bfd0bec7b416d1c9d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751398.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 82544,
+      "width": 640,
+      "height": 427,
+      "sha256": "839863966225a75f0a4e3f0bbd4b6baf231f3f879cfdf0961bc574b6d120d434"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

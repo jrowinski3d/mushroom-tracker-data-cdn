@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusaer",
+  "scientific_name": "Russula aeruginea",
+  "common_name": "Russule verdissante",
+  "edibility": "E",
+  "description": "La Russule verdissante a un chapeau vert herbe à vert olive (4 à 10 cm), visqueux à l'état humide. Lames blanches à crème. Pied blanc. CLÉ : CHAPEAU VERT, CHAIR CASSANTE CRAIEUSE, PAS DE LATEX, chapeau visqueux. Chair blanche. Sporée blanche à crème pâle. Goût doux à légèrement âcre.",
+  "habitat": "Mycorhizienne avec le bouleau et d'autres feuillus. Pousse au sol dans les forêts de feuillus, surtout près des bouleaux. Espèce européenne et nord-américaine. Dispersée.",
+  "season": "De l'été à l'automne (juillet-octobre).",
+  "regions": [
+    "Nord-Est",
+    "Midwest",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Russula virescens — verte mais avec chapeau craquelé",
+    "Autres russules vertes",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce. CHAPEAU VERT VISQUEUX + CHAIR CASSANTE + PAS DE LATEX : diagnostique. Test de goût (spécimens doux comestibles). Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1631952.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-19",
+      "file_size_bytes": 60388,
+      "width": 640,
+      "height": 427,
+      "sha256": "69b1c98854062c313f197d877e43ca38db38d2e2dc254f7cd910b475928d951a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1357697.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-25",
+      "file_size_bytes": 55306,
+      "width": 640,
+      "height": 480,
+      "sha256": "f95be09168fabfe181504b56bd48e2b4e6937476750e8c86363ed210cb0c0f67"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

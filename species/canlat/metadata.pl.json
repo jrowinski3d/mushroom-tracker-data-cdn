@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canlat",
+  "scientific_name": "Cantharellus lateritius",
+  "common_name": "Smooth Chanterelle (Cantharellus lateritius)",
+  "edibility": "E",
+  "description": "Pieprznik gładki ma pomarańczowy do różowopomarańczowego lub łososiowego kapelusz o szerokości 2–10 cm, o wyraźnie gładkiej powierzchni. Brzeg kapelusza falisty, z wiekiem płytko lejkowaty. Spód pokryty tępymi, płytkimi, rozwidlonymi listewkami (NIE są to prawdziwe blaszki), różowopomarańczowymi, szeroko rozstawionymi, zbiegającymi po trzonie. Listewki są mniej wyraźne niż u innych pieprzników, czasem ledwo widoczne. Trzon pełny, 3–8 cm wysokości, gładki, pomarańczowy do różowawego, u nasady często ciemniej pomarańczowy. Miąższ biały do blado pomarańczowego, zwarty, o łagodnym zapachu. Wysyp zarodników biały do bladoróżowawego.",
+  "habitat": "Grzyb mikoryzowy, związany z wschodnimi drzewami liściastymi, zwłaszcza dębami (gatunki Quercus), bukiem amerykańskim i orzesznikiem. Występuje w dojrzałych lasach liściastych, często na dobrze przepuszczalnych zboczach i grzbietach. Preferuje miejsca z grubą ściółką liściastą i kwaśnymi glebami w mieszanych lasach liściastych.",
+  "season": "Lato (czerwiec–wrzesień), owocowanie w ciepłą, wilgotną pogodę po letnich deszczach. Szczyt sezonu przypada zwykle na lipiec–sierpień w większości zasięgu. Przy odpowiedniej wilgotności może owocować do wczesnej jesieni.",
+  "regions": [
+    "wschodnie Stany Zjednoczone (szeroko rozpowszechniony)",
+    "stany południowo-wschodnie (od Alabamy po Georgię)",
+    "region Środkowego Atlantyku (od Wirginii po Maryland)",
+    "dolina rzeki Ohio",
+    "region Appalachów"
+  ],
+  "lookalikes": [
+    "Omphalotus illudens – TRUJĄCY, ma prawdziwe ostre blaszki, rośnie na drewnie, intensywniej pomarańczowy, świeci w ciemności",
+    "Cantharellus cinnabarinus – jadalny, głębszy czerwonopomarańczowy kolor, mniejszy, poza tym bardzo podobny",
+    "Cantharellus appalachiensis – jadalny, żółtopomarańczowy, wyraźniejsze listewki, często w tym samym siedlisku"
+  ],
+  "safety_notes": "JADALNY: Pieprznik gładki to dobry grzyb jadalny o łagodnym smaku. Kluczową cechą bezpieczeństwa jest rozpoznanie tępych, płytkich listewek, a nie prawdziwych blaszek – choć listewki są mniej wyraźne niż u innych pieprzników, wciąż są woskowate w dotyku i zrośnięte z kapeluszem. Zawsze potwierdzaj, że rośnie z gleby w pobliżu drzew, nigdy na drewnie. Gładka powierzchnia kapelusza i różowopomarańczowa barwa pomagają odróżnić go od trującego Omphalotus illudens. Smak łagodny i przyjemny; najlepiej duszony lub w mieszanych daniach grzybowych.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493438.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-30",
+      "file_size_bytes": 75652,
+      "width": 640,
+      "height": 480,
+      "sha256": "26868116b9a57188a719e933355a0a3b937d610df76f46a7933a12e8bd97c699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1483380.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-09",
+      "file_size_bytes": 34422,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd03168f86a655c67f8d6caf255feaa08ecf9c6b8baf7645836380b32b7893c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

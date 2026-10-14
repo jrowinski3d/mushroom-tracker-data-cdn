@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycpyr",
+  "scientific_name": "Lycoperdon pyriforme",
+  "common_name": "Vesse-de-loup en forme de poire",
+  "edibility": "E",
+  "description": "Petites vesses-de-loup en forme de poire de 1 à 2 pouces de haut et de 0,75 à 1,5 pouce de large, à surface lisse à finement granuleuse, sans épines. Blanches à chamois à brunes avec l’âge. Poussent en touffes denses reliées par des cordons mycéliens blancs (rhizomorphes). Intérieur blanc pur quand elles sont comestibles, devenant jaune-olive puis brun. Se distinguent par leur surface lisse et leur croissance en touffes sur le bois.",
+  "habitat": "Saprotrophe directement sur le bois bien décomposé : troncs, souches, bois enfoui et débris ligneux. Pousse en touffes denses de dizaines de fructifications reliées à la base. Commun sur le bois de feuillus et de conifères en décomposition dans les forêts. Semble souvent pousser du sol mais toujours relié au bois enfoui.",
+  "season": "De l’été à l’automne, généralement de juillet à novembre. Peut apparaître du printemps à l’automne dans les climats doux. Pic de fructification d’août à octobre. L’une des vesses-de-loup les plus tardives.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "région des Grands Lacs",
+    "Largement répandu en Amérique du Nord",
+    "Distribution cosmopolite dans le monde entier"
+  ],
+  "lookalikes": [
+    "Lycoperdon perlatum (surface épineuse, pas en touffes sur le bois)",
+    "MORTEL : boutons d’amanites immatures (TOUJOURS COUPER EN DEUX - on y verrait des lames ou un chapeau en formation à l’intérieur)",
+    "Autres petites espèces de Lycoperdon (habitat différent, pas en touffes sur le bois)",
+    "Jeunes Apioperdon (espèces de Lycoperdon) (texture de surface différente)"
+  ],
+  "safety_notes": "COMESTIBLE quand l’intérieur est blanc pur : ESSENTIEL - TOUJOURS couper le spécimen complètement en deux de haut en bas avant de le consommer. Comestible UNIQUEMENT si l’intérieur est entièrement blanc pur et ferme partout. Si du jaune, de l’olive, du brun ou des structures en formation sont visibles à l’intérieur, NE PAS MANGER. Cela évite de consommer des sosies toxiques et des amanites mortelles immatures. La croissance en touffes sur le bois et les cordons mycéliens blancs aident à l’identification. Bien cuire - goût doux et agréable quand elles sont jeunes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719866.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 45098,
+      "width": 640,
+      "height": 427,
+      "sha256": "025b68dcca9112710f3959f8bb7d0f77f9d8cd19726479ecbe880eb39fe3fb8c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717930.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 44818,
+      "width": 640,
+      "height": 427,
+      "sha256": "69d292fb21699cee44f79057132cff9d0cf638d5adf550166783c068eb52dfe5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

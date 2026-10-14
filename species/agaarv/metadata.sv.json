@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaarv",
+  "scientific_name": "Agaricus arvensis",
+  "common_name": "Snöbollschampinjon",
+  "edibility": "E",
+  "description": "Snöbollschampinjonen är en robust art med 8–20 cm bred hatt, till en början rundad och senare brett välvd till utbredd. Hatten är vit till krämfärgad, slät eller med fina tillplattade fjäll, och gulnar ofta lätt vid beröring. Skivorna är fria, till en början blekt rosa och med åldern chokladbruna. Foten är 6–15 cm hög, kraftig, vit, slät, med en stor nedhängande dubbel ring som på undersidan har ett tandat kugghjulsmönster. Köttet är vitt och har en distinkt behaglig anis- eller mandeldoft (diagnostiskt kännetecken).",
+  "habitat": "Växer i öppna gräsmarker som betesmarker, ängar, gräsmattor, åkrar och gräsbevuxna skogsbryn. Föredrar näringsrik jord, ofta på marker som betas av djur eller är berikade med gödsel. Markväxande, växer i grupper, ringar eller tåg. Vanlig på kväverik mark.",
+  "season": "Sensommar till höst (augusti–november) i tempererade områden. I milda klimat kan den komma även på våren (april–maj). Rikligast fruktsättning sker i tidig till mitten av hösten efter varma regn. Kan vara riklig vissa år och utebli andra.",
+  "regions": [
+    "Europa (ursprunglig, vitt utbredd)",
+    "östra Nordamerika (vanlig)",
+    "nordvästra USA (vanlig)",
+    "Kalifornien (enstaka)",
+    "De stora prärierna (Great Plains)",
+    "tempererade gräsmarker världen över"
+  ],
+  "lookalikes": [
+    "Agaricus xanthodermus (giftig) – gulnar intensivt vid beröring, obehaglig karbollukt",
+    "Agaricus campestris (ätlig) – mindre, ingen anisdoft, tunn flyktig ring",
+    "Agaricus silvicola (ätlig) – skogsart, i övrigt mycket lik med anisdoft",
+    "flugsvampar ur gruppen vit flugsvamp (dödliga) – vita men med volva vid fotbasen, inga bruna skivor"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Mycket uppskattad för sin fasta konsistens och behagliga mandel-anissmak. Tillaga ordentligt. Kritisk bestämning: kontrollera ANIS- eller MANDELDOFT (inte fenolisk/kemisk lukt), FRIA skivor som blir rosa och sedan chokladbruna, tandat kugghjulsmönster på ringen, CHOKLADBRUNT sporfällning, INGEN volva vid fotbasen. Undvik exemplar som gulnar intensivt när de skärs (tyder på giftiga A. xanthodermus). Den behagliga anisdoften är det viktigaste särskiljande kännetecknet. Vissa tycker att smaken är för stark. Kasta foten eftersom den ofta är trådig.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713410.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 57694,
+      "width": 480,
+      "height": 640,
+      "sha256": "f2eda6a0aeaa603b8c41e35977d212f1f7010cfc9778cfd5390a93980e5c05fb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1629600.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-21",
+      "file_size_bytes": 111536,
+      "width": 640,
+      "height": 480,
+      "sha256": "0568abd08e8ed2565aa98202b0c6907b0bd4cb8761e6d47963b4d2fb4e554c17"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

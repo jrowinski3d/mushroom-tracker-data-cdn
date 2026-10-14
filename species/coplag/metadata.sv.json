@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "coplag",
+  "scientific_name": "Coprinopsis lagopus",
+  "common_name": "Dunbläcksvamp",
+  "edibility": "E",
+  "description": "Dunbläcksvamp är en liten delikat svamp 4–10 cm hög med hatt 2–5 cm bred. Hatten är oval till klockformad, vit till blekt gråbrun, täckt av täta vita bomulls- eller ullliknande hår som ung, vilket ger ett luddigt utseende (som en harfot, därav namnet). Ytan har långa sidenliknande fibrer. Skivorna är fria, vita som blir grå sedan svarta och delikvescerar. Foten är 4–10 cm hög, smal, vit, täckt av liknande ulliga hår, ihålig. Hela svampen har ett raggigt hårigt utseende.",
+  "habitat": "Finns i gräsytor, gräsmattor, ängar, parker, vägkanter och störd mark. Föredrar näringsrik jord, ofta där boskap betar eller nära dynga. Växer marklevande i gräs, fruktsätter spritt till gruppvis. Vanlig i skötta gräsmarker och betade områden.",
+  "season": "Vår till höst (maj–november) i tempererade regioner. Fruktsättningstoppen i sen vår och sommar. I varma klimat kan den fruktsätta in på vintern. Vanligast under varmt fuktigt väder.",
+  "regions": [
+    "Europa (utbredd)",
+    "Nordamerika (mindre vanlig)",
+    "Tempererade gräsmarker över hela världen",
+    "Betade hagar",
+    "Kosmopolitisk i lämpliga miljöer"
+  ],
+  "lookalikes": [
+    "Coprinus comatus (ätlig) – mycket större, raggiga fjäll inte bomullshår",
+    "Coprinopsis lagopides – nästan identisk, åtskillnad kräver mikroskopi",
+    "Unga Agaricus- eller Amanita-arter – men saknar den bomullsaktiga ytan och de svart delikvescerande skivorna",
+    "Parasola-arter – mindre, mindre håriga"
+  ],
+  "safety_notes": "ÄTLIG men dålig: Anses ätlig som ung men smaken är intetsägande och konsistensen dålig. Den lilla storleken och delikata naturen gör den opraktisk. Inga kända giftiga egenskaper men samlas inte vanligen. Ingen alkoholinteraktion. Måste användas omedelbart eftersom skivorna delikvescerar snabbt. Endast unga exemplar innan skivorna svartnar är ätliga. Det ullig-håriga utseendet är charmerande men leder inte till kulinarisk kvalitet. Säker men inte värd besväret. Inga giftiga förväxlingssvampar. De bomullsvita håren ger den ett attraktivt luddigt utseende. Mer intressant som exemplar än som mat.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723677.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 80168,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb65a2e8b50fd754a18e94db92f351c950f6aad16c9436862b1b4e582849bcf9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723658.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-08",
+      "file_size_bytes": 69772,
+      "width": 640,
+      "height": 524,
+      "sha256": "12799b2ca72edccdf51732a8de50992a20502b6b4f9c593c8dcde2c35988af72"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

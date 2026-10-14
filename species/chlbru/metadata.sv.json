@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlbru",
+  "scientific_name": "Chlorophyllum brunneum",
+  "common_name": "Parkfjällskivling",
+  "edibility": "P",
+  "description": "Parkfjällskivling är en medelstor till stor svamp med hatt 5–20 cm bred, till en början rundad och senare brett konvex. Hatten är vit till gräddvit, täckt av bruna till rödbruna fjäll som är plattare och mer tilltryckta än hos C. rhacodes och koncentrerade mot mitten. Köttet färgas orangebrunt till rödaktigt vid snitt men mindre intensivt än hos C. rhacodes. Skivorna är fria, vita till gräddvita, och tätt till mycket tätt stående. Foten är 8–18 cm hög, slät eller fint fjällig, med en framträdande rörlig ring och lökformig bas.",
+  "habitat": "Finns i stads- och förortsmiljöer som trädgårdar, parker, rabatter, gräsmattor, flistäckta ytor och kompostrik jord. Starkt knuten till mänsklig odling och störda miljöer. Växer marklevande i näringsrika organiska substrat. Fruktsätter spritt till gruppvis, ofta i skötta grönområden och bevattnade ytor.",
+  "season": "Sensommar till höst (augusti–december) i tempererade regioner. I Kalifornien och milda klimat fruktsätter den året runt med toppar höst och vår (oktober–maj) efter regn. Vanligast under varmt väder med fukt.",
+  "regions": [
+    "Kalifornien (mycket vanlig, särskilt i stadsområden)",
+    "Nordvästra Stillahavsområdet (vanlig i trädgårdar)",
+    "Sydvästra USA",
+    "Texas och staterna vid Mexikanska golfen",
+    "Medelhavsklimat",
+    "Allt mer utbredd i Nordamerika"
+  ],
+  "lookalikes": [
+    "Chlorophyllum rhacodes (ätlig med försiktighet) – identiskt utseende, åtskillnad kräver mikroskopi eller sekvensering",
+    "Macrolepiota procera (utsökt matsvamp) – mycket högre och smalare, fot med ormskinnsmönster, färgar inte",
+    "Chlorophyllum molybdites (giftig) – grön sporfällning är diagnostisk, grönfärgas vid skada",
+    "Lepiota-arter (vissa dödliga) – mycket mindre, spädare struktur"
+  ],
+  "safety_notes": "GIFTIG: Chlorophyllum brunneum orsakar mag-tarmförgiftning med symtom som kraftigt illamående, kräkningar, diarré och magkramper. Symtomen uppträder vanligen inom 1–6 timmar efter förtäring och kan vara så allvarliga att sjukhusvård krävs för känsliga personer. Denna svamp förväxlas ofta med den ätliga äkta parasollen (Macrolepiota procera). Även om vissa personer kan tolerera den när den tillagas ordentligt på hög värme, gör risken för svåra magbesvär den olämplig att äta. Ät inte denna svamp.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713955.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 73850,
+      "width": 480,
+      "height": 640,
+      "sha256": "43f57bc65101b11b8cc5c61cc5822029939dd2195c52fb4d8f5b7d7f28e87303"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635375.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-15",
+      "file_size_bytes": 127184,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

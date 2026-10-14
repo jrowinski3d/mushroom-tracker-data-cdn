@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armgal",
+  "scientific_name": "Armillaria gallica",
+  "common_name": "Armilaria bulbosa",
+  "edibility": "E",
+  "description": "La armilaria bulbosa tiene un sombrero de color amarillo miel a marrón (3-10 cm) con pequeñas ESCAMAS OSCURAS concentradas en el centro. Las láminas son de blancas a crema, adheridas. El pie tiene un ANILLO PERSISTENTE y una distintiva BASE BULBOSA: la base hinchada es un carácter clave que la distingue de A. mellea. El pie es blanco sobre el anillo, más oscuro debajo. Crece en GRUPOS DENSOS sobre madera o cerca de árboles. La carne es blanca, firme. La esporada es blanca. Generalmente MENOS AGRESIVA como patógeno de árboles que A. mellea o A. ostoyae, a menudo saprobia más que parásita.",
+  "habitat": "Saprobia y débilmente parásita en frondosas, ocasionalmente en coníferas. Crece en grupos en la base de árboles muertos, tocones y madera enterrada. Menos agresiva como patógeno que otras especies de Armillaria. Se encuentra en robles, arces, hayas y diversas frondosas.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre), fructificando después de las lluvias.",
+  "regions": [
+    "Este de Estados Unidos",
+    "Medio Oeste",
+    "Noreste",
+    "Pacífico Noroeste",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Armillaria mellea - sin base bulbosa, patógeno más agresivo",
+    "Otras especies de Armillaria - todas requieren cocción",
+    "Especies de Pholiota - esporas marrones, base diferente",
+    "Especies de Galerina - MORTALES - más pequeñas, esporas marrones"
+  ],
+  "safety_notes": "COMESTIBLE CON PRECAUCIÓN: Los hongos de miel (especies de Armillaria) son VENENOSOS en crudo y deben cocinarse bien antes de consumirlos. Cocinar durante al menos 10-15 minutos a fuego fuerte. Incluso bien cocinados, algunas personas experimentan reacciones alérgicas o malestar digestivo. Probar primero una pequeña cantidad para comprobar la tolerancia. Escaldar antes de cocinar puede ayudar a reducir los irritantes gastrointestinales y el sabor amargo. No consumir con alcohol: los hongos de miel pueden causar reacciones adversas combinados con alcohol (similar a Coprinopsis). Recolectar solo ejemplares jóvenes y firmes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723298.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 37772,
+      "width": 640,
+      "height": 427,
+      "sha256": "5243f5f67facea290fb948ce30fbcf7efd93e6d534b2093aad0248a85387c1b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723299.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 28588,
+      "width": 640,
+      "height": 427,
+      "sha256": "7a504c92cd99e106f7e327ed456d959a02915920b376b3f7739c1ef4a6a59a8a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "aurmir",
+  "scientific_name": "Aureoboletus mirabilis",
+  "common_name": "Admirable Bolete (Aureoboletus mirabilis)",
+  "edibility": "E",
+  "description": "Den beundransvärda soppen har en distinkt mörkt rödbrun till vinröd hatt (5–20 cm) med sammetisk, torr yta. Porerna är klart gyllengula och blånar grönblått. Den gula foten visar vinröda toner och har distinkt gult ådernät. Det gula köttet blånar när det skärs. Växer ofta på ruttnande hemlockved – en unik växtplats bland soppar. Sporfällning olivbrun.",
+  "habitat": "Mykorrhizabildande med hemlockträd men växer distinkt på eller nära ruttnande hemlockved, stubbar och stockar. Finns i gammal och mogen hemlockskog. Den vedassocierade växtvanan är ovanlig för soppar och diagnostisk för denna art.",
+  "season": "Sensommar till höst (augusti–oktober) med topp i september. Kommer efter sensommarens regn i hemlockmiljöer.",
+  "regions": [
+    "nordvästra USA",
+    "norra Kalifornien",
+    "Oregon",
+    "Washington",
+    "British Columbia",
+    "kustnära hemlockskogar",
+    "västra hemlockbältet"
+  ],
+  "lookalikes": [
+    "Boletus-arter – inte på ved, andra färger",
+    "Xerocomellus-arter – mindre, annan miljö",
+    "Leccinum-arter – sträva fotar, inte på ved",
+    "den vedassocierade växten och de vinröda färgerna är distinktiva"
+  ],
+  "safety_notes": "ÄTLIG: Den beundransvärda soppen är en god matsvamp med fast konsistens och behaglig smak. Blånandet är normalt och ofarligt. Den unika växten på eller nära hemlockved gör bestämningen enkel. Tillaga ordentligt före förtäring. Vissa personer kan få milda magbesvär. Relativt ovanlig art.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725765.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 150640,
+      "width": 640,
+      "height": 606,
+      "sha256": "814e356be5517f04c9d57950a24d9848d5876f0ce45ad179af08b9fe61821613"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1725766.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 99810,
+      "width": 617,
+      "height": 640,
+      "sha256": "a7dea91a17c0ee221a8abd93059d972fddf1117e4c021788e9398cd02170e32a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

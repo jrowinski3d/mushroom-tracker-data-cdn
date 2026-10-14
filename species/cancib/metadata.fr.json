@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancib",
+  "scientific_name": "Cantharellus cibarius",
+  "common_name": "Girolle",
+  "edibility": "E",
+  "description": "La girolle a un chapeau jaune doré à jaune d’œuf de 2 à 12 cm de large, avec une marge irrégulière et ondulée qui devient en entonnoir avec l’âge. Le dessous porte des plis épais, obtus et fourchus (et NON de vraies lames) qui descendent le long du pied et sont du même jaune doré que le chapeau. Le pied est plein, de 2 à 8 cm de haut, effilé vers le bas, blanc à jaune pâle. La chair est ferme, blanche à jaune pâle, et dégage une odeur caractéristique fruitée rappelant l’abricot. Sporée jaune pâle à crème.",
+  "habitat": "Mycorhizien avec diverses essences dont le chêne, le hêtre, le bouleau, le pin, l’épicéa et le sapin. Trouvé dans les forêts de conifères et les forêts mixtes de feuillus, généralement sur les versants bien drainés ou les zones moussues. Fructifie souvent aux mêmes endroits année après année.",
+  "season": "De l’été à l’automne (juin-novembre en Amérique du Nord, juillet-décembre en Europe). Le pic de fructification survient après les fortes pluies d’été ou d’automne, la période variant selon la latitude et l’altitude.",
+  "regions": [
+    "Europe du Nord et centrale",
+    "Nord-est de l’Amérique du Nord",
+    "Région des Grands Lacs",
+    "Pacifique Nord-Ouest",
+    "Asie du Nord"
+  ],
+  "lookalikes": [
+    "Clitocybe lumineux (Omphalotus olearius/illudens) — TOXIQUE, possède de vraies lames à arêtes vives, pousse sur le bois, est luminescent dans l’obscurité",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de piètre qualité, possède de vraies lames fines, couleur plus orange",
+    "Autres espèces de Cantharellus — toutes comestibles, apparence et préparation similaires"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : l’un des champignons sauvages les plus prisés, à l’excellente saveur et à la chair ferme. La clé d’une identification sûre est d’examiner le dessous — les chanterelles ont des plis épais, obtus et fourchus difficiles à séparer du chapeau, tandis que les clitocybes lumineux toxiques ont de fines vraies lames à arêtes vives. Les chanterelles poussent du sol (mycorhiziennes), jamais sur le bois. Certaines personnes éprouvent de légers troubles digestifs ; essayer d’abord une petite quantité. Excellente poêlée au beurre avec sa saveur naturelle poivrée et fruitée.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1567856.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 23654,
+      "width": 640,
+      "height": 361,
+      "sha256": "811d0143a8e74dc7c8481b1e9b39aa6df2f4093c0aae15687a0ca478080e3902"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1567857.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 15560,
+      "width": 640,
+      "height": 361,
+      "sha256": "4f70a6f6b01279635a5685f9fc69eaab4fd42f22caa6f5543498006d662ba7e5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

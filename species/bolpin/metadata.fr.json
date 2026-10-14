@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolpin",
+  "scientific_name": "Boletus pinophilus",
+  "common_name": "Cèpe des pins",
+  "edibility": "E",
+  "description": "Le cèpe des pins présente un chapeau brun-rougeâtre foncé à acajou (7 à 30 cm) à la surface lisse à légèrement visqueuse quand il est humide. Les pores sont blancs quand ils sont jeunes, virant au jaune-olive avec l'âge, sans bleuissement. Le pied robuste est brun-rougeâtre avec une réticulation blanche à rosée, souvent avec des tons vineux. La chair blanche peut montrer une légère teinte rosée sous la cuticule du chapeau mais ne se tache pas à la coupe. La sporée est brun olivâtre.",
+  "habitat": "Mycorhizien du pin, de l'épicéa et autres conifères dans les forêts de conifères montagnardes et subalpines. Préfère les sols acides et les altitudes élevées. Fructifie souvent en grand nombre sous les conifères matures.",
+  "season": "De la fin de l'été à l'automne (juillet-octobre), avec une fructification maximale en août-septembre à haute altitude. Apparaît après des pluies soutenues par temps chaud.",
+  "regions": [
+    "montagnes Rocheuses",
+    "Montagnes du Pacifique Nord-Ouest",
+    "Chaîne des Cascades",
+    "Sierra Nevada",
+    "Hautes terres de Californie du Nord",
+    "Colombie-Britannique",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Boletus edulis — couleur de chapeau plus claire, tons moins rougeâtres",
+    "Boletus aereus — chapeau plus sombre, préfère le chêne et non le pin",
+    "Tylopilus felleus — pores roses, goût amer",
+    "Autres espèces de Boletus rougeâtres — toutes comestibles"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : le cèpe des pins est considéré par beaucoup comme le meilleur de tous les bolets, à la saveur riche de noisette et à la texture ferme. Très prisé pour le séchage, la saveur s'intensifiant. La coloration brun-rougeâtre et l'association avec les pins sont des caractéristiques d'identification clés. Toujours bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388373.jpg",
+      "photographer": "Vasco Fachada",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-05",
+      "file_size_bytes": 106414,
+      "width": 640,
+      "height": 427,
+      "sha256": "71eac4183b7f7c447c6ce606c4755435a97cc13cca6b91391f03840c6cf27e06"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/27980.jpg",
+      "photographer": "Irene Andersson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2008-11-05",
+      "file_size_bytes": 40752,
+      "width": 640,
+      "height": 415,
+      "sha256": "4813deb8c9c8cd2c5dbc05c3b094fdb28dcacdc5daf6dcd9159ac6fb1b89fcd1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

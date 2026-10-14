@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trical",
+  "scientific_name": "Tricholoma caligatum",
+  "common_name": "California Matsutake (Tricholoma caligatum)",
+  "edibility": "E",
+  "description": "Tricholoma caligatum ma masywny biały do kremowego kapelusz (5–15 cm), często z brązowawymi plamami lub strefami rozwijającymi się z wiekiem. Kapelusz wypukły, suchy, gładki do lekko łuskowatego lub włóknistego. Blaszki białe do kremowych, przyrośnięte, gęste, mogą brązowieć. Trzon gruby, twardy, biały, z BŁONIASTYM DO WATOWATYM PIERŚCIENIEM z osłony częściowej — cechy pierścienia mogą się różnić. Cechą kluczową jest CHARAKTERYSTYCZNY KORZENNY, CYNAMONOWY lub aromatyczny ZAPACH. Miąższ biały, twardy. Wysyp zarodników biały. Wyróżnia się kalifornijskim nadbrzeżnym zasięgiem i związkiem z określonymi gatunkami drzew.",
+  "habitat": "Mikoryzowy z drzewami iglastymi i liściastymi w Kalifornii, zwłaszcza z dębem (Quercus agrifolia), Notholithocarpus, chruściną (Arbutus) i daglezją. Tworzy związki mikoryzowe w nadbrzeżnych lasach Kalifornii. Rośnie na ziemi, w ściółce lub wśród opadłych liści. Występuje w mieszanych lasach wiecznie zielonych od nadbrzeżnych pasm górskich po podgórze Sierra Nevada.",
+  "season": "Od późnej jesieni do zimy (listopad–luty), owocnikowanie w kalifornijskiej porze deszczowej — później niż u innych matsutake.",
+  "regions": [
+    "wybrzeże Kalifornii",
+    "podgórze Sierra Nevada",
+    "łańcuchy nadbrzeżne",
+    "Północna Kalifornia",
+    "region graniczny z Oregonem"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — matsutake z północnego zachodu Pacyfiku, związany z drzewami iglastymi",
+    "Inne gatunki Tricholoma — różne, bez cynamonowego zapachu",
+    "Gatunki Amanita (muchomory) — TRUJĄCE — mają pochwę u podstawy",
+    "Catathelasma — ma podwójną osłonę"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Wysoce ceniony, zbierany komercyjnie w Kalifornii. KORZENNY CYNAMONOWY ZAPACH jest diagnostyczny. Najlepszy młody i twardy. Unikalny wśród matsutake ze względu na związki z drzewami liściastymi (dąb, Notholithocarpus, chruścina) oprócz iglastych. KRYTYCZNE: Zawsze sprawdzaj brak pochwy (czarki u podstawy), aby wykluczyć trujące gatunki Amanita. Pierścień i charakterystyczny aromat potwierdzają identyfikację.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709829.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 48448,
+      "width": 640,
+      "height": 427,
+      "sha256": "3d523855db60033f8584ae1a15f1acd6727619de2cbc5db25006025b3844aea8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709830.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 39640,
+      "width": 640,
+      "height": 427,
+      "sha256": "1342cf701d1c7ffb2a2df10c0f7671b8bb3dd32a98a987505432c3b3c9bf7046"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

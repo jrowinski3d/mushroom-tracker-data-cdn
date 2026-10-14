@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilut",
+  "scientific_name": "Suillus luteus",
+  "common_name": "Smörsopp",
+  "edibility": "E",
+  "description": "Smörsoppen har en chokladbrun till purpurbrun hatt (5–12 cm) med karakteristiskt slemmig, klibbig yta när den är våt – lätt att dra av. Porerna är gula och missfärgas inte. En tydlig vit partiell slöja lämnar en purpurbrun ring på den gula foten. Vitt till blekgult kött missfärgas inte. Den slemmiga hatten och den mörka ringen är kännetecken. Sporfällningen är kanelbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med två- och trenålade tallar, särskilt vanlig tall och weymouthtall. Vanlig i tallplantager och naturligt föryngrade tallbestånd. Finns i störda områden med unga tallar.",
+  "season": "Sommar till höst (juli–november) med huvudsäsong i september–oktober. Fruktsätter ofta rikligt efter höstregn.",
+  "regions": [
+    "Nordöstra USA",
+    "Området kring Stora sjöarna",
+    "Nordvästra USA",
+    "Klippiga bergen",
+    "Överallt där det finns tallplantager",
+    "Kanada",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Suillus granulatus – saknar den mörka ringen på foten",
+    "Andra Suillus-arter – olika slemmiga soppar med tall",
+    "Boletus-arter – inte slemmiga, annan växtplats",
+    "Gomphidius-arter – har skivor inte porer"
+  ],
+  "safety_notes": "ÄTLIG: Smörsopp är en god matsvamp när den är ung och fast. Ta bort den slemmiga hatthuden före tillagning eftersom den kan ha laxerande effekt. Den slemmiga konsistensen och den purpurfärgade ringen på den gula foten är karakteristiska. Vissa får magbesvär. Tillaga alltid noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1724477.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 107790,
+      "width": 640,
+      "height": 427,
+      "sha256": "58d9a1262207963b51189423dc109394b7f49fd2160a342af7d6ed999a630e7b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1724478.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 78526,
+      "width": 640,
+      "height": 427,
+      "sha256": "b5eb12ca74c4875c75f45097ea8581a8f1e41b464135995d4bda4dbfa0b0bab4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

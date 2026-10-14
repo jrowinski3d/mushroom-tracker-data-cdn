@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cracor",
+  "scientific_name": "Craterellus cornucopioides",
+  "common_name": "Svart trumpetsvamp",
+  "edibility": "E",
+  "description": "Svart trumpetsvamp har en distinkt mörkgrå till svart, djupt tratt- eller trumpetsvampsformad fruktkropp 3–12 cm hög och 2–8 cm bred i toppen. Hatten är vågig och oregelbunden med tunn, uppvikt kant. Insidan är mörkgrå till svart, slät eller lätt fjällig. Ytterytan (sporproducerande) är slät till lätt skrynklig, grå till brungrå, UTAN åsar eller skivor. Hela fruktkroppen är ihålig från topp till botten som en trumpet. Köttet är tunt, sprött som torrt, elastiskt som färskt, mörkgrått. Sporfällningen är vit till blekt gräddvit.",
+  "habitat": "Lever i mykorrhiza med lövträd, särskilt amerikansk bok, ek och björk. Finns i mogna lövskogar, ofta i mossiga områden eller nära bäckar. Växer spritt eller i stora trupper på skogsgolvet, ofta kamouflerad bland förna. Föredrar näringsrika, fuktiga jordar.",
+  "season": "Sommar till höst (juli–november), med fruktsättningstopp augusti–oktober i de flesta regioner. Fruktsätter ofta på samma platser år efter år. Kan vara riklig efter regnperioder.",
+  "regions": [
+    "Östra Nordamerika (utbredd)",
+    "Nordöstra USA",
+    "Appalachiska regionen",
+    "Regionen kring de stora sjöarna",
+    "Nordvästra Stillahavsområdet (mindre vanlig)",
+    "Europa (förekommer även)"
+  ],
+  "lookalikes": [
+    "Craterellus fallax – ätlig, mycket lik men mer brunaktig, finns i andra regioner, i princip samma användning",
+    "Craterellus foetidus – ätlig, liknande men med unken doft som torkad, i övrigt nästan identisk",
+    "Urnula craterium – oätlig, skålformad inte trumpetsvampsformad, växer på ved, gummiartad konsistens"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Svart trumpetsvamp är en av de mest uppskattade vilda svamparna, berömd för sin rika, rökiga smak. Trots sitt mörka utseende är den helt säker och läcker. Den distinkta trumpetformen, ihåliga insidan och avsaknaden av skivor eller åsar gör den relativt lätt att identifiera när man vet vad man ska leta efter. Men den mörka färgen gör dem mycket svåra att upptäcka på skogsgolvet – de smälter in med förna och skuggor. Utmärkt färsk eller torkad; torkning intensifierar smaken. Inga giftiga förväxlingssvampar finns. Vissa personer tycker dem lite svåra att smälta; tillaga ordentligt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.178989",
+  "source_language": "en"
+}

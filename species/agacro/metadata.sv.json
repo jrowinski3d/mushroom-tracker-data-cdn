@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacro",
+  "scientific_name": "Agaricus crocodilinus",
+  "common_name": "Macro Mushroom (Agaricus crocodilinus)",
+  "edibility": "E",
+  "description": "Krokodilchampinjonen är en distinkt art med 8–18 cm bred hatt, till en början rundad och senare brett välvd till utbredd. Hatten är vit med ett slående mönster av mörkbruna till gråbruna uppböjda fjäll ordnade i krokodilhudsmönster (diagnostiskt kännetecken), tätare mot mitten. Skivorna är fria, till en början blekt rosa och blir chokladbruna. Foten är 6–12 cm hög, vit, slät eller med fina fjäll, med en stor nedhängande ring. Köttet är vitt, färgas långsamt gult till brunt vid beröring, med behaglig mandel-anisdoft.",
+  "habitat": "Växer i blandad barr- och lövskog, skogsbryn, parker med äldre träd och anlagda ytor med barkflis. Markväxande i humusrik jord och vedrester. Växer spridd till i grupp, ofta i små grupper. Föredrar områden med ruttnande organiskt material.",
+  "season": "Sensommar till höst (augusti–november) i de flesta områden. I Kalifornien och milda klimat kan den komma på vintern (december–februari). Rikligast fruktsättning sker på hösten efter varma regn. Vanligare i år med jämn fuktighet.",
+  "regions": [
+    "Kalifornien (vanlig)",
+    "nordvästra USA (enstaka)",
+    "sydvästra USA",
+    "medelhavsklimat",
+    "västra Nordamerika (främst)",
+    "varma tempererade regioner"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (ätlig) – större, mer gyllenbruna fjäll, starkare anisdoft",
+    "Agaricus subrutilescens (ätlig) – liknande utseende, vinröd färgning på fotbasen",
+    "Agaricus moelleri (giftig) – gulnar intensivt, fenollukt istället för anisdoft",
+    "stora flugsvampar (vissa dödliga) – har volva vid fotbasen vilket champinjoner saknar"
+  ],
+  "safety_notes": "ÄTLIG: Anses ätlig med god smak och konsistens vid ordentlig tillagning. Mindre vanlig som matsvamp än A. augustus men av liknande kvalitet. Kritisk bestämning: kontrollera behaglig MANDEL-ANISDOFT (inte fenolisk), det distinkta krokodilhudsmönstret av fjäll på hatten, FRIA skivor som blir rosa och sedan chokladbruna, CHOKLADBRUNT sporfällning, INGEN volva vid fotbasen. Undvik exemplar med intensiv gul färgning eller fenolisk kemisk lukt. Det distinkta fjällmönstret underlättar bestämningen. Tillaga ordentligt före förtäring.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634317.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 120438,
+      "width": 640,
+      "height": 480,
+      "sha256": "57a6ec9533933760d0e54c184e86a6cafa732d7772394117fe4b2ec1f09482b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634318.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 86592,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5ca0feb44040250d42aeb015502ef583b1dd53e55968d08ca16c5468222e3bb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

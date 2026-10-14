@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "fishep",
+  "scientific_name": "Fistulina hepatica",
+  "common_name": "Langue-de-bœuf",
+  "edibility": "E",
+  "description": "Champignon reconnaissable en forme de langue ou de console, de 3 à 10 pouces de large, ressemblant à une tranche de viande crue. Surface supérieure rouge-orange à brun foie, rugueuse et bosselée. UNIQUE : possède des tubes individuels (et non des pores soudés) de couleur crème, exsudant un jus rouge à la coupe. Chair marbrée de rouge et de blanc comme de la viande, au goût aigre-acide. Texture molle et humide. Aspect inimitable.",
+  "habitat": "Parasite sur les chênes et châtaigniers vivants, provoquant une carie brune cubique du cœur du bois (chêne brun). Forme des consoles sur les troncs et les grosses branches des chênes matures. Fortement associé aux espèces de chênes dans les forêts de l’Est. Peut persister sur le même arbre pendant des années. Généralement solitaire ou en quelques consoles.",
+  "season": "De la fin de l’été à l’automne, généralement d’août à novembre. Pic de fructification en septembre-octobre. Peut persister plusieurs semaines. Le plus fréquent en début d’automne sur les chênes matures.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Sud-Est des États-Unis",
+    "région des Grands Lacs",
+    "montagnes des Appalaches",
+    "forêts de chênes du Midwest",
+    "Europe et Asie"
+  ],
+  "lookalikes": [
+    "Polypore soufré (Laetiporus) - couleurs vives, pores soudés, pas de jus rouge",
+    "Polypore marginé (Fomitopsis) - coriace, vivace, texture différente",
+    "Pas de sosies dangereux - très reconnaissable",
+    "Polypore résineux - couleur différente, sans aspect de viande"
+  ],
+  "safety_notes": "COMESTIBLE avec prudence : son goût fortement acide/aigre limite son attrait - certains apprécient cette acidité, d’autres la trouvent immangeable. Les jeunes spécimens sont les meilleurs. L’acidité peut provoquer des troubles digestifs chez les personnes sensibles. Souvent marinée ou utilisée en petites quantités pour sa saveur. Peut être blanchie pour réduire l’acidité. Bien cuire. Sans danger, mais un goût qui s’acquiert. Sa texture semblable à de la viande et son jus rouge sont fascinants, mais sa saveur est très acide.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718206.jpg",
+      "photographer": "Penny Firth",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-20",
+      "file_size_bytes": 143434,
+      "width": 640,
+      "height": 521,
+      "sha256": "16bc5c63d3a1b2bef43f943930cade2fbc981e93d1d0aeeeab513d3ac5dfb233"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1597578.jpg",
+      "photographer": "Penny Firth",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-30",
+      "file_size_bytes": 116232,
+      "width": 640,
+      "height": 490,
+      "sha256": "9da59801ff1d3c914142d611d8f3740401903a1850b30cf3dca6b208d90222d3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "cratub",
+  "scientific_name": "Craterellus tubaeformis",
+  "common_name": "lejkowiec dęty",
+  "edibility": "E",
+  "description": "Lejkowiec dęty to mały grzyb o brązowo-żółtym do szarobrązowego kapeluszu o szerokości 1–6 cm, który z wiekiem staje się głęboko lejkowaty. Kapelusz ma cienki, falisty brzeg i jest często przedziurawiony w środku, otwierając się do pustego trzonu. Spodnia strona ma płytkie, tępe, rozwidlone listewki (NIE są to prawdziwe blaszki), żółtawoszare do blado żółtych, rzadko rozstawione, zbiegające po trzonie. Charakterystyczny trzon wysoki na 2–8 cm, pusty, smukły i jasnożółty do pomarańczowo-żółtego (stąd nazwa „żółtonóżka”). Miąższ cienki, żółtawy, o łagodnym zapachu. Wysyp zarodników biały do blado żółtego.",
+  "habitat": "Mikoryzowy z drzewami iglastymi, szczególnie świerkiem, jodłą i choiną w północnych i górskich lasach. Występuje w mszystych lasach iglastych, często w dużych skupiskach na mszystym podłożu, butwiejącym drewnie lub wśród igliwia. Preferuje chłodne, wilgotne środowiska na wyższych położeniach lub północnych szerokościach geograficznych.",
+  "season": "Od późnej jesieni do zimy (październik–luty), jeden z najpóźniej owocnikujących grzybów jadalnych. Często pojawia się po pierwszych przymrozkach i może owocnikować pod śniegiem. Szczyt sezonu przypada zwykle na listopad–styczeń na Północnym Zachodzie Pacyfiku i w regionach północnych.",
+  "regions": ["Północny Zachód Pacyfiku (Oregon, Waszyngton, Kolumbia Brytyjska)", "Północne Stany Zjednoczone (od Maine po Minnesotę)", "Rejon Wielkich Jezior", "Północne Góry Skaliste", "Stany północno-wschodnie", "Północna Europa (również występuje)"],
+  "lookalikes": ["Craterellus ignicolor – jadalny, bardziej złocisto-żółty w całości, występuje we wschodniej Ameryce Północnej", "Małe gatunki Cantharellus – jadalne, masywniejsze, brak charakterystycznego żółtego trzonu i pustego środka", "Hygrophoropsis aurantiaca (lisówka pomarańczowa) – nietrująca, ale słabej jakości, ma prawdziwe cienkie blaszki, bardziej pomarańczowa"],
+  "safety_notes": "JADALNY: Lejkowiec dęty to znakomity grzyb jadalny pomimo małego rozmiaru. Charakterystyczny jasnożółty pusty trzon i brązowawy kapelusz sprawiają, że łatwo go rozpoznać. Jak pieprzniki, ma tępe listewki zamiast prawdziwych blaszek, choć są płytkie i czasem ledwo widoczne. Brak trujących gatunków podobnych. Mały rozmiar oznacza, że trzeba zebrać wiele na posiłek, ale często owocnikują obficie. Smak delikatny i lekko pieprzny; doskonały w zupach, makaronach lub duszony. Można z powodzeniem suszyć na później.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719682.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 69358,
+      "width": 480,
+      "height": 640,
+      "sha256": "fc9fb71e90d30d54edf3e5aa489e4451406c1669a8b5215ca31bdf4596317759"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719683.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 45096,
+      "width": 480,
+      "height": 640,
+      "sha256": "f91bd6be1fc4662333cd75708085d399ebe96caae4a04e3927a4f45985eb9c7c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

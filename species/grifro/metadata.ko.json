@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "grifro",
+  "scientific_name": "Grifola frondosa",
+  "common_name": "잎새버섯",
+  "edibility": "E",
+  "description": "중앙의 분지된 흰색 기부에서 돋아난 수십 개의 겹쳐진 회갈색 숟가락 모양 갓으로 이루어진 독특한 대형 복합 자실체로 너비 10~36인치 이상. 개별 갓은 너비 1~3인치에 가장자리가 물결 모양. 아랫면은 흰색 관공면. 암탉의 깃털을 닮은 빽빽한 장미꽃 모양 군집을 이룬다. 무게 10~50파운드 이상. 성숙하면 오인할 수 없다.",
+  "habitat": "살아 있거나 죽은 활엽수, 특히 참나무, 느릅나무, 단풍나무, 너도밤나무의 기부에서 기생한다. 심재와 뿌리의 백색부후를 일으킨다. 나무 기부에서 대형 장미꽃 모양 군집을 형성하며, 종종 매년 같은 장소에서 발생한다. 성숙한 활엽수림에 흔하다. 지하 균핵에서 자란다.",
+  "season": "늦여름부터 가을, 보통 8월~11월. 9월~10월에 발생 절정. 이른 가을에 가장 흔하다. 같은 장소에서 수년간 발생할 수 있다. 늦여름 비 뒤에 발생한다.",
+  "regions": [
+    "북미 동부",
+    "오대호 지역",
+    "북동부 삼림",
+    "애팔래치아 산맥",
+    "중서부 활엽수림",
+    "아시아와 유럽"
+  ],
+  "lookalikes": [
+    "Meripilus sumstinei (더 어둡고, 만지면 검게 변하며, 질감이 다름)",
+    "Bondarzewia berkeleyi (더 밝은 색, 개별 갓이 더 큼)",
+    "버클리 구멍버섯류 (장미꽃 모양 군집이 덜 정돈됨)",
+    "우산 구멍버섯(Polyporus) - 구조가 다르고 군생하지 않음"
+  ],
+  "safety_notes": "최상급 식용: 뛰어난 풍미, 고기 같은 질감, 약용 성분으로 최고급 식용버섯 중 하나로 귀하게 여겨진다. 아시아에서는 '마이타케'로 널리 재배된다. 신선하고 벌레 피해가 없을 때 수확하라. 흰색에서 옅은 회색의 어린 개체가 가장 좋다. 충분히 조리하라. 복잡한 장미꽃 모양과 참나무 연관성 덕분에 동정이 명확하다. 정확히 동정하면 매우 안전하다. 가장 찾는 야생버섯 중 하나이다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1752161.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 108262,
+      "width": 640,
+      "height": 482,
+      "sha256": "51db775a2a9dd70049932751edb12254fe0e55a21d80322b789a74ba2cb4c8bb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1752162.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 60112,
+      "width": 482,
+      "height": 640,
+      "sha256": "0140fb98a260129712883e87b2bfa756a52f9834955cee3fb9796b0351ebc719"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "xerzel",
+  "scientific_name": "Xerocomellus zelleri",
+  "common_name": "Bolet de Zeller",
+  "edibility": "E",
+  "description": "Le bolet de Zeller porte un chapeau brun foncé à noirâtre (4-12 cm), à surface veloutée et sèche qui se craquelle souvent avec l'âge. Les pores sont jaune vif quand ils sont jeunes, bleuissant au toucher. Le pied jaune n'a pas de réticulation mais peut montrer des taches brun rougeâtre à la base. La chair jaune bleuit instantanément et profondément à la coupe — une réaction spectaculaire. Sporée brun olive.",
+  "habitat": "Mycorhizien avec le tanoak, l'arbousier et le douglas dans les forêts de la côte du Pacifique. Préfère les forêts mixtes feuillus-conifères avec tanoak ou arbousier. Trouvé dans les forêts côtières et les chênaies aux feuillus sempervirents.",
+  "season": "De l'automne à l'hiver (octobre-février) avec un pic de fructification en novembre-décembre. Fructification tardive après les pluies d'automne et d'hiver le long de la côte.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie du Nord",
+    "chaîne côtière de l'Oregon",
+    "chaînes côtières de Californie",
+    "sud de l'Oregon",
+    "forêts de tanoak et d'arbousier"
+  ],
+  "lookalikes": [
+    "Espèces de Boletus — la plupart sans la spectaculaire réaction de bleuissement",
+    "Autres espèces de Xerocomellus — couleurs ou répartitions différentes",
+    "Espèces de Suillus — chapeaux visqueux, habitat différent",
+    "Le chapeau velouté foncé et le fort bleuissement sont distinctifs"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet de Zeller est un bon comestible, de texture ferme et de saveur douce. La spectaculaire réaction de bleuissement est tout à fait normale et sans danger. Bien cuire avant de consommer. Le chapeau velouté foncé, les pores jaune vif et le fort bleuissement distinguent cette espèce. Certaines personnes peuvent ressentir de légers troubles digestifs.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1628073.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 151388,
+      "width": 477,
+      "height": 640,
+      "sha256": "1065d4ae22b7fc7a2af969dc6886731db93070af88a30ab0b37a8f6c860bda5d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1628074.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 108502,
+      "width": 480,
+      "height": 640,
+      "sha256": "edbac5849057adacd51bd5de769ad519ca078bb0708a8ad35f58ab9218700777"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

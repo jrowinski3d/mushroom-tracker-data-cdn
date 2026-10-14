@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lentig",
+  "scientific_name": "Lentinus tigrinus",
+  "common_name": "Tiger Sawgill (Lentinus tigrinus)",
+  "edibility": "E",
+  "description": "Mały do średniego grzyb o białym kapeluszu o szerokości 1–3 cali, pokrytym koncentrycznymi pierścieniami brązowych do czarnych łusek, dającymi tygrysi wzór. Białe piłkowane (zębate jak piła) blaszki — cecha diagnostyczna. Środkowy biały trzon o wysokości 1–3 cali, często łuskowaty. Ma BLASZKI o charakterystycznych piłkowanych brzegach, nie pory. Rośnie na drewnie liściastym. Twarda, skórzasta tekstura. Charakterystyczny tygrysi wzór.",
+  "habitat": "Saprobiczny na martwym drewnie liściastym, w tym kłodach, pniakach, gałęziach i zdrewniałych resztkach, zwłaszcza wierzbie, olszy, topoli i innych łęgowych drzewach liściastych. Pospolity wzdłuż strumieni i rzek. Preferuje wilgotne lub przesiąknięte wodą drewno. Często na małych gałęziach i gałązkach. Powoduje białą zgniliznę.",
+  "season": "Od wiosny do jesieni, zazwyczaj maj–październik. Szczyt latem. Najpospolitszy w ciepłą, wilgotną pogodę. W łagodnym klimacie może pojawiać się przez cały rok. Owocnikuje obficie w okresach wilgoci.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Północno-Zachodni Pacyfik",
+    "Powszechny w całej Ameryce Północnej",
+    "Region Wielkich Jezior",
+    "Tereny łęgowe w całym kraju",
+    "Kosmopolityczne występowanie"
+  ],
+  "lookalikes": [
+    "Neolentinus lepideus (większy, drewno iglaste, anyżowy zapach, inne łuski)",
+    "Lentinus arcularius (podobny, ale mniejsze łuski, inny wzór)",
+    "Pleurotus dryinus (łuski, ale brak piłkowanych blaszek)",
+    "Gatunki Panellus — gładkie brzegi blaszek, inny wzrost"
+  ],
+  "safety_notes": "JADALNY, gdy bardzo młody, ale niezalecany: Tylko delikatne młode owocniki są smaczne — szybko staje się twardy i skórzasty. Nawet młode okazy mają ciągnącą teksturę wymagającą długiego gotowania albo suszenia i mielenia na proszek. Mały rozmiar i twardość sprawiają, że nie opłaca się go zbierać. Zasadniczo bezpieczny, ale niesmaczny ze względu na teksturę. Charakterystyczne piłkowane brzegi blaszek i tygrysi kapelusz są unikatowe. Dostępne są lepsze grzyby jadalne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721722.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 51736,
+      "width": 640,
+      "height": 482,
+      "sha256": "0e82849a5dc34798348db9c7f1bfa1f5a3ea4e60a201f43532ef85eb34e51251"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721723.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 58200,
+      "width": 640,
+      "height": 482,
+      "sha256": "d9734262995f308da3b0255496f7b5ef96a142c44bbfa98a54bb62f1f1460f5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecin",
+  "scientific_name": "Laetiporus cincinnatus",
+  "common_name": "White-pored Chicken of the Woods (Laetiporus cincinnatus)",
+  "edibility": "E",
+  "description": "Hongo de repisa de color anaranjado a rosa salmón con superficie de poros BLANCA a crema pálida (no amarilla), que forma rosetas de repisas superpuestas de 5-25 cm de ancho. Aspecto similar a L. sulphureus, pero se distingue por los poros blancos y la fructificación desde el suelo. Blando y suculento cuando es joven. Múltiples repisas brotan de una unión central enraizada a madera enterrada o raíces de árboles. Hongo de repisa anual.",
+  "habitat": "Saprófito sobre madera enterrada y raíces de árboles de frondosas muertos, especialmente robles. Parece crecer desde el suelo en la base de los árboles o desde raíces y tocones enterrados. Forma grandes rosetas de varios niveles cerca de robles o rodeándolos. Bosques de frondosas del este. Causa podredumbre blanca de la madera enterrada.",
+  "season": "Desde finales de primavera hasta el otoño, típicamente de mayo a septiembre. Máxima fructificación en junio-agosto. Temporada similar a L. sulphureus, pero suele aparecer algo más tarde. Brota tras lluvias cálidas.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste",
+    "región de los Grandes Lagos",
+    "sureste de Estados Unidos",
+    "región de los Apalaches",
+    "al este de las Grandes Llanuras"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (poros amarillos, crece en troncos)",
+    "Otras especies de Laetiporus (poros amarillos)",
+    "Meripilus sumstinei (más pardo oscuro, se tiñe de negro, textura diferente)",
+    "Bondarzewia berkeleyi (crema-pardo, textura/poros diferentes)"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE cuando es joven y tierno: generalmente causa menos problemas digestivos que L. sulphureus en personas sensibles. Recolecte solo ejemplares jóvenes, blandos y flexibles, de textura húmeda. Evite ejemplares viejos, duros y secos. Cocine bien. La superficie de poros blanca y el crecimiento desde el suelo ayudan a identificar esta especie más suave. Considerado uno de los Laetiporus más seguros para principiantes. Textura y sabor excelentes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 64984,
+      "width": 480,
+      "height": 640,
+      "sha256": "cfcfc8e6929b6b7b186c9d8b7f453a52eafdab1c72b10833292eaae440b74631"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1707085.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-06",
+      "file_size_bytes": 85890,
+      "width": 640,
+      "height": 482,
+      "sha256": "4c8aa9fcaf1604f40898dd031118dab429d31bb1ba246b123438ea956c844655"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

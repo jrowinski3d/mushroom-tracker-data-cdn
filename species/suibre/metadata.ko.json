@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suibre",
+  "scientific_name": "Suillus brevipes",
+  "common_name": "Stubby-stalk (Suillus brevipes)",
+  "edibility": "E",
+  "description": "짧은대 그물버섯은 황갈색~적갈색 갓(지름 3–12cm)으로, 젖으면 표면이 끈적거리고 줄무늬 또는 얼룩 무늬가 있는 경우가 많다. 관공은 크고 각이 진 노란색~올리브노란색으로 변색되지 않는다. 짧고 굵은 노란색 대에는 턱받이가 없다 - 핵심 특징이다. 흰색~연노란색 살은 변색되지 않는다. 끈적거리는 갓과 턱받이 없는 대가 구별점이다. 포자문은 계피갈색.",
+  "habitat": "2~3엽송, 특히 서부의 폰데로사소나무·로지폴소나무·제프리소나무와만 균근을 이룬다. 소나무가 우점하는 삼림과 탁 트인 소나무림에서 흔하다.",
+  "season": "늦여름~가을(8~11월)로 9~10월에 열매를 가장 많이 맺는다. 늦여름과 가을비 뒤에 난다.",
+  "regions": [
+    "태평양 북서부",
+    "캘리포니아 산악",
+    "로키산맥",
+    "남서부 소나무림",
+    "애리조나 고지대",
+    "뉴멕시코 산악",
+    "서부 산악 지대"
+  ],
+  "lookalikes": [
+    "Suillus luteus - 대에 뚜렷한 짙은 턱받이가 있음",
+    "Suillus granulatus - 어릴 때 관공에서 우윳빛 방울이 스며 나옴",
+    "다른 Suillus 종들 - 턱받이 유무를 확인할 것",
+    "Boletus 종들 - 끈적거리지 않고 서식지가 다름"
+  ],
+  "safety_notes": "식용 가능: 짧은대 그물버섯은 맛이 순한 식용버섯이나 조직이 다소 무르다. 요리 전에 끈적거리는 갓 표피를 제거할 것. 턱받이 없는 대와 소나무 공생이 진단 포인트. 일부 사람은 가벼운 소화불량을 겪을 수 있다. 반드시 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715638.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 115520,
+      "width": 640,
+      "height": 427,
+      "sha256": "5baf6a28695fc65eac987612eee3be7fd427df33eca270d1bebf6f58b6ad4d8b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713565.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 44206,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29048d548d1e15f2bc66daa9c5ed99bf2ec3b424f4b97b2bc38acb4925eaba2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

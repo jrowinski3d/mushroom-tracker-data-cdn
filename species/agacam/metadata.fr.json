@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacam",
+  "scientific_name": "Agaricus campestris",
+  "common_name": "Agaric champêtre",
+  "edibility": "E",
+  "description": "L'agaric champêtre est l'ancêtre sauvage classique du champignon de Paris cultivé. Chapeau de 5 à 12 cm de diamètre, d'abord arrondi puis largement convexe à plat. Le chapeau est blanc à crème, lisse ou orné de fines squames plates, développant souvent des tons rose-brun avec l'âge. Les lames sont libres, d'abord rose vif puis brun chocolat foncé (diagnostique — les lames roses distinguent des amanites blanches). Le pied mesure 3 à 8 cm de hauteur, blanc, lisse, avec un anneau mince et fragile qui disparaît souvent. La chair est blanche, parfois légèrement rosée, à l'odeur douce et agréable de champignon.",
+  "habitat": "Pousse dans les zones herbeuses ouvertes, notamment les prés, les pâturages, les pelouses, les terrains de golf et les parcs. Préfère les prairies riches en nutriments, souvent où paît le bétail ou dans les zones enrichies en engrais organiques. Évite les bois. Pousse au sol, fructifie de manière dispersée à grégaire, souvent en ronds de sorcières. Fréquente dans les prairies entretenues.",
+  "season": "De la fin de l'été à l'automne (juillet-novembre) dans les régions tempérées. Dans les climats doux peut fructifier au printemps et à l'automne. La fructification maximale a lieu à la fin de l'été et au début de l'automne après des pluies chaudes. L'un des champignons classiques d'automne des pâturages.",
+  "regions": [
+    "Europe (indigène, répandue)",
+    "Amérique du Nord (répandue, toutes régions)",
+    "Est des États-Unis (très commun)",
+    "Californie (commune)",
+    "Pacifique Nord-Ouest (commun)",
+    "Prairies tempérées du monde entier"
+  ],
+  "lookalikes": [
+    "Amanites tue-mouches (mortelles) — blanches avec des lames blanches (et non roses), volve à la base",
+    "Agaricus xanthodermus (toxique) — jaunit fortement à la coupe, odeur phénolique",
+    "Agaricus arvensis (comestible) — plus grand, odeur d'anis, anneau à motif de roue dentée",
+    "Chlorophyllum molybdites (toxique) — spores vertes, plus grand, lames devenant vertes"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : le champignon sauvage classique à l'excellente saveur, semblable aux variétés cultivées. Bien cuire. Identification CRITIQUE pour éviter les amanites blanches mortelles : vérifier des lames ROSES quand le champignon est jeune (les amanites ont des lames blanches), des lames virant au BRUN CHOCOLAT avec l'âge, une sporée BRUN CHOCOLAT, AUCUNE volve à la base du pied, une odeur douce et agréable (et non phénolique). Les lames roses sont la caractéristique la plus importante — si les lames sont blanches, ce n'est PAS cette espèce. Éviter les spécimens qui jaunissent fortement à la coupe. Comestible sauvage très populaire mais exigeant une identification soigneuse.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1637875.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 49032,
+      "width": 640,
+      "height": 427,
+      "sha256": "23a834b68e3daa7b3a096f468aa31c432e37f3837cb0a60675c59a2eae41efcd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1637876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 76590,
+      "width": 640,
+      "height": 427,
+      "sha256": "c1dd63a0a61f671647be7697f74475e2bfd753f007e551708cd67112dadbef1f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

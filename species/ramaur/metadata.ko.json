@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramaur",
+  "scientific_name": "Ramaria aurea",
+  "common_name": "Golden Coral (Ramaria aurea)",
+  "edibility": "E",
+  "description": "이 산호버섯은 높이 8~20cm, 너비 8~15cm의 아름답고 곧게 선 종이다. 자실체는 굵은 흰색에서 연한 노란색의 밑동에서 나온 수많은 곧게 선 가지들로 이루어진다. 어린 가지는 밝은 황금노랑에서 주황노랑이며, 나이 들면 황토갈색이 된다. 가지 끝은 대개 뭉툭하고 둥글다. 가지가 빽빽하고 촘촘해 꽃양배추 같은 모습을 만든다. 육질은 흰색에서 연한 노란색이며 잘 부서지고, 온화하고 기분 좋은 냄새가 난다. 버섯 전체는 육질이며 젤라틴질이 아니다.",
+  "habitat": "활엽수림과 혼합림, 특히 참나무, 너도밤나무 등 낙엽수 아래에서 발견된다. 나무 뿌리와 균근 공생을 이룬다. 흙에서 지상으로 자라며, 보통 흩어지거나 작은 무리를 이룬다. 성숙한 숲의 비옥한 부엽토를 선호한다. 낙엽층과 썩은 목재 근처에서 흔하다.",
+  "season": "대부분의 지역에서 늦여름부터 가을(8~11월)까지 발생한다. 초가을에서 중가을에 가장 많이 발생한다. 따뜻한 기후에서는 12월까지도 발생할 수 있다. 따뜻해진 토양 온도와 그 뒤의 가을비가 필요하다.",
+  "regions": [
+    "유럽(널리 분포)",
+    "북아메리카 동부(흔함)",
+    "태평양 북서부(가끔)",
+    "캘리포니아(드묾)",
+    "전 세계 온대 활엽수림",
+    "남동부에서 특히 흔함"
+  ],
+  "lookalikes": [
+    "Ramaria botrytis (식용) - 분홍색/포도주색 가지 끝, 비슷한 크기",
+    "Ramaria formosa (유독) - 연어분홍에서 주황색 가지, 상처 입으면 노랗게 변함",
+    "Ramaria rasilispora (식용) - 매우 비슷해 현미경 관찰이 필요함",
+    "Clavariadelphus속 (식용) - 더 단순한 곤봉 모양, 복잡하게 가지 치지 않음"
+  ],
+  "safety_notes": "식용: 어리고 단단할 때 식용 가능하고 맛이 좋은 것으로 여겨진다. 식용 산호버섯 중에서도 좋은 편이다. 충분히 익혀 먹는다. 맛은 온화하고 기분 좋다. 어리고 신선한 개체만 채취한다 - 나이 든 개체는 질기고 쓰다. 물에 젖었거나 벌레 먹은 것은 버린다. 산호버섯을 먹고 가벼운 소화불량을 호소하는 사람도 있다. 중요: 연어분홍색이 더 강하고 상처 입으면 노랗게 변하는 유독한 R. formosa와 반드시 구분한다. 쓴맛이 나는 산호버섯도 피한다. 분홍빛이 없는 황금노랑색이 핵심이다. 처음에는 소량만 먹어본다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388061.jpg",
+      "photographer": "Michael",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-27",
+      "file_size_bytes": 91920,
+      "width": 480,
+      "height": 640,
+      "sha256": "9c1c0893dc78a533f9bc522ce2c89b42a9dd00f30f4adc88cdb30a4ac7ea3f96"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530391.jpg",
+      "photographer": "Ann B.",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-20",
+      "file_size_bytes": 48046,
+      "width": 640,
+      "height": 640,
+      "sha256": "20bb95f5d78dacbcfa204ab28017d8ab1ced84bc147ee2ae6936b5ecc386d78a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

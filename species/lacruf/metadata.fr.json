@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacruf",
+  "scientific_name": "Lactarius rufus",
+  "common_name": "Lactaire roux",
+  "edibility": "U",
+  "description": "Le lactaire roux présente un chapeau brun-rouge à roux (4-10 cm) avec un petit mamelon central distinctif (téton). Surface du chapeau sèche, lisse à légèrement veloutée. Lames crème à rosâtre pâle, adnées, serrées. Pied de couleur similaire au chapeau, lisse, creux. Le CARACTÈRE CLÉ est l'abondant LAIT BLANC qui suinte à la coupe ou à la cassure — ce lait est EXTRÊMEMENT ÂCRE et brûlant au goût. Le lait ne change pas de couleur. Chair pâle, fragile. Sporée blanche à crème. Le lait âcre est comparable à la chaleur d'un piment habanero.",
+  "habitat": "Mycorhizien des CONIFÈRES, notamment pin et épinette. Pousse au sol dans les forêts de conifères et mixtes, souvent dans les sols acides et les sphaignes. Commun dans les forêts boréales de conifères. Préfère les zones humides, tourbeuses.",
+  "season": "De l'été à l'automne (juillet-octobre), fructification tout au long de la saison.",
+  "regions": [
+    "Nord-Est",
+    "Pacifique Nord-Ouest",
+    "Haut Midwest",
+    "montagnes Rocheuses",
+    "Canada",
+    "Europe du Nord"
+  ],
+  "lookalikes": [
+    "Autres espèces de Lactarius — tester le goût du lait pour distinguer (goûter puis recracher — doux contre âcre)",
+    "Russula emetica — couleur rouge similaire mais PAS DE LAIT, chair cassante",
+    "Lactarius hepaticus — similaire mais brun plus foncé, tout aussi âcre"
+  ],
+  "safety_notes": "NON COMESTIBLE : Lactarius rufus, connu sous le nom de lactaire roux, possède un lait extrêmement brûlant et âcre qui suinte à la coupe — décrit comme le plus brûlant de tous les lactaires, comparable à la chaleur d'un piment habanero. Bien qu'il ait des usages culinaires traditionnels dans certains pays d'Europe du Nord après une préparation extensive, les guides de terrain occidentaux le classent universellement comme non comestible en raison de son goût intensément âcre et poivré. Le champignon est soupçonné d'être légèrement toxique lorsqu'il est consommé cru ou mal préparé. Consommation déconseillée.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722544.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 41822,
+      "width": 640,
+      "height": 427,
+      "sha256": "60bf73eba948d84dc255c36c3d8f6481b283df81d56eaee0f65fac3c49ff7337"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722545.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 37488,
+      "width": 640,
+      "height": 427,
+      "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

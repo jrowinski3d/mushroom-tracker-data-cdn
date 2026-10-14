@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilak",
+  "scientific_name": "Suillus lakei",
+  "common_name": "Bolet peint de l'Ouest",
+  "edibility": "E",
+  "description": "Le bolet de Lake porte un chapeau rouge orangé à orangé rouille (5-15 cm), à surface visqueuse par temps humide et d'aspect écailleux caractéristique par temps sec. Les pores sont grands et anguleux, jaune vif, brunissant. Le pied jaune porte des points glanduleux brun rougeâtre et est dépourvu d'anneau. La chair jaune se tache de brun rougeâtre à la coupe. Les couleurs vives et les points glanduleux sont diagnostiques. Sporée brun cannelle.",
+  "habitat": "Mycorhizien exclusivement avec le douglas dans les forêts du Pacifique Nord-Ouest. Forme des associations obligatoires avec le douglas. Trouvé dans les peuplements purs de douglas et les forêts mixtes de conifères dominées par le douglas.",
+  "season": "Automne (septembre-novembre) avec un pic de fructification en octobre. Apparaît après les pluies d'automne dans les habitats du douglas.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Oregon",
+    "Washington",
+    "Californie du Nord",
+    "Colombie-Britannique",
+    "île de Vancouver",
+    "zone côtière du douglas"
+  ],
+  "lookalikes": [
+    "Suillus pungens — aussi avec le douglas mais de couleurs plus brunes",
+    "Autres espèces de Suillus — couleurs et associations d'arbres différentes",
+    "Espèces de Leccinum — pieds rugueux et non points glanduleux",
+    "Espèces de Boletus — non visqueux, aspect différent"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet de Lake est comestible, de texture ferme et de saveur douce. Retirer la cuticule visqueuse du chapeau avant la cuisson. Les couleurs orangées vives et l'association exclusive avec le douglas rendent l'identification simple. Certaines personnes peuvent ressentir des troubles digestifs. Toujours bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709514.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-26",
+      "file_size_bytes": 62464,
+      "width": 640,
+      "height": 480,
+      "sha256": "9579c5a5f755a3673e808110cdf4eec0260e4377a6a3996da18df50cc2a0b2fc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709502.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-24",
+      "file_size_bytes": 119214,
+      "width": 480,
+      "height": 640,
+      "sha256": "6675cb1f67829b3437f2b76ef7f0b720b7f7db65efe92c9d62381199da3bf13f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.555992",
+  "source_language": "en"
+}

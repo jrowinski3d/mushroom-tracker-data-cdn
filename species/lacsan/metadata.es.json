@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacsan",
+  "scientific_name": "Lactarius sanguifluus",
+  "common_name": "Níscalo sangrante",
+  "edibility": "E",
+  "description": "El níscalo sangrante presenta un sombrero anaranjado a anaranjado-rosado (4-12 cm) con zonas concéntricas más oscuras y manchas verdosas. Las láminas son anaranjado-rosadas, apretadas. El pie es anaranjado con hoyuelos más oscuros. RASGO CLAVE: LÁTEX (leche) DE ROJO SANGRE a ROJO VINO al cortarlo, de un color rojo oscuro muy distintivo. El látex se oscurece a rojo púrpura. La carne es de pálida a rosada. Esporada rosada pálida. El látex rojo sangre es diagnóstico.",
+  "habitat": "Micorrícico con PINO (Pinus) en Europa e introducido en Norteamérica. Crece bajo pinos, especialmente pinos mediterráneos. Se encuentra en plantaciones de pinos y parques. Prefiere suelos arenosos.",
+  "season": "Otoño (septiembre-diciembre), fructificando tras las lluvias en zonas de pinos.",
+  "regions": [
+    "Europa (nativa)",
+    "Introducida en Norteamérica",
+    "California",
+    "Donde se han plantado pinos"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus: látex rojo similar, nativa del oeste",
+    "Lactarius deliciosus: látex anaranjado, no rojo",
+    "Otros Lactarius anaranjados: compruebe el color del látex"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciado en Europa. El LÁTEX ROJO SANGRE es diagnóstico. Sabor suave y excelente. Puede teñirse de púrpura al cocinarlo, es normal. Mejor joven. Cocine bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1512554.jpg",
+      "photographer": "Micah Courteau",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-29",
+      "file_size_bytes": 57538,
+      "width": 480,
+      "height": 640,
+      "sha256": "69d9fd1a7862763aeab529efa5337d0a1477dd758fefc40d1b468553ecdf5142"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/980994.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2018-12-15",
+      "file_size_bytes": 63930,
+      "width": 640,
+      "height": 480,
+      "sha256": "5adf5b9c0a2b9cfe7ed1a97dadc6fad4a73e8b1cdda03b85eb6ba2387bf0a5f6"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepsor",
+  "scientific_name": "Lepista sordida",
+  "common_name": "Sordid Blewit (Lepista sordida)",
+  "edibility": "E",
+  "description": "La Sordid Blewit es una prima más pequeña y pálida del pie azul. Sombrero de 3-8 cm de diámetro, convexo que se vuelve plano o ligeramente deprimido, de lila grisáceo pálido a lila amarronado o beige-marrón. El color morado es sutil y se destiñe rápidamente a un marrón amarillento apagado (de ahí «sordida»). La superficie es lisa, seca a ligeramente grasienta. Las láminas son adnatas a ligeramente decurrentes, de lila pálido que se vuelve beige-marrón. El pie mide 3-7 cm de alto, delgado, de lila pálido a beige con una base ligeramente engrosada. La carne es delgada, pálida, con un olor dulce ligeramente afrutado (menos pronunciado que el de L. nuda).",
+  "habitat": "Se encuentra en praderas, pastos, céspedes, prados, bordes de bosques herbosas y parques. Crece como descomponedora de hierba y humus en suelos ricos en nitrógeno. Fructifica de forma dispersa a gregaria, a menudo en corros de brujas o grupos en la hierba. Prefiere zonas herbosas abiertas en lugar de bosques.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre) en regiones templadas. Puede fructificar hasta principios del invierno en climas suaves. Fructificación máxima en septiembre-octubre.",
+  "regions": [
+    "Europa (común)",
+    "Norteamérica (menos común)",
+    "pastizales templados de todo el mundo",
+    "parques y pastos",
+    "cosmopolita en hábitats adecuados"
+  ],
+  "lookalikes": [
+    "Lepista nuda (comestible): morado más oscuro, más grande, hábitat de bosque",
+    "Especies de Clitocybe: algunas tóxicas, colores pálidos, olores diferentes",
+    "Especies de Entoloma (algunas tóxicas): esporas rosadas pero angulares, carne frágil",
+    "Laccaria laccata (comestible): más pequeña, más higrófana, de bosque"
+  ],
+  "safety_notes": "COMESTIBLE con precaución: considerada comestible pero menos deseable que L. nuda. Debe cocinarse a fondo; NUNCA comerla cruda. Los colores pálidos y el aspecto apagado la hacen menos atractiva y más difícil de identificar con confianza. Algunas personas refieren molestias digestivas. Pruebe primero pequeñas cantidades. Verifique la ESPORADA ROSADA. Los sutiles tonos morados, el hábitat de pastizal y el olor dulce son diagnósticos pero no distintivos. No recomendada para principiantes debido a los colores pálidos y los riesgos de confusión. Cocínela a fondo si la prueba. El aspecto apagado «sordido» es exacto. Existen mejores setas de este tipo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1548011.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 31928,
+      "width": 480,
+      "height": 640,
+      "sha256": "8028f87a93744bb9101150c84d03670677f1580e148d30259312e525f7b55d76"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1548012.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-02-18",
+      "file_size_bytes": 29522,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c618cc4b080f4a37b0ecd5fb16ac270616d9cb6bfc1137157b215b5295b0bd2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

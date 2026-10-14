@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clapis",
+  "scientific_name": "Clavariadelphus pistillaris",
+  "common_name": "큰방망이버섯",
+  "edibility": "E",
+  "description": "큰방망이는 높이 10–30cm, 너비 3–8cm의 대형 인상적인 방망이버섯이다. 자실체는 절구 또는 방망이 모양으로 윗부분이 둥글거나 약간 뾰족하다(납작하지 않음). 색상은 아주 어릴 때는 흰색이며, 나이가 들면 황색, 황토색, 황갈색 또는 분홍갈색이 된다. 표면은 매끄럽거나 미세하게 주름져 있다. 밑동은 종종 희끄무레하며 흰색 균사 가닥이 있다. 살은 흰색이고 신선할 때 부서지기 쉬우며, 은은한 냄새가 나다가 나이가 들면 불쾌해진다. 단일의 가지 치지 않은 구조이며, 때로는 약간 납작하거나 홈이 있다.",
+  "habitat": "활엽수림과 혼합림, 특히 너도밤나무, 참나무, 단풍나무 아래에서 발견된다. 활엽수와 균근 공생한다. 비옥한 부식질 토양에서 지생한다. 흩어지거나 소규모로 무리지어 발생한다. 깊은 낙엽층이 있는 성숙한 산림을 선호한다. 산악이나 구릉 지형에서 더 흔하다.",
+  "season": "대부분 지역에서 늦여름에서 가을(8–11월). 유럽에서는 주로 9–10월이다. 절정은 가을이다. 따뜻한 여름 뒤 가을비와 서늘한 기온이 필요하다.",
+  "regions": [
+    "유럽(널리 분포)",
+    "북미 동부(드묾)",
+    "애팔래치아산맥",
+    "미국 북동부",
+    "캐나다 남동부",
+    "온대 활엽수림"
+  ],
+  "lookalikes": [
+    "Clavariadelphus truncatus(식용) — 크기는 비슷하나 윗부분이 납작함, 침엽수",
+    "Clavariadelphus sachalinensis(식용) — 더 주황갈색, 서부 연안",
+    "Gomphus clavatus(식용) — 보라회색 기운, 돼지귀 모양 윗부분",
+    "대형 Lycoperdon 말불버섯 — 비슷하나 둥글고, 성숙하면 가루 포자"
+  ],
+  "safety_notes": "식용이나 평범함: 어릴 때는 식용으로 여겨지나 조직이 좋지 않고 풍미는 밋밋하거나 불쾌하다. 나이가 들면 고무 같고 질기며 써진다. 과거 기근 시기에 먹었으나 권장하지 않는다. 유독 유사종은 없다. 시도한다면 어린 흰색 개체가 가장 좋다. 큰 크기가 매력적일 수 있으나 식용 품질은 실망스럽다. 둥근 윗부분(납작하지 않음)과 큰 크기로 다른 방망이버섯과 구별된다. 식품보다는 인상적인 산림 표본으로 주목할 만하다. 안전하지만 먹을 가치는 없다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/540202.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 67776,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9583c792682c2c0b37471be7c3bf74d658405b13b0238083c11b4412338a8f7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/540203.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 76540,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e8de2d8a0b2d2204727f6bdb137e5c81ae9c5e996140edce69b790b8db18c9a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

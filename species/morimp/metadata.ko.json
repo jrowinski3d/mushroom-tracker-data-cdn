@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morimp",
+  "scientific_name": "Morchella importuna",
+  "common_name": "Landscape Morel (Morchella importuna)",
+  "edibility": "E",
+  "description": "자실체 전체 높이 6-20cm(2.4-8인치). 갓은 높이 3-15cm(1.2-6인치), 가장 넓은 곳 너비 2-9cm로 원뿔 모양에서 넓은 원뿔 모양 또는 가끔 달걀 모양이며, 12-20개의 뚜렷한 주요 수직 능선이 수많은 수평 능선과 교차하여 직사각형 구멍을 만드는 독특한 사다리 모양 벌집 무늬가 있다. 색은 노란 곰보버섯보다 대개 어두우며, 황갈색에서 갈색, 회갈색까지 다양하다. 대는 속이 비어 있고 갓에 비례한다. 잘랐을 때 완전히 속이 비어 있다. 포자문은 크림색.",
+  "habitat": "목재 칩 멀치 화단, 정원, 화덕, 화분, 조경 지역, 주거 및 상업 지역의 교란된 땅에서 발견되는 독특한 도시 및 조경 곰보버섯이다. 균근성인 대부분 곰보버섯과 달리 M. importuna는 대체로 부생성(목재 칩과 유기물을 독립적으로 분해)이다. 관상 식재지, 공원, 도시 녹지의 신선한 목재 칩 멀치와 강하게 연관된다. 자연 삼림에서는 드물다.",
+  "season": "봄(대부분 지역 3월-5월, 지역 기후에 따라 시기 다름). 캘리포니아와 태평양 북서부에서는 2월-4월에 발생할 수 있다. 발생은 종종 전년도 목재 칩 시공 뒤 수분에 의해 촉발된다. 같은 멀치 장소에서 여러 해 연속 발생할 수 있다.",
+  "regions": [
+    "태평양 북서부",
+    "캘리포니아",
+    "중서부",
+    "북동부",
+    "미드애틀랜틱"
+  ],
+  "lookalikes": [
+    "거짓곰보버섯(Gyromitra 속) - 유독: 사다리 모양 능선 대신 뇌 모양 갈라진 갓, 갓이 대 꼭대기에서만 붙음, 방으로 나뉜 속, 적갈색. 익혀도 치명적 유독.",
+    "다른 검은 곰보버섯(Morchella elata 그룹) - 식용 가능: 외형이 비슷하나 조경 멀치가 아닌 자연 삼림 환경, 눈으로 구별 어려움, 모두 제대로 익히면 식용 가능.",
+    "반자유곰보버섯(Morchella punctipes) - 식용 가능: 갓이 대 길이에 완전히 붙은 것이 아니라 대 길이의 중간쯤에 붙어 치마를 이룸.",
+    "Morchella tomentosa - 식용 가능: 어릴 때 특히 대 기부에 털/보송보송한 질감, 도시 조경이 아닌 산불 후 침엽수 서식지. 동일한 조리 필요."
+  ],
+  "safety_notes": "최상급 식용: 매우 귀한 요리용 버섯으로, 현재 아시아에서 상업 재배되어 연간 수백 톤이 생산된다. 최소 15-25분 완전히 익혀야 함. 날로 먹거나 덜 익힌 곰보버섯에는 히드라진 독소가 들어 있어 심한 메스꺼움, 구토, 위장 장애를 일으킨다. 독성 화합물을 파괴하려면 71°C(160°F) 이상으로 조리할 것. 제대로 익혀 먹어도 알레르기 반응을 보이는 사람이 있으므로 처음에는 소량만 먹을 것. 드물게 보고된 이상 상호작용 때문에 술과 함께 먹지 말 것. 뇌 모양 주름진 갓을 가진 치명적인 거짓곰보버섯(Gyromitra)과 구별되도록 제대로 식별할 것. 조경 멀치에서 채취할 때는 해당 지역에 살충제나 제초제가 살포되지 않았는지 확인할 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751485.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 61022,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f486307fe8bc9b853309c9d16f0e5a3baa20133c6f1468621bbd300e2a405cc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751432.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 64566,
+      "width": 640,
+      "height": 480,
+      "sha256": "788ee443df988d03a975784a7e4493e160afd271619e90d83e1011258704f823"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.697677",
+  "source_language": "en"
+}

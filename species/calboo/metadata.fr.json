@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calboo",
+  "scientific_name": "Calvatia booniana",
+  "common_name": "Western Giant Puffball (Calvatia booniana)",
+  "edibility": "E",
+  "description": "Grandes vesses-de-loup rondes à ovales de 4 à 12 pouces de diamètre, à la surface blanche à beige marquée d’épaisses plaques ou écailles polygonales distinctives, donnant un aspect aréolé (dalles fissurées). Chair intérieure d’un blanc pur quand elle est comestible, devenant jaune-olive puis brune. Petit point d’attache basal mais pas de base stérile distincte. Motif de surface écailleux unique.",
+  "habitat": "Saprobe dans les forêts de conifères et mixtes montagneuses, en particulier sous le pin ponderosa, le douglas et dans les prairies montagnardes. Préfère les sols bien drainés à haute altitude. Commun dans les parcs de montagne, les bois ouverts et les lisières forestières des montagnes de l’Ouest.",
+  "season": "De la fin de l’été à l’automne, généralement d’août à octobre. Pic de fructification après les pluies de mousson dans le Sud-Ouest. Plus abondant en septembre-octobre dans les régions montagneuses.",
+  "regions": [
+    "Montagnes Rocheuses",
+    "Sierra Nevada",
+    "Chaîne des Cascades",
+    "Montagnes du Sud-Ouest",
+    "Forêts montagnardes de l’Ouest",
+    "Colombie-Britannique jusqu’en Arizona"
+  ],
+  "lookalikes": [
+    "Calvatia sculpta (écailles similaires mais motif différent)",
+    "MORTEL : boutons d’amanites immatures (TOUJOURS OUVRIR EN DEUX — on y verra des lames/un chapeau en formation à l’intérieur)",
+    "Sclérodermes / vesses-de-terre (toxiques, chair intérieure violet-noir, croûte beaucoup plus épaisse)",
+    "Autres espèces de Calvatia (motifs de surface différents)"
+  ],
+  "safety_notes": "COMESTIBLE quand l’intérieur est d’un blanc pur : CRITIQUE — TOUJOURS couper le spécimen complètement en deux du haut vers le bas avant de consommer. Comestible UNIQUEMENT si la chair intérieure est entièrement d’un blanc pur et ferme partout. Si une teinte jaune, brune, violette ou des structures en formation sont visibles à l’intérieur, NE PAS MANGER. Cela évite de consommer des sosies toxiques et des amanites mortelles immatures. La surface écailleuse distinctive aide à l’identification, mais la couleur blanche de la chair est le test définitif de comestibilité. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1737565.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 103696,
+      "width": 640,
+      "height": 488,
+      "sha256": "f4956223f23b1e83a9420e349226ebc0597621480bcb3ca0da88c07cd4fa43e2"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1737566.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 91306,
+      "width": 640,
+      "height": 411,
+      "sha256": "30b4968b62116544e4e011334daf73bf46b1327c8337a15de0d3e46fc70b0850"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

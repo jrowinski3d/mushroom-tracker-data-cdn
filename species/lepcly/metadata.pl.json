@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepcly",
+  "scientific_name": "Lepiota clypeolaria",
+  "common_name": "Czubajeczka tarczowata",
+  "edibility": "U",
+  "description": "Czubajeczka tarczowata to mały, delikatny grzyb o kapeluszu 2–6 cm średnicy, dzwonkowatym, z wiekiem szeroko wypukłym, z wyraźnym garbkiem. Kapelusz pokryty jest wełnistymi koncentrycznymi pierścieniami brązowych do płowych łusek na bladokremowym do białego tle, co daje charakterystyczny kudłaty wygląd. Miąższ cienki, biały, kruchy. Blaszki wolne, białe do kremowych, gęste do bardzo gęstych. Trzon 3–8 cm wysokości, smukły, biały do kremowego, o watowatej lub wełnistej powierzchni, często z brązowawymi strefami lub obręczami poniżej kruchego pierścienia.",
+  "habitat": "Występuje w mieszanych lasach liściastych i iglastych, zwłaszcza pod dębami, bukami i drzewami iglastymi. Rośnie w ściółce i glebie bogatej w próchnicę, często na dobrze rozłożonych kłodach lub zdrewniałych resztkach. Preferuje wilgotne, zacienione dna lasów o kwaśnej glebie. Owocnikuje rozproszony do gromadnego, zazwyczaj w małych grupach w ściółce leśnej.",
+  "season": "Od lata do jesieni (lipiec–listopad) w większości Ameryki Północnej. W Europie owocnikuje od późnej wiosny do jesieni (maj–listopad). Szczyt owocnikowania przypada na późne lato i wczesną jesień w okresach stałej wilgoci. Rzadki wczesną wiosną w ciepłym klimacie.",
+  "regions": [
+    "Europa (powszechny, rodzimy)",
+    "Wschodnia Ameryka Północna (pospolity)",
+    "Północno-Zachodni Pacyfik (sporadycznie)",
+    "Kalifornia (rzadko)",
+    "Północne lasy strefy umiarkowanej",
+    "Regiony borealne i górskie"
+  ],
+  "lookalikes": [
+    "Lepiota cristata (niejadalna) — podobny rozmiar i wygląd, nieprzyjemny zapach, bardziej czerwonobrązowe łuski",
+    "Gatunki czubajeczek (Lepiota) (wiele śmiertelnie trujących) — niezwykle trudne do odróżnienia, wiele zawiera amatoksyny",
+    "Małe gatunki pieczarek (Agaricus) (jadalne) — brązowe blaszki, czekoladowe zarodniki, podobne wolne blaszki",
+    "Małe gatunki Chlorophyllum (trujące) — większe, masywniejsze, zielonkawe zarodniki"
+  ],
+  "safety_notes": "JADALNY, ALE NIEZALECANY: Choć historycznie uważany za jadalny w Europie, grzyb ten NIE JEST ZALECANY do spożycia ze względu na skrajne niebezpieczeństwo pomyłki ze śmiertelnie trującymi gatunkami czubajeczek (Lepiota). Wiele małych czubajeczek zawiera amatoksyny (te same toksyny co u śmiertelnych muchomorów) i jest nie do odróżnienia bez mikroskopii. Kilka śmiertelnych gatunków, w tym L. brunneoincarnata, L. helveola i L. subincarnata, wygląda niemal identycznie. Nawet doświadczeni mikolodzy mają trudności z wiarygodnym rozróżnianiem małych gatunków Lepiota. Mały rozmiar oznacza, że nagroda jest znikoma wobec ogromnego ryzyka. UNIKAJ WSZYSTKICH MAŁYCH CZUBAJECZEK — ryzyko znacznie przewyższa jakąkolwiek wartość kulinarną.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751244.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 40008,
+      "width": 640,
+      "height": 427,
+      "sha256": "aad0ef4e4430c9520df50ce20bec403a3766672088c3f003ac67274d2ed1590b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751245.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 35696,
+      "width": 640,
+      "height": 427,
+      "sha256": "e5919625a3c7ea7d40ccaae7a61c66522471a43f4328502a17d0008b5ff194dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

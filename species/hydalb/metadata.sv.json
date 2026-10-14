@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "hydalb",
+  "scientific_name": "Hydnum albidum",
+  "common_name": "Vit taggsvamp",
+  "edibility": "E",
+  "description": "Vit taggsvamp har en kritvit till gräddfärgad hatt (3–10 cm) som med ålder eller stötar kan få ljusgula toner. Hattens form är välvd till oregelbunden med vågig kant. Undersidan är täckt med sköra, nedåtriktade TAGGAR i stället för skivor eller porer – dessa taggar är vita till gräddfärgade och lossnar lätt vid beröring. Foten är vit, central till sidoställd, ofta böjd, slät, fast. Köttet är vitt, tjockt, sprött, med mild smak och behaglig doft. Sporfällningen är vit. Utmärks av sin konsekvent ljusa färg.",
+  "habitat": "Bildar mykorrhiza med barrträd, särskilt tall och gran. Växer på marken i barr- och blandskog. Ofta strödd eller i små grupper i barrförna eller mossa. Föredrar väldränerade sura jordar.",
+  "season": "Sensommar till höst (september–november), ibland in på tidig vinter i milda klimat.",
+  "regions": [
+    "Nordvästra USA och västra Kanada",
+    "Klippiga bergen",
+    "Nordöstra USA",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (blek taggsvamp) – har vanligen orange eller persikofärgade toner",
+    "Hericium-arter – annan växtform, längre nedhängande taggar",
+    "Climacodon septentrionale – växer på ved, större taggar"
+  ],
+  "safety_notes": "ÄTLIG: Mild, behaglig smak liknande H. repandum. Den kritvita färgen och de utmärkande taggarna gör förväxling osannolik. Rensa ordentligt eftersom taggarna fångar skräp och barr. Plocka unga exemplar för bästa konsistens – äldre exemplar kan utveckla lätt bitterhet.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1601564.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 54376,
+      "width": 640,
+      "height": 477,
+      "sha256": "56293c519adfb2d25da34b960ae4f8c169e13afc2f30e0c79aa7aac919b83ce1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1601565.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 38400,
+      "width": 640,
+      "height": 477,
+      "sha256": "03513469f6ff79ebad654a1dc0315f4b394e1643601683e5e1e38fd7646584f2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

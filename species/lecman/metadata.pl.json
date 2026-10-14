@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lecman",
+  "scientific_name": "Leccinum manzanitae",
+  "common_name": "Manzanita Bolete (Leccinum manzanitae)",
+  "edibility": "E",
+  "description": "Manzanita Bolete ma czerwonobrązowy do ciemnobrązowego kapelusz (5–15 cm) o suchej, aksamitnej do gładkiej powierzchni. Pory białe, gdy młode, z wiekiem oliwkowoszare, siniejące na brązowo. Białawy do jasnobrązowego trzon pokryty jest brązowymi do ciemnobrązowych kłaczków (szorstkich łusek). Biały miąższ po przekrojeniu przebarwia się na różowobrązowo, ostatecznie szarzejąc. Wysyp zarodników oliwkowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z mącznicą (gatunki Arctostaphylos) w chaparralu i mieszanych lasach dębowo-madronowych. Tworzy obligatoryjne związki z krzewami mącznicy. Występuje w nadmorskich lasach i lasach pogórza z runem mącznicy.",
+  "season": "Od zimy do wiosny (grudzień–kwiecień), ze szczytem owocnikowania w styczniu–marcu. Niezwykła zimowa pora owocnikowania związana z kalifornijską porą deszczową.",
+  "regions": [
+    "Kalifornijskie Pasma Wybrzeża",
+    "Północna Kalifornia",
+    "Środkowa Kalifornia",
+    "Rejon Zatoki San Francisco",
+    "Pogórze Sierra Nevada",
+    "Południowy Oregon"
+  ],
+  "lookalikes": [
+    "Inne gatunki koźlarzy (Leccinum) — ale inne powiązania z drzewami",
+    "Gatunki borowików (Boletus) — brak szorstkiego trzonu",
+    "Leccinum aurantiacum — bardziej pomarańczowy kapelusz, inne siedlisko",
+    "Gatunki maślaków (Suillus) — lepki kapelusz, powiązanie z drzewami iglastymi"
+  ],
+  "safety_notes": "JADALNY: Manzanita Bolete to dobry grzyb jadalny o jędrnej teksturze. Musi być dokładnie ugotowany przez co najmniej 15–20 minut. Unikatowe powiązanie z mącznicą i zimowa pora owocnikowania odróżniają go od innych borowików. Ciemnienie miąższu jest normalne i bezpieczne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.240957",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calcya",
+  "scientific_name": "Calvatia cyathiformis",
+  "common_name": "Purple-spored Puffball (Calvatia cyathiformis)",
+  "edibility": "E",
+  "description": "Średnie do dużych purchawki, 7,5–20 cm wysokości i 5–15 cm szerokości, w kształcie odwróconej gruszki, czubka lub wazy, z wyraźną grubą płonną podstawą stanowiącą dolną połowę owocnika. Powłoka zewnętrzna biała do szarobrązowej, z wiekiem fioletowobrązowa. Wnętrze czysto białe, gdy jadalne, w dojrzałości fioletowobrązowa masa zarodników. Charakterystyczna kieliszkowata płonna podstawa, utrzymująca się po rozsianiu zarodników.",
+  "habitat": "Grzyb saprotroficzny na łąkach, pastwiskach, polanach, trawnikach, polach i w otwartych lasach. Preferuje tereny zaburzone o żyznej glebie. Pospolity w parkach, na polach golfowych, przydrożach i terenach rolniczych. Często rośnie w kręgach lub rozproszonych grupach.",
+  "season": "Późne lato do jesieni, zwykle sierpień–październik. Szczyt owocowania we wrześniu po późnoletnich deszczach. W łagodnym klimacie może pojawiać się do listopada.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód i Wielkie Równiny",
+    "wybrzeże Pacyfiku",
+    "południowa Kanada",
+    "szeroko rozpowszechniony w Ameryce Północnej",
+    "kosmopolityczny zasięg"
+  ],
+  "lookalikes": [
+    "Inne gatunki Calvatia z płonną podstawą (podobna jadalność, gdy wnętrze białe)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory (ZAWSZE PRZEKRÓJ NA PÓŁ – w środku będą widoczne rozwijające się blaszki/kapelusz)",
+    "Gatunki Scleroderma / tęgoskóry (trujące, fioletowoczarne wnętrze od początku, brak płonnej podstawy)",
+    "Handkea (Calvatia) excipuliformis (niemal identyczna, ta sama jadalność)"
+  ],
+  "safety_notes": "JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przekrój owocnik całkowicie na pół, od góry do dołu, przed spożyciem. Jadalny WYŁĄCZNIE, gdy wnętrze jest w całości czysto białe i jędrne. Jeśli w środku widoczne są jakiekolwiek fioletowe, żółte, brązowe zabarwienia lub rozwijające się struktury, NIE JEDZ. Fioletowobrązowe dojrzałe zarodniki są nieszkodliwe, ale niejadalne. Ta zasada przekrawania zapobiega spożyciu trujących gatunków podobnych oraz młodych, śmiertelnie trujących muchomorów. Utrzymująca się kieliszkowata podstawa jest cechą charakterystyczną. Gdy biały, dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699011.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 81978,
+      "width": 640,
+      "height": 480,
+      "sha256": "08eb68f45de38ccaf4d9a4033e068336d755458b634870abe6fe2568f29cefde"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699012.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 79784,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec43de6f829e776db61ff6efc95aa3911da73444fbdc60655ed8c16da167bab"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

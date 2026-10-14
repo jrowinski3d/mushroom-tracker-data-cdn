@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "exigla",
+  "scientific_name": "Exidia glandulosa",
+  "common_name": "kisielnica czarna",
+  "edibility": "E",
+  "description": "Kisielnica czarna tworzy czarne, guzkowate lub tarczowate galaretowate masy o średnicy 0,5–3 cm, często w gęstych grupach. Pojedyncze guzki są początkowo w kształcie bąka, z wiekiem spłaszczają się do postaci tarczy lub przypominają mózg. Powierzchnia jest gładka do pomarszczonej, atramentowoczarna do ciemnobrązowo-czarnej, gdy świeża i wilgotna, po wyschnięciu staje się twarda i błyszcząca. Tekstura jędrno-galaretowata, gumowata. Owocniki są pokryte prześwitującymi gruczołowymi punkcikami (widocznymi pod powiększeniem). Po ponownym nawilżeniu odżywa i pęcznieje.",
+  "habitat": "Występuje na martwych gałęziach i kłodach drzew liściastych, szczególnie dębu, buka, leszczyny i innych gatunków liściastych. Powszechna na powalonych gałęziach na dnie lasu oraz na martwym drewnie stojącym. Rośnie w gęstych kępach wzdłuż gałęzi. Obfita w lasach liściastych, na skrajach lasów i w parkach. Owocnikuje obficie na odpowiednich podłożach.",
+  "season": "Całoroczna, lecz najobfitsza od jesieni do wiosny (wrzesień–maj). W regionach umiarkowanych szczyt przypada na późną jesień i zimę (listopad–marzec). Może owocnikować latem w wilgotnych warunkach. Bardzo pospolita zimą, gdy niewiele innych grzybów jest aktywnych.",
+  "regions": [
+    "Europa (bardzo pospolita)",
+    "Wschodnia Ameryka Północna (rozpowszechniona)",
+    "Północno-Zachodni Pacyfik (pospolity)",
+    "Kalifornia",
+    "Umiarkowane lasy liściaste na całym świecie"
+  ],
+  "lookalikes": [
+    "Bulgaria inquinans (niejadalny) – większa (2–4 cm), półkulista, gumowata, lecz bez gruczołów",
+    "Exidia nigricans (jadalny) – bardzo podobna, rozróżnienie wymaga mikroskopu",
+    "Exidia recisa (jadalny) – podobne guzki, lecz mniejsze",
+    "Brak trujących gatunków podobnych"
+  ],
+  "safety_notes": "JADALNA, lecz mdła: uznawana za jadalną i bezpieczną, lecz praktycznie bez smaku. Galaretowata tekstura to jej jedyna wyróżniająca cecha. Jedzona w niektórych krajach europejskich, lecz rzadko zbierana. Bezpieczna do spróbowania na surowo, zazwyczaj jednak gotowana. Bez wartości odżywczej i kulinarnej. Ciekawsza jako zimowa ciekawostka przyrodnicza niż jako pożywienie. Czarny guzkowaty wygląd i wzrost w kępach na gałęziach drzew liściastych są charakterystyczne. Brak niebezpiecznych gatunków podobnych – wszystkie podobne czarne galaretki są nieszkodliwe. Często obfita zimą, gdy niewiele innych grzybów jest dostępnych.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.206842",
+  "source_language": "en"
+}

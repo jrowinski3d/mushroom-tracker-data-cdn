@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecaur",
+  "scientific_name": "Leccinum aurantiacum",
+  "common_name": "Koźlarz czerwony",
+  "edibility": "E",
+  "description": "Koźlarz czerwony charakteryzuje się pomarańczowym do czerwonopomarańczowego kapeluszem (5–20 cm) o suchej do lekko lepkiej powierzchni. Pory białe, gdy młode, z wiekiem szarawe, siniejące na brązowo. Wysoki, biały trzon pokryty jest ciemnobrązowymi do czarniawych kłaczków (szorstkich łusek) — cecha diagnostyczna. Biały miąższ po przekrojeniu przebarwia się na różowo do czerwonawego, z wiekiem szarzeje lub czernieje. Wysyp zarodników oliwkowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z osiką i topolami w lasach mieszanych. Tworzy obligatoryjne związki z gatunkami Populus. Występuje w zagajnikach osikowych, terenach łęgowych z topolami i mieszanych lasach osikowo-iglastych.",
+  "season": "Od lata do jesieni (czerwiec–październik), ze szczytem owocnikowania w lipcu–sierpniu. Często pojawia się wkrótce po letnich deszczach w siedliskach osikowych.",
+  "regions": [
+    "Góry Skaliste",
+    "Region Wielkich Jezior",
+    "Północno-wschodnie lasy z osiką",
+    "Osikowe stanowiska Pacyficznego Północnego Zachodu",
+    "Północna Kalifornia",
+    "Alaska",
+    "Kanada"
+  ],
+  "lookalikes": [
+    "Leccinum insigne — pomarańczowoczerwony kapelusz, podobne siedlisko z osiką",
+    "Inne gatunki koźlarzy (Leccinum) — kłaczki na trzonie odróżniają od borowików (Boletus)",
+    "Gatunki borowików (Boletus) — brak charakterystycznego szorstkiego trzonu",
+    "Gatunki mleczajów (Lactarius) — mają blaszki, nie pory, wytwarzają mleczko"
+  ],
+  "safety_notes": "JADALNY: Koźlarz czerwony to dobry grzyb jadalny o jędrnej teksturze, choć nie tak ceniony jak borowik szlachetny. Musi być dokładnie ugotowany — niedogotowany lub surowy może powodować dolegliwości trawienne. Ciemnienie miąższu jest normalne. Pomarańczowy kapelusz i szorstkołuskowaty trzon są cechami diagnostycznymi.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698286.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 191462,
+      "width": 640,
+      "height": 640,
+      "sha256": "960769b31fc623f0aab525e0fc0fd3302f856913829a4264d2671df9f66ca4ce"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698287.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 80824,
+      "width": 640,
+      "height": 640,
+      "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

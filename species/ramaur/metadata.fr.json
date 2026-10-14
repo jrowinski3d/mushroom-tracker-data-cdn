@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramaur",
+  "scientific_name": "Ramaria aurea",
+  "common_name": "Clavaire dorée",
+  "edibility": "E",
+  "description": "La Clavaire dorée est une belle clavaire dressée de 8 à 20 cm de hauteur et 8 à 15 cm de largeur. La fructification consiste en de nombreuses branches dressées émergeant d'une base épaisse blanche à jaune pâle. Les jeunes branches sont jaune doré vif à jaune-orangé, devenant brun-ocre avec l'âge. L'extrémité des branches est généralement obtuse et arrondie. La ramification est dense et compacte, créant un aspect de chou-fleur. La chair est blanche à jaune pâle, cassante, avec une odeur douce et agréable. Tout le champignon a une texture charnue, non gélatineuse.",
+  "habitat": "Trouvée dans les forêts de feuillus et mixtes, particulièrement sous les chênes, hêtres et autres arbres feuillus. Forme des associations mycorhiziennes avec les racines des arbres. Pousse au sol, généralement dispersée ou en petits groupes. Préfère les sols riches en humus des forêts matures. Commune dans la litière et près du bois en décomposition.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans la plupart des régions. Le pic de fructification a lieu au début et au milieu de l'automne. Dans les climats chauds, peut fructifier jusqu'en décembre. Nécessite des températures chaudes du sol suivies des pluies d'automne.",
+  "regions": [
+    "Europe (répandue)",
+    "est de l'Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Californie (rare)",
+    "forêts tempérées de feuillus du monde entier",
+    "particulièrement commune dans le Sud-Est"
+  ],
+  "lookalikes": [
+    "Ramaria botrytis (comestible) — pointes des branches roses/rouge vin, taille similaire",
+    "Ramaria formosa (toxique) — branches rose saumon à orange, jaunissant au toucher",
+    "Ramaria rasilispora (comestible) — très semblable, microscope nécessaire pour distinguer",
+    "Espèces de Clavariadelphus (comestibles) — forme de massue plus simple, non finement ramifiée"
+  ],
+  "safety_notes": "COMESTIBLE : considérée comme comestible et bonne lorsqu'elle est jeune et ferme. L'une des meilleures clavaires à manger. Bien cuire. La saveur est douce et agréable. Ne récolter que des spécimens jeunes et frais — les spécimens âgés deviennent coriaces et amers. Jeter ceux qui sont gorgés d'eau ou véreux. Certaines personnes rapportent de légers troubles digestifs avec les clavaires. CRITIQUE : la distinguer de la toxique R. formosa, plus rose saumon, qui jaunit au toucher. Éviter aussi les clavaires au goût amer. La couleur jaune doré sans tons roses est déterminante. Essayer d'abord en petites quantités.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1388061.jpg",
+      "photographer": "Michael",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-09-27",
+      "file_size_bytes": 91920,
+      "width": 480,
+      "height": 640,
+      "sha256": "9c1c0893dc78a533f9bc522ce2c89b42a9dd00f30f4adc88cdb30a4ac7ea3f96"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530391.jpg",
+      "photographer": "Ann B.",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-20",
+      "file_size_bytes": 48046,
+      "width": 640,
+      "height": 640,
+      "sha256": "20bb95f5d78dacbcfa204ab28017d8ab1ced84bc147ee2ae6936b5ecc386d78a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

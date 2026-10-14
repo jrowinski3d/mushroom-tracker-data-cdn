@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cansub",
+  "scientific_name": "Cantharellus subalbidus",
+  "common_name": "흰꾀꼬리버섯",
+  "edibility": "E",
+  "description": "흰꾀꼬리버섯은 흰색에서 크림색 또는 옅은 황갈색의 갓이 4–15cm 너비로, 나이가 들거나 멍이 들면 황색 기운이 돌기도 한다. 갓은 매끄러우며, 성숙하면 깊이 깔때기 모양이 되고 가장자리는 물결 모양의 불규칙한 형태로 종종 위로 들린다. 아랫면에는 두껍고 뭉툭하며 갈라진 주름(진짜 주름살이 아님)이 흰색에서 크림색을 띠고, 간격이 넓으며 대를 타고 뚜렷하게 내려간다. 대는 속이 차 있고 굵으며 높이가 3–12cm이고 흰색에서 크림색이며, 종종 매우 견고하고 곤봉 모양이다. 살은 흰색으로 매우 단단하고 은은하거나 약간 과일 같은 향이 난다. 포자문은 흰색에서 옅은 크림색이다.",
+  "habitat": "주로 태평양 북서부 침엽수(더글러스전나무, 서부솔송나무, 시트카가문비나무, 전나무류)와 균근 공생한다. 연안 및 산악 침엽수림에서 발견되며, 종종 두꺼운 이끼와 낙엽부식층이 있는 곳에 자란다. 배수가 잘되는 비탈과 성숙한 산림 서식지를 선호한다.",
+  "season": "가을에서 겨울(9–2월), 가을비가 내리기 시작하면서 발생해 우기를 지나 계속된다. 절정은 보통 10–1월이다. 태평양 북서부에서 만생 꾀꼬리버섯 중 하나이다.",
+  "regions": [
+    "태평양 북서부(워싱턴, 오리건, 북캘리포니아)",
+    "브리티시컬럼비아",
+    "캐스케이드산맥",
+    "오리건·워싱턴 연안",
+    "시에라네바다산맥(북캘리포니아)"
+  ],
+  "lookalikes": [
+    "Cantharellus californicus — 식용, 비슷한 흰색이나 갈색/주황색으로 변색, 남쪽에서 참나무와 함께 자람",
+    "Cantharellus cascadensis — 식용, 옅은 노랑~크림색, 고지대, 매우 유사",
+    "Hygrophorus 속(납작버섯류) — 식용, 왁스 질감의 진짜 주름살이 있으나 뚜렷이 다름, 질감이 다름"
+  ],
+  "safety_notes": "식용: 흰꾀꼬리버섯은 은은한 풍미와 단단한 조직으로 사랑받는 훌륭한 식용 버섯이다. 모든 꾀꼬리버섯과 마찬가지로 핵심 식별 특징은 두껍고 뭉툭하며 갈라진 주름으로, 납처럼 왁스 질감이 느껴지고 갓 살과 이어져 있으며, 다른 버섯들의 얇고 칼날 같은 진짜 주름살이 아니라는 점이다. 흰색에서 크림색의 색상은 꾀꼬리버섯 중에서도 독특하지만, 정확한 동정을 위해서는 주름 구조를 주의 깊게 확인해야 한다. 항상 침엽수 근처 토양에서 자라는지 확인하라. 풍미는 은은하고 섬세하며, 볶거나 크림 소스 요리에 훌륭하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725764.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 88178,
+      "width": 640,
+      "height": 454,
+      "sha256": "7f20af0347d62bca6726dc4dc738619761e24a7bcf1250253d9eeb233018e452"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691129.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 77272,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7976d4f0fbe820123466bd7948e5178f42fe36f78897f041037ab93c8216cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

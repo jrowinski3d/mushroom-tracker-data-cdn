@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimur",
+  "scientific_name": "Tricholoma murrillianum",
+  "common_name": "Southwestern Matsutake (Tricholoma murrillianum)",
+  "edibility": "E",
+  "description": "Sydvästlig matsutake har en kraftig vit till krämfärgad hatt (6–15 cm) som får brunaktiga toner med åldern. Hatten är välvd till utbredd, torr, slät till lätt fibrig. Skivorna är vita till krämfärgade, vidfästa, täta. Foten är tjock, vit, fast, med en PARTIELL SLÖJA som lämnar en BOMULLSLIKNANDE RING eller fibrig zon på övre delen av foten – ofta mindre tydlig än hos T. magnivelare. Kännetecknet är den KRYDDIGA, KANELLIKNADE LUKTEN, ibland mindre intensiv än hos nordvästra USAs matsutake. Köttet är vitt, fast, tätt. Sporfällningen är vit. Anpassad till sydvästerns högt belägna skogar.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD i sydvästerns berg, särskilt ponderosatall, vit ädelgran och douglasgran. Bildar obligatoriska mykorrhizaassociationer. Växer på marken i förna eller barrförna i högt belägna barrskogar (vanligen 1 800–3 000 meters höjd). Kräver mogna skogar med specifika mykorrhizanätverk.",
+  "season": "Sensommar till höst (augusti–oktober) i sydvästerns berg, fruktsätter efter monsunregn.",
+  "regions": [
+    "New Mexico",
+    "Arizona",
+    "Södra Colorado",
+    "Södra Klippiga bergen",
+    "Högländerna i sydväst"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare – nordvästra USAs art, mycket lik",
+    "Tricholoma matsutake – asiatisk art",
+    "Amanita smithiana – GIFTIG – har volva vid basen",
+    "Andra vita Tricholoma-arter – saknar kanellukt"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Mycket uppskattad i sydväst, skördas kommersiellt. KANEL-/KRYDDLUKTEN är viktig för identifieringen, ibland svagare än hos nordlig matsutake. Bäst när den är ung och fast. KRITISKT: Kontrollera alltid att volva (skål vid basen) saknas för att utesluta giftiga Amanita-arter. Ringen och kanellukten är kännetecken. Vissa svampplockare anser den något mindre aromatisk än T. magnivelare men fortfarande utmärkt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725582.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 128318,
+      "width": 640,
+      "height": 563,
+      "sha256": "8c14cd406d0ca0a070dae5d0c8f599a5ab7b67bfb53aa9894c041ca397a82111"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651537.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 12316,
+      "width": 482,
+      "height": 640,
+      "sha256": "63aec1140a6c93f42d8ef6433c91074146579fb2ce078755fbb6bcf824f9ab11"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

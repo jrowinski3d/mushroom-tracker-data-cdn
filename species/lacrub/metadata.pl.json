@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacrub",
+  "scientific_name": "Lactarius rubrilacteus",
+  "common_name": "Bleeding Milk Cap (Lactarius rubrilacteus)",
+  "edibility": "E",
+  "description": "Bleeding Milk Cap ma pomarańczowy do pomarańczowobrązowego kapelusz (5–15 cm) z ciemniejszymi koncentrycznymi strefami. Blaszki blado pomarańczowe, gęste, zbiegające. Trzon pomarańczowy, dołkowaty. KLUCZOWA CECHA: CIEMNOCZERWONE do BORDOWEGO MLECZKO wypływające po przekrojeniu — charakterystyczna krwistoczerwona barwa. Mleczko powoli przebarwia tkanki na czerwonofioletowo. Miąższ blady. Wysyp zarodników blado kremowy do różowawego.",
+  "habitat": "Mikoryzowy z DRZEWAMI IGLASTYMI, zwłaszcza jodłą, świerkiem i choiną w zachodniej Ameryce Północnej. Rośnie na ziemi w lasach iglastych i górskich. Preferuje dobrze przepuszczalne gleby.",
+  "season": "Jesień (wrzesień–listopad), owocnikuje po deszczach w górach.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Góry Skaliste",
+    "Północna Kalifornia",
+    "Kolumbia Brytyjska"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus — mleczko pomarańczowe, nie czerwone",
+    "Lactarius sanguifluus — podobne czerwone mleczko, inny gospodarz",
+    "Inne pomarańczowe mleczaje (Lactarius) — sprawdź barwę mleczka"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Bardzo ceniony za łagodny smak. Charakterystyczne CIEMNOCZERWONE MLECZKO jest diagnostyczne. Po ugotowaniu przebarwia się na fioletowo — to normalne. Najlepszy młody i jędrny. Gotować dokładnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1658712.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48660,
+      "width": 480,
+      "height": 640,
+      "sha256": "330d6d686c4c6eec82f184e2024bc25c9c78d3ccecdff9997803a1ae40d383e3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1577192.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-09",
+      "file_size_bytes": 118808,
+      "width": 640,
+      "height": 433,
+      "sha256": "ba2520b53037757160ff97986ba5a026033f1816e35e91e7e692e4cfa1760b21"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:48:51.384959",
+  "source_language": "en"
+}

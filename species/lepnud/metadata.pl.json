@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepnud",
+  "scientific_name": "Lepista nuda",
+  "common_name": "gąsówka fioletowawa",
+  "edibility": "E",
+  "description": "Gąsówka fioletowawa to średni do dużego grzyb o kapeluszu średnicy 5–15 cm, początkowo wypukłym, z wiekiem spłaszczającym się. Kapelusz jest liliowy do fioletowo-niebieskiego za młodu, z wiekiem blednie do brązowego lub beżowo-brązowego, zachowując fioletowe tony, zwłaszcza na brzegu. Powierzchnia gładka, w wilgoci lekko tłustawa. Blaszki przyrosłe do zatokowato przyrośniętych, początkowo liliowo-fioletowe, blednące do brązowego, ale zwykle zachowujące nieco fioletu. Trzon o wysokości 4–10 cm, tęgi, włóknisty, fioletowy do liliowego z bulwiastą podstawą. Miąższ gruby, bladofioletowy do białego, o słodkim kwiatowym zapachu.",
+  "habitat": "Występuje w lasach liściastych i mieszanych, na skrajach lasów, w żywopłotach, parkach, ogrodach i pryzmach kompostowych. Rośnie jako rozkładacz ściółki liściowej w żyznej, organicznej glebie. Pospolita w miejscach obfitych w próchnicę liściową. Owocniki rozproszone do gromadnych, często w dużych grupach lub czarcich kołach. Preferuje środowiska bogate w azot.",
+  "season": "Późne lato do wczesnej zimy (wrzesień–grudzień) w regionach umiarkowanych. Jeden z klasycznych późnosezonowych grzybów, owocuje po przymrozkach. W łagodnym klimacie może owocować do stycznia. Szczyt późną jesienią (październik–listopad).",
+  "regions": [
+    "Europa (bardzo pospolita)",
+    "Wschodnia Ameryka Północna (pospolita)",
+    "Północno-Zachodni Pacyfik (pospolita)",
+    "Kalifornia (sporadycznie)",
+    "regiony strefy umiarkowanej na całym świecie",
+    "szeroko uprawiana"
+  ],
+  "lookalikes": [
+    "gatunki Cortinarius (niektóre śmiertelnie trujące) – mają rdzawobrązowe zarodniki i pajęczynkową osłonę, a nie różowe zarodniki",
+    "Laccaria amethystina (jadalna) – mniejsza, prawdziwie fioletowa w całości, cieńszy miąższ",
+    "Mycena pura (trująca) – mniejsza, delikatniejsza, zapach rzodkwi",
+    "młody Cortinarius violaceus (jadalny) – ma pajęczynkową osłonę, rdzawe zarodniki"
+  ],
+  "safety_notes": "JADALNY: popularny grzyb jadalny o dobrym smaku, ale wymaga odpowiedniego przygotowania. KRYTYCZNE: musi być dokładnie ugotowany – NIGDY nie jedz na surowo ani niedogotowany, gdyż może powodować dolegliwości żołądkowe. Niektóre osoby mają reakcje alergiczne nawet po ugotowaniu. Słodki zapach jest charakterystyczny, ale nie każdemu odpowiada w jedzeniu. Najpierw spróbuj małych porcji. Zweryfikuj RÓŻOWY WYSYP ZARODNIKÓW (nie rdzawobrązowy jak u trującego Cortinarius). Fioletowy kolor, przyrosłe blaszki, różowe zarodniki i słodki zapach odróżniają go od Cortinarius. Popularny w Europie i coraz częściej uprawiany. Najlepszy duszony lub w gulaszach. Trzony odrzuć – są włókniste.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1729531.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 51382,
+      "width": 640,
+      "height": 427,
+      "sha256": "48030c7b7b53e03ab995d71e30dcdb4c1212999e9c208a3e605c861cc6744dd0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1729532.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-26",
+      "file_size_bytes": 34452,
+      "width": 640,
+      "height": 427,
+      "sha256": "00ec1b3bf91a4164b77443db971fa27ebec3c4a254d394f51e8c9e9f3d435136"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

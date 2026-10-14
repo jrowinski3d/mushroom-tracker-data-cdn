@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "plepul",
+  "scientific_name": "Pleurotus pulmonarius",
+  "common_name": "Blek ostronmussling",
+  "edibility": "E",
+  "description": "Solformade till musselformade hattar, 5–20 cm breda, vita till blekt krämfärgade eller ljust beigefärgade. Slät yta med nedlöpande vita skivor och sidoställd fot eller fotlös. Mycket lik P. ostreatus men generellt blekare i färgen och bildar fruktkroppar under de varmare månaderna. Växer i täta överlappande klasar på lövträd. Vit sporfällning.",
+  "habitat": "Saprofytisk på döda och döende lövträd, stockar och stubbar, särskilt ek, bok, lönn, alm och andra lövträd. Bildar täta överlappande hyllor från veden. Vanlig på stående döda träd och fallna stockar i löv- och blandskog.",
+  "season": "Sen vår till tidig höst, med topp i juni–augusti under varmt väder. Varmvädersmotsvarigheten till P. ostreatus. Bildar fruktkroppar när temperaturen överstiger 15 °C.",
+  "regions": [
+    "Östra Nordamerika",
+    "Mellanvästern och de stora slätterna",
+    "Södra USA",
+    "Stillahavskusten",
+    "Tempererade regioner världen över"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (nästan identisk, mörkare, bildar fruktkroppar höst–vinter)",
+    "Pleurocybella porrigens – giftig, mindre, rent vit, växer på barrträd",
+    "Hypsizygus ulmarius – mer uttalad central fot",
+    "Crepidotus-arter – bruna sporer, mindre, tunnare kött"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt matsvamp med mild, behaglig smak lik P. ostreatus. En av de mest odlade arterna i världen. Stek ordentligt innan du äter den. Vilda exemplar är säkra när de är korrekt identifierade. Den sommarliga fruktperioden hjälper till att skilja den från den liknande P. ostreatus. Odlas i stor skala till försäljning.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1691299.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 70350,
+      "width": 640,
+      "height": 480,
+      "sha256": "99a98f8d2d414ba72dc72435e994f5bbe3c17e27d65e768b5070cf33a88020a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691286.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-03",
+      "file_size_bytes": 80098,
+      "width": 640,
+      "height": 480,
+      "sha256": "5fb260ca9843e36cc986b17d7ce952eebf4de6a6ded63fb10206454b3d031d1e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.352015",
+  "source_language": "en"
+}

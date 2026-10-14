@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecon",
+  "scientific_name": "Laetiporus conifericola",
+  "common_name": "Chicken of the Woods (Laetiporus conifericola)",
+  "edibility": "E",
+  "description": "Console orange vif à saumon avec surface des pores jaune soufre, formant de grandes tablettes chevauchantes de 2 à 12 pouces de large sur les conifères. Aspect similaire à L. sulphureus mais distingué par ses hôtes conifères dans les montagnes de l'ouest. Tendre et succulent jeune, dur avec l'âge. Plusieurs consoles forment des rosettes sur troncs et bûches de conifères. Console annuelle aux couleurs vives.",
+  "habitat": "Parasite et saprobe spécifiquement sur les conifères vivants et morts dans les montagnes de l'ouest, notamment le douglas, le mélèze de l'Ouest, la pruche et d'autres conifères. Forme de grandes consoles en étagères sur les troncs, souches et bûches. Provoque une pourriture brune cubique du cœur des conifères. Forêts de conifères montagnardes et subalpines.",
+  "season": "De l'été à l'automne en montagne, typiquement de juin à octobre. Pic de fructification en juillet-septembre. Apparaît après les moussons d'été et les pluies chaudes. Saison plus tardive que les espèces de basse altitude.",
+  "regions": [
+    "montagnes Rocheuses",
+    "chaîne des Cascades",
+    "Sierra Nevada",
+    "Rocheuses du Nord",
+    "forêts de montagne de l'Ouest",
+    "Colombie-Britannique au Nouveau-Mexique"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (sur feuillus, pas sur conifères)",
+    "Laetiporus huroniensis (nord-est, sur pruche)",
+    "Autres Laetiporus de l'ouest sur conifères",
+    "Clitocybe illusoire (Omphalotus) — toxique, a des lames et non des pores"
+  ],
+  "safety_notes": "COMESTIBLE jeune, mais PRUDENCE : Les spécimens poussant sur conifères (y compris cette espèce) provoquent plus couramment des troubles digestifs que ceux des feuillus. Beaucoup de personnes signalent des maux d'estomac avec les Laetiporus des conifères. Ne récolter que des spécimens très jeunes et tendres. Commencer par de très petites quantités pour tester la tolérance. Certaines personnes le tolèrent bien, d'autres réagissent mal. Bien cuire. Envisager de l'éviter si vous êtes sensible aux composés soufrés.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.139829",
+  "source_language": "en"
+}

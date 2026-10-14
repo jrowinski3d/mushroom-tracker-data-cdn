@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hydrep",
+  "scientific_name": "Hydnum repandum",
+  "common_name": "Pied-de-mouton",
+  "edibility": "E",
+  "description": "Le pied-de-mouton a un chapeau crème à orange pâle de forme irrégulière (3-15 cm), à marge ondulée et lobée. Sa caractéristique distinctive est le dessous couvert d’AIGUILLONS ou DENTS fragiles, pointant vers le bas, au lieu de lames ou de pores - ces aiguillons sont crème à orange pâle et se détachent facilement au frottement. Le pied est excentré à central, épais, blanc à orange pâle, lisse et souvent courbé. La chair est blanche, épaisse, fragile, au goût doux et à l’odeur agréable. Sporée blanche. Ce comestible facile à identifier a un goût légèrement poivré cru, qui disparaît à la cuisson.",
+  "habitat": "Mycorhizien avec les feuillus et les conifères. Trouvé au sol dans les forêts mixtes, sous les chênes, hêtres, pins et épinettes. Pousse souvent dispersé ou en petits groupes. Préfère les sols bien drainés, fréquemment dans la mousse ou la litière de feuilles.",
+  "season": "De l’été à l’automne (juillet-novembre), avec un pic de fructification en automne. Dans les climats plus doux, peut fructifier jusqu’en début d’hiver.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Nord-Est",
+    "Midwest",
+    "Sud-Est",
+    "montagnes Rocheuses",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Hydnum umbilicatum (Hydne ombiliqué) - plus petit, plus orange, centre déprimé",
+    "Hydnum albidum (Hydne blanc) - couleur blanche pure",
+    "Hydnum rufescens (Hydne roussissant) - couleur orange-brun plus foncée",
+    "Espèces de Sarcodon - plus grandes, plus foncées, goût souvent amer"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : saveur douce et suave une fois cuit, bien que légèrement poivré cru. Récolter de jeunes spécimens pour la meilleure texture - les spécimens âgés peuvent devenir coriaces ou développer un goût amer. Ses aiguillons/dents caractéristiques sous le chapeau rendent toute confusion avec des espèces toxiques improbable. Bien nettoyer, car les aiguillons retiennent les débris. Peut provoquer de légers troubles digestifs chez les personnes sensibles s’il est consommé en grandes quantités.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714441.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 99832,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3445093a421555636805635d3ce11d27c8e580b4ef979bccb1b9b4e7636568c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493456.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-31",
+      "file_size_bytes": 101492,
+      "width": 640,
+      "height": 480,
+      "sha256": "707eb43113263b918093c6b9ce0ebcd8da779fe0e9b863d6899aced3d04f9f6d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:02.596413",
+  "source_language": "en"
+}

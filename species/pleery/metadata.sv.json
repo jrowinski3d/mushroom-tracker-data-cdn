@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleery",
+  "scientific_name": "Pleurotus eryngii",
+  "common_name": "Kungsmussling",
+  "edibility": "E",
+  "description": "Karakteristisk svamp med liten beige till brun hatt på 2,5–10 cm och tjock, vit, köttig fot på 5–15 cm. Till skillnad från typiska ostronmusslingar är den tjocka cylindriska foten den eftertraktade delen. Hatten har nedlöpande skivor. Växer från rötter av döda örtartade växter, inte ved. Unik bland Pleurotus-arter i Nordamerika.",
+  "habitat": "Saprofytisk på rötter av döda och döende örtartade växter, särskilt martorn (Eryngium-arter), strandmartorn och andra flockblomstriga växter i öken- och torra gräsmarksregioner. Hittas INTE på ved som andra Pleurotus-arter. Växer från nedgrävda rötter i sandiga eller störda jordar.",
+  "season": "Höst till vår i torra regioner, vanligtvis oktober–april. Fruktar efter vinter- och vårregn i öken- och halvtorra miljöer. Kan dyka upp sporadiskt under den svala säsongen med tillräcklig fukt.",
+  "regions": [
+    "Sydvästra öknen",
+    "Södra Kalifornien",
+    "Medelhavsklimatsregioner",
+    "Torra och halvtorra gräsmarker",
+    "Inhemsk i Medelhavsområdet, etablerad i Nordamerika"
+  ],
+  "lookalikes": [
+    "Andra Pleurotus-arter (alla växer på ved, inte rötter)",
+    "Pleurotus nebrodensis (liknande men annat utbredningsområde)",
+    "Odlad kungsmussling (samma art, säljs vida i butiker)",
+    "Unga parasollsvampar (annat skivfäste, sporfärg)"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad för sin tjocka, köttiga fot med utmärkt konsistens och mild smak. En av de mest populära odlade specialsvamparna som säljs som 'kungstrumpet' eller 'kungsmussling'. Vilda exemplar är utmärkta matsvampar när de är korrekt identifierade. Den tjocka foten är den mest eftertraktade delen. Tillaga ordentligt för att utveckla bästa smak och konsistens.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1452110.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 35740,
+      "width": 640,
+      "height": 447,
+      "sha256": "a76c50852810d3c2a992f8ad40877ef012a925a1c9fd62260dff561521521378"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1452111.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 33090,
+      "width": 640,
+      "height": 466,
+      "sha256": "81d27168cf26c777b1997fbad54c80acaed53c24e15b7bcd027be23aeb19eab3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

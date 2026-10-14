@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hyplac",
+  "scientific_name": "Hypomyces lactifluorum",
+  "common_name": "Lobster Mushroom (Hypomyces lactifluorum)",
+  "edibility": "E",
+  "description": "Grzyb homarowy w rzeczywistości nie jest grzybem, lecz jaskrawo pomarańczowym pasożytniczym grzybem, który przekształca swoje grzyby-żywiciele (gatunki Russula i Lactarius) w okazy jadalne. Zaatakowany grzyb zostaje całkowicie pokryty twardą jaskrawo pomarańczową do czerwonopomarańczowej skórką. Kształt zachowuje formę żywiciela (często widoczne blaszki lub pory), lecz powierzchnia jest szorstka, krostkowata lub brodawkowata. Wielkość waha się 5–15 cm w zależności od żywiciela. Miąższ biały marmurkowany na pomarańczowo, jędrny i zwarty. Cała struktura staje się sztywna i ciężka. Ma zapach przypominający owoce morza, jak ugotowany homar lub krewetki.",
+  "habitat": "Występuje w lasach iglastych i mieszanych, gdzie rosną jego żywiciele (gatunki Russula i mleczaje Lactarius). Pasożyt kolonizuje podziemne młode owocniki i młode grzyby podatnych gatunków. Najczęściej pasożytuje na białych lub jasnych gatunkach Russula oraz gatunkach Lactarius. Owocnikuje tam, gdzie żywiciele są obfite, rozproszony do gromadnego. Preferuje obszary z żyzną glebą i mikoryzowymi powiązaniami żywicieli.",
+  "season": "Późne lato do jesieni (lipiec–listopad) w zależności od owocnikowania żywicieli. Szczyt występowania późnym latem i wczesną jesienią (sierpień–październik). Czas zależy od pojawienia się grzybów-żywicieli. Powszechniejszy w latach dobrego owocnikowania żywicieli.",
+  "regions": [
+    "Wschodnia Ameryka Północna (pospolity)",
+    "Północno-Zachodni Pacyfik (bardzo pospolity)",
+    "Góry Skaliste",
+    "Północna Kalifornia",
+    "Południowo-wschodnie Stany Zjednoczone",
+    "Cała Ameryka Północna tam, gdzie występują żywiciele"
+  ],
+  "lookalikes": [
+    "Russula emetica zaatakowana innymi grzybami – trujący żywiciel, może być niebezpieczna",
+    "Gatunki Lactarius bez Hypomyces – mogą być trującymi mleczajami",
+    "Inne pomarańczowe grzyby – lecz żaden nie ma twardej skórki i zniekształconego wyglądu",
+    "KRYTYCZNE: należy zweryfikować twardą pomarańczową skórkę pokrywającą całego grzyba"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: jeden z najbezpieczniejszych i najbardziej pożądanych dzikich grzybów. Pasożytnictwo Hypomyces przekształca nawet trujące gatunki żywicieli w okazy jadalne. Pasożyt neutralizuje toksyny żywiciela i wytwarza własny jadalny owocnik. Wysoce ceniony za jędrną teksturę i smak przypominający owoce morza. Popularny w restauracjach. KRYTYCZNA identyfikacja: zweryfikuj CAŁKOWITE pokrycie twardą pomarańczową skórką, BRAK odsłoniętych blaszek lub porów (żywiciel całkowicie pokryty), jędrny zwarty miąższ, łagodny zapach owoców morza. Częściowe pokrycie może wskazywać wczesne stadium pasożytnictwa z wciąż obecnym trującym żywicielem – unikaj. Dokładnie gotować. Doskonały duszony, w zupach lub jako zamiennik homara. Bardzo bezpieczny, bez trujących gatunków podobnych przy prawidłowej identyfikacji.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1704596.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-12",
+      "file_size_bytes": 63526,
+      "width": 640,
+      "height": 480,
+      "sha256": "acda8b6cd5e164f36ada0e732c42d1f2383bf7585c9742be453479f8e4951f0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1704580.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-10",
+      "file_size_bytes": 133344,
+      "width": 480,
+      "height": 640,
+      "sha256": "f1c7fc75c4e79e66f10e033cde7d397acadeb2d14cc68c045567a456685d10b9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.452340",
+  "source_language": "en"
+}

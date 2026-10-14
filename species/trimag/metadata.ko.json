@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimag",
+  "scientific_name": "Tricholoma magnivelare",
+  "common_name": "미국송이",
+  "edibility": "E",
+  "description": "미국송이는 튼튼한 흰색~크림색 갓(지름 7–20cm)으로 나이가 들면 갈색 섬유상 반점이나 얼룩이 생기며, 특히 중심부에 그렇다. 갓은 볼록~편평하고 건조하며 매끄럽거나 섬유상이다. 주름살은 흰색으로 대에 붙고 빽빽하며 갈색으로 얼룩진다. 대는 굵고 흰색이며 매우 단단하고 속이 찼고, 독특한 두꺼운 내피막이 윗대에 큰 솜털 같은 턱받이를 남긴다. 진단 특징은 강렬한 매콤하고 계피 같은, 또는 레드핫 사탕 같은 냄새로 - 틀림없고 강력하다. 살은 흰색으로 매우 치밀하고 단단하다. 포자문은 흰색. 종종 반쯤 묻혀 흙더미를 만든다.",
+  "habitat": "북미 서부의 침엽수, 특히 소나무·더글러스퍼·솔송나무·전나무와 균근을 이룬다. 절대적 균근 관계를 맺는다. 부엽토·침엽 낙엽층·모래 토양에 종종 깊이 묻혀 지상에서 자란다. 해발 고도 낮은 곳부터 고산까지의 성숙 침엽수림에서 발견된다. 배수가 잘 되는 토양을 좋아한다.",
+  "season": "가을(9~11월)로 비 뒤 서늘한 가을 날씨에 열매를 맺는다. 태평양 북서부에서는 10월이 최성기.",
+  "regions": [
+    "태평양 북서부",
+    "브리티시컬럼비아",
+    "북캘리포니아",
+    "로키산맥",
+    "알래스카"
+  ],
+  "lookalikes": [
+    "Tricholoma matsutake - 아시아종, 사실상 동일",
+    "Tricholoma murrillianum - 남서부종, 비슷함",
+    "Amanita smithiana - 독성 있음 - 밑동에 외피막이 있고 계피 향이 아닌 역한 단내",
+    "Catathelasma - 비슷하나 이중 막, 냄새가 다름"
+  ],
+  "safety_notes": "최상급 식용: 높이 평가받아 상업 채집되며 파운드당 20~100달러 이상에 팔린다. 강렬한 계피/매콤 향이 핵심 동정 특징이다 - 한 번 맡으면 잊을 수 없다. 어리고 단단할 때('버튼' 또는 반쯤 나온 상태)가 가장 좋다. 섬세한 맛을 지키기 위해 조심스럽게 세척할 것. 중요: 독성 Amanita smithiana와 절대 혼동하지 말 것 - 외피막(밑동의 컵)이 없고 계피 향이 나는지 확인할 것. 두꺼운 솜털 턱받이와 외피막 부재가 치명적인 Amanita와 구별된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715643.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 122810,
+      "width": 640,
+      "height": 427,
+      "sha256": "fd4963ca29205aff3919c81291d7ceee7ffab7bff6418162025184f0f4ae0439"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1715644.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 113832,
+      "width": 427,
+      "height": 640,
+      "sha256": "7916660a2d94152ffd8f39f242604094222ba8708ef19f62821eea3b280c2d84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

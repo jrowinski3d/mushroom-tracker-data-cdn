@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clinud",
+  "scientific_name": "Clitocybe nuda",
+  "common_name": "푸른깔때기버섯",
+  "edibility": "E",
+  "description": "이 종은 Lepista nuda(푸른깔때기버섯)와 같은 종이다 — Clitocybe nuda라는 이름은 동명이명이다. 갓 너비 5–15cm, 볼록형에서 납작해지며, 어릴 때는 라일락에서 자주청색이었다가 자주 기운을 띤 황갈색으로 바랜다. 표면은 매끄럽고 약간 기름지다. 주름살은 부착형에서 물결형 부착, 라일락자주색에서 황갈색으로 바랜다. 대는 높이 4–10cm, 굵고 자주색에서 라일락색이며 구근형 밑동을 가진다. 살은 옅은 자주색에서 흰색이며 달콤한 꽃 향이 난다. 분홍색 포자문.",
+  "habitat": "활엽수림과 혼합림, 산림 가장자리, 생울타리, 공원, 정원, 퇴비 더미에서 발견된다. 비옥한 유기질 토양에서 낙엽 분해자로 자란다. 흩어지거나 무리지어 대형 무리나 요정고리를 이룬다. 질소가 풍부한 환경을 선호한다.",
+  "season": "늦여름에서 초겨울(9–12월). 서리가 내린 뒤 발생하는 대표적인 만생 버섯 중 하나이다. 절정은 늦가을(10–11월)이다. 온화한 기후에서는 1월까지 발생할 수 있다.",
+  "regions": [
+    "유럽(매우 흔함)",
+    "북미 동부(흔함)",
+    "태평양 북서부(흔함)",
+    "캘리포니아(가끔)",
+    "전 세계 온대 지역",
+    "널리 재배됨"
+  ],
+  "lookalikes": [
+    "Cortinarius 속(일부 치명적) — 녹슨 갈색 포자와 거미줄 같은 피막",
+    "Laccaria amethystina(식용) — 더 작고, 진짜 자주색, 더 얇음",
+    "Mycena pura(유독) — 더 작고 여리며, 무 냄새",
+    "어린 Cortinarius violaceus(식용) — 거미줄 같은 피막, 녹슨 포자"
+  ],
+  "safety_notes": "식용: 인기 있는 식용 버섯이나 적절한 조리가 필요하다. 중요: 충분히 익혀야 하며 — 절대 날로 먹거나 덜 익혀 먹지 마라. 익혀도 알레르기 반응을 보이는 사람이 있다. 먼저 소량으로 테스트하라. 분홍색 포자문인지 확인하라(녹슨 갈색이 아님). 자주색, 부착된 주름살, 분홍색 포자, 달콤한 냄새가 Cortinarius와 구별된다. 유럽에서 인기가 있고 재배도 늘고 있다. 볶거나 스튜에 가장 좋다. 질긴 대는 버려라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1632914.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-19",
+      "file_size_bytes": 102296,
+      "width": 640,
+      "height": 480,
+      "sha256": "1138642c17b89f0c94a0c740ce5a21060db059a61803c5cdf86d13662e26ab0c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1632915.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-19",
+      "file_size_bytes": 97662,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6973f9ba712e464981f6ea5d19f85f44facc4e2a22725e7bfbace9e8827b99b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

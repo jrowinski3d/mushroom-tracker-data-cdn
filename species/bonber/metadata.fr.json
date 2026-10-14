@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bonber",
+  "scientific_name": "Bondarzewia berkeleyi",
+  "common_name": "Polypore de Berkeley",
+  "edibility": "E",
+  "description": "Rosette massive de grands chapeaux en éventail se chevauchant, de 4 à 12 pouces de large, la fructification totale pouvant atteindre 12 à 36 pouces et plus de diamètre. Surface supérieure crème à beige à brun clair avec des rides radiales. Surface porée blanche à crème. Texture épaisse, coriace et fibreuse même chez les jeunes spécimens. Les chapeaux individuels sont plus grands et moins organisés que chez Grifola. Peut peser de 20 à 50 livres et plus. Forte odeur de moisi.",
+  "habitat": "Parasite et saprobe à la base des feuillus vivants et morts, en particulier le chêne, provoquant la pourriture du collet et la pourriture des racines. Forme d’énormes rosettes à la base des arbres, à partir des racines et sur les souches. Commun dans les forêts matures de feuillus. Réapparaît souvent au même endroit pendant plusieurs années.",
+  "season": "De l’été à l’automne, généralement de juillet à octobre. Pic de fructification en août-septembre. Peut persister plusieurs semaines. Plus abondant à la fin de l’été et au début de l’automne après les pluies.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Midwest",
+    "Sud-est des États-Unis",
+    "Région des Grands Lacs",
+    "Monts Appalaches",
+    "Pacifique Nord-Ouest"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (chapeaux individuels plus petits, gris-brun, rosette mieux organisée)",
+    "Meripilus sumstinei (plus foncé, noircit au toucher)",
+    "Autres grandes rosettes de polypores (texture et organisation différentes)",
+    "Jeunes Albatrellus (plus petits, habitat différent)"
+  ],
+  "safety_notes": "COMESTIBLE très jeune mais généralement délaissé : seules les bordures tendres en croissance des très jeunes spécimens sont agréables à manger — la majeure partie de la fructification est trop coriace pour être mangée, même jeune. La forte odeur de moisi et la texture fibreuse le rendent peu appétent. Peut causer des troubles digestifs. Doit être soigneusement cuit. Généralement pas rentable à récolter en raison de sa dureté. Il existe de meilleurs polypores pour la table. Certaines personnes réduisent les spécimens séchés en poudre comme assaisonnement.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1708313.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 89214,
+      "width": 640,
+      "height": 480,
+      "sha256": "935b8fc5b3803aa029baf2bcb81d1f9ba55995e4017c9b3ccb79c238195119c1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1708314.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 110054,
+      "width": 480,
+      "height": 640,
+      "sha256": "78d3bea57198757ee2d96e32c3c6c4be2d9d9c54bb8f36074c19ebb323cd806f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

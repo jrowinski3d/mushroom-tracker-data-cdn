@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "plepul",
+  "scientific_name": "Pleurotus pulmonarius",
+  "common_name": "Phoenix Oyster (Pleurotus pulmonarius)",
+  "edibility": "E",
+  "description": "Kapelusze w kształcie wachlarza lub ostrygi, szerokości 5–20 cm, białe do blado kremowych lub jasnobrązowych. Gładka powierzchnia z białymi zbiegającymi blaszkami oraz bocznym trzonem lub jego brakiem. Bardzo podobny do P. ostreatus, lecz zazwyczaj jaśniejszy i owocujący w cieplejszych miesiącach. Rośnie w gęstych, nakładających się kępach na drzewach liściastych. Wysyp zarodników biały.",
+  "habitat": "Grzyb saprotroficzny na martwych i obumierających drzewach liściastych, kłodach i pniakach, zwłaszcza dębach, bukach, klonach, wiązach i innych drzewach liściastych. Tworzy gęste, nakładające się półki na drewnie. Powszechny na stojących martwych drzewach i powalonych kłodach w lasach liściastych i mieszanych.",
+  "season": "Od późnej wiosny do wczesnej jesieni, ze szczytem owocowania od czerwca do sierpnia w ciepłą pogodę. Ciepłolubny odpowiednik P. ostreatus. Owocuje, gdy temperatura przekracza 15°C.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód i Wielkie Równiny",
+    "Południowe Stany Zjednoczone",
+    "Wybrzeże Pacyfiku",
+    "Regiony umiarkowane na całym świecie"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (prawie identyczny, ciemniejszy, owocuje jesienią i zimą)",
+    "Pleurocybella porrigens – trujący, mniejszy, czysto biały, na drzewach iglastych",
+    "Hypsizygus ulmarius – bardziej wyraźny, centralny trzon",
+    "Crepidotus spp. – brązowe zarodniki, mniejsze, cieńszy miąższ"
+  ],
+  "safety_notes": "WYBORNY GRZYB JADALNY: Doskonały grzyb jadalny o łagodnym, przyjemnym smaku, podobny do P. ostreatus. Jeden z najczęściej uprawianych gatunków na świecie. Przed spożyciem dokładnie ugotować. Dziko rosnące okazy są bezpieczne, gdy prawidłowo zidentyfikowane. Letnia pora owocowania pomaga odróżnić go od podobnego P. ostreatus. Powszechnie uprawiany na sprzedaż komercyjną.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1691299.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 70350,
+      "width": 640,
+      "height": 480,
+      "sha256": "99a98f8d2d414ba72dc72435e994f5bbe3c17e27d65e768b5070cf33a88020a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691286.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-03",
+      "file_size_bytes": 80098,
+      "width": 640,
+      "height": 480,
+      "sha256": "5fb260ca9843e36cc986b17d7ce952eebf4de6a6ded63fb10206454b3d031d1e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.352015",
+  "source_language": "en"
+}

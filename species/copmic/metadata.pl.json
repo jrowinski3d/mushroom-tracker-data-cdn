@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "copmic",
+  "scientific_name": "Coprinellus micaceus",
+  "common_name": "czernidłaczek błyszczący",
+  "edibility": "E",
+  "description": "Czernidłaczek błyszczący to mały, delikatny grzyb, wysoki na 2–6 cm, o kapeluszu o średnicy 1–4 cm. Kapelusz jest owalny do dzwonkowatego, brązowawy do żółtobrązowego lub czerwonobrązowego, z charakterystycznymi błyszczącymi drobinkami jak mika na powierzchni za młodu (cecha diagnostyczna – drobinki zmywa deszcz). Kapelusz ma promieniste rowki od brzegu do połowy. Blaszki są przyrośnięte, białe, z czasem szare, potem czarne i rozpływające się. Trzon wysoki na 3–7 cm, gładki, biały, kruchy, pusty. Owocnikuje w gęstych kępach.",
+  "habitat": "Występuje na i wokół martwych pniaków drzew liściastych, kłód i zakopanego drewna. Bardzo pospolity na rozkładającym się drewnie w lasach, parkach i ogrodach. Rośnie jako rozkładacz drewna w gęstych kępach lub skupiskach. Szczególnie obfity na starych pniakach i u podstaw drzew. Preferuje wilgotne, zacienione miejsca.",
+  "season": "Od wiosny do jesieni (kwiecień–listopad), z pewnym owocnikowaniem zimą w łagodnych klimatach. Szczyt obfitości od późnej wiosny do jesieni. Może owocnikować przez cały rok w ciepłych regionach. Bardzo wytrwały i pospolity.",
+  "regions": ["Ameryka Północna (bardzo pospolity, rozpowszechniony)", "Europa (bardzo pospolity)", "Na całym świecie w strefie umiarkowanej", "Lasy i tereny zurbanizowane", "Kosmopolityczny na rozkładającym się drewnie"],
+  "lookalikes": ["Coprinellus disseminatus (jadalny) – znacznie mniejszy, bladoszary, brak drobinek miki", "Gatunki Psathyrella – podobne, ale brak drobinek miki i słabiej się rozpływają", "Inne gatunki Coprinellus – trudne do rozróżnienia bez mikroskopii", "Brak trujących gatunków podobnych"],
+  "safety_notes": "JADALNY: Uważany za jadalny i bezpieczny, gdy młody i świeży, ale mały rozmiar sprawia, że zbieranie jest żmudne. Smak łagodny i niczym się niewyróżniający. Brak interakcji z alkoholem jak u czernidłówki pospolitej. Trzeba zużyć natychmiast, ponieważ blaszki szybko się rozpływają. Zbieraj tylko młode, świeże okazy. Mały rozmiar i szybkie rozpływanie sprawiają, że jest niepraktyczny dla większości grzybiarzy. Bezpieczny, brak trujących gatunków podobnych. Błyszczące drobinki jak mika za młodu są diagnostyczne i urocze. Często obfity, ale niewarty wysiłku zbierania. Gatunek ciekawszy ekologicznie niż kulinarnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750440.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120384,
+      "width": 640,
+      "height": 480,
+      "sha256": "1651497c786b3947aaa6ca4ea11f16b5d12be9c846fac4005e9eefc2b4c4d987"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750441.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120102,
+      "width": 640,
+      "height": 480,
+      "sha256": "04b8ac4eead336dafb401fa91130915d85a5a17a21fe8da3b20b38ab86026638"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

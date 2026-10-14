@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "rusbre",
+  "scientific_name": "Russula brevipes",
+  "common_name": "Short-stemmed Russula (Russula brevipes)",
+  "edibility": "E",
+  "description": "Ma biały kapelusz (5–20 cm), stający się lejkowaty. Blaszki białe, gęste. Trzon krótki, gruby, biały. KLUCZ: KRUCHY KREDOWATY MIĄŻSZ (łamie się jak kreda), BRAK MLECZKA. Duży biały grzyb. Często częściowo zagrzebany. Miąższ biały. Wysyp zarodników biały. Smak łagodny do lekko piekącego.",
+  "habitat": "Mikoryzowa z DRZEWAMI IGLASTYMI w zachodniej Ameryce Północnej, zwłaszcza sosną, jodłą, daglezją. Rośnie na ziemi, często częściowo zagrzebana. Powszechna w lasach północno-zachodniego Pacyfiku. Rozproszona lub w grupach.",
+  "season": "Jesień (wrzesień–listopad), owocuje po deszczach.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia",
+    "Góry Skaliste",
+    "Kolumbia Brytyjska"
+  ],
+  "lookalikes": [
+    "Russula cascadensis – podobny biały gołąbek",
+    "Mleczaje – mają MLECZKO",
+    "Białe muchomory – mają pochwę"
+  ],
+  "safety_notes": "JADALNY: Łagodny smak po ugotowaniu. KRUCHY MIĄŻSZ + BRAK MLECZKA odróżnia od mleczajów. Duża wielkość. Próba smaku (nadgryźć i wypluć) – łagodne okazy jadalne, piekące niejadalne. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 90422,
+      "width": 640,
+      "height": 427,
+      "sha256": "44daff7dcc494859d60cae368d1e47333f09a941ecd76444e2ef69ebc8c07ef9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720877.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 62368,
+      "width": 640,
+      "height": 427,
+      "sha256": "05b48730e8c844ff2516b290e6be0217096360c670b60ba6c9feda8b36789d5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

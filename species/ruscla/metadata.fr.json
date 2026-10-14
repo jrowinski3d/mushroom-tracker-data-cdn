@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscla",
+  "scientific_name": "Russula claroflava",
+  "common_name": "Russule jaune clair",
+  "edibility": "E",
+  "description": "La Russule jaune clair a un chapeau jaune vif (3 à 10 cm), visqueux. Lames blanches à crème. Pied blanc. CLÉ : CHAPEAU JAUNE VIF, CHAIR CASSANTE, pousse en zones HUMIDES/TOURBEUSES. Chair blanche. Sporée blanche à crème. Goût doux à légèrement âcre.",
+  "habitat": "Mycorhizienne avec le bouleau et le saule dans les zones HUMIDES — marais, tourbières, bois humides. Habitat marécageux distinctif. Espèce nordique. Dispersée.",
+  "season": "De l'été à l'automne (juillet-septembre).",
+  "regions": [
+    "Nord-Est",
+    "Haut-Midwest",
+    "Canada",
+    "Europe du Nord"
+  ],
+  "lookalikes": [
+    "Autres russules jaunes — vérifier l'habitat",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce. JAUNE VIF + HABITAT MARÉCAGEUX + CHAIR CASSANTE : diagnostique. Test de goût (spécimens doux comestibles). Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681665.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-09",
+      "file_size_bytes": 51142,
+      "width": 640,
+      "height": 550,
+      "sha256": "bd860f8e55839072f83b62dc560ed844b31f7c93e77777ce7007fb6f53b28d13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1681662.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-08",
+      "file_size_bytes": 27474,
+      "width": 640,
+      "height": 480,
+      "sha256": "40b560f384bb490cd8305e722afeafd8634a91715bdc1637b162df8f4e37f12f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

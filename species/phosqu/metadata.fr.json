@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phosqu",
+  "scientific_name": "Pholiota squarrosa",
+  "common_name": "Pholiote écailleuse",
+  "edibility": "E",
+  "description": "La Pholiote écailleuse est un champignon de taille moyenne à grande avec un chapeau de 5 à 15 cm de diamètre, convexe devenant largement convexe ou plat. Le chapeau est jaune pâle à jaune-brun ou ocre, densément couvert d’écailles brunes à brun-rougeâtre retroussées et recourbées, surtout vers le centre, donnant un aspect très hirsute. Les lames sont adnées à subdécurrentes, d’abord jaune pâle devenant brun-rouille avec l’âge. Le pied mesure 5 à 15 cm de haut, robuste, jaune pâle au-dessus de l’anneau, couvert d’écailles brunes sous l’anneau. L’anneau est épais et persistant. La chair est jaune pâle avec une odeur de radis ou quelque peu désagréable.",
+  "habitat": "Se trouve sur les feuillus morts et vivants, en particulier le hêtre, l’érable, le chêne et le peuplier. Pousse en touffes denses et chevauchantes à la base des arbres, sur les souches ou sur les troncs tombés. Agit comme décomposeur du bois et parfois comme faible parasite. Très commun sur les arbres d’alignement et dans les parcs. Fructifie en groupes serrés, souvent avec des dizaines d’individus.",
+  "season": "De la fin de l’été à l’automne (août-novembre) dans la plupart des régions. Dans les climats doux, peut fructifier jusqu’en hiver. Pic de fructification en septembre-octobre. Peut produire plusieurs pousses les bonnes années.",
+  "regions": [
+    "Europe (répandu)",
+    "Est de l’Amérique du Nord (très commun)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie (occasionnel)",
+    "Régions tempérées dans le monde entier sur feuillus",
+    "Zones urbaines sur les arbres d’alignement"
+  ],
+  "lookalikes": [
+    "Espèces de Pholiota - de nombreuses espèces écailleuses similaires, difficiles à distinguer",
+    "Espèces d’Armillaria (comestible avec prudence) - couleur miel, moins écailleuses, habitat différent",
+    "Hypholoma fasciculare (toxique) - touffes sur le bois mais lames verdâtres, goût amer",
+    "Espèces de Gymnopilus (certaines hallucinogènes) - brun-orangé, amères, spores rouille"
+  ],
+  "safety_notes": "COMESTIBLE MAIS DÉCONSEILLÉ : considéré comme comestible par certaines sources mais provoque des troubles digestifs chez de nombreuses personnes. Les récits de consommation réussie et de troubles gastriques sont également courants. La texture est fibreuse et coriace. Le goût peut être désagréable avec un goût de radis ou chimique. Doit être bien cuit. La possibilité de confusion avec des champignons toxiques poussant en touffes est préoccupante. Même correctement identifié, la qualité est médiocre et beaucoup de gens ne le tolèrent pas. Il existe de meilleurs comestibles. L’aspect hirsute et écailleux est caractéristique. Si on tente la dégustation, essayer d’abord en petites quantités et s’attendre à des troubles digestifs. Déconseillé en raison des nombreux récits de troubles gastro-intestinaux et de son mauvais goût. Les touffes denses sur les feuillus sont caractéristiques mais peu appétissantes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694482.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 132484,
+      "width": 480,
+      "height": 640,
+      "sha256": "3d084ecd15ffe19ff9895f7eb226bc1aa8c2869cf25c8f0bd05b5612f5085c25"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1706127.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 89392,
+      "width": 640,
+      "height": 482,
+      "sha256": "cf74f11b6803c798a105ba96bdcb7ec182982f54ee307acaee9372de457da2c2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:49:48.480026",
+  "source_language": "en"
+}

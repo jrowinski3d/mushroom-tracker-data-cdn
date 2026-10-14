@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycper",
+  "scientific_name": "Lycoperdon perlatum",
+  "common_name": "purchawek perłowy",
+  "edibility": "E",
+  "description": "Małe gruszkowate purchawek o wysokości 2,5–7,5 cm i szerokości 2,5–5 cm, za młodu o charakterystycznej kolczastej lub brodawkowatej powierzchni. Białe, z wiekiem brązowiejące do brązu. Pokryte małymi stożkowatymi kolcami, które odpadają, pozostawiając siatkowaty wzór. Wnętrze czysto białe, gdy jadalne, potem oliwkowożółte, a następnie brązowe. Ma wyraźną płonną podstawę. W dojrzałości otwiera się pojedynczym otworem na wierzchołku.",
+  "habitat": "Saprobiczny, na ziemi w mieszanych lasach liściastych i iglastych, na skrajach lasów, w miejscach omszałych i na próchniejącym drewnie. Często rośnie w grupach lub rozproszonych skupiskach. Pospolity na dnach lasów z żyzną materią organiczną, na próchniejących pniakach i w omszałych miejscach.",
+  "season": "Lato do jesieni, zwykle lipiec–październik. Szczyt owocowania w sierpniu–wrześniu. W łagodnych regionach może pojawiać się do listopada. Owocuje po ciepłych deszczach.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Północno-Zachodni Pacyfik",
+    "Góry Skaliste",
+    "Region Wielkich Jezior",
+    "szeroko rozpowszechniony w umiarkowanej Ameryce Północnej",
+    "zasięg cyrkumborealny"
+  ],
+  "lookalikes": [
+    "inne gatunki Lycoperdon (większość jadalna, gdy wnętrze białe)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory w stadium guzika (ZAWSZE PRZECINAJ NA PÓŁ – w środku widać rozwijające się blaszki i kapelusz)",
+    "gatunki Scleroderma / tęgoskóry (trujące, fioletowo-czarne wnętrze, gruba brodawkowata skórka)",
+    "Lycoperdon pyriforme (gładka powierzchnia, rośnie na drewnie w zwartych kępach)"
+  ],
+  "safety_notes": "JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przetnij okaz całkowicie na pół od góry do dołu przed spożyciem. Jadalny TYLKO wtedy, gdy wnętrze jest całkowicie czysto białe i jędrne w całości, jak pianka. Jeśli w środku widać jakikolwiek żółty, oliwkowy lub brązowy kolor albo rozwijające się struktury, NIE JEDZ. Zapobiega to spożyciu trującego Scleroderma i młodych, śmiertelnie trujących muchomorów. Kolczasta powierzchnia za młodu pomaga w rozpoznaniu, ale trzeba zweryfikować białe wnętrze. Gotuj dokładnie – dobry, łagodny smak.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723310.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 40870,
+      "width": 640,
+      "height": 427,
+      "sha256": "9bd78ffa68b85a9358b87ced4958d2bb98f4ca6f0d2a5d8f47f054e958c3f200"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723311.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 48344,
+      "width": 640,
+      "height": 427,
+      "sha256": "e1e4721679e9a34c106a965d67f391b1f9de88157371d5bf7ee579366346ce5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

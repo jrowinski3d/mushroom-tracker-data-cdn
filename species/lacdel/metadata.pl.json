@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacdel",
+  "scientific_name": "Lactarius deliciosus",
+  "common_name": "rydz sosnowy",
+  "edibility": "E",
+  "description": "Rydz sosnowy ma pomarańczowy kapelusz (4–14 cm) z koncentrycznymi strefami ciemniejszego pomarańczu, często z zielonkawymi plamami, gdy stary lub uszkodzony. Kapelusz wypukły do lejkowatego, o podwiniętym brzegu, gdy młody. Blaszki pomarańczowe, gęste, zbiegające, przebarwiające się na zielono. Trzon pomarańczowy z ciemniejszymi pomarańczowymi jamkami (dołeczkami). CECHĄ KLUCZOWĄ jest POMARAŃCZOWE DO MARCHEWKOWO-POMARAŃCZOWEGO MLECZKO wydzielające się po przekrojeniu – mleczko to powoli zielenieje. Miąższ biały do blado pomarańczowego. Wysyp zarodników blado kremowy. Jaskrawo pomarańczowe mleczko jest diagnostyczne.",
+  "habitat": "Mikoryzowy z SOSNĄ (gatunki Pinus), zwłaszcza egzotycznymi sadzonymi sosnami. Rośnie na ziemi pod sosnami na plantacjach, w parkach i nasadzeniach ozdobnych. Często spotykany pod śródziemnomorską sosną pinia i innymi introdukowanymi sosnami. Preferuje gleby piaszczyste.",
+  "season": "Jesień (wrzesień–grudzień), owocnikuje po deszczach. W łagodnym klimacie może owocnikować do zimy.",
+  "regions": [
+    "Introdukowany w Ameryce Północnej",
+    "Kalifornia",
+    "Północno-Zachodni Pacyfik",
+    "Europa (rodzima)",
+    "Tam, gdzie sadzone są sosny"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus – pomarańczowy, lecz mleczko czerwone, nie marchewkowo-pomarańczowe",
+    "Lactarius thyinos – podobny, mleczko też pomarańczowe, lecz inny żywiciel",
+    "Lactarius sanguifluus – mleczko winno-czerwone",
+    "Gatunki Russula – BEZ MLECZKA, kruchy miąższ"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoce ceniony w Europie, jeden z najlepszych gatunków Lactarius. POMARAŃCZOWE MLECZKO zielenieje diagnostyczne. Łagodny, przyjemny smak. Najlepszy młody i jędrny. Sam grzyb może zielenieć po ugotowaniu lub zakonserwowaniu – to normalne i bezpieczne. U niektórych osób mogą wystąpić łagodne dolegliwości trawienne. Dokładnie gotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1425085.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 79476,
+      "width": 640,
+      "height": 480,
+      "sha256": "500444773c3c9f6342878d1f78f4b384b3a3667e98ffac7efe527baf5e594239"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1425086.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 112986,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffc9822fd7d75f11622408b47847ee3ded0ae1f040c9a529ef5c971535109240"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

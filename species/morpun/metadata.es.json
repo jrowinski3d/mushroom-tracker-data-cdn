@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morpun",
+  "scientific_name": "Morchella punctipes",
+  "common_name": "Half-free Morel (Morchella punctipes)",
+  "edibility": "E",
+  "description": "Sombrero típicamente de 1-4 cm (0,4-1,6 pulg.) de alto, cónico con patrón en forma de panal de crestas y fosas, de marrón amarillento a marrón. Característica distintiva: el sombrero se une al pie aproximadamente a mitad de su longitud (no completamente fusionado como las colmenillas verdaderas), creando un característico aspecto de falda donde la mitad inferior se abre alejándose del pie. Pie de 3-10 cm (1,2-4 pulg.) de alto, proporcionalmente más largo que el sombrero, de blanco a crema, granuloso (cubierto de diminutos gránulos), hueco. Cuando se corta longitudinalmente, completamente hueco a través del sombrero y el pie. Esporada de crema a amarillenta.",
+  "habitat": "Se encuentra bajo diversas frondosas en el este de Norteamérica, incluidos fresno, olmo, tulipero, manzano y otros árboles caducifolios. Prefiere suelos de bosque ricos y húmedos, a menudo en llanuras de inundación, zonas ribereñas y bosques mésicos. Comúnmente fructifica en los mismos lugares que las colmenillas verdaderas, pero típicamente aparece algo antes en la temporada. Ocasionalmente se encuentra en huertos viejos y parques con árboles de frondosas maduros.",
+  "season": "De principios a mediados de la primavera (marzo-mayo en la mayoría de las zonas, puede comenzar a finales de febrero en las regiones del sur). A menudo fructifica 1-2 semanas antes del pico de la temporada de las colmenillas verdaderas. La emergencia coincide con el calentamiento del suelo a 45-50 °F (7-10 °C) y la floración de las plantas efímeras de principios de primavera. Regiones del sur: marzo-abril; zonas del norte y elevaciones más altas: abril-mayo.",
+  "regions": [
+    "noreste",
+    "Atlántico medio",
+    "Medio Oeste",
+    "Grandes Lagos",
+    "sureste"
+  ],
+  "lookalikes": [
+    "Verpa bohemica (colmenilla temprana): comestible con precaución: sombrero unido solo en la punta del pie con los lados colgando completamente libres (en lugar de la unión a mitad), médula algodonosa dentro del pie (en lugar de completamente hueco), sombrero en forma de dedal liso. Algunas personas experimentan molestias gástricas; limite el consumo.",
+    "Verpa conica: comestible con precaución: similar a V. bohemica, sombrero completamente libre colgando solo de la unión superior, superficie del sombrero más lisa. Consuma con moderación, ya que se han reportado reacciones.",
+    "Colmenillas verdaderas (Morchella americana, M. esculenta): comestible: sombrero fusionado con el pie en toda su longitud (en lugar de semilibre), sombrero proporcionalmente más grande en relación con el pie, requisitos de cocción idénticos.",
+    "Falsa colmenilla (especies de Gyromitra): TÓXICA: sombrero arrugado como un cerebro en lugar de panal, color marrón rojizo, interior con cámaras. Tóxica mortal."
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: buena seta culinaria, aunque generalmente considerada menos sabrosa que las colmenillas verdaderas completamente unidas. Debe cocinarse a fondo durante 15-25 minutos; nunca la consuma cruda o poco cocinada, ya que las colmenillas contienen toxinas de hidrazina que causan náuseas severas, vómitos y molestias gástricas. Cocinar por encima de 160 °F (71 °C) destruye los compuestos tóxicos. Algunas personas pueden experimentar reacciones alérgicas incluso bien preparadas; consuma pequeñas porciones en la primera prueba. Evite el consumo de alcohol con colmenillas, ya que se han documentado raras reacciones adversas. Es crítico distinguirla de las especies de Verpa examinando el punto de unión del sombrero: las colmenillas semilibres se unen a mitad del pie, mientras que los sombreros de Verpa cuelgan completamente libres solo desde la unión superior.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667024.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 57148,
+      "width": 640,
+      "height": 482,
+      "sha256": "cdf8ccaf8393ce574dd7fd3d4c03dac08f5ff6b765864d0b6bcfec1f864e38d4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667025.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 67512,
+      "width": 640,
+      "height": 482,
+      "sha256": "8caf59108b82c0f05597c420fa38a09720623411e13ec3515fe5c579095422c1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

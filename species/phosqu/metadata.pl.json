@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phosqu",
+  "scientific_name": "Pholiota squarrosa",
+  "common_name": "łuskwiak nastroszony",
+  "edibility": "E",
+  "description": "Łuskwiak łuskowaty, czyli łuskwiak nastroszony, to średni do dużego grzyb o kapeluszu średnicy 5–15 cm, wypukłym, z wiekiem szeroko wypukłym lub płaskim. Kapelusz bladożółty do żółtobrązowego lub ochrowego, gęsto pokryty odstającymi, odgiętymi brązowymi do czerwonobrązowych łuskami, szczególnie w kierunku środka, co nadaje bardzo kudłaty wygląd. Blaszki przyrosłe do lekko zbiegających, początkowo bladożółte, z wiekiem rdzawobrązowe. Trzon o wysokości 5–15 cm, tęgi, bladożółty powyżej pierścienia, poniżej pierścienia pokryty brązowymi łuskami. Pierścień gruby i trwały. Miąższ bladożółty o rzodkwiowym lub nieco nieprzyjemnym zapachu.",
+  "habitat": "Występuje na martwych i żywych drzewach liściastych, szczególnie bukach, klonach, dębach i topolach. Rośnie w gęstych, zachodzących na siebie kępach u podstaw drzew, na pniakach lub na powalonych kłodach. Działa jako rozkładacz drewna, a czasem słaby pasożyt. Bardzo pospolity na drzewach ulicznych i w parkach. Owocuje w zwartych, kępowych grupach, często z dziesiątkami osobników.",
+  "season": "Późne lato do jesieni (sierpień–listopad) w większości regionów. W łagodnym klimacie może owocować do zimy. Szczyt owocowania we wrześniu–październiku. W dobrych latach może dawać wiele rzutów.",
+  "regions": [
+    "Europa (rozpowszechniona)",
+    "Wschodnia Ameryka Północna (bardzo pospolita)",
+    "Północno-Zachodni Pacyfik (pospolita)",
+    "Kalifornia (sporadycznie)",
+    "regiony strefy umiarkowanej na całym świecie – na drzewach liściastych",
+    "obszary miejskie – na drzewach przyulicznych"
+  ],
+  "lookalikes": [
+    "gatunki Pholiota – wiele podobnych łuskowatych gatunków, trudnych do odróżnienia",
+    "gatunki Armillaria (jadalne z ostrożnością) – miodowe, mniej łuskowate, inne siedlisko",
+    "Hypholoma fasciculare (trująca) – kępy na drewnie, ale zielonkawe blaszki, gorzki smak",
+    "gatunki Gymnopilus (niektóre halucynogenne) – pomarańczowobrązowe, gorzkie, rdzawe zarodniki"
+  ],
+  "safety_notes": "JADALNY, ALE NIEZALECANY: uważany za jadalny przez niektóre źródła, ale u wielu osób powoduje dolegliwości trawienne. Doniesienia zarówno o udanym spożyciu, jak i o dolegliwościach żołądkowych są powszechne. Faktura włóknista i twarda. Smak może być nieprzyjemny, z rzodkwiowym lub chemicznym posmakiem. Musi być dokładnie ugotowany. Możliwość pomylenia z trującymi grzybami kępowymi jest niepokojąca. Nawet po prawidłowym rozpoznaniu jakość jest słaba i wiele osób go nie toleruje. Istnieją lepsze grzyby jadalne. Kudłaty, łuskowaty wygląd jest charakterystyczny. Jeśli próbujesz, najpierw spróbuj małych porcji i spodziewaj się dolegliwości trawiennych. Niezalecany ze względu na powszechne doniesienia o dolegliwościach żołądkowo-jelitowych i słaby smak. Gęste kępy na drzewach liściastych są charakterystyczne, ale nie apetyczne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694482.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 132484,
+      "width": 480,
+      "height": 640,
+      "sha256": "3d084ecd15ffe19ff9895f7eb226bc1aa8c2869cf25c8f0bd05b5612f5085c25"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1706127.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 89392,
+      "width": 640,
+      "height": 482,
+      "sha256": "cf74f11b6803c798a105ba96bdcb7ec182982f54ee307acaee9372de457da2c2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:49:48.480026",
+  "source_language": "en"
+}

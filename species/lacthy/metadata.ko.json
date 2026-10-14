@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacthy",
+  "scientific_name": "Lactarius thyinos",
+  "common_name": "향젖버섯 (Lactarius thyinos)",
+  "edibility": "E",
+  "description": "향젖버섯은 동심원 무늬가 있고 흔히 녹색 얼룩이 있는 주황색 갓(4~12cm)을 지닌다. 주름살은 연주황색이며 밀집한다. 대는 주황색에 점무늬가 있다. 핵심 특징: 주황색 유즙(젖)과 독특한 향기 — 삼나무 또는 향료 같은 냄새. 유즙이 녹색으로 물들 수 있다. 살은 창백하다. 포자문은 크림색이다. 향긋한 냄새가 유사종과 구분된다.",
+  "habitat": "북아메리카 서부의 삼나무와 편백(측백나무과)과 균근성. 향나무, 서부적삼나무, 포트오포드삼나무 아래에서 자란다. 침엽수림에서 발견된다.",
+  "season": "가을(9~11월), 침엽수림에서 결실.",
+  "regions": [
+    "태평양 북서부",
+    "북부 캘리포니아",
+    "오리건 서부",
+    "브리티시컬럼비아"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus — 소나무 기주, 향 덜함",
+    "Lactarius rubrilacteus — 붉은 유즙",
+    "기타 주황색 Lactarius — 기주목과 냄새 확인"
+  ],
+  "safety_notes": "최상급 식용: 훌륭한 맛. 주황색 유즙과 삼나무 냄새, 삼나무/편백 기주의 조합이 동정 포인트. 녹색으로 물들 수 있는데 정상이다. 어릴 때 가장 좋다. 충분히 익혀 먹으라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1705100.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 63272,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa2a7d5936d1b759d24738c55c3f0c7d9cbf7a2cd5b08a51e5b5c30da7b5233f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705101.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 82012,
+      "width": 640,
+      "height": 482,
+      "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

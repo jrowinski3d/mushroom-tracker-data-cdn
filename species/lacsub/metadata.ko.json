@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "lacsub",
+  "scientific_name": "Lactarius subpurpureus",
+  "common_name": "섭둘시스젖버섯 (Lactarius subpurpureus)",
+  "edibility": "E",
+  "description": "섭둘시스젖버섯은 적갈색 갓(3~8cm)을 지니며 매끄럽다. 주름살은 연분홍색이다. 대도 비슷한 색이다. 핵심: 흰색 유즙, 순한 맛. 분홍빛 황갈색의 소형 종. 살은 창백하다. 포자문은 분홍 크림색이다.",
+  "habitat": "침엽수와 활엽수 모두와 균근성. 혼효림에서 자란다. 드문드문 난다.",
+  "season": "여름부터 가을(7~10월).",
+  "regions": [
+    "미국 동부",
+    "중서부"
+  ],
+  "lookalikes": [
+    "기타 소형 Lactarius — 색과 맛 확인"
+  ],
+  "safety_notes": "식용: 순한 맛. 흰색 유즙 + 순한 맛이 하위군의 동정 포인트. 어릴 때 가장 좋다. 충분히 익혀 먹으라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722244.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 44232,
+      "width": 640,
+      "height": 427,
+      "sha256": "0498b5201c9cd15c3c0834733e401ccbc2f1868abfe53781f01aab90cb4ac699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722245.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 42834,
+      "width": 640,
+      "height": 427,
+      "sha256": "f200757574e7abfcd0ced99c8ee3b2668fe99470c04396ee020ca016d951e0f8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimag",
+  "scientific_name": "Tricholoma magnivelare",
+  "common_name": "American Matsutake (Tricholoma magnivelare)",
+  "edibility": "E",
+  "description": "Tricholoma magnivelare ma masywny biały do kremowego kapelusz (7–20 cm), na którym z wiekiem rozwijają się brązowawe, włókniste plamy lub przebarwienia, zwłaszcza w środku. Kapelusz wypukły do płaskiego, suchy, gładki do włóknistego. Blaszki białe, przyrośnięte, gęste, brązowiejące. Trzon gruby, biały, bardzo twardy i zwarty, z CHARAKTERYSTYCZNĄ GRUBĄ OSŁONĄ CZĘŚCIOWĄ pozostawiającą DUŻY WATOWATY PIERŚCIEŃ na górnej części trzonu. Cechą diagnostyczną jest SILNY KORZENNY, CYNAMONOWY lub przypominający czerwone cukierki cynamonowe ZAPACH — nie do pomylenia i potężny. Miąższ biały, bardzo gęsty i twardy. Wysyp zarodników biały. Często częściowo zagrzebiony, tworząc kopczyki ziemi.",
+  "habitat": "Mikoryzowy z drzewami iglastymi w zachodniej Ameryce Północnej, zwłaszcza sosną, daglezją, choiną i jodłami. Tworzy obligatoryjne związki mikoryzowe. Rośnie na ziemi, często głęboko zagrzebiony w ściółce, opadle igliwia lub piaszczystej glebie. Występuje w dojrzałych lasach iglastych od poziomu morza po wysokie góry. Preferuje przepuszczalne gleby.",
+  "season": "Jesień (wrzesień–listopad), owocnikowanie w chłodną jesienną pogodę po deszczach. Szczyt sezonu w październiku na północnym zachodzie Pacyfiku.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kolumbia Brytyjska",
+    "Północna Kalifornia",
+    "Góry Skaliste",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Gąska sosnowa (Tricholoma matsutake) — gatunek azjatycki, praktycznie identyczny",
+    "Tricholoma murrillianum — gatunek południowo-zachodni, podobny",
+    "Amanita smithiana — TRUJĄCA — ma pochwę u podstawy, mdło słodki zapach, nie cynamonowy",
+    "Catathelasma — podobna, lecz ma podwójną osłonę i inny zapach"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Wysoce ceniony i zbierany komercyjnie, sprzedawany za ponad 20–100 dolarów za funt. Silny CYNAMONOWY/KORZENNY ZAPACH to kluczowa cecha identyfikacyjna — raz powąchany, nigdy niezapomniany. Najlepszy młody i twardy („guziki\" lub na wpół wyrośnięte). Ostrożnie czyścić, aby zachować delikatny smak. KRYTYCZNE: Nigdy nie mylić z trującą Amanita smithiana — sprawdzaj brak pochwy (czarki u podstawy) i weryfikuj cynamonowy zapach. Gruby watowaty pierścień i brak pochwy odróżniają go od śmiertelnie trujących muchomorów.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715643.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 122810,
+      "width": 640,
+      "height": 427,
+      "sha256": "fd4963ca29205aff3919c81291d7ceee7ffab7bff6418162025184f0f4ae0439"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1715644.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 113832,
+      "width": 427,
+      "height": 640,
+      "sha256": "7916660a2d94152ffd8f39f242604094222ba8708ef19f62821eea3b280c2d84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

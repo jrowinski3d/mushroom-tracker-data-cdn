@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canros",
+  "scientific_name": "Cantharellus roseocanus",
+  "common_name": "Chanterelle rose",
+  "edibility": "E",
+  "description": "La Chanterelle rose (appelée aussi Chanterelle rosée) possède un chapeau distinctif de 3 à 12 cm de large, de couleur rose à orange-saumon ou rose-rose, souvent avec des tons rose-violet qui lui valent son nom commun. La surface du chapeau est lisse à légèrement ridée, devenant en entonnoir avec l'âge, avec une marge ondulée et irrégulière. Le dessous présente des plis épais, obtus et fourchus (PAS de vraies lames), de couleur orange-rosé à rose-saumon, espacés, et décurrents sur le pied. Le pied est plein, de 3 à 9 cm de haut, rosé à blanc, souvent avec des tons rose-violet à la base. La chair est blanche à rose pâle, ferme, avec une légère odeur fruitée. La sporée est blanche à crème pâle.",
+  "habitat": "Mycorhizienne avec les conifères du Pacifique Nord-Ouest, notamment le douglas, la pruche de l'Ouest et l'épinette de Sitka dans les forêts côtières. Également présente avec le tanoak et l'arbousier dans les forêts mixtes. Préfère les pentes bien drainées avec d'épaisses couches de mousse et de litière dans les forêts de conifères côtières et montagnardes.",
+  "season": "De l'automne au début de l'hiver (septembre à décembre), fructifiant avec l'arrivée des pluies d'automne. La pleine saison se situe généralement en octobre-novembre dans le Pacifique Nord-Ouest. Fructifie souvent aux côtés de C. formosus mais a tendance à apparaître légèrement plus tard dans la saison.",
+  "regions": [
+    "Pacifique Nord-Ouest (Colombie-Britannique à Californie du Nord)",
+    "Oregon et Washington côtiers",
+    "île de Vancouver",
+    "montagnes côtières de la Californie du Nord",
+    "péninsule Olympique"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus — comestible, plus orange-doré sans tons rosés, par ailleurs très semblable",
+    "Cantharellus cascadensis — comestible, jaune-crème plus pâle, sans tons rosés, altitude plus élevée",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de mauvaise qualité, possède de vraies lames fines, plus orangée"
+  ],
+  "safety_notes": "COMESTIBLE : la Chanterelle rose est un excellent champignon comestible, remarquable par sa coloration rosée distinctive. Comme toutes les chanterelles, le critère d'identification essentiel est constitué par les plis épais, obtus et fourchus du dessous, au toucher cireux et soudés à la chair du chapeau, et non par de vraies lames. Sa couleur rose-rose unique la rend relativement facile à distinguer des autres chanterelles et des sosies toxiques. Vérifiez toujours qu'elle pousse dans le sol près des arbres. Saveur douce et agréable, semblable à celle des autres chanterelles ; excellente poêlée ou dans les plats à base de crème.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694228.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 107424,
+      "width": 480,
+      "height": 640,
+      "sha256": "8200b4001e0376a6ebd13187bf3762b1f1eab844a4746bcb46b89a71c86f69b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1694229.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 106984,
+      "width": 480,
+      "height": 640,
+      "sha256": "3af5792bb0538624c8a3cd973dc8beae579d306263b6990c372bc1d599017326"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

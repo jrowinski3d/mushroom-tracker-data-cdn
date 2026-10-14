@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calboo",
+  "scientific_name": "Calvatia booniana",
+  "common_name": "Western Giant Puffball (Calvatia booniana)",
+  "edibility": "E",
+  "description": "Stora runda till ovala röksvampar 10–30 cm i diameter med distinkta tjocka, polygonala plattor eller fjäll på vit till beige yta, vilket ger ett krackelerat, kakelartat utseende. Innandömet kritvitt när ätligt, blir olivgult och sedan brunt. Har liten basfästning men ingen distinkt steril bas. Unikt fjälligt ytmönster.",
+  "habitat": "Saprofytisk i bergiga barr- och blandskogar, särskilt under ponderosatall, douglasgran och på bergsängar. Föredrar väldränerade jordar på högre höjd. Vanlig i bergsparker, öppna skogar och skogsbryn i västliga berg.",
+  "season": "Sensommar till höst, vanligen augusti–oktober. Toppfruktning efter monsunregn i sydväst. Mest riklig i september–oktober i bergstrakterna.",
+  "regions": [
+    "Klippiga bergen",
+    "Sierra Nevada",
+    "Kaskadbergen",
+    "Sydvästra bergstrakterna",
+    "Västliga bergsskogar",
+    "British Columbia söderut till Arizona"
+  ],
+  "lookalikes": [
+    "Calvatia sculpta (liknande fjäll men annat mönster)",
+    "DÖDLIG: Omogna flugsvampsknoppar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Scleroderma-arter/jordröksvampar (giftiga, lila-svart innandöme, mycket tjockare hud)",
+    "Andra Calvatia-arter (andra ytmönster)"
+  ],
+  "safety_notes": "ÄTLIG när kritvit inuti: KRITISKT – skär alltid exemplaret helt i hälften från topp till botten före förtäring. Ätlig ENDAST om innandömet är helt kritvitt och fast igenom. Om minsta gult, brunt, lila eller utvecklande strukturer syns inuti: ÄT INTE. Detta förhindrar att giftiga liknande arter och omogna dödliga flugsvampar förtärs. Den distinkta fjälliga ytan hjälper identifieringen, men den vita innerfärgen är det avgörande ätlighetstestet. Tillaga noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1737565.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 103696,
+      "width": 640,
+      "height": 488,
+      "sha256": "f4956223f23b1e83a9420e349226ebc0597621480bcb3ca0da88c07cd4fa43e2"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1737566.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 91306,
+      "width": 640,
+      "height": 411,
+      "sha256": "30b4968b62116544e4e011334daf73bf46b1327c8337a15de0d3e46fc70b0850"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "cersqu",
+  "scientific_name": "Cerioporus squamosus",
+  "common_name": "꿩등버섯",
+  "edibility": "E",
+  "description": "너비 4–12인치(10–30cm)의 대형 부채꼴 선반버섯으로, 꿩의 깃털을 닮은 겹친 진한 갈색 인편이 덮인 크림색에서 황갈색 표면이 특징이다. 아랫면에는 흰색에서 크림색의 크고 각진 관공이 있다. (수직면에서 자랄 때) 두껍고 중심에서 벗어난 흑갈색 대가 있다. 강한 오이 또는 수박 껍질 냄새가 난다. 어릴 때는 부드럽고 나이가 들면 질겨진다. 매우 독특한 인편 무늬이다.",
+  "habitat": "죽거나 쇠약해진 활엽수, 그루터기, 통나무에서 부생하며, 특히 느릅나무, 단풍나무, 물푸레나무, 버드나무, 박스엘더에서 자란다. 백색부후를 일으킨다. 줄기, 가지, 쓰러진 통나무에 대형 선반을 이룬다. 도시와 삼림 환경의 서 있는 고사 느릅나무 등 활엽수에서 흔하다.",
+  "season": "봄에서 여름, 보통 4–7월. 절정은 5–6월이다. 가장 이른 대형 관공버섯 중 하나이다. 발생 기간이 짧아 봄에 빠르게 나타난다. 가을에 다시 발생할 수 있다.",
+  "regions": [
+    "북미 동부",
+    "중서부",
+    "태평양 북서부",
+    "오대호 지역",
+    "북아메리카 전역",
+    "유럽 및 아시아"
+  ],
+  "lookalikes": [
+    "Polyporus 속(더 작음, 인편 무늬가 다름)",
+    "다른 인편 관공버섯(크기, 숙주 수종이 다름)",
+    "Inonotus 속(색이 다르고 인편이 없음)",
+    "위험한 유사종 없음 — 매우 독특함"
+  ],
+  "safety_notes": "어릴 때만 식용: 매우 어리고(10cm 미만) 부드러운 질감의 개체만 먹을 만한 가치가 있으며, 오이 같은 풍미가 있다. 늙은 개체는 빠르게 질겨져 고무나 가죽처럼 먹을 수 없게 된다. 식용하려면 단추 단계에서 채취해야 한다. 충분히 익혀라. 강한 오이 냄새가 특징적이다. 대체로 안전하지만 식용 가능한 시기가 매우 짧다. 마주치는 개체의 대부분은 너무 늙고 질겨 먹을 수 없다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750888.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 117050,
+      "width": 640,
+      "height": 480,
+      "sha256": "6784806d7184bcd1bf84aadc36d73634e1df251be0a75d436880aaf5f1516bcf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750889.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 143762,
+      "width": 480,
+      "height": 640,
+      "sha256": "d2f449e8570e864f434ce05a81072a3d2f52db49f2d507865e13ff76c0495dff"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

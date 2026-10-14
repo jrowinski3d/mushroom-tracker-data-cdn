@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morpun",
+  "scientific_name": "Morchella punctipes",
+  "common_name": "Half-free Morel (Morchella punctipes)",
+  "edibility": "E",
+  "description": "Chapeau généralement de 1 à 4 cm (0,4 à 1,6 po) de haut, conique avec un motif alvéolé de crêtes et de fossettes, brun-jaune à brun. Caractère distinctif : le chapeau s’attache au pied approximativement à mi-hauteur de sa longueur (non entièrement soudé comme les vraies morilles), créant un aspect caractéristique en jupe où la moitié inférieure s’évase loin du pied. Pied de 3 à 10 cm (1,2 à 4 po) de haut, proportionnellement plus long que le chapeau, blanc à crème, granuleux (couvert de minuscules granules), creux. Tranché dans le sens de la longueur, entièrement creux à travers le chapeau et le pied. Sporée crème à jaunâtre.",
+  "habitat": "Se trouve sous divers feuillus dans l’est de l’Amérique du Nord, dont le frêne, l’orme, le tulipier, le pommier et autres arbres à feuilles caduques. Préfère les sols forestiers riches et humides, souvent dans les plaines inondables, les zones riveraines et les forêts mésiques. Fructifie couramment aux mêmes endroits que les vraies morilles mais apparaît généralement un peu plus tôt dans la saison. Occasionnellement dans les vieux vergers et les parcs avec des feuillus matures.",
+  "season": "Début à mi-printemps (mars-mai dans la plupart des zones, peut commencer fin février dans les régions du sud). Fructifie souvent 1 à 2 semaines avant le pic de la saison des vraies morilles. L’émergence coïncide avec le réchauffement du sol à 45-50 °F (7-10 °C) et la floraison des plantes éphémères printanières précoces. Régions du sud en mars-avril, zones nordiques et altitudes plus élevées en avril-mai.",
+  "regions": [
+    "Nord-Est",
+    "Mid-Atlantique",
+    "Midwest",
+    "Grands Lacs",
+    "Sud-Est"
+  ],
+  "lookalikes": [
+    "Verpa bohemica (Morille précoce) - Comestible avec prudence : chapeau attaché uniquement au sommet du pied avec des bords pendant complètement libres (contre attachement à mi-hauteur), moelle cotonneuse à l’intérieur du pied (contre entièrement creux), chapeau en dé à coudre lisse. Certaines personnes ressentent des troubles gastriques ; limiter la consommation.",
+    "Verpa conica - Comestible avec prudence : similaire à V. bohemica, chapeau complètement libre pendant depuis le seul point d’attache au sommet, surface du chapeau plus lisse. Consommer avec modération car des réactions ont été signalées.",
+    "Vraies morilles (Morchella americana, M. esculenta) - Comestible : chapeau soudé au pied sur toute la longueur (contre à moitié libre), chapeau proportionnellement plus grand par rapport au pied, exigences de cuisson identiques.",
+    "Fausse morille (espèces de Gyromitra) - TOXIQUE : chapeau ridé en forme de cerveau au lieu d’alvéolé, couleur brun-rougeâtre, intérieur cloisonné. Toxique mortel."
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : bon champignon culinaire, bien que généralement considéré comme moins savoureux que les vraies morilles entièrement attachées. Doit être bien cuit pendant 15 à 25 minutes ; ne jamais consommer cru ou insuffisamment cuit car les morilles contiennent des toxines d’hydrazine qui provoquent de graves nausées, vomissements et troubles gastriques. Une cuisson au-dessus de 160 °F (71 °C) détruit les composés toxiques. Certaines personnes peuvent avoir des réactions allergiques même après une préparation adéquate ; consommer de petites portions lors du premier essai. Éviter la consommation d’alcool avec les morilles car de rares effets indésirables sont documentés. Essentiel de distinguer des espèces de Verpa en examinant le point d’attache du chapeau : les morilles à moitié libres s’attachent à mi-hauteur du pied, tandis que les chapeaux de Verpa pendent complètement libres depuis le seul point d’attache au sommet.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667024.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 57148,
+      "width": 640,
+      "height": 482,
+      "sha256": "cdf8ccaf8393ce574dd7fd3d4c03dac08f5ff6b765864d0b6bcfec1f864e38d4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667025.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 67512,
+      "width": 640,
+      "height": 482,
+      "sha256": "8caf59108b82c0f05597c420fa38a09720623411e13ec3515fe5c579095422c1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancib",
+  "scientific_name": "Cantharellus cibarius",
+  "common_name": "pieprznik jadalny",
+  "edibility": "E",
+  "description": "Pieprznik jadalny ma złocistożółty do żółtkowego kapelusz o szerokości 2–12 cm, o nieregularnym, falistym brzegu, z wiekiem lejkowaty. Spód pokryty grubymi, tępymi, rozwidlonymi listewkami (NIE są to prawdziwe blaszki), zbiegającymi po trzonie, w tym samym złocistym kolorze co kapelusz. Trzon pełny, 2–8 cm wysokości, zwężający się ku dołowi, biały do bladożółtego. Miąższ zwarty, biały do bladożółtego, o charakterystycznym owocowym, morelowym zapachu. Wysyp zarodników bladożółty do kremowego.",
+  "habitat": "Grzyb mikoryzowy, związany z różnymi gatunkami drzew: dębami, bukami, brzozami, sosnami, świerkami i jodłami. Występuje zarówno w lasach iglastych, jak i mieszanych liściastych, zwykle na dobrze przepuszczalnych zboczach lub w mszystych miejscach. Często owocuje w tych samych miejscach rok po roku.",
+  "season": "Lato do jesieni (czerwiec–listopad w Ameryce Północnej, lipiec–grudzień w Europie). Szczyt owocowania przypada po obfitych letnich lub jesiennych deszczach; termin zależy od szerokości geograficznej i wysokości.",
+  "regions": [
+    "północna i środkowa Europa",
+    "północno-Wschodnia Ameryka Północna",
+    "Region Wielkich Jezior",
+    "północno-zachodnie wybrzeże Pacyfiku",
+    "północna Azja"
+  ],
+  "lookalikes": [
+    "Omphalotus olearius/illudens – TRUJĄCY, ma prawdziwe ostre blaszki, rośnie na drewnie, świeci w ciemności",
+    "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) – nietrująca, ale kiepskiej jakości, ma prawdziwe cienkie blaszki, bardziej pomarańczowa",
+    "Inne gatunki Cantharellus – wszystkie jadalne, podobny wygląd i przygotowanie"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Jeden z najbardziej cenionych grzybów dziko rosnących, o doskonałym smaku i zwartej konsystencji. Kluczem do bezpiecznej identyfikacji jest obejrzenie spodu – pieprzniki mają grube, tępe, rozwidlone listewki, trudne do oddzielenia od kapelusza, podczas gdy trujące Omphalotus mają cienkie, ostre prawdziwe blaszki. Pieprzniki rosną z gleby (mikoryzowe), nigdy na drewnie. U niektórych osób występuje łagodny rozstrój trawienny – spróbuj najpierw małej ilości. Doskonałe duszone na maśle, z naturalnym pieprznym, owocowym smakiem.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1567856.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 23654,
+      "width": 640,
+      "height": 361,
+      "sha256": "811d0143a8e74dc7c8481b1e9b39aa6df2f4093c0aae15687a0ca478080e3902"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1567857.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 15560,
+      "width": 640,
+      "height": 361,
+      "sha256": "4f70a6f6b01279635a5685f9fc69eaab4fd42f22caa6f5543498006d662ba7e5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

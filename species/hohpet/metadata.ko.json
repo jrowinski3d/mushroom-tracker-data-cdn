@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hohpet",
+  "scientific_name": "Hohenbuehelia petaloides",
+  "common_name": "Shoehorn Oyster (Hohenbuehelia petaloides)",
+  "edibility": "E",
+  "description": "부채 또는 꽃잎 모양의 중소형 갓(너비 1~4인치)으로, 옅은 회갈색에서 황갈색이며 신선할 때는 종종 젤라틴질이거나 미끈한 표피를 지닌다. 밑으로 흐르는 흰색에서 회색빛 주름살과 매우 짧은 측생 대 또는 대가 없다. 미끈한 갓 표면과 선충 포획 능력으로 구별된다. 활엽수에 작은 겹침 군집으로 자란다.",
+  "habitat": "죽은 활엽수 원목, 가지, 그루터기, 특히 참나무, 단풍나무, 너도밤나무 및 기타 낙엽수에서 부생성. 잘 썩은 목재를 선호한다. 작은 겹침 군집을 형성한다. 흥미로운 생태: 영양 보충을 위해 목재 속 선충(회충)을 포획하고 소화한다.",
+  "season": "봄부터 가을, 5월~10월에 발생 절정. 늦봄과 여름에 가장 흔하다. 비 뒤 따뜻하고 습한 날씨에 발생한다.",
+  "regions": [
+    "북미 동부",
+    "미국 남동부",
+    "오대호 지역",
+    "태평양 북서부",
+    "온대 지역 전역에 널리 분포"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (더 크고, 미끈한 갓이 없으며, 계절이 다름)",
+    "Panellus 종 (크기는 비슷하지만 보통 침엽수에서 자람)",
+    "Resupinatus 종 (훨씬 작고 질감이 다름)",
+    "Crepidotus 종 (갈색 포자, 미끈한 갓 없음)"
+  ],
+  "safety_notes": "식용 가능: 식용으로 여겨지지만 작은 크기와 젤라틴질 질감 때문에 최상은 아니다. 일부 자료에서는 느타리버섯과 비슷한 순한 맛이라고 한다. 먹기 전에 충분히 조리하라. 먹을 경우 미끈한 갓 표피는 제거해야 한다. 작은 크기와 질감 때문에 채취자들이 적극적으로 찾지는 않지만, 정확히 동정하면 안전하다. 느타리버섯 그룹에는 더 나은 종이 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1673553.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-07",
+      "file_size_bytes": 90032,
+      "width": 480,
+      "height": 640,
+      "sha256": "d9a7e97c8944a055d114a1e6ba83a6fbe394793435f396da9d452880111c9b60"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1613404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-22",
+      "file_size_bytes": 164390,
+      "width": 640,
+      "height": 480,
+      "sha256": "81fc8a77d1759e0311b09456745bb4b66cf4b8d3de9bd47c7ea466e5f08d87cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

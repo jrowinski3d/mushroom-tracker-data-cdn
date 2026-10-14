@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "aurame",
+  "scientific_name": "Auricularia americana",
+  "common_name": "Wood Ear (Auricularia americana)",
+  "edibility": "E",
+  "description": "L'oreille de bois américaine est semblable à A. auricula-judae mais généralement plus épaisse et plus robuste. Fructifications de 4 à 15 cm de large, en forme d'oreille ou de coquille, gélatineuses-caoutchouteuses. La surface externe fertile est lisse à quelque peu ridée, brune à brun-rougeâtre ou brun violacé. La surface interne est grisâtre et couverte de minuscules poils veloutés (visibles à la loupe). La texture est dure-gélatineuse à l'état frais, se ratatinant au sec et revivant avec l'humidité. Chair plus épaisse que l'oreille de bois européenne.",
+  "habitat": "Pousse sur les troncs, branches et arbres morts sur pied de feuillus. Les hôtes fréquents incluent l'érable, le chêne, l'orme et autres arbres à feuilles caduques. Pousse comme décomposeur du bois dans les forêts, les parcs et les zones boisées. Fructifie en touffes ou en rangées se chevauchant. Préfère les endroits ombragés et humides à humidité constante.",
+  "season": "De la fin du printemps à l'automne (mai-novembre) avec des pics à la fin de l'été et à l'automne. Dans les climats doux comme le Pacifique Nord-Ouest, peut fructifier toute l'année. Plus abondante par temps chaud et humide. Peut apparaître après de fortes pluies même en été.",
+  "regions": [
+    "Amérique du Nord orientale (très commune)",
+    "Centre des États-Unis",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie",
+    "Sud du Canada",
+    "Dans toute l'Amérique du Nord tempérée"
+  ],
+  "lookalikes": [
+    "Auricularia auricula-judae (comestible) — espèce européenne, plus fine, principalement sur le sureau",
+    "Exidia glandulosa (comestible) — plus cérébriforme, en boutons, pas en forme d'oreille",
+    "Tremella foliacea (comestible) — structure plus plissée et cérébriforme",
+    "Aucun sosie toxique"
+  ],
+  "safety_notes": "COMESTIBLE : excellent champignon comestible aux usages culinaires identiques à l'oreille de bois asiatique. Prisée pour sa texture croquante et gélatineuse qui persiste à la cuisson. Populaire dans la cuisine asiatique américaine, les soupes et les sautés. Bien cuire — ne pas manger cru. L'espèce absorbe bien les saveurs tout en gardant sa texture. Aucun sosie dangereux parmi les champignons gélatineux. Bien nettoyer avant la cuisson. Peut être séchée et réhydratée comme les variétés asiatiques. La forme d'oreille et la croissance sur les feuillus sont diagnostiques. De plus en plus récoltée commercialement.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1529622.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 108454,
+      "width": 640,
+      "height": 480,
+      "sha256": "feb8d0b7fa0f9d7834066e8f605377bb4ed08e38816d0e953c62bdb67c943230"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1529623.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 89374,
+      "width": 480,
+      "height": 640,
+      "sha256": "34035053592c400b146540f7b4d19fa43a71ceb7abd03512ea30029ac42d7d42"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

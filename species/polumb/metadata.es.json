@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "polumb",
+  "scientific_name": "Polyporus umbellatus",
+  "common_name": "Umbrella Polypore (Polyporus umbellatus)",
+  "edibility": "E",
+  "description": "El políporo sombrilla es un llamativo políporo grande que forma rosetas compuestas de 20 a 50 cm de diámetro, integradas por múltiples sombreros superpuestos en forma de abanico. Los sombreros individuales miden de 5 a 15 cm de diámetro, son delgados y flexibles, unidos a una base ramificada común. Los sombreros son de color beige a marrón, lisos a ligeramente pelosos, con zonas de color. La superficie de los poros es de color blanco a crema, con poros muy pequeños. La carne es blanca, dura pero flexible cuando está fresca, con un olor suave. Toda la estructura posee un pie central o excéntrico y grueso de 3 a 8 cm de alto que conecta con esclerocios enterrados (tubérculo subterráneo duro).",
+  "habitat": "Se encuentra en la base de árboles de frondosas, en particular el roble, creciendo a partir de esclerocios enterrados (estructuras subterráneas endurecidas). Los esclerocios están conectados a las raíces de los árboles bajo tierra. Fructifica de forma dispersa, normalmente una roseta por ubicación. Aparece en el mismo lugar cada año si el esclerocio persiste. Común en bosques maduros de frondosas.",
+  "season": "Del verano al otoño (junio-noviembre) en la mayoría de las regiones. Fructificación máxima a finales de verano y en otoño (agosto-octubre). Puede fructificar varias veces por temporada a partir del mismo esclerocio.",
+  "regions": [
+    "este de Norteamérica (común)",
+    "centro de Estados Unidos",
+    "Pacífico Noroeste (ocasional)",
+    "Europa (ampliamente distribuida)",
+    "bosques templados de frondosas",
+    "Particularmente común con el roble"
+  ],
+  "lookalikes": [
+    "Grifola frondosa, gallina de los bosques (comestible) — sombreros en forma de cuchara de color marrón grisáceo, estructura diferente",
+    "Meripilus sumstinei (comestible joven) — abanicos, pero se ennegrece al manipularlo",
+    "Bondarzewia berkeleyi (comestible joven) — rosetas de color crema-beige pero masivas, olor a humedad",
+    "Polyporus tuberaster — similar pero más pequeño, región mediterránea"
+  ],
+  "safety_notes": "COMESTIBLE cuando es muy joven, pero dura: solo las partes más jóvenes y tiernas son comestibles; los ejemplares más viejos son demasiado duros y fibrosos. La textura es similar a la del pollo cuando es joven. Debe cocinarse a fondo. Recolectar solo cuando los sombreros aún estén blandos y flexibles. El sabor es suave. A medida que la seta madura, se vuelve cada vez más dura y correosa. La mayoría de los ejemplares que se encuentran son demasiado viejos para ser apetecibles. Los esclerocios (tubérculo) pueden cultivarse para producir setas. Cultivo histórico en Italia a partir de esclerocios. Resulta más interesante por su crecimiento a partir de un esclerocio que por su valor culinario. Si se intenta, cocinar a fondo y esperar una textura masticable incluso cuando es joven.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681947.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-11",
+      "file_size_bytes": 102498,
+      "width": 640,
+      "height": 427,
+      "sha256": "3567d6a3cd2846607f830eadf210f6931a23071d02d93dd1068e26f2fc95e056"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1675033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-13",
+      "file_size_bytes": 62674,
+      "width": 640,
+      "height": 482,
+      "sha256": "a60d23af0e0eae434c753cec153c6cee9717c908b574fd051734e3e569d8636c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

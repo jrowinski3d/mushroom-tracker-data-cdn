@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "neolep",
+  "scientific_name": "Neolentinus lepideus",
+  "common_name": "twardoskórzak łuskowaty",
+  "edibility": "E",
+  "description": "Średni do dużego grzyb o białym do kremowego kapeluszu o średnicy 5–15 cm, pokrytym brązowymi łuskami, szczególnie skupionymi w kierunku środka. Białe zbiegające blaszki. Gruby, centralny, biały trzon o wysokości 5–12,5 cm z kudłatymi brązowymi łuskami poniżej częściowego pierścienia. Ma BLASZKI, nie pory. Rośnie na drewnie iglastym. Twarda, włóknista faktura. Silny anyżowy lub lukrecjowy zapach, gdy świeży.",
+  "habitat": "Saprobiczny na drewnie iglastym, w tym na kłodach, pniakach, podkładach kolejowych, słupach telegraficznych i drewnie budowlanym. Powoduje brunatną zgniliznę kostkową. Pospolity na sośnie, jodle, świerku i innym drewnie iglastym. Słynny z niszczenia podkładów kolejowych i konstrukcji drewnianych – stąd przydomek „niszczyciel pociągów”. Występuje na przetworzonym i zwietrzałym drewnie iglastym.",
+  "season": "Wiosna do jesieni, zwykle maj–październik. Na chronionym drewnie, jak podkłady kolejowe, może pojawiać się przez cały rok. Szczyt latem. Owocuje wielokrotnie z tego samego drewna przez lata.",
+  "regions": [
+    "zachodnia Ameryka Północna",
+    "Góry Skaliste",
+    "Północno-Zachodni Pacyfik",
+    "północne lasy iglaste",
+    "szeroko rozpowszechniony w regionach iglastych",
+    "zasięg cyrkumborealny"
+  ],
+  "lookalikes": [
+    "Lentinus tigrinus (podobny, ale mniejszy, inne drewno, wzór)",
+    "łuskowate gatunki Pholiota (brązowe zarodniki, blaszki nie zbiegające)",
+    "inne łuskowate grzyby nadrzewne (inne zapachy, kolory zarodników)",
+    "brak niebezpiecznych gatunków podobnych przy tej kombinacji cech"
+  ],
+  "safety_notes": "JADALNY, gdy bardzo młody, ale niezalecany: tylko delikatne młode guziczki są wystarczająco miękkie do jedzenia – okazy bardzo szybko stają się twarde i włókniste. Nawet młode mają twardą fakturę wymagającą długiego gotowania. Silny anyżowy smak jest dla wielu odpychający. Na ogół nie warto jeść ze względu na twardość i silny smak. Bezpieczny, ale niesmaczny. Charakterystyczne łuski, anyżowy zapach i siedlisko na drewnie iglastym ułatwiają rozpoznanie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688175.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 33134,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d59439c5cfa87d28e63a33fd801f1447fa4f31f6650877bc7bfdaf889fe0546"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688176.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 62860,
+      "width": 480,
+      "height": 640,
+      "sha256": "fe6e8a1f10093c4ff50e8c12968ed53c32036e3eabfd84f5194e38aa5eff356c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.670590",
+  "source_language": "en"
+}

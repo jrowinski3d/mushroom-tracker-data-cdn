@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaaug",
+  "scientific_name": "Agaricus augustus",
+  "common_name": "Kungschampinjon",
+  "edibility": "E",
+  "description": "Kungschampinjonen är en av de största och mest imponerande champinjonarterna med 10–30 cm bred hatt. Hatten är täckt med koncentriskt ordnade gyllenbruna till ockra fibrösa fjäll på vit till blekt gul bakgrund, vilket ger ett distinkt mönstrat utseende. Skivorna är fria, till en början blekt grårosa och blir mörkt chokladbruna. Foten är 10–25 cm hög, kraftig, vit till blekt gul, med bruna fibrösa fjäll nedanför den stora nedhängande ringen. Köttet är vitt, gulnar långsamt till gulbrunt vid beröring, med stark behaglig mandel-anisdoft. Detta är en av de mest aromatiska champinjonarterna.",
+  "habitat": "Växer i barr- och blandskog, särskilt under gran, ädelgran och tall. Även i stadsparker med barrträd och anlagda ytor med barkflis. Markväxande på marken eller i vedrester, ofta nära stubbar. Växer spridd till i grupp. Föredrar svala tempererade skogar.",
+  "season": "Sensommar till höst (augusti–november) i de flesta områden. I nordvästra USA och Kalifornien kan den komma sent på hösten och vintern (november–januari). Rikligast fruktsättning sker tidigt på hösten. Kräver svala temperaturer och fukt.",
+  "regions": [
+    "Europa (ursprunglig, vitt utbredd)",
+    "nordvästra USA (vanlig)",
+    "norra Kalifornien (enstaka)",
+    "östra Nordamerika (ovanlig)",
+    "Klippiga bergen (enstaka)",
+    "svala tempererade barrskogar"
+  ],
+  "lookalikes": [
+    "Agaricus silvicola (ätlig) – mindre, vit hatt, skogsart men mindre fjällig",
+    "Agaricus moelleri (giftig) – gulnar intensivt, fenollukt istället för behaglig anisdoft",
+    "Agaricus praeclaresquamosus (ätlig) – mycket lik, plattare fjäll, västra Nordamerika",
+    "stora flugsvampar (vissa dödliga) – har volva vid fotbasen vilket champinjoner saknar"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Anses vara en av de finaste matsvamparna med enastående smak och fast konsistens. Högt uppskattad av svampplockare. Tillaga ordentligt. Kritisk bestämning: kontrollera behaglig MANDEL-ANISDOFT (mycket stark), bruna fibrösa fjäll på hatten, FRIA skivor som blir chokladbruna, stor nedhängande ring, CHOKLADBRUNT sporfällning, INGEN volva vid fotbasen. Undvik alla exemplar med stark fenolisk eller kemisk lukt. Den stora storleken och det distinkta fjälliga utseendet gör den lättare att bestämma än många andra champinjoner. Utmärkt fräst eller i soppor.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677157.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-23",
+      "file_size_bytes": 53230,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fedbb98433e14718bf6a8080e63f7ba7acc29081db375c34dbbc46df455d36"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677141.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-22",
+      "file_size_bytes": 143050,
+      "width": 480,
+      "height": 640,
+      "sha256": "7333e10890823e02c69a8ccac4470feba35fa843ffbcb98dc79e8a1dd424dfad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.264902",
+  "source_language": "en"
+}

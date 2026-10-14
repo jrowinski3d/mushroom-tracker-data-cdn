@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lentig",
+  "scientific_name": "Lentinus tigrinus",
+  "common_name": "Lentin tigré",
+  "edibility": "E",
+  "description": "Champignon petit à moyen avec chapeau blanc de 1 à 3 pouces de large couvert d'anneaux concentriques d'écailles brunes à noires donnant un aspect rayé de tigre. Lames blanches dentelées (en dents de scie) — caractère diagnostique. Pied central blanc de 1 à 3 pouces de haut, souvent écailleux. Possède des LAMES aux bords dentelés distinctifs, et non des pores. Pousse sur feuillus. Texture dure, coriace. Motif rayé de tigre distinctif.",
+  "habitat": "Saprobe sur feuillus morts incluant bûches, souches, branches et débris ligneux, notamment saule, aulne, peuplier et autres feuillus riverains. Commun le long des ruisseaux et rivières. Préfère le bois humide ou gorgé d'eau. Souvent sur petites branches et brindilles. Provoque une pourriture blanche.",
+  "season": "Du printemps à l'automne, typiquement de mai à octobre. Pic en été. Le plus commun par temps chaud et humide. Peut apparaître toute l'année dans les climats doux. Fructifie abondamment pendant les périodes humides.",
+  "regions": [
+    "Est de l'Amérique du Nord",
+    "Pacifique Nord-Ouest",
+    "largement répandu en Amérique du Nord",
+    "région des Grands Lacs",
+    "zones riveraines partout au pays",
+    "répartition cosmopolite"
+  ],
+  "lookalikes": [
+    "Neolentinus lepideus (plus grand, bois de conifère, odeur d'anis, écailles différentes)",
+    "Lentinus arcularius (similaire mais écailles plus petites, motif différent)",
+    "Pleurotus dryinus (écailles mais pas de lames dentelées)",
+    "Espèces de Panellus (bords des lames lisses, croissance différente)"
+  ],
+  "safety_notes": "COMESTIBLE très jeune mais déconseillé : Seuls les jeunes boutons tendres sont appétissants — devient rapidement dur et coriace. Même les jeunes spécimens ont une texture caoutchouteuse nécessitant une cuisson prolongée ou un séchage et une réduction en poudre. La petite taille et la dureté ne valent pas la récolte. Généralement sans danger mais peu appétissant en raison de la texture. Les bords dentelés distinctifs des lames et le chapeau rayé de tigre sont uniques. De meilleurs champignons comestibles existent.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721722.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 51736,
+      "width": 640,
+      "height": 482,
+      "sha256": "0e82849a5dc34798348db9c7f1bfa1f5a3ea4e60a201f43532ef85eb34e51251"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721723.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 58200,
+      "width": 640,
+      "height": 482,
+      "sha256": "d9734262995f308da3b0255496f7b5ef96a142c44bbfa98a54bb62f1f1460f5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

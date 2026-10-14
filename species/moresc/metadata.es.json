@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "moresc",
+  "scientific_name": "Morchella esculenta",
+  "common_name": "colmenilla",
+  "edibility": "E",
+  "description": "Sombrero de 2-10 cm (0,8-4 pulg.) de alto, cónico a en forma de huevo con un distintivo patrón en forma de panal de crestas y fosas; el color va del crema pálido al marrón amarillento, con crestas ligeramente más pálidas que las fosas. Pie de 2-9 cm (0,8-3,5 pulg.) de alto, 2-5 cm de grosor, de blanco a amarillento, hueco con textura granular. Enteramente hueco desde la punta del sombrero hasta la base del pie cuando se corta longitudinalmente. Esporada de crema a amarillo pálido.",
+  "habitat": "Se encuentra bajo frondosas como fresno, olmo, manzano, álamo y álamo de Virginia, ocasionalmente con coníferas como el pino blanco. Prefiere huertos viejos, suelos alterados, zonas recientemente quemadas y bordes de bosques. Prefiere suelos húmedos pero bien drenados con mayor contenido de cal. A menudo fructifica prolíficamente bajo olmos moribundos y en huertos de manzanos abandonados.",
+  "season": "Primavera (marzo-junio en la mayoría de las regiones, con fructificación máxima en abril-mayo). La emergencia coincide típicamente con temperaturas del suelo que alcanzan 50-55 °F (10-13 °C) después de las lluvias de primavera o el deshielo. Las regiones del sur fructifican antes (marzo-abril), mientras que las zonas del norte y las elevaciones más altas pueden fructificar más tarde (mayo-junio).",
+  "regions": [
+    "noreste",
+    "Atlántico medio",
+    "Medio Oeste",
+    "Grandes Lagos",
+    "sureste",
+    "Montañas Rocosas",
+    "Pacífico Noroeste"
+  ],
+  "lookalikes": [
+    "Falsa colmenilla (Gyromitra esculenta): TÓXICA: sombrero arrugado o lobulado como un cerebro en lugar de crestas en forma de panal, sombrero unido solo en la parte superior del pie (no fusionado en su longitud), interior con cámaras en lugar de completamente hueco, color de marrón rojizo a marrón oscuro. Contiene la mortal toxina giromitrina incluso cocinada.",
+    "Half-free Morel (Morchella punctipes): comestible: el sombrero se une solo a mitad del pie creando un aspecto de falda en lugar de estar completamente unido como en las colmenillas verdaderas, sombrero proporcionalmente más corto en relación con la longitud del pie.",
+    "Especies de Verpa: comestible con precaución: sombrero posado sobre el pie con los lados colgando completamente libres, sustancia algodonosa dentro del pie en lugar de completamente hueco como en las colmenillas verdaderas.",
+    "Otras especies de Morchella: comestible: incluye M. americana (colmenilla amarilla casi idéntica), M. importuna (más oscura, en jardines), difíciles de distinguir sin microscopía, todas las colmenillas verdaderas requieren la misma preparación."
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: seta culinaria muy apreciada, una de las comestibles silvestres más buscadas del mundo. Debe cocinarse a fondo durante al menos 15-25 minutos; las colmenillas crudas o poco cocinadas contienen toxinas de hidrazina que causan severas molestias gástricas, náuseas y vómitos. Cocinar a temperaturas superiores a 160 °F (71 °C) descompone los compuestos tóxicos. Algunas personas experimentan reacciones alérgicas incluso bien cocinadas; consuma pequeñas porciones en la primera prueba. Evite el consumo de alcohol con colmenillas, ya que se han documentado raras reacciones adversas. Nunca la confunda con las mortales falsas colmenillas (especies de Gyromitra), que tienen sombreros como cerebros en lugar de patrones en forma de panal.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1329025.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 49674,
+      "width": 640,
+      "height": 480,
+      "sha256": "793f73a5d86bf33ec577e898cc6c501f08ecda5975bcbca73fd4ac8b1396369c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1329026.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 55150,
+      "width": 640,
+      "height": 480,
+      "sha256": "79f349c5ed6b710dcf09709725b0d74e5cea46998d4aa9bfe9c59c1e8313a289"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacthy",
+  "scientific_name": "Lactarius thyinos",
+  "common_name": "Aromatic Milk Cap (Lactarius thyinos)",
+  "edibility": "E",
+  "description": "Aromatic Milk Cap har en orange hatt (4-12 cm) med koncentriska zoner, ofta med grönaktiga fläckar. Skivorna är blekt orange, täta. Foten är orange med gropar. NYCKELFUNKTION: ORANGE MJÖLKSAFT och distinkt AROMATISK CEDER- eller RÖKELSELIKNANDE DOFT. Mjölksaften kan fläcka grönt. Köttet är blekt. Sporfällningen är krämfärgad. Den aromatiska doften skiljer den från liknande arter.",
+  "habitat": "Bildar mykorrhiza med CEDER och CYPRESS (familjen Cupressaceae) i västra Nordamerika. Växer under rökelseceder, jättetuja och Port Orford-ceder. Finns i barrskog.",
+  "season": "Höst (september-november), fruktkroppar i barrskog.",
+  "regions": [
+    "nordvästra Stillahavsregionen",
+    "norra Kalifornien",
+    "västra Oregon",
+    "British Columbia"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus – tallvärd, mindre aromatisk",
+    "Lactarius rubrilacteus – röd mjölksaft",
+    "Andra orange riskor – kontrollera värdträd och doft"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt smak. Den ORANGE MJÖLKSAFTEN och CEDERDOFTEN tillsammans med ceder-/cypressvärden är diagnostiska. Kan fläcka grönt – detta är normalt. Bäst som ung. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 63272,
+      "height": 482,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "photographer": "Huafang",
+      "sha256": "aa2a7d5936d1b759d24738c55c3f0c7d9cbf7a2cd5b08a51e5b5c30da7b5233f",
+      "source_url": "https://mushroomobserver.org/images/640/1705100.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 82012,
+      "height": 482,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "photographer": "Huafang",
+      "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8",
+      "source_url": "https://mushroomobserver.org/images/640/1705101.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

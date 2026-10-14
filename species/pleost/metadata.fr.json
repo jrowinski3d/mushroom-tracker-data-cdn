@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleost",
+  "scientific_name": "Pleurotus ostreatus",
+  "common_name": "Pleurote en huître",
+  "edibility": "E",
+  "description": "Chapeaux en éventail à en forme d’huître de 2 à 10 pouces de large, généralement gris-brun à beiges quand ils sont jeunes, se décolorant vers le blanc. Surface lisse et humide avec des lames blanches décurrentes descendant le long du pied latéral court ou absent. Pousse en tablettes denses et chevauchantes à partir de troncs et de souches de feuillus morts ou mourants. Sporée blanche.",
+  "habitat": "Saprotrophe sur les feuillus morts et mourants, troncs et souches, en particulier le hêtre, le chêne, l’érable et le peuplier faux-tremble. Forme des tablettes denses en touffes poussant à partir du bois. Occasionnellement parasite sur les arbres vivants stressés. Commun sur les troncs tombés dans les forêts mixtes de feuillus.",
+  "season": "De l’automne au printemps dans la plupart des régions, avec un pic de fructification en octobre-novembre. Peut fructifier toute l’année dans les climats côtiers doux avec une humidité suffisante. Apparaît souvent après de fortes pluies et par temps frais.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Pacifique Nord-Ouest",
+    "région des Grands Lacs",
+    "monts Appalaches",
+    "Régions tempérées dans le monde entier"
+  ],
+  "lookalikes": [
+    "Pleurotus pulmonarius (presque identique, plus pâle, fructifie en été)",
+    "Pleurote des neiges (Pleurocybella porrigens) - toxique, plus petite, blanc pur, sur conifères",
+    "Espèces de Crepidotus - spores brunes, plus petites, texture différente",
+    "Pleurote de l’orme (Hypsizygus ulmarius) - pied central, forme d’huître moins prononcée"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : l’un des champignons cultivés les plus populaires au monde, au goût et à la texture excellents. Les spécimens sauvages sont sûrs et délicieux quand ils sont correctement identifiés. Bien cuire avant de manger car les pleurotes crus peuvent provoquer des troubles digestifs chez certaines personnes. Éviter les spécimens âgés qui peuvent être coriaces ou infestés d’insectes. Largement cultivé commercialement, ce qui le rend familier à la plupart des gens.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1670345.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-20",
+      "file_size_bytes": 67850,
+      "width": 640,
+      "height": 482,
+      "sha256": "4251e7d8ec1831c63cd96dc3e16d0730735f7b0eff7fb476e4b838cf3d599a1e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1733337.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-31",
+      "file_size_bytes": 86858,
+      "width": 640,
+      "height": 507,
+      "sha256": "440d644be0f31fba34ae26f88cf441151573f5b18ee03aeabbf3ef42375bfc37"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.261591",
+  "source_language": "en"
+}

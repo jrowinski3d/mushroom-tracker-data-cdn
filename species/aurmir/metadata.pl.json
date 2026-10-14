@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "aurmir",
+  "scientific_name": "Aureoboletus mirabilis",
+  "common_name": "Admirable Bolete (Aureoboletus mirabilis)",
+  "edibility": "E",
+  "description": "Aureoboletus mirabilis wyróżnia się charakterystycznym ciemnym czerwonobrązowym do bordowego kapeluszem (5-20 cm) o aksamitnej, suchej powierzchni. Pory jaskrawo złocisto-żółte, siniejące na niebiesko-zielono. Żółty trzon z bordowoczerwonymi odcieniami i charakterystyczną żółtą siateczką. Żółty miąższ sinieje w przekroju. Często rośnie na rozkładającym się drewnie cykuty - unikalne siedlisko wśród borowikowatych. Wysyp zarodników oliwkowo-brązowy.",
+  "habitat": "Mikoryzowy z cykutami, ale charakterystycznie owocnikuje na rozkładającym się drewnie cykuty, pniakach i kłodach lub w ich pobliżu. Występuje w pierwotnych i dojrzałych lasach cykutowych. Wzrost związany z drewnem jest niezwykły wśród borowikowatych i diagnostyczny dla tego gatunku.",
+  "season": "Od późnego lata do jesieni (sierpień-październik) ze szczytem owocowania we wrześniu. Pojawia się po późnoletnich deszczach w siedliskach cykutowych.",
+  "regions": [
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Północna Kalifornia",
+    "Oregon",
+    "Waszyngton",
+    "Kolumbia Brytyjska",
+    "Nadbrzeżne lasy cykutowe",
+    "Strefa cykuty zachodniej"
+  ],
+  "lookalikes": [
+    "Gatunki Boletus - nie na drewnie, inne kolory",
+    "Gatunki Xerocomellus - mniejsze, inne siedlisko",
+    "Gatunki Leccinum - szorstkie trzony, nie na drewnie",
+    "Wzrost związany z drewnem i bordowe kolory są charakterystyczne"
+  ],
+  "safety_notes": "JADALNY: Aureoboletus mirabilis to dobry grzyb jadalny o zwartej konsystencji i przyjemnym smaku. Sinienie jest normalne i bezpieczne. Unikalny wzrost na rozkładającym się drewnie cykuty lub w jego pobliżu ułatwia identyfikację. Dokładnie ugotować przed spożyciem. Niektóre osoby mogą odczuwać łagodne dolegliwości trawienne. Stosunkowo rzadki gatunek.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725765.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 150640,
+      "width": 640,
+      "height": 606,
+      "sha256": "814e356be5517f04c9d57950a24d9848d5876f0ce45ad179af08b9fe61821613"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1725766.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 99810,
+      "width": 617,
+      "height": 640,
+      "sha256": "a7dea91a17c0ee221a8abd93059d972fddf1117e4c021788e9398cd02170e32a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

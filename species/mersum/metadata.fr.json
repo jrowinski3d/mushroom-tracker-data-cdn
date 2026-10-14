@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "mersum",
+  "scientific_name": "Meripilus sumstinei",
+  "common_name": "Black-staining Polypore (Meripilus sumstinei)",
+  "edibility": "E",
+  "description": "Grande rosette composée de 8 à plus de 24 pouces de large, formée de nombreux chapeaux en éventail chevauchants de 2 à 6 pouces de large partant d’une base centrale. Chapeaux chamois pâle à bruns qui NOIRCISSENT au toucher ou avec l’âge - caractère diagnostique. Surface des pores blanche à crème qui noircit aussi. Texture molle et spongieuse. Peut peser de 4,5 à plus de 13 kg. Noircissement caractéristique.",
+  "habitat": "Saprotrophe et parasite à la base des feuillus vivants et morts, particulièrement le chêne, l’érable, le hêtre et l’orme. Provoque une pourriture blanche des racines et du bas du tronc. Forme de grandes rosettes à la base des arbres, sur les souches et les racines enfouies. Commun dans les forêts de feuillus matures et en milieu urbain.",
+  "season": "De la fin de l’été à l’automne, généralement de juillet à octobre. Pic de fructification en août-septembre. Peut produire plusieurs pousses par saison. Plus abondant à la fin de l’été. Souvent au même endroit chaque année.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Midwest",
+    "Sud-Est des États-Unis",
+    "région des Grands Lacs",
+    "Pacifique Nord-Ouest",
+    "Largement répandu en Amérique du Nord"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (gris-brun, ne noircit pas, disposition des chapeaux différente)",
+    "Bondarzewia berkeleyi (plus clair, chapeaux plus grands, ne noircit pas rapidement)",
+    "Autres grandes rosettes de polypores (ne noircissent pas au toucher)",
+    "Polyporus umbellatus (plus petit, structure différente)"
+  ],
+  "safety_notes": "COMESTIBLE très jeune mais pas de choix : seuls les jeunes spécimens tendres sont agréables - les plus vieux deviennent coriaces et amers. Le noircissement rapide au toucher est caractéristique mais n’affecte pas la comestibilité des jeunes spécimens. Doit être bien cuit. Généralement peu recherché en raison de son goût médiocre et de sa tendance à provoquer des troubles digestifs chez certaines personnes. Récolter uniquement les parties très jeunes, blanches et tendres. Il existe de meilleurs polypores comestibles.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688474.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 86536,
+      "width": 482,
+      "height": 640,
+      "sha256": "d11d8bcfd4625365125d32a50af1e5f58bde58d9859e3f55d5d9057146549163"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688475.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 89766,
+      "width": 482,
+      "height": 640,
+      "sha256": "14784a9de79f16b8dd7a16e1acd87da31b87a5c26de5c66af1759e7beaa1afac"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

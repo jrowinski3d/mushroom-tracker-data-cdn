@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigra",
+  "scientific_name": "Suillus granulatus",
+  "common_name": "Weeping Bolete (Suillus granulatus)",
+  "edibility": "E",
+  "description": "알갱이 그물버섯은 계피갈색~황갈색 갓(지름 4–10cm)으로, 젖으면 표면이 끈적거리고 질척거린다. 관공은 연노란색으로 어릴 때 우윳빛 방울이 스며 나온다 - 진단 특징이다. 연노란색 대에는 작은 갈색 알갱이 점(선점)이 덮여 있고 턱받이가 없다. 연노란색 살은 변색되지 않는다. 어릴 때 관공의 우윳빛 방울과 대의 알갱이 점이 독특하다. 포자문은 계피갈색.",
+  "habitat": "다양한 서식지의 2~3엽송과만 균근을 이룬다. 소나무 조림지, 어린 소나무가 있는 교란지, 자연 재생된 소나무림에서 흔하다. 심은 소나무와 함께 널리 분포한다.",
+  "season": "늦여름~가을(8~11월)로 9~10월에 열매를 가장 많이 맺는다. 가을비 뒤에 흔히 풍성하게 난다.",
+  "regions": [
+    "미국 북동부",
+    "오대호 지역",
+    "태평양 북서부",
+    "남동부 소나무 조림지",
+    "로키산맥",
+    "소나무 조림지가 있는 모든 곳",
+    "캐나다"
+  ],
+  "lookalikes": [
+    "Suillus luteus - 대에 짙은 턱받이가 있고 우윳빛 방울이 없음",
+    "Suillus brevipes - 우윳빛 관공 방울이 없음",
+    "다른 Suillus 종들 - 어린 관공의 우윳빛 방울을 확인할 것",
+    "Boletus 종들 - 끈적거리지 않고 서식지가 다름"
+  ],
+  "safety_notes": "식용 가능: 알갱이 그물버섯은 맛이 순한 식용버섯이나 조직이 무르다. 요리 전에 끈적거리는 갓 표피를 제거할 것. 어린 관공의 우윳빛 방울과 대의 알갱이 점이 진단 포인트. 일부 사람은 소화불량을 겪을 수 있다. 반드시 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699876.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 134442,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa09a25fc62426dcb808a3f67b840074a1ff24276f0127ea378dd610d33e7016"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699877.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 109388,
+      "width": 640,
+      "height": 482,
+      "sha256": "02918768915d5a8f5894ffac5d79ee1fb7f128668b01c42d7090b26a3abad8cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

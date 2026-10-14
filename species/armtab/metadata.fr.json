@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armtab",
+  "scientific_name": "Armillaria tabescens",
+  "common_name": "Armillaire sans anneau",
+  "edibility": "E",
+  "description": "L'armillaire sans anneau a un chapeau jaune miel à brun fauve (3 à 10 cm) avec de petites squames sombres au centre. Les lames sont blanches à crème, adnées, se tachant de brun. La CARACTÉRISTIQUE CLÉ est l'ABSENCE D'ANNEAU sur le pied — c'est la seule espèce commune d'Armillaria qui n'a systématiquement pas d'anneau. Le pied est jaunâtre à brun, lisse ou légèrement fibreux, sans zone d'anneau. Pousse en TOUFFES DENSES sur les souches et les racines de feuillus. La chair est blanche, ferme. La sporée est blanche. Rhizomorphes noirs présents. Distinctive par l'absence de l'anneau typique des armillaires.",
+  "habitat": "Parasite et saprotrophe des FEUILLUS dans l'est de l'Amérique du Nord, en particulier le chêne, le caryer, l'érable et autres feuillus. Pousse en grandes touffes à la base des arbres vivants ou mourants, des souches et des racines enterrées. Fréquente dans les forêts de chênes. Provoque la pourriture blanche et le pourridié. Rarement sur les conifères.",
+  "season": "De la fin de l'été à l'automne (août-novembre), parfois plus précoce que les espèces à anneau.",
+  "regions": [
+    "Est des États-Unis",
+    "Sud-Est",
+    "Midwest",
+    "Moyen-Atlantique",
+    "Régions du Sud"
+  ],
+  "lookalikes": [
+    "Armillaria mellea — AVEC UN ANNEAU, très semblable par ailleurs",
+    "Espèces de Xeromphalina — bien plus petites, habitat différent",
+    "Espèces de Gymnopilus — spores rouille-brunes, amères",
+    "Espèces de Pholiota — spores brunes"
+  ],
+  "safety_notes": "COMESTIBLE AVEC PRÉCAUTION : les armillaires (espèces d'Armillaria) sont VÉNÉNEUSES crues et doivent être soigneusement cuites avant consommation. Cuire au moins 10 à 15 minutes à feu vif. Même bien cuites, certaines personnes présentent des réactions allergiques ou des troubles digestifs. Essayer d'abord une petite quantité pour tester votre tolérance. Blanchir avant la cuisson peut aider à réduire les irritants gastro-intestinaux et l'amertume. Ne pas consommer avec de l'alcool — les armillaires peuvent provoquer des réactions indésirables en combinaison avec l'alcool (comme chez Coprinopsis). Ne récolter que des spécimens jeunes et fermes. L'absence d'anneau rend l'identification distinctive mais vérifiez avec les autres caractéristiques des armillaires.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1608178.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-01",
+      "file_size_bytes": 133036,
+      "width": 480,
+      "height": 640,
+      "sha256": "ede381f535931297f80b431fb59d6fe0265eb8228bf76c24a462ee37f7adffab"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608179.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-27",
+      "file_size_bytes": 103406,
+      "width": 480,
+      "height": 640,
+      "sha256": "6e8264b2d1c15eef591d615e93afaeb2cf2c9d9423255ea16458764bbbf23318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

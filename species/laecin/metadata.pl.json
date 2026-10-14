@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecin",
+  "scientific_name": "Laetiporus cincinnatus",
+  "common_name": "White-pored Chicken of the Woods (Laetiporus cincinnatus)",
+  "edibility": "E",
+  "description": "Pomarańczowa do łososioworóżowej półka o BIAŁEJ do blado kremowej powierzchni porów (nie żółtej), tworząca rozety zachodzących na siebie półek o szerokości 2–10 cali. Wygląd podobny do L. sulphureus, ale odróżnia ją biała powierzchnia porów i owocnikowanie z ziemi. Miękka i soczysta, gdy młoda. Liczne półki wyrastają ze środkowego, korzeniastego przyczepu do zakopanego drewna lub korzeni drzew. Roczna półka.",
+  "habitat": "Saprobiczny na zakopanym drewnie i korzeniach martwych drzew liściastych, zwłaszcza dębów. Wydaje się wyrastać z ziemi u podstawy pni lub z zakopanych korzeni i pniaków. Tworzy duże wielopiętrowe rozety w pobliżu lub wokół dębów. Wschodnie lasy liściaste. Powoduje białą zgniliznę zakopanego drewna.",
+  "season": "Od późnej wiosny do jesieni, zazwyczaj maj–wrzesień. Szczyt owocnikowania w czerwcu–sierpniu. Podobna pora jak u L. sulphureus, ale często pojawia się nieco później w sezonie. Wysypy po ciepłych deszczach.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód",
+    "Region Wielkich Jezior",
+    "Południowo-wschodnie Stany Zjednoczone",
+    "Region Appalachów",
+    "Na wschód od Wielkich Równin"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (żółte pory, rośnie na pniach/kłodach)",
+    "Inne gatunki Laetiporus (żółte pory)",
+    "Meripilus sumstinei (ciemniej brązowy, czarne przebarwienia, inna tekstura)",
+    "Bondarzewia berkeleyi (kremowobrązowy, inna tekstura/pory)"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY, gdy młody i delikatny: U wrażliwych osób zazwyczaj powoduje mniej problemów trawiennych niż L. sulphureus. Zbierać tylko młode, miękkie, giętkie owocniki o wilgotnej teksturze. Unikać starych, twardych, suchych owocników. Gotować dokładnie. Biała powierzchnia porów i wyrastanie z ziemi pomagają zidentyfikować ten łagodniejszy gatunek. Uważany za jeden z najbezpieczniejszych Laetiporus dla początkujących. Doskonała tekstura i smak.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 64984,
+      "width": 480,
+      "height": 640,
+      "sha256": "cfcfc8e6929b6b7b186c9d8b7f453a52eafdab1c72b10833292eaae440b74631"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1707085.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-06",
+      "file_size_bytes": 85890,
+      "width": 640,
+      "height": 482,
+      "sha256": "4c8aa9fcaf1604f40898dd031118dab429d31bb1ba246b123438ea956c844655"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

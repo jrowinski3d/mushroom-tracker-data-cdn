@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agaaug",
+  "scientific_name": "Agaricus augustus",
+  "common_name": "Agaric auguste",
+  "edibility": "E",
+  "description": "L'agaric auguste est l'une des plus grandes et des plus impressionnantes espèces d'Agaricus, au chapeau de 10 à 30 cm de diamètre. Le chapeau est couvert de squames fibrilleuses brun doré à ocre, disposées en cercles concentriques sur un fond blanc à jaune pâle, ce qui lui donne un aspect nettement orné. Les lames sont libres, d'abord gris-rose pâle puis brun chocolat foncé. Le pied mesure 10 à 25 cm de hauteur, trapu, blanc à jaune pâle, orné de squames fibrilleuses brunes sous le grand anneau pendant. La chair est blanche, jaunissant lentement en brun au toucher, avec une forte et agréable odeur d'amande-anis. C'est l'une des espèces d'Agaricus les plus odorantes.",
+  "habitat": "Pousse dans les forêts de conifères et mixtes, en particulier sous les épicéas, les sapins et les pins. Aussi dans les parcs urbains plantés de conifères et les espaces paysagers avec paillis de copeaux de bois. Pousse au sol sur la terre ou dans les débris ligneux, souvent près des souches. Fructifie de manière dispersée à grégaire. Préfère les forêts tempérées fraîches.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans la plupart des régions. Dans le Pacifique Nord-Ouest et en Californie, peut fructifier à la fin de l'automne et en hiver (novembre-janvier). La fructification maximale a lieu au début de l'automne. Nécessite des températures fraîches et de l'humidité.",
+  "regions": [
+    "Europe (indigène, répandue)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie du Nord (occasionnelle)",
+    "Amérique du Nord orientale (peu commune)",
+    "montagnes Rocheuses (occasionnelles)",
+    "Forêts tempérées fraîches de conifères"
+  ],
+  "lookalikes": [
+    "Agaricus silvicola (comestible) — plus petit, chapeau blanc, espèce des bois mais moins squameux",
+    "Agaricus moelleri (toxique) — jaunit fortement, odeur phénolique au lieu d'un agréable anis",
+    "Agaricus praeclaresquamosus (comestible) — très semblable, squames plus plates, ouest de l'Amérique du Nord",
+    "Grandes espèces d'Amanita (certaines mortelles) — avec une volve à la base, absente chez Agaricus"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : considéré comme l'un des meilleurs champignons comestibles, à la saveur exceptionnelle et à la chair ferme. Très prisé des cueilleurs. Bien cuire. Identification critique : vérifier la forte et agréable odeur d'AMANDE-ANIS (très marquée), les squames fibrilleuses brunes du chapeau, des lames LIBRES virant au brun chocolat, le grand anneau pendant, une sporée BRUN CHOCOLAT, et AUCUNE volve à la base. Éviter tout spécimen à forte odeur phénolique ou chimique. La grande taille et l'aspect squameux distinctif facilitent l'identification par rapport à de nombreux Agaricus. Excellent poêlé ou en soupe.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677157.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-23",
+      "file_size_bytes": 53230,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fedbb98433e14718bf6a8080e63f7ba7acc29081db375c34dbbc46df455d36"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677141.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-22",
+      "file_size_bytes": 143050,
+      "width": 480,
+      "height": 640,
+      "sha256": "7333e10890823e02c69a8ccac4470feba35fa843ffbcb98dc79e8a1dd424dfad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.264902",
+  "source_language": "en"
+}

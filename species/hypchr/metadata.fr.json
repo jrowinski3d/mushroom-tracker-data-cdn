@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypchr",
+  "scientific_name": "Hypomyces chrysospermus",
+  "common_name": "Dermatose des bolets",
+  "edibility": "U",
+  "description": "La dermatose des bolets est un champignon parasite formant des revêtements poudreux ou veloutés jaune doré vif à jaune orangé sur les bolets. Le parasite couvre les pores et la surface du chapeau de l’hôte d’une poudre jaune-or vif (spores). Au début de l’infection, des taches jaunes s’étendent jusqu’à couvrir tout le champignon. La forme du bolet hôte reste reconnaissable mais déformée. Le revêtement jaune est d’abord velouté, puis devient poudreux. Les pores de l’hôte sont complètement masqués par la poudre jaune. Ce n’est pas une fructification charnue comme H. lactifluorum, mais un revêtement de surface.",
+  "habitat": "Trouvée dans les forêts où poussent les bolets, parasitant diverses espèces de bolets, en particulier des genres Leccinum, Boletus et Suillus. Le champignon colonise les fructifications de bolets existantes. Apparaît sur des bolets frais à divers stades de croissance. Sa répartition suit celle de ses hôtes dans les forêts de conifères et mixtes.",
+  "season": "De l’été à l’automne (juin-novembre), quand les bolets hôtes fructifient. Le plus fréquent du milieu à la fin de l’été (juillet-septembre). Le moment dépend de la disponibilité des hôtes. Peut apparaître sur les bolets à tout stade de développement.",
+  "regions": [
+    "Europe (largement répandue)",
+    "Est de l’Amérique du Nord (peu commun)",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Partout où poussent des bolets hôtes appropriés",
+    "Forêts tempérées à bolets"
+  ],
+  "lookalikes": [
+    "Bolets à surface porée jaune - mais pores naturels, pas de revêtement poudreux",
+    "Russules/lactaires avec H. chrysospermus - parasite différent sur des hôtes différents",
+    "Moisissures jaunes sur les champignons - mais de couleur moins uniforme, texture différente",
+    "Bolets jaunes non infectés - les pores sont naturels, pas poudreux"
+  ],
+  "safety_notes": "NON RECOMMANDÉ : bien que non reconnu comme toxique, ce champignon n’a aucune valeur culinaire et le bolet hôte peut être à divers stades de décomposition. Les bolets infectés sont généralement dégradés et peu appétissants. Certaines sources suggèrent une comestibilité possible, mais il n’existe aucune tradition de consommation et aucune raison de le manger. La poudre jaune vif est bien visible, mais le bolet sous-jacent peut appartenir à une espèce toxique. Éviter de le consommer. Plus intéressant d’un point de vue mycologique. Le revêtement poudreux jaune doré sur les bolets est diagnostique, mais sans intérêt culinaire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1734294.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 39908,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d2a43beb0f25fae1f93fa65a65aeac3aaa96ef17a4b27b67204441e40222ad7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1734295.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 62044,
+      "width": 640,
+      "height": 480,
+      "sha256": "541354ee51ac12cb5435c558ce390e1bed346b89eb64409571f7e2e42d3ac1e9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

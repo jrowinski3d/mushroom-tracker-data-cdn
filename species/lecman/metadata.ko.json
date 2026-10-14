@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lecman",
+  "scientific_name": "Leccinum manzanitae",
+  "common_name": "만자니타그물버섯 (Leccinum manzanitae)",
+  "edibility": "E",
+  "description": "만자니타그물버섯은 건조하고 벨벳~매끄러운 표면의 적갈색~진갈색 갓(5~15cm)을 지닌다. 관공은 어릴 때 흰색이며 노화되면 올리브회색으로, 상처 나면 갈색으로 변한다. 백~연갈색 대는 갈색~진갈색의 거친 인편(까슬까슬한 비늘)으로 덮여 있다. 흰색 살은 자르면 분홍갈색으로 변색되고 결국 회색으로 진해진다. 포자문은 올리브갈색이다.",
+  "habitat": "관목지대와 참나무-마드론 혼효림의 만자니타(Arctostaphylos 종)와만 균근성. 만자니타 관목과 절대적 공생 관계를 이룬다. 만자니타 하층식생이 있는 해안 산림과 산기슭 삼림에서 발견된다.",
+  "season": "겨울부터 봄(12~4월)까지, 1~3월에 결실 최성기. 캘리포니아 우기와 관련된 특이한 겨울 결실기.",
+  "regions": [
+    "캘리포니아 해안산맥",
+    "북부 캘리포니아",
+    "캘리포니아 중부",
+    "샌프란시스코 만 지역",
+    "시에라네바다 산기슭",
+    "오리건 남부"
+  ],
+  "lookalikes": [
+    "기타 Leccinum 종 — 기주목이 다름",
+    "Boletus 종 — 거친 대 없음",
+    "Leccinum aurantiacum — 갓이 더 주황색, 서식지 다름",
+    "Suillus 종 — 끈적한 갓, 침엽수 연관"
+  ],
+  "safety_notes": "식용: 만자니타그물버섯은 단단한 질감의 좋은 식용종이다. 최소 15~20분 충분히 익혀야 한다. 독특한 만자니타 연관과 겨울 결실기가 다른 그물버섯과 구분된다. 살이 검게 변하는 것은 정상이며 안전하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.240957",
+  "source_language": "en"
+}

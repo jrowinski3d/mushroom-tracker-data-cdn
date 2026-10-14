@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleery",
+  "scientific_name": "Pleurotus eryngii",
+  "common_name": "Pleurote du panicaut",
+  "edibility": "E",
+  "description": "Champignon distinctif avec un petit chapeau beige à brun de 1 à 4 pouces de large et un pied épais, blanc et charnu de 2 à 6 pouces de haut. Contrairement aux pleurotes typiques, le pied cylindrique épais est la partie la plus prisée. Chapeau avec des lames décurrentes. Pousse à partir des racines de plantes herbacées mortes, pas sur le bois. Unique parmi les espèces de Pleurotus en Amérique du Nord.",
+  "habitat": "Saprotrophe sur les racines de plantes herbacées mortes et mourantes, en particulier les chardons (espèces d’Eryngium), le panicaut maritime et autres ombellifères dans les régions désertiques et les prairies arides. ABSENT du bois contrairement aux autres espèces de Pleurotus. Pousse à partir de racines enfouies dans les sols sableux ou perturbés.",
+  "season": "De l’automne au printemps dans les régions arides, généralement d’octobre à avril. Fructifie après les pluies d’hiver et de printemps dans les environnements désertiques et semi-arides. Peut apparaître sporadiquement pendant la saison fraîche avec une humidité suffisante.",
+  "regions": [
+    "Déserts du Sud-Ouest",
+    "Californie du Sud",
+    "Régions au climat méditerranéen",
+    "Prairies arides et semi-arides",
+    "Originaire de la Méditerranée, établi en Amérique du Nord"
+  ],
+  "lookalikes": [
+    "Autres espèces de Pleurotus (toutes poussent sur le bois, pas sur les racines)",
+    "Pleurotus nebrodensis (similaire mais aire différente)",
+    "Pleurote du panicaut cultivé (même espèce, largement vendue en magasin)",
+    "Jeunes coulemelles (attache des lames différente, couleur de la sporée différente)"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : très prisé pour son pied épais et charnu à l’excellente texture et au goût doux. L’un des champignons de spécialité les plus populaires cultivés, vendu sous le nom de « pleurote du panicaut » ou « pleurote du roi ». Les spécimens sauvages sont des comestibles de choix quand ils sont correctement identifiés. Le pied épais est la partie la plus recherchée. Bien cuire pour développer le meilleur goût et la meilleure texture.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1452110.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 35740,
+      "width": 640,
+      "height": 447,
+      "sha256": "a76c50852810d3c2a992f8ad40877ef012a925a1c9fd62260dff561521521378"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1452111.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 33090,
+      "width": 640,
+      "height": 466,
+      "sha256": "81d27168cf26c777b1997fbad54c80acaed53c24e15b7bcd027be23aeb19eab3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

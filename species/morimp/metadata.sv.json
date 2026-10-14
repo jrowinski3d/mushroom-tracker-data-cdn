@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morimp",
+  "scientific_name": "Morchella importuna",
+  "common_name": "Landscape Morel (Morchella importuna)",
+  "edibility": "E",
+  "description": "Fruktkroppen är 6–20 cm hög totalt. Hatten är 3–15 cm hög, 2–9 cm bred vid bredaste punkten, konisk till brett konisk eller ibland äggformad, med ett karakteristiskt stegliknande honungskaksmönster med 12–20 framträdande primära vertikala åsar som korsas av många horisontella åsar och bildar rektangulära gropar. Färgen är vanligtvis mörkare än hos gula murklor och varierar från beige till brunt till gråbrunt. Foten är ihålig och proportionell till hatten. Helt ihålig vid tvärsnitt. Sporfällning krämfärgad.",
+  "habitat": "Karakteristisk stads- och anläggningsmurkla som växer i träflisbäddar, trädgårdar, eldgropar, krukor, anlagda områden och störd mark i bostads- och kommersiella miljöer. Till skillnad från de flesta murklor, som är mykorrhizabildande, är M. importuna till stor del saprofytisk (bryter ner träflis och organiskt material självständigt). Starkt förknippad med färsk träflis i prydnadsplanteringar, parker och urbana grönområden. Hittas sällan i naturliga skogsmiljöer.",
+  "season": "Vår (mars–maj i de flesta regioner, tidpunkten varierar med lokalt klimat). I Kalifornien och Stillahavsnordväst kan den frukta februari–april. Uppkomsten utlöses ofta av fukt efter träflisutläggning föregående säsong. Kan frukta på samma flisplatser flera år i rad.",
+  "regions": [
+    "Stillahavsnordväst",
+    "Kalifornien",
+    "Mellanvästern",
+    "Nordost",
+    "Mellersta Atlantkusten"
+  ],
+  "lookalikes": [
+    "Falsk murkla (Gyromitra-arter) – GIFTIG: hjärnliknande flikig hatt istället för stegliknande åsar, hatten fäst endast vid fotens topp, kammarförsett inre, rödbrun färg. Dödligt giftig även när den är tillagad.",
+    "Andra svarta murklor (Morchella elata-gruppen) – Ätliga: liknande utseende men vanligtvis i naturliga skogsmiljöer snarare än anläggningsflis, svåra att skilja visuellt, alla ätliga med korrekt tillagning.",
+    "Halvfri murkla (Morchella punctipes) – Ätlig: hatten fäst halvvägs ner på foten vilket ger ett kjolliknande utseende, istället för helt fäst längs foten.",
+    "Morchella tomentosa – Ätlig: luddig/hårig yta när den är ung, särskilt vid fotbasen, växer på brandfält med barrträd istället för i urbana anläggningar."
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad matsvamp, odlas numera kommersiellt i Asien med hundratals ton årligen. Måste tillagas ordentligt i minst 15–25 minuter; råa eller otillräckligt tillagade murklor innehåller hydrazingifter som orsakar kraftigt illamående, kräkningar och magbesvär. Tillaga vid temperaturer över 71 °C för att förstöra de giftiga föreningarna. Vissa personer får allergiska reaktioner även när den är korrekt tillagad; prova små portioner först. Undvik alkohol i samband med murklor på grund av sällsynta dokumenterade negativa interaktioner. Säkerställ korrekt identifiering för att skilja från dödliga falska murklor (Gyromitra) som har hjärnliknande skrynkliga hattar. Vid plockning från anläggningsflis, kontrollera att inga bekämpningsmedel eller ogräsmedel har använts i området.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751485.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 61022,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f486307fe8bc9b853309c9d16f0e5a3baa20133c6f1468621bbd300e2a405cc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751432.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 64566,
+      "width": 640,
+      "height": 480,
+      "sha256": "788ee443df988d03a975784a7e4493e160afd271619e90d83e1011258704f823"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.697677",
+  "source_language": "en"
+}

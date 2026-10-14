@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancal",
+  "scientific_name": "Cantharellus californicus",
+  "common_name": "California Chanterelle (Cantharellus californicus)",
+  "edibility": "E",
+  "description": "El rebozuelo de California (también llamado «Mud Puppy») tiene un sombrero de blanco a crema pálido de 5 a 15 cm de ancho que a menudo se tiñe de pardo amarillento o pardo naranja, especialmente al manipularlo o con la edad. El sombrero se vuelve profundamente embudado al madurar y tiene márgenes ondulados e irregulares. El envés presenta pliegues gruesos, romos y bifurcados (NO son láminas verdaderas), de blancos a crema, ampliamente espaciados, que descienden por el pie. El pie es macizo, robusto, de 3 a 10 cm de alto, de blanco a crema, a menudo bastante grueso. La carne es blanca, muy firme, con un olor suave a ligeramente picante. La esporada es de blanca a crema pálido.",
+  "habitat": "Micorrícico principalmente con encina costera (Quercus agrifolia), también se asocia con tanoak, madroño y abeto de Douglas en bosques costeros mixtos. Se encuentra en encinares, bosques mixtos de hoja perenne y el cinturón de niebla costero de California. Prefiere laderas bien drenadas y áreas con profunda hojarasca.",
+  "season": "Temporada de lluvias invernales (noviembre-marzo), fructificando con el inicio de las lluvias de invierno en California. La temporada máxima suele ser de diciembre a febrero. Puede continuar fructificando hasta principios de la primavera si persiste la humedad. A diferencia de los rebozuelos del norte, esta es principalmente una seta de invierno.",
+  "regions": [
+    "cordilleras costeras de California",
+    "área de la bahía de San Francisco",
+    "bosques costeros del norte de California",
+    "estribaciones occidentales de Sierra Nevada",
+    "sur de Oregón (raro)"
+  ],
+  "lookalikes": [
+    "Cantharellus subalbidus: comestible, color blanco similar, se encuentra en el Pacífico Noroeste con coníferas, sin tinción parda",
+    "Falsa rebozuelo (Hygrophoropsis aurantiaca): no tóxica pero de mala calidad, tiene láminas verdaderas delgadas, color más naranja",
+    "Especies de Hygrophorus: comestibles, tienen láminas verdaderas más espaciadas, textura diferente"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: el rebozuelo de California es muy apreciado y una de las setas silvestres comerciales más importantes de California. Los pliegues gruesos y romos son el rasgo crítico de identificación: se sienten cerosos y no pueden separarse fácilmente del sombrero, a diferencia de las láminas verdaderas de borde afilado de las especies similares. La textura robusta y firme lo hace excelente para cocinar; resiste bien el salteado y tiene un sabor suave y agradable. La tinción parda al manipularlo es normal. Algunas personas pueden experimentar leves molestias digestivas: comience con porciones pequeñas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1642142.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 24490,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4d3c1a990e345847d4669b5966cdbb34a2d001e2085e4c714b20182fe14493"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1642143.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 107254,
+      "width": 640,
+      "height": 480,
+      "sha256": "52dc637c1a89cd90b8a166176011a9685cad6b1a79e3bf11fc4383ba4aea79f6"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.203001",
+  "source_language": "en"
+}

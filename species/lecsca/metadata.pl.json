@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecsca",
+  "scientific_name": "Leccinum scabrum",
+  "common_name": "Koźlarz babka",
+  "edibility": "E",
+  "description": "Koźlarz babka ma szarobrązowy do płowobrązowego kapelusz (4–15 cm) o gładkiej do lekko pomarszczonej powierzchni, z wiekiem czasem spękanej. Pory białe, gdy młode, z wiekiem matowoszare do brązowych, lekko siniejące na brązowo. Białawy trzon pokryty jest czarnymi do ciemnobrązowych kłaczków (szorstkich łusek). Biały miąższ po przekrojeniu nie zmienia barwy lub wykazuje lekki różowawy odcień. Wysyp zarodników oliwkowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z brzozami (gatunki Betula) w mieszanych lasach północnych. Tworzy obligatoryjne związki z brzozami. Występuje w zagajnikach brzozowych, mieszanych lasach brzozowo-iglastych i terenach łęgowych z brzozą papierową.",
+  "season": "Od lata do jesieni (czerwiec–październik), ze szczytem owocnikowania w lipcu–wrześniu. Pospolity późnym latem w północnych lasach brzozowych.",
+  "regions": [
+    "Północne Stany Zjednoczone",
+    "Alaska",
+    "Kanada",
+    "Region Wielkich Jezior",
+    "Północno-wschodnie lasy",
+    "Brzozowe stanowiska Pacyficznego Północnego Zachodu",
+    "Brzozowe strefy Gór Skalistych"
+  ],
+  "lookalikes": [
+    "Inne gatunki koźlarzy (Leccinum) — inne barwy kapelusza i powiązania z drzewami",
+    "Gatunki borowików (Boletus) — brak charakterystycznego szorstkiego trzonu",
+    "Leccinum holopus — bledsze barwy, również z brzozą",
+    "Gatunki goryczaków (Tylopilus) — niektóre mają kłaczki, ale inne barwy porów"
+  ],
+  "safety_notes": "JADALNY: Koźlarz babka to dobry grzyb jadalny o łagodnym smaku i nieco miękkiej teksturze, gdy dojrzały. Musi być dokładnie ugotowany — nigdy nie jeść na surowo. Najlepszy młody i jędrny. Obligatoryjne powiązanie z brzozą i szorstki trzon są diagnostyczne. U niektórych osób mogą wystąpić łagodne dolegliwości trawienne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1080620.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 61574,
+      "width": 464,
+      "height": 640,
+      "sha256": "c5c8cc696ee70f1749403a77f42681e5089f69dfe0b9f19ae5af2fe36c5a5ae4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1080621.jpg",
+      "photographer": "I. G. Safonov",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-08-21",
+      "file_size_bytes": 36138,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e7a4bebc027d8c8e72afac8c632f8b542311af4fbc5451a4f10f10ab6d20559"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

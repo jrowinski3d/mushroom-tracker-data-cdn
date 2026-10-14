@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canapp",
+  "scientific_name": "Cantharellus appalachiensis",
+  "common_name": "Appalachian Chanterelle (Cantharellus appalachiensis)",
+  "edibility": "E",
+  "description": "Pieprznik appalachijski ma złocistożółty do jaskrawo pomarańczowożółtego kapelusz o szerokości 3–12 cm, o gładkiej do lekko pomarszczonej powierzchni. Kapelusz z wiekiem staje się lejkowaty, o falistych, nieregularnych brzegach. Spód pokryty wyraźnymi, grubymi, tępymi, rozwidlonymi listewkami (NIE są to prawdziwe blaszki), jaskrawożółtymi do pomarańczowożółtych, szeroko rozstawionymi, wyraźnie zbiegającymi po trzonie. Listewki są wyraźniejsze niż u C. lateritius, podobne jak u C. cibarius. Trzon pełny, zwarty, 3–9 cm wysokości, żółty do pomarańczowożółtego, często maczugowaty. Miąższ biały do bladożółtego, zwarty, o owocowym, morelowym zapachu. Wysyp zarodników bladożółty do kremowego.",
+  "habitat": "Grzyb mikoryzowy, związany z wschodnimi drzewami liściastymi, zwłaszcza dębem białym, dębem czerwonym, bukiem amerykańskim, orzesznikiem i tulipanowcem amerykańskim. Występuje w dojrzałych mieszanych lasach liściastych w całym regionie Appalachów. Preferuje dobrze przepuszczalne górskie zbocza, kotliny i grzbiety z grubą ściółką liściastą i kwaśnymi glebami.",
+  "season": "Lato do jesieni (czerwiec–październik), szczyt owocowania w lipcu–wrześniu. Często owocuje obficie po ciepłych letnich deszczach. Przy odpowiedniej wilgotności może dawać wielokrotne wysypy w ciągu sezonu.",
+  "regions": [
+    "Appalachy (od Georgii do Maine)",
+    "stany środkowoatlantyckie (Wirginia, Wirginia Zachodnia, Maryland)",
+    "góry Tennessee i Karoliny Północnej",
+    "Pensylwania i Nowy Jork",
+    "południowe Ohio i Kentucky"
+  ],
+  "lookalikes": [
+    "Omphalotus illudens – TRUJĄCY, ma prawdziwe, ostre blaszki, rośnie na drewnie lub zagrzebanym drewnie, świeci w ciemności",
+    "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) – nietrująca, ale kiepskiej jakości, ma prawdziwe cienkie blaszki, intensywniej pomarańczowa",
+    "Cantharellus cibarius – jadalny, bardzo podobny, występuje w regionach bardziej północnych, wygląd niemal identyczny"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Pieprznik appalachijski to jeden z najbardziej cenionych grzybów dziko rosnących we wschodniej Ameryce Północnej, bardzo poszukiwany ze względu na doskonały smak i zwartą konsystencję. Kluczową cechą identyfikacyjną są grube, tępe, rozwidlone listewki, woskowate w dotyku i zrośnięte z kapeluszem – w przeciwieństwie do cienkich, ostrych prawdziwych blaszek trującego Omphalotus illudens. Zawsze sprawdzaj, czy rośnie z gleby w pobliżu drzew, nigdy na drewnie. Ma zachwycający owocowy, pieprzny smak; doskonały duszony, w zupach lub suszony. U niektórych osób może powodować łagodne dolegliwości trawienne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695286.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 58918,
+      "width": 640,
+      "height": 550,
+      "sha256": "1e531b8fdb9faf5e522613f935369fa08b17d8304ffbea739b036127f37058e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695282.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-11",
+      "file_size_bytes": 35850,
+      "width": 640,
+      "height": 500,
+      "sha256": "0d643f4fa701f4b4b45e1ee889956eb3e6793e82ea4fb063547d712c44fbbd9b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.207174",
+  "source_language": "en"
+}

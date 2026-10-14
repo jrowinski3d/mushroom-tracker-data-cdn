@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlrha",
+  "scientific_name": "Chlorophyllum rhacodes",
+  "common_name": "Rodnande fjällskivling",
+  "edibility": "E",
+  "description": "Rodnande fjällskivling är en medelstor till stor svamp med hatt 5–15 cm bred, till en början äggformad och senare brett konvex med låg navel. Hatten är gräddvit till beigefärgad och täckt av raggiga rödbruna till beigebruna uppstående fjäll som är tätare mot mitten. Köttet färgas rödorange till rödbrunt vid snitt eller skada (diagnostiskt kännetecken). Skivorna är fria, vita och täta. Foten är 8–20 cm hög, slät till fjällig nedanför den stora rörliga ringen, med svullen lökformig bas men ingen volva.",
+  "habitat": "Finns i näringsrik jord i störda miljöer som trädgårdar, komposthögar, flistäckta ytor, rabatter och skogsbryn med vedrester. Även i barr- och blandskog. Växer marklevande, ofta i näringsrika substrat med nedbrytande organiskt material. Fruktsätter spritt till gruppvis, ibland i häxringar.",
+  "season": "Sensommar till höst (augusti–november) i de flesta regioner. I Kalifornien och medelhavsklimat kan den fruktsätta vinter och vår (november–mars) efter regn. Fruktsättningstoppen sker efter varma höstregn.",
+  "regions": [
+    "Europa (inhemsk)",
+    "Nordvästra Stillahavsområdet (vanlig)",
+    "Kalifornien (vanlig, särskilt i trädgårdar)",
+    "Östra Nordamerika (sporadisk)",
+    "Australien och Nya Zeeland",
+    "Tempererade regioner över hela världen"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (giftig) – nästan identisk men grönaktig sporfällning, mer intensiva magsymtom",
+    "Chlorophyllum molybdites (giftig) – gröna sporer, grönfärgas vid skada, gräsmarker",
+    "Macrolepiota procera (ätlig) – högre, smalare, fot med ormskinnsmönster, färgas inte röd",
+    "Lepiota-arter (vissa dödliga) – mindre storlek, spädare"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Vissa personer tolererar denna svamp väl när den tillagas ordentligt, men den orsakar magbesvär hos andra (10–20 % av konsumenterna). Symtom inkluderar illamående och magbesvär 1–3 timmar efter förtäring. Den närbesläktade C. brunneum är giftigare. Tillaga ordentligt på hög värme – ät aldrig rå. Prova en liten mängd först för att testa toleransen. Kontrollera VIT till blekt grå sporfällning (inte grön). Rödningsreaktionen vid snitt är hjälpsam men inte avgörande. På grund av den höga andelen biverkningar och förväxlingsrisken med C. brunneum rekommenderar många experter att undvika denna art.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1697672.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 53948,
+      "width": 640,
+      "height": 575,
+      "sha256": "fb03b288e729ed23237ea3b683587083e3a757553791d94528f6d724fb78b6ef"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698177.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 23006,
+      "width": 640,
+      "height": 519,
+      "sha256": "4acbeebde1334184676d41a225f2309dc2ec3492fb3c1137657a8ef7e9f9d5be"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

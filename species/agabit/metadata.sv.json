@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agabit",
+  "scientific_name": "Agaricus bitorquis",
+  "common_name": "Vägchampinjon",
+  "edibility": "E",
+  "description": "Vägchampinjonen är en kraftig, satt art med 5–15 cm bred hatt, till en början rundad och senare välvd. Hatten är vit till krämfärgad, slät eller med lätt sprickbildning, och blir ofta gulbrun med ålder eller vid beröring. Skivorna är fria, till en början blekt rosa och blir chokladbruna. Foten är 3–8 cm hög, mycket kort och satt (distinkt), vit, med dubbel ring (ofta synlig som två separata ringar, därav namnet 'bitorquis'). Köttet är fast, vitt, med mild behaglig doft. Anmärkningsvärt seg och tålig jämfört med andra champinjoner.",
+  "habitat": "Växer i starkt störda urbana miljöer som trottoarsprickor, packad jord längs vägar, parkeringsplatser, grusgångar, rabatter och under asfalt. Anmärkningsvärt tolerant mot dålig jord och mänsklig störning. Även i trädgårdar och gräsmattor med hårt packad jord. Växer spridd till i knippen, ofta brytande genom hårda ytor.",
+  "season": "Vår till höst (april–november) med topp sent på våren och tidig sommar. Kan komma året runt i milda klimat som Kalifornien. Mer köldtålig än de flesta champinjonarter och visar sig ofta i svalt väder när andra arter är frånvarande.",
+  "regions": [
+    "Europa (ursprunglig)",
+    "Nordamerika (vitt utbredd, alla regioner)",
+    "Kalifornien (mycket vanlig)",
+    "stadsområden världen över",
+    "tempererade till subtropiska klimat",
+    "kosmopolitisk i städer"
+  ],
+  "lookalikes": [
+    "Agaricus campestris (ätlig) – spädlare, högre fot, gräsmarksmiljö",
+    "Agaricus bisporus (odlad champinjon, ätlig) – liknande men odlad, mindre robust",
+    "unga flugsvampar (vissa dödliga) – har volva vid fotbasen, skivorna blir inte rosa-bruna",
+    "Agaricus bernardii (ätlig) – kustart, salt miljö, liknande utseende"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt mat med fast tät konsistens som håller sig väl vid tillagning. Ofta smakrikare än köpta champinjoner. Tillaga ordentligt. Kritisk bestämning: kontrollera MYCKET KORT SATT fot (distinkt kännetecken), DUBBEL ring, FRIA skivor som blir rosa och sedan chokladbruna, CHOKLADBRUNT sporfällning, INGEN volva vid fotbasen, urban/störd miljö. Den satta formen och växtplatsen i gatmiljö är distinktiva. Skölj väl eftersom exemplar ofta växer i smutsiga urbana miljöer. Mycket motståndskraftig mot beröring och insektsangrepp.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667634.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 30240,
+      "width": 299,
+      "height": 640,
+      "sha256": "b8c0822eca069f9adac112fea1b3b5f29ede428a0e55ca49c9c310abc42faec6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667635.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 44562,
+      "width": 640,
+      "height": 351,
+      "sha256": "a0618a54d140d180bee42b7373c27eb12cfb3ab5d05f36b110833f80a157b540"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

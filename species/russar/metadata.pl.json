@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "russar",
+  "scientific_name": "Russula sardonia",
+  "common_name": "Primrose Russula (Russula sardonia)",
+  "edibility": "U",
+  "description": "Russula sardonia ma fioletowy do winno-czerwonego kapelusz (3–10 cm), lepki. Blaszki żółtawe. Trzon biały do różowawego. KLUCZ: KRUCHY KREDOWATY MIĄŻSZ, BRAK MLECZKA, SILNIE PIEKĄCY/PIEPRZNY SMAK. Kapelusz fioletowo-czerwony. Miąższ biały. Wysyp zarodników ochrowy. Piekący smak jest natychmiastowy i intensywny.",
+  "habitat": "Mikoryzowa z DRZEWAMI IGLASTYMI, zwłaszcza sosną i świerkiem. Rośnie na ziemi w lasach iglastych i mieszanych. Często na kwaśnej glebie. Gatunek północny i górski. Rozproszona.",
+  "season": "Lato do jesieni (lipiec–październik).",
+  "regions": [
+    "Północny Wschód",
+    "Górny Środkowy Zachód",
+    "Góry Skaliste",
+    "Północno-Zachodni Pacyfik",
+    "Kanada",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Inne fioletowe/czerwone gołąbki – PRÓBA SMAKU (nadgryźć i wypluć)",
+    "Russula emetica – podobna piekąca czerwień",
+    "Mleczaj rudy (Lactarius rufus) – ma MLECZKO"
+  ],
+  "safety_notes": "NIEJADALNY: Russula sardonia ma intensywnie ostry, pieprzny, piekący smak, przez co jest całkowicie niejadalna. Nazwa gatunkowa „sardonia” pochodzi z greki i oznacza gorzki lub piekący. Choć niektóre źródła dyskutują, czy po rozległym przygotowaniu mogłaby być technicznie jadalna, ekstremalna pieprzowa ostrość czyni ją niesmaczną i może powodować dolegliwości żołądkowo-jelitowe. Unikaj spożycia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1279557.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 63552,
+      "width": 640,
+      "height": 480,
+      "sha256": "be0573fb193d83ca13d213b80336d3193cb3074e717e73443062fc4c5b7346e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1279558.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 101028,
+      "width": 480,
+      "height": 640,
+      "sha256": "dd9df0d9882a745a495036f89e4aa33404d26dd0d37ec6a7584e352b08bbd3ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

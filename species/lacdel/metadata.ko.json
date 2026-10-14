@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacdel",
+  "scientific_name": "Lactarius deliciosus",
+  "common_name": "Saffron Milk Cap (Lactarius deliciosus)",
+  "edibility": "E",
+  "description": "주황색 갓(4~14cm)에 짙은 주황색의 동심원 무늬가 있고, 늙거나 상처 나면 종종 녹색 얼룩이 생긴다. 갓은 어릴 때 가장자리가 안으로 말린 볼록형에서 깔때기형이다. 주름살은 주황색, 촘촘하고 밑으로 흐르며 녹색으로 변색된다. 대는 주황색에 짙은 주황색 구멍 또는 홈이 있다. 핵심 특징은 자르면 흘러나오는 주황색에서 당근주황색 유즙(젖)이다 — 이 유즙은 천천히 녹색으로 변색된다. 살은 흰색에서 옅은 주황색. 포자문은 옅은 크림색. 밝은 주황색 젖이 진단적이다.",
+  "habitat": "소나무(Pinus 종), 특히 외래 식재 소나무와 균근성. 조림지, 공원, 관상 식재지의 소나무 아래 지면에서 자란다. 지중해 돌소나무 및 기타 도입 소나무 아래에서 흔히 발견된다. 모래 토양을 선호한다.",
+  "season": "가을(9월~12월), 비 뒤에 발생한다. 온화한 기후에서는 겨울까지 발생할 수 있다.",
+  "regions": [
+    "북미에 도입됨",
+    "캘리포니아",
+    "태평양 북서부",
+    "유럽 (자생지)",
+    "소나무가 식재된 곳"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus - 주황색이지만 유즙은 당근주황색이 아닌 적색",
+    "Lactarius thyinos - 유사하지만 유즙도 주황색이고 숙주 나무가 다름",
+    "Lactarius sanguifluus - 유즙이 포도주색",
+    "Russula 종 - 유즙 없음, 살이 잘 부서짐"
+  ],
+  "safety_notes": "최상급 식용: 유럽에서 크게 귀하게 여겨지며, 최고의 젖버섯속 종 중 하나이다. 녹색으로 변색되는 주황색 유즙이 진단적이다. 순하고 좋은 맛. 어리고 단단할 때 가장 좋다. 버섯 자체가 조리하거나 보존할 때 녹색으로 변색될 수 있는데, 이는 정상이며 안전하다. 일부 사람은 가벼운 소화 장애를 겪을 수 있다. 충분히 조리하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1425085.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 79476,
+      "width": 640,
+      "height": 480,
+      "sha256": "500444773c3c9f6342878d1f78f4b384b3a3667e98ffac7efe527baf5e594239"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1425086.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 112986,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffc9822fd7d75f11622408b47847ee3ded0ae1f040c9a529ef5c971535109240"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "armmel",
+  "scientific_name": "Armillaria mellea",
+  "common_name": "Armilaria de miel",
+  "edibility": "E",
+  "description": "La armilaria de miel tiene un sombrero de color amarillo miel a marrón leonado (3-15 cm) cubierto de pequeñas ESCAMAS OSCURAS concentradas en el centro, dispersándose hacia los márgenes. Las láminas son de blancas a crema, adheridas al pie, a menudo desarrollando manchas marrones con la edad. El pie tiene un ANILLO BLANCO PERSISTENTE cerca de la parte superior: un carácter clave de identificación. El pie es blanco sobre el anillo, más oscuro debajo, a menudo con escamas o fibras oscuras. Crece en GRUPOS DENSOS en la base de árboles o sobre tocones. El sombrero es pegajoso cuando está húmedo. La carne es blanca, firme, con olor suave. La esporada es blanca. A menudo se ven rizomorfos negros (estructuras en forma de cordón) en el suelo o bajo la corteza.",
+  "habitat": "Parásita y saprobia tanto en frondosas como en coníferas. Crece en grandes grupos en la base de árboles vivos, tocones muertos y raíces enterradas. Causa pudrición blanca y puede matar a los árboles hospedantes. Se encuentra en robles, arces, abedules, pinos y muchas otras especies de árboles. Uno de los patógenos de árboles más comunes en los bosques.",
+  "season": "Otoño (septiembre-noviembre), con fructificación máxima después de las lluvias otoñales. Ocasionalmente fructifica en primavera.",
+  "regions": [
+    "Este de Estados Unidos",
+    "Medio Oeste",
+    "Pacífico Noroeste",
+    "Montañas Rocosas",
+    "California",
+    "Europa",
+    "Asia"
+  ],
+  "lookalikes": [
+    "Otras especies de Armillaria - muy similares, todas requieren cocción",
+    "Especies de Gymnopilus - sabor amargo, esporas de color naranja herrumbroso",
+    "Especies de Pholiota - esporada marrón, hábitat diferente",
+    "Especies de Galerina - MORTALES - más pequeñas, esporas marrones, sobre madera no en suelo/raíces"
+  ],
+  "safety_notes": "COMESTIBLE CON PRECAUCIÓN: Los hongos de miel (especies de Armillaria) son VENENOSOS en crudo y deben cocinarse bien antes de consumirlos. Cocinar durante al menos 10-15 minutos a fuego fuerte. Incluso bien cocinados, algunas personas experimentan reacciones alérgicas o malestar digestivo. Probar primero una pequeña cantidad para comprobar la tolerancia. Escaldar antes de cocinar puede ayudar a reducir los irritantes gastrointestinales y el sabor amargo. No consumir con alcohol: los hongos de miel pueden causar reacciones adversas combinados con alcohol (similar a Coprinopsis). Recolectar solo ejemplares jóvenes y firmes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713848.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 88552,
+      "width": 640,
+      "height": 482,
+      "sha256": "34090da069cb4b8a3e9d18038d30d81e1ede01849df4cd7c2e790e1b1dcfe045"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713849.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 96164,
+      "width": 640,
+      "height": 482,
+      "sha256": "70a5d56d5c39a6061d328040d5578fb2b56b5789de7702de08045cf7bbd19e93"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

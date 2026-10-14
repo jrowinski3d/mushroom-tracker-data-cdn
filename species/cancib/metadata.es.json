@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancib",
+  "scientific_name": "Cantharellus cibarius",
+  "common_name": "Golden Chanterelle (Cantharellus cibarius)",
+  "edibility": "E",
+  "description": "El rebozuelo dorado tiene un sombrero de amarillo dorado a color yema de huevo de 2 a 12 cm de ancho, con un margen irregular y ondulado que se vuelve embudado con la edad. El envés presenta pliegues gruesos, romos y bifurcados (NO son láminas verdaderas) que descienden por el pie y son del mismo color dorado que el sombrero. El pie es macizo, de 2 a 8 cm de alto, adelgazado hacia abajo, y de blanco a amarillo pálido. La carne es firme, de blanca a amarillo pálido, y emite un distintivo olor afrutado a albaricoque. La esporada es de amarillo pálido a crema.",
+  "habitat": "Micorrícico con diversas especies arbóreas, incluidos roble, haya, abedul, pino, pícea y abeto. Se encuentra tanto en bosques de coníferas como en bosques mixtos de frondosas, típicamente en laderas bien drenadas o áreas musgosas. A menudo fructifica en los mismos lugares año tras año.",
+  "season": "De verano a otoño (junio-noviembre en Norteamérica, julio-diciembre en Europa). La fructificación máxima ocurre tras fuertes lluvias de verano u otoño, con el momento variando según la latitud y la altitud.",
+  "regions": [
+    "norte y centro de Europa",
+    "noreste de Norteamérica",
+    "región de los Grandes Lagos",
+    "Pacífico Noroeste",
+    "norte de Asia"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus olearius/illudens): TÓXICO, tiene láminas verdaderas de borde afilado, crece sobre madera, brilla en la oscuridad",
+    "Falsa rebozuelo (Hygrophoropsis aurantiaca): no tóxica pero de mala calidad, tiene láminas verdaderas delgadas, color más naranja",
+    "Otras especies de Cantharellus: todas comestibles, apariencia y preparación similares"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: una de las setas silvestres más apreciadas, con excelente sabor y textura firme. La clave para una identificación segura es examinar el envés: los rebozuelos tienen pliegues gruesos, romos y bifurcados difíciles de separar del sombrero, mientras que los tóxicos Jack-O'-Lanterns tienen láminas verdaderas delgadas de borde afilado. Los rebozuelos crecen del suelo (micorrícicos), nunca sobre madera. Algunas personas experimentan leves molestias digestivas; pruebe primero una pequeña cantidad. Excelente salteado en mantequilla con su natural sabor picante y afrutado.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1567856.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 23654,
+      "width": 640,
+      "height": 361,
+      "sha256": "811d0143a8e74dc7c8481b1e9b39aa6df2f4093c0aae15687a0ca478080e3902"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1567857.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 15560,
+      "width": 640,
+      "height": 361,
+      "sha256": "4f70a6f6b01279635a5685f9fc69eaab4fd42f22caa6f5543498006d662ba7e5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

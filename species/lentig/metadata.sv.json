@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lentig",
+  "scientific_name": "Lentinus tigrinus",
+  "common_name": "Tigermussling",
+  "edibility": "E",
+  "description": "Liten till medelstor svamp med vit hatt 2-8 cm bred täckt med koncentriska ringar av bruna till svarta fjäll som ger ett tigrerandigt utseende. Vita sågtandade skivor – diagnostiskt kännetecken. Central vit fot 2-8 cm hög, ofta fjällig. Har SKIVOR med distinkt sågtandade kanter, inte porer. Växer på lövträd. Seg, läderartad konsistens. Distinkt tigrerandigt mönster.",
+  "habitat": "Saprofyt på död lövträdsved inklusive stockar, stubbar, grenar och vedrester, särskilt vide, al, poppel och andra strandnära lövträd. Vanlig längs bäckar och floder. Föredrar blöt eller vattenmättad ved. Ofta på små grenar och kvistar. Orsakar vitröta.",
+  "season": "Vår till höst, vanligen maj-oktober. Topp på sommaren. Vanligast i varmt, blött väder. Kan dyka upp året runt i milda klimat. Bär frukt rikligt under fuktiga perioder.",
+  "regions": [
+    "östra Nordamerika",
+    "nordvästra Stillahavsregionen",
+    "vitt spridd över Nordamerika",
+    "Stora sjöarna-regionen",
+    "strandnära områden i hela USA",
+    "kosmopolitisk utbredning"
+  ],
+  "lookalikes": [
+    "Neolentinus lepideus (större, barrträdsved, anisdoft, andra fjäll)",
+    "Lentinus arcularius (liknande men mindre fjäll, annat mönster)",
+    "Pleurotus dryinus (fjäll men inga sågtandade skivor)",
+    "Panellus-arter (släta skivkanter, annan växt)"
+  ],
+  "safety_notes": "ÄTLIG som mycket ung men rekommenderas inte: Endast möra unga knoppar är ätliga – blir snabbt seg och läderartad. Även unga exemplar har tuggig konsistens som kräver omfattande tillagning eller torkning och pulverisering. Den lilla storleken och segheten gör den inte värd att plocka. Generellt säker men oätlig på grund av konsistensen. De distinkt sågtandade skivkanterna och det tigrerandiga hattmönstret är unika. Bättre matsvampar finns.",
+  "images": [
+    {
+      "file_size_bytes": 51736,
+      "height": 482,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "photographer": "Huafang",
+      "sha256": "0e82849a5dc34798348db9c7f1bfa1f5a3ea4e60a201f43532ef85eb34e51251",
+      "source_url": "https://mushroomobserver.org/images/640/1721722.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 58200,
+      "height": 482,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "photographer": "Huafang",
+      "sha256": "d9734262995f308da3b0255496f7b5ef96a142c44bbfa98a54bb62f1f1460f5a",
+      "source_url": "https://mushroomobserver.org/images/640/1721723.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

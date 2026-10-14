@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hohpet",
+  "scientific_name": "Hohenbuehelia petaloides",
+  "common_name": "Pleurote pétaloïde",
+  "edibility": "E",
+  "description": "Chapeaux en éventail ou en pétale, petits à moyens, de 1 à 4 pouces de large, gris-brun pâle à fauve, souvent avec une cuticule gélatineuse ou visqueuse à l’état frais. Lames décurrentes, blanches à grisâtres, et pied latéral très court ou absent. Se distingue par la surface visqueuse du chapeau et sa capacité à piéger les nématodes. Pousse en petites touffes se chevauchant sur le bois de feuillus.",
+  "habitat": "Saprotrophe sur les troncs morts, les branches et les souches de feuillus, en particulier le chêne, l’érable, le hêtre et autres arbres à feuilles caduques. Préfère le bois bien décomposé. Forme de petites touffes se chevauchant. Biologie intéressante : capture et digère les nématodes (vers ronds) du bois pour une nutrition complémentaire.",
+  "season": "Du printemps à l’automne, avec un pic de fructification de mai à octobre. Le plus fréquent à la fin du printemps et en été. Fructifie par temps chaud et humide après la pluie.",
+  "regions": [
+    "Est de l’Amérique du Nord",
+    "Sud-Est des États-Unis",
+    "région des Grands Lacs",
+    "Pacifique Nord-Ouest",
+    "Largement répandu dans les régions tempérées"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (plus grand, pas de chapeau visqueux, saison différente)",
+    "Espèces de Panellus (taille semblable mais généralement sur conifères)",
+    "Espèces de Resupinatus (beaucoup plus petites, texture différente)",
+    "Espèces de Crepidotus (spores brunes, pas de chapeau visqueux)"
+  ],
+  "safety_notes": "COMESTIBLE : considéré comme comestible mais pas de choix, en raison de sa petite taille et de sa texture gélatineuse. Certaines sources rapportent une saveur douce semblable à celle des pleurotes. Bien cuire avant de consommer. La cuticule visqueuse du chapeau doit être retirée si on le mange. Généralement pas activement recherché par les cueilleurs en raison de sa petite taille et de sa texture, mais sans danger une fois bien identifié. Il existe de meilleurs spécimens dans le groupe des pleurotes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1673553.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-07",
+      "file_size_bytes": 90032,
+      "width": 480,
+      "height": 640,
+      "sha256": "d9a7e97c8944a055d114a1e6ba83a6fbe394793435f396da9d452880111c9b60"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1613404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-22",
+      "file_size_bytes": 164390,
+      "width": 640,
+      "height": 480,
+      "sha256": "81fc8a77d1759e0311b09456745bb4b66cf4b8d3de9bd47c7ea466e5f08d87cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

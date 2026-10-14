@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "albovi",
+  "scientific_name": "Albatrellus ovinus",
+  "common_name": "Fårticka",
+  "edibility": "E",
+  "description": "Vit till krämfärgad svamp med oregelbundet nedtryckta hattar 5–15 cm breda, ofta sammanvuxna i kluster. Tjock, central till excentrisk fot 2,5–7,5 cm hög. Vita till krämfärgade små porer på undersidan. Fast, skört kött. Växer ofta i sammanvuxna kluster med flera hattar. Gulnar med ålder eller vid beröring. Distinkt form och färg.",
+  "habitat": "Mykorrhizabildande med barrträd, särskilt gran, ädelgran och tall i bergsområden. Växer på marken i barrskog, ofta i mossa. Vanlig i subalpina gran-ädelgransskogar. Föredrar sura jordar. Växer spridd eller i små grupper.",
+  "season": "Sommar till höst i bergen, vanligen juli–oktober. Rikligast fruktsättning i augusti–september. Växer efter sommarregn i höghöjdsbarrskog. Vanligast mitt i till sent på sommaren.",
+  "regions": [
+    "Klippiga bergen",
+    "Cascadebergen",
+    "Sierra Nevada",
+    "norra bergsskogar",
+    "bergsområden i nordvästra USA",
+    "cirkumboreal i nordliga regioner"
+  ],
+  "lookalikes": [
+    "Albatrellus confluens (mer orange toner, liknande miljö)",
+    "andra Albatrellus-arter (liknande utseende och ätlighet)",
+    "Scutiger-arter (liknande men annan porstruktur)",
+    "unga Bondarzewia (mycket större, annan miljö)"
+  ],
+  "safety_notes": "ÄTLIG när den är ung och färsk: God matsvamp med mild smak när den är ung och mör. Äldre exemplar blir sega, bittra och utvecklar laxerande egenskaper – undvik dem. Bäst när den är liten och vit utan gulnande. Tillaga ordentligt. Den sköra konsistensen och milda smaken är behaglig i unga exemplar. I allmänhet säker men kvaliteten sjunker snabbt med åldern. Plocka endast färska, vita exemplar.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501167.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 51260,
+      "width": 508,
+      "height": 640,
+      "sha256": "3ed0ad19b80a23f9c88ec0cb620cbcf5a0b9f3456fb4938cfc7a956d9422f37b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501168.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-16",
+      "file_size_bytes": 100704,
+      "width": 480,
+      "height": 640,
+      "sha256": "ad9821e3ae8d123f25d72da39bd94b04234fb13913299cc03fddbb2641c3cec2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

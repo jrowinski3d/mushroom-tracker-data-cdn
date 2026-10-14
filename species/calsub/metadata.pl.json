@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calsub",
+  "scientific_name": "Calbovista subsculpta",
+  "common_name": "Sculptured Puffball (Calbovista subsculpta)",
+  "edibility": "E",
+  "description": "Średnie do dużych, kuliste do owalnych purchawki o średnicy 5–15 cm, z charakterystyczną rzeźbioną powierzchnią z niskich wielokątnych brodawek i płytek, tworzących geometryczny wzór. Białe do jasnobrązowych, z wiekiem brązowe. Wnętrze czysto białe, gdy jadalne, z czasem oliwkowożółte, potem brązowe. Mały punkt przyczepu u podstawy, ale brak wyraźnej płonnej podstawy. Otwierają się nieregularnym porem na szczycie. Niepowtarzalny rzeźbiony wzór powierzchni.",
+  "habitat": "Grzyb saprotroficzny w górskich lasach iglastych, zwłaszcza pod sosną żółtą, sosną wydmową, daglezją zieloną i świerkami. Pospolity w lasach górskich i subalpejskich. Preferuje dobrze przepuszczalne dna lasów na większych wysokościach. Często w ściółce iglastej i na leśnych polanach.",
+  "season": "Lato do jesieni w górach, zwykle lipiec–październik. Szczyt owocowania w sierpniu–wrześniu po monsunowych deszczach. Najpospolitsza w środku do późnego lata w lasach górskich.",
+  "regions": [
+    "Góry Skaliste",
+    "Sierra Nevada",
+    "Góry Kaskadowe",
+    "południowo-zachodnie góry",
+    "zachodnie górskie lasy iglaste",
+    "od Kolorado po Kolumbię Brytyjską"
+  ],
+  "lookalikes": [
+    "Calvatia booniana (podobne łuski, ale grubsze, inny wzór)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory (ZAWSZE PRZEKRÓJ NA PÓŁ – w środku będą widoczne rozwijające się blaszki/kapelusz)",
+    "Gatunki Scleroderma / tęgoskóry (trujące, fioletowoczarne wnętrze, grubsza brodawkowata powłoka)",
+    "Inne rzeźbione gatunki Calvatia (podobna jadalność, gdy białe)"
+  ],
+  "safety_notes": "JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przekrój owocnik całkowicie na pół, od góry do dołu, przed spożyciem. Jadalny WYŁĄCZNIE, gdy wnętrze jest w całości czysto białe i jędrne. Jeśli w środku widoczne są jakiekolwiek żółte, oliwkowe, brązowe zabarwienia lub rozwijające się struktury, NIE JEDZ. Zapobiega to spożyciu trujących gatunków podobnych oraz młodych, śmiertelnie trujących muchomorów. Charakterystyczna geometryczna rzeźbiona powierzchnia ułatwia identyfikację, ale decydującym testem jadalności jest białe wnętrze. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1470448.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 110874,
+      "width": 480,
+      "height": 640,
+      "sha256": "1db346ac95ce5e6845f24c7c5ce39095fc0dec0aca0834476c6e524233795a42"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1470449.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 95434,
+      "width": 480,
+      "height": 640,
+      "sha256": "65d0b97a71a00df496da6cfe54db57beff034d142d0c6a477522849c340dccf3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

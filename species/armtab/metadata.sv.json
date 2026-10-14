@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armtab",
+  "scientific_name": "Armillaria tabescens",
+  "common_name": "Ringless Honey Mushroom (Armillaria tabescens)",
+  "edibility": "E",
+  "description": "Den ringlösa honungsskivlingen har en honungsgul till rödbrun hatt (3–10 cm) med små mörka fjäll i mitten. Skivorna är vita till krämfärgade, vidfästa, och blir bruna. Det VIKTIGA KÄNNETECKNET är AVSAKNADEN AV RING på foten – detta är den enda vanliga honungsskivlingsarten som konsekvent saknar ring. Foten är gulaktig till brun, slät eller lätt fibrig, utan ringzon. Växer i TÄTA KNIPPEN på lövträdstubbar och rötter. Köttet är vitt, fast. Sporfällning vit. Svarta rhizomorfer förekommer. Distinkt genom att sakna den typiska honungsskivlingsringen.",
+  "habitat": "Parasitisk och saprofyt på LÖVTRÄD i östra Nordamerika, särskilt ek, hickory, lönn och andra lövträd. Växer i stora knippen vid basen av levande eller döende träd, stubbar och begravda rötter. Vanlig i ekskog. Orsakar vitröta och rotsjukdomar. Sällan på barrträd.",
+  "season": "Sensommar till höst (augusti–november), ibland tidigare än ringförsedda arter.",
+  "regions": [
+    "östra USA",
+    "sydöstra USA",
+    "Mellanvästern",
+    "mellersta Atlantkusten",
+    "södra regioner"
+  ],
+  "lookalikes": [
+    "Armillaria mellea – HAR RING, i övrigt mycket lik",
+    "Xeromphalina-arter – mycket mindre, annan miljö",
+    "Gymnopilus-arter – rostbruna sporer, bitter",
+    "Pholiota-arter – bruna sporer"
+  ],
+  "safety_notes": "ÄTLIG MED FÖRSIKTIGHET: Honungsskivlingar (Armillaria-arter) är GIFTIGA som råa och måste tillagas ordentligt före förtäring. Tillaga minst 10–15 minuter på hög värme. Även vid korrekt tillagning får vissa personer allergiska reaktioner eller magbesvär. Smaka en liten mängd först för att testa din tolerans. Förvällning före tillagning kan minska magirriterande ämnen och bitter smak. Ät inte tillsammans med alkohol – honungsskivlingar kan ge oönskade reaktioner i kombination med alkohol (liknande Coprinopsis). Plocka endast unga, fasta exemplar. Avsaknaden av ring gör bestämningen distinkt men verifiera med andra honungsskivlingskännetecken.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1608178.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-01",
+      "file_size_bytes": 133036,
+      "width": 480,
+      "height": 640,
+      "sha256": "ede381f535931297f80b431fb59d6fe0265eb8228bf76c24a462ee37f7adffab"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608179.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-27",
+      "file_size_bytes": 103406,
+      "width": 480,
+      "height": 640,
+      "sha256": "6e8264b2d1c15eef591d615e93afaeb2cf2c9d9423255ea16458764bbbf23318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

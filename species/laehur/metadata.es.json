@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laehur",
+  "scientific_name": "Laetiporus huroniensis",
+  "common_name": "Pollo del bosque",
+  "edibility": "E",
+  "description": "Hongo de repisa de color anaranjado brillante a salmón con superficie de poros de color amarillo azufre a crema, que forma grandes repisas superpuestas de 5-25 cm de ancho sobre tsuga. A menudo con poros amarillos más pálidos que L. sulphureus. Blando y suculento cuando es joven. Se distingue por su distribución nororiental y su estricta asociación con la tsuga del este. Forma rosetas en troncos y troncos caídos. Hongo de repisa anual.",
+  "habitat": "Parásito y saprófito específicamente sobre tsuga del este (Tsuga canadensis) viva y muerta. Fuertemente específico de la tsuga en los bosques del noreste. Forma repisas en troncos, tocones y troncos caídos. Causa podredumbre parda cúbica del corazón. Común donde se encuentra la tsuga del este.",
+  "season": "Del verano al otoño, típicamente de julio a octubre. Máxima fructificación en agosto-septiembre. Brota tras las lluvias cálidas del verano. Temporada similar a otras especies norteñas de Laetiporus.",
+  "regions": [
+    "noreste de Estados Unidos",
+    "región de los Grandes Lagos",
+    "montes Apalaches",
+    "sureste de Canadá",
+    "área de distribución de la tsuga del este",
+    "de Nueva Inglaterra a Georgia"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (montañas del oeste, coníferas diferentes)",
+    "Laetiporus sulphureus (sobre frondosas, no coníferas)",
+    "Otras especies de Laetiporus (huéspedes/distribuciones diferentes)",
+    "Jack-o'-lantern (Omphalotus): tóxico, tiene láminas y no poros"
+  ],
+  "safety_notes": "COMESTIBLE cuando es joven, pero PRECAUCIÓN: como otros Laetiporus de coníferas, esta especie causa con más frecuencia molestias digestivas que las especies de frondosas. Los ejemplares de tsuga pueden causar problemas estomacales en personas sensibles. Recolecte solo ejemplares muy jóvenes y tiernos. Empiece con pequeñas cantidades para probar la tolerancia. Cocine bien. El huésped tsuga y la distribución nororiental ayudan a la identificación. Algunas personas lo toleran bien, otras tienen problemas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1350974.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-10",
+      "file_size_bytes": 103126,
+      "width": 640,
+      "height": 480,
+      "sha256": "0df314aefa46cac6defefc119c354d4312bbc0555697776c22c1fb4101c223ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1350971.jpg",
+      "photographer": "Django Grootmyers",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-09",
+      "file_size_bytes": 55286,
+      "width": 640,
+      "height": 459,
+      "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

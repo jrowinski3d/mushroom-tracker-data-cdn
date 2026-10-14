@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecaur",
+  "scientific_name": "Leccinum aurantiacum",
+  "common_name": "Bolet orangé",
+  "edibility": "E",
+  "description": "Le bolet orangé présente un chapeau orange à orange-rougeâtre distinctif (5-20 cm) à surface sèche à légèrement poisseuse. Pores blancs jeunes, devenant grisâtres, se tachant de brunâtre. Le grand pied blanc est couvert d'écaillettes brun foncé à noirâtres (écailles rugueuses) — un caractère diagnostique. La chair blanche se tache de rose à rougeâtre à la coupe, virant au gris ou au noir avec l'âge. Sporée brun-olive.",
+  "habitat": "Mycorhizien exclusivement des trembles et peupliers dans les forêts mixtes. Forme des associations obligatoires avec les espèces de Populus. Trouvé dans les peuplements de trembles, les zones riveraines avec peupliers, et les forêts mixtes tremble-conifère.",
+  "season": "De l'été à l'automne (juin-octobre) avec un pic de fructification en juillet-août. Apparaît souvent peu après les pluies d'été dans les habitats de trembles.",
+  "regions": [
+    "montagnes Rocheuses",
+    "région des Grands Lacs",
+    "forêts du Nord-Est avec trembles",
+    "peuplements de trembles du Pacifique Nord-Ouest",
+    "Californie du Nord",
+    "Alaska",
+    "Canada"
+  ],
+  "lookalikes": [
+    "Leccinum insigne — chapeau orange-rouge, habitat similaire avec trembles",
+    "Autres espèces de Leccinum — les écaillettes du pied distinguent des Boletus",
+    "Espèces de Boletus — dépourvues du pied rude caractéristique",
+    "Espèces de Lactarius — ont des lames et non des pores, produisent du lait"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet orangé est un bon comestible à chair ferme, bien que moins prisé que le cèpe de Bordeaux. Doit être bien cuit — peut causer des troubles digestifs s'il est insuffisamment cuit ou mangé cru. Le noircissement de la chair est normal. Le chapeau orange et le pied rude sont des caractères diagnostiques.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698286.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 191462,
+      "width": 640,
+      "height": 640,
+      "sha256": "960769b31fc623f0aab525e0fc0fd3302f856913829a4264d2671df9f66ca4ce"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698287.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 80824,
+      "width": 640,
+      "height": 640,
+      "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

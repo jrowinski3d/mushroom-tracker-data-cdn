@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "exigla",
+  "scientific_name": "Exidia glandulosa",
+  "common_name": "Exidie glanduleuse",
+  "edibility": "E",
+  "description": "L’exidie glanduleuse forme des masses gélatineuses noires de 0,5 à 3 cm de diamètre, en forme de boutons ou de disques, souvent en groupes serrés. Les boutons individuels sont d’abord en forme de toupie, puis deviennent des disques aplatis ou cérébriformes à maturité. La surface est lisse à ridée, noire de jais à brun noir foncé lorsqu’elle est fraîche et humide, devenant dure et luisante au sec. La texture est gélatineuse ferme, caoutchouteuse. Les fructifications sont couvertes de points glanduleux translucides (visibles à la loupe). Elle revit et gonfle à la réhydratation.",
+  "habitat": "Pousse sur les branches mortes et les troncs des feuillus, en particulier le chêne, le hêtre, le noisetier et autres espèces à feuilles caduques. Fréquente sur les branches tombées au sol des forêts et le bois mort debout. Pousse en touffes denses le long des branches. Abondante dans les forêts de feuillus, les lisières et les parcs. Fructifie abondamment sur les substrats appropriés.",
+  "season": "Toute l’année, mais plus abondante de l’automne au printemps (septembre-mai). Dans les régions tempérées, pic de fructification en fin d’automne et en hiver (novembre-mars). Peut fructifier l’été par conditions humides. Très fréquente en hiver, quand peu d’autres champignons sont actifs.",
+  "regions": [
+    "Europe (très commune)",
+    "Est de l’Amérique du Nord (largement répandu)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie",
+    "Forêts tempérées de feuillus du monde entier"
+  ],
+  "lookalikes": [
+    "Bulgaria inquinans (non comestible) - plus grand (2-4 cm), hémisphérique, caoutchouteux mais non glanduleux",
+    "Exidia nigricans (comestible) - très semblable, la distinction exige un microscope",
+    "Exidia recisa (comestible) - boutons semblables mais plus petits",
+    "Pas de sosies toxiques"
+  ],
+  "safety_notes": "COMESTIBLE mais fade : considérée comme comestible et sans danger, mais pratiquement sans saveur. Sa texture gélatineuse est sa seule caractéristique notable. Consommée dans certains pays européens, mais rarement récoltée. On peut la goûter crue sans danger, mais elle est généralement cuite. Aucune valeur nutritionnelle ni culinaire. Plus intéressante comme curiosité hivernale que comme aliment. Son aspect de boutons noirs et sa croissance en touffes sur les branches de feuillus sont caractéristiques. Pas de sosies dangereux - tous les champignons gélatineux noirs semblables sont inoffensifs. Souvent abondante en hiver, quand peu d’autres champignons sont disponibles.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659572.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-08",
+      "file_size_bytes": 114562,
+      "width": 640,
+      "height": 479,
+      "sha256": "2e69e3a7f1e67ed3c4b2604af8655f2b213ac8ac082349b14ac42b0343ebf4ee"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:35:46.206842",
+  "source_language": "en"
+}

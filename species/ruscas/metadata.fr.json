@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscas",
+  "scientific_name": "Russula cascadensis",
+  "common_name": "Russule des Cascades",
+  "edibility": "E",
+  "description": "La Russule des Cascades a un chapeau blanc (5 à 15 cm), jaunissant avec l'âge. Lames blanches, serrées. Pied blanc, épais. CLÉ : CHAIR CASSANTE, PAS DE LATEX, grand champignon blanc, Pacifique Nord-Ouest. Chair blanche. Sporée blanche. Goût doux.",
+  "habitat": "Mycorhizienne avec les CONIFÈRES dans le Pacifique Nord-Ouest, surtout le douglas, la pruche, les vrais sapins. Pousse au sol dans les forêts de conifères. Endémique régionale. Dispersée ou en groupes.",
+  "season": "Automne (septembre-novembre), fructifiant après les pluies d'automne.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Colombie-Britannique",
+    "Californie du Nord"
+  ],
+  "lookalikes": [
+    "Russula brevipes — très semblable",
+    "Autres russules blanches",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce. CHAPEAU BLANC + CHAIR CASSANTE + PAS DE LATEX + CONIFÈRES DU PACIFIQUE NORD-OUEST : diagnostique. Le test de goût confirme. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1515362.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 96106,
+      "width": 640,
+      "height": 480,
+      "sha256": "80a360b89bb292bf9e445025b2536932d8451eae663609d677c69e8fe42cf3c5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1515363.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 120372,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1665ef87b0306cd7f9dc949b407a33a50feffb6cf95dfcd8508cd4ea3aa9131"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

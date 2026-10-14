@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "herame",
+  "scientific_name": "Hericium americanum",
+  "common_name": "soplówka amerykańska",
+  "edibility": "E",
+  "description": "Soplówka amerykańska ma białą, rozgałęzioną strukturę tworzącą dużą kępę (15–40 cm szerokości) z licznymi KRÓTKIMI GAŁĘZIAMI, z których każda nosi kępy zwisających KOLCÓW na spodniej stronie. Główna struktura składa się z grubych, mięsistych gałęzi z kolcami (0,5–2 cm długości) rosnącymi tylko na dolnych powierzchniach gałęzi, nie dookoła. Kolce są białe, gdy świeże, żółkną z wiekiem. Cały owocnik jest przyczepiony do drewna w jednym punkcie. Miąższ biały, jędrny, o łagodnym smaku. Od H. erinaceus odróżnia ją rozgałęziona budowa, a od H. coralloides – krótsze, grubsze gałęzie z kolcami tylko od spodu.",
+  "habitat": "Saprotroficzny na drzewach liściastych, zwłaszcza dębie, buku i klonie. Rośnie na martwych lub zamierających stojących drzewach, kłodach i pniakach. Owocnikuje zazwyczaj z ran lub jam zgniliznowych. Nie tworzy mikoryzy. Zazwyczaj pojawia się pojedynczo na drzewie.",
+  "season": "Późne lato do jesieni (sierpień–listopad), sporadycznie do wczesnej zimy.",
+  "regions": [
+    "Wschodnie Stany Zjednoczone",
+    "Środkowy Zachód",
+    "Południowy Wschód",
+    "Góry Skaliste"
+  ],
+  "lookalikes": [
+    "Hericium erinaceus (soplówka jeżowata) – nierozgałęziona struktura w kształcie pompona",
+    "Hericium coralloides (soplówka koralowa) – silnie rozgałęziony, kolce dookoła gałęzi",
+    "Hericium abietis – rośnie na drzewach iglastych, bardziej zwarta budowa"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: doskonały smak, podobny do H. erinaceus, o łagodnym, słodkim posmaku przypominającym owoce morza. Brak trujących gatunków podobnych dzięki charakterystycznemu białemu kolczastemu wyglądowi. Najlepszy świeży i czysto biały – żółknięcie świadczy o wieku. Delikatnie czyścić, by usunąć zanieczyszczenia z kolców. Rozgałęziona budowa odróżnia go od zwartej soplówki jeżowatej.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-04",
+      "file_size_bytes": 57254,
+      "width": 640,
+      "height": 482,
+      "sha256": "4ac9fe480e1a633010363f9ec99b70d933e57e90422bb5dab4a766109be5c41d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705306.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 32562,
+      "width": 640,
+      "height": 482,
+      "sha256": "e4f44d924b5441615ed855220bb55bdb42da4c4d242252f2b659c11ab0418b19"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramfor",
+  "scientific_name": "Ramaria formosa",
+  "common_name": "Beautiful Clavaria (Ramaria formosa)",
+  "edibility": "P",
+  "description": "El hermoso coral es un atractivo pero tóxico hongo coral de 10 a 20 cm de alto y de 10 a 15 cm de ancho. El cuerpo fructífero consta de numerosas ramas erguidas que surgen de una base gruesa de color blanco a pálido. Las ramas son de color rosa salmón a naranja melocotón cuando son jóvenes, volviéndose más amarillo anaranjadas con la edad. Al magullarse o manipularse, la carne amarillea de forma distintiva (característica diagnóstica). Las puntas de las ramas suelen ser amarillas. La ramificación es densa e intrincada. La carne es de color blanco a amarillo pálido, quebradiza, a menudo con un olor desagradable. A pesar del nombre, no es comestible.",
+  "habitat": "Se encuentra en bosques de frondosas y mixtos, formando asociaciones micorrícicas con robles, hayas y otros árboles caducifolios. Crece en el suelo desde la tierra, normalmente en humus rico. Fructifica de forma dispersa a gregaria. Prefiere bosques maduros con buen suelo orgánico. Común en la hojarasca.",
+  "season": "Desde finales de verano hasta el otoño (agosto-noviembre) en la mayoría de las regiones. En Europa, principalmente de agosto a octubre. La fructificación máxima ocurre a principios y mediados de otoño. Requiere suelo cálido seguido de humedad constante en otoño.",
+  "regions": [
+    "Europa (ampliamente distribuida)",
+    "este de Norteamérica (común)",
+    "Pacífico Noroeste (ocasional)",
+    "California (raro)",
+    "bosques templados caducifolios",
+    "Particularmente común en el noreste"
+  ],
+  "lookalikes": [
+    "Ramaria aurea (comestible) — amarillo dorado, no amarillea al magullarse",
+    "Ramaria botrytis (comestible) — puntas rosas pero base blanca/amarilla, sin reacción de amarilleamiento",
+    "Ramaria flava (comestible) — amarillo pálido en su totalidad, sin tonos rosa salmón",
+    "Otras especies de Ramaria — muchas especies tóxicas y comestibles similares"
+  ],
+  "safety_notes": "TÓXICA: Ramaria formosa causa molestias gastrointestinales que incluyen náuseas, vómitos, diarrea y dolor abdominal tipo cólico. Aunque raramente es potencialmente mortal, los síntomas pueden ser graves y desagradables. No consumir esta seta.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1581352.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 44560,
+      "width": 640,
+      "height": 573,
+      "sha256": "9cb3b04fef0a9adeba4093d6864745b13963188cabfeb24b2f0856988ec56dd1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1581353.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 67020,
+      "width": 640,
+      "height": 536,
+      "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

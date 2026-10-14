@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copdis",
+  "scientific_name": "Coprinellus disseminatus",
+  "common_name": "Coprin épars",
+  "edibility": "E",
+  "description": "Le Coprin épars, aussi appelé « bonnet des fées », est un tout petit champignon délicat formant des touffes massives. Les chapeaux individuels mesurent 0,5 à 1,5 cm de diamètre, ovales à en cloche, crème pâle à gris-beige avec des sillons radiaux. La surface est lisse, non écailleuse. Les lames sont adnées, blanches à gris pâle, NE se liquéfiant PAS fortement en encre (différence essentielle avec les autres coprins — les lames s'effritent plutôt que de devenir liquides). Le pied mesure 2 à 4 cm de haut, extrêmement fin (comme un fil), blanc, fragile. Fructifie en touffes énormes et denses de centaines à des milliers d'individus.",
+  "habitat": "Présent sur le bois mort : souches, troncs et débris de bois enterrés. Également sur les copeaux de bois et le paillis. Pousse comme décomposeur du bois en touffes denses spectaculaires. Très commun dans les forêts, les parcs et les zones paysagées. Les troupes massives se trouvent souvent sur de vieilles souches de feuillus.",
+  "season": "Du printemps à l'automne (avril à novembre) dans les régions tempérées. Dans les climats doux, peut fructifier toute l'année. Peut fructifier en continu dans des conditions appropriées. Très persistant tout au long de la saison.",
+  "regions": [
+    "Amérique du Nord (très commun, répandu)",
+    "Europe (très commun)",
+    "dans le monde entier, en régions tempérées",
+    "forêts et zones urbaines",
+    "cosmopolite sur le bois"
+  ],
+  "lookalikes": [
+    "Coprinellus micaceus (comestible) — plus grand, fauve-brun, particules micacées quand il est jeune",
+    "Psathyrella gracilis — petits champignons semblables mais couleur de spores différente",
+    "Autres petits champignons — mais aucun en troupes aussi massives",
+    "Les touffes énormes de centaines de minuscules champignons sont distinctives"
+  ],
+  "safety_notes": "COMESTIBLE mais sans intérêt pratique : techniquement comestible et non toxique, mais bien trop petit pour valoir la peine d'être récolté. Les champignons individuels sont minuscules. Les lames ne se liquéfient pas aussi fortement que celles des autres coprins, mais se détériorent quand même rapidement. Aucune saveur notable. Sans danger mais inutile à récolter. Pas de sosies toxiques. Plus intéressant comme phénomène naturel spectaculaire — les touffes massives de centaines de minuscules champignons sur les souches sont belles et impressionnantes. Apparaît souvent comme un revêtement gris et duveteux sur les troncs. Mieux photographié que mangé. Le nombre impressionnant compense la petite taille dans la nature, mais pas en cuisine.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751486.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 101340,
+      "width": 640,
+      "height": 480,
+      "sha256": "02efec69dfe340a43bc987ebbbda209c0a303c68f689250f54ea245e4d0f87e4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751487.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 122436,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcd77199817a9948da67d3201eb1a9c44cfda21deaee4bfa97050fb45e6b3aa0"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

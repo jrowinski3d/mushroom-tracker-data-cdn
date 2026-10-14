@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecin",
+  "scientific_name": "Laetiporus cincinnatus",
+  "common_name": "White-pored Chicken of the Woods (Laetiporus cincinnatus)",
+  "edibility": "E",
+  "description": "Console orange à rose saumon avec une surface des pores BLANCHE à crème pâle (pas jaune), formant des rosettes de tablettes chevauchantes de 2 à 10 pouces de large. Aspect similaire à L. sulphureus mais distingué par les pores blancs et la fructification au sol. Tendre et succulent jeune. Plusieurs tablettes émanent d'un point d'attache central enraciné sur du bois enterré ou des racines d'arbres. Console annuelle.",
+  "habitat": "Saprobe sur le bois enterré et les racines d'arbres feuillus morts, notamment le chêne. Semble pousser du sol à la base des arbres ou sur des racines et souches enterrées. Forme de grandes rosettes à plusieurs étages près des chênes ou autour. Forêts de feuillus de l'est. Provoque une pourriture blanche du bois enterré.",
+  "season": "De la fin du printemps à l'automne, typiquement de mai à septembre. Pic de fructification en juin-août. Calendrier similaire à L. sulphureus mais apparaît souvent légèrement plus tard dans la saison. Poussées après les pluies chaudes.",
+  "regions": [
+    "Est de l'Amérique du Nord",
+    "Midwest",
+    "région des Grands Lacs",
+    "Sud-Est des États-Unis",
+    "région des Appalaches",
+    "À l'est des Grandes Plaines"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (pores jaunes, pousse sur troncs/bûches)",
+    "Autres espèces de Laetiporus (pores jaunes)",
+    "Meripilus sumstinei (brun plus foncé, noircissement noir, texture différente)",
+    "Bondarzewia berkeleyi (crème-brun, texture/pores différents)"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX jeune et tendre : Provoque généralement moins de troubles digestifs que L. sulphureus chez les personnes sensibles. Ne récolter que des spécimens jeunes, tendres, souples, à texture humide. Éviter les spécimens vieux, durs et secs. Bien cuire. La surface des pores blanche et la croissance au sol aident à identifier cette espèce plus douce. Considéré comme l'un des Laetiporus les plus sûrs pour les débutants. Texture et saveur excellentes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713404.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 64984,
+      "width": 480,
+      "height": 640,
+      "sha256": "cfcfc8e6929b6b7b186c9d8b7f453a52eafdab1c72b10833292eaae440b74631"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1707085.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-06",
+      "file_size_bytes": 85890,
+      "width": 640,
+      "height": 482,
+      "sha256": "4c8aa9fcaf1604f40898dd031118dab429d31bb1ba246b123438ea956c844655"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

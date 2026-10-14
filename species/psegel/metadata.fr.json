@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "psegel",
+  "scientific_name": "Pseudohydnum gelatinosum",
+  "common_name": "Gelée dentée",
+  "edibility": "E",
+  "description": "La Gelée dentée est un champignon unique combinant les traits des champignons à dents et des champignons gélatineux. Chapeau de 2 à 8 cm de diamètre, en forme de spatule ou d'éventail, translucide, gris-blanc à brun pâle, de texture gélatineuse. La face supérieure est lisse et semblable à de la gelée. La face inférieure porte des aiguillons/dents blancs et mous (0,5 à 3 mm de long) au lieu de lames ou de pores. Le pied est latéral (excentré) ou absent, de 1 à 4 cm lorsqu'il est présent. La texture est caoutchouteuse-gélatineuse, ferme mais translucide, se réhydratant après dessiccation.",
+  "habitat": "Trouvé sur les troncs et souches de conifères bien décomposés, particulièrement la pruche, l'épinette, le sapin et le pin. Pousse sur le bois très décomposé en stade avancé de décomposition. Commun dans les forêts de conifères montagnardes. Fructifie dispersé à grégaire, souvent en groupes imbriqués sur les troncs. Préfère les forêts fraîches et humides, riches en débris ligneux.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans les régions montagneuses. Dans le Pacifique Nord-Ouest et les zones côtières, peut fructifier jusqu'en hiver (décembre-janvier). Le pic de fructification a lieu à l'automne par temps frais et humide. Nécessite une humidité constante et des températures fraîches.",
+  "regions": [
+    "Pacifique Nord-Ouest (très commun)",
+    "montagnes de la Californie du Nord",
+    "montagnes Rocheuses",
+    "nord-est de l'Amérique du Nord",
+    "Europe (répandu)",
+    "forêts de conifères tempérées boréales du monde entier"
+  ],
+  "lookalikes": [
+    "Phlebia tremellosa (non comestible) — gélatineuse mais sans dents, présente des rides/plis",
+    "Espèces d'Hericium (comestibles) — dents blanches mais chair ferme, non gélatineuse",
+    "Espèces de Tremella (comestibles) — en forme de cerveau, sans dents",
+    "Pas de sosies toxiques"
+  ],
+  "safety_notes": "COMESTIBLE mais sans intérêt culinaire : considéré comme comestible et sans danger, mais avec peu de saveur et une texture inhabituelle. La structure gélatineuse mais dentée en fait plus une curiosité qu'un aliment. Peut être cuisiné en soupes ou poêlé. Il n'existe pas de sosies toxiques. La combinaison d'un chapeau gélatineux translucide et de dents blanches est absolument distinctive — aucun autre champignon ne partage cette combinaison. Sans danger à essayer, mais la plupart des cueilleurs le délaissent. Plus intéressant d'un point de vue mycologique que culinaire. La texture gélatineuse et les aiguillons sont inimitables.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707931.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 91868,
+      "width": 640,
+      "height": 482,
+      "sha256": "72de83a7606453350317a3d488438eccdafd5baf9faeb58d71c3f4935958b6c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1701347.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 86236,
+      "width": 640,
+      "height": 640,
+      "sha256": "3e50e22dcbd0ebbd8f8a4e4295c0ddd6857f8b0efff85aec3b0eb890769555cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

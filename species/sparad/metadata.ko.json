@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sparad",
+  "scientific_name": "Sparassis radicata",
+  "common_name": "Rooting Cauliflower Mushroom (Sparassis radicata)",
+  "edibility": "E",
+  "description": "뿌리 꽃송이버섯은 S. crispa와 비슷하게 콜리플라워를 닮은 크림색~황금빛 노란색 덩어리(너비 10–30cm)를 이룬다. 자실체는 중심 밑동에서 뻗어 나온 수많은 얇고 프릴이 있으며 물결 모양의 엽편 또는 납작한 가지로 이루어진다. 색은 S. crispa보다 대체로 더 밝은 노란색~황금빛 노란색이다. 신선할 때 조직은 아삭하다. 밑동에는 묻힌 활엽수 뿌리까지 깊이 뻗는 뚜렷한 뿌리내림 구조가 있다. 엽편은 빽빽하게 주름지고 모여 있다.",
+  "habitat": "활엽수, 특히 참나무의 밑동에서 발견되며 침엽수에서는 드물다. 살아 있는 나무의 뿌리에 기생하거나 죽은 활엽수의 묻힌 뿌리에서 난다. 뿌리내림 밑동이 뿌리까지 깊이 뻗는다. 나무 밑동에서 열매를 맺어 땅에서 나오는 것처럼 보인다. 성숙한 활엽수림을 좋아한다.",
+  "season": "대부분 지역에서 늦여름~가을(8~11월). 가을에 열매를 가장 많이 맺는다. 여러 해에 걸쳐 같은 자리에 날 수 있다. 따뜻한 여름 뒤 가을비가 필요하다.",
+  "regions": [
+    "북미 동부 (드묾)",
+    "유럽 (널리 분포하나 드묾)",
+    "온대 활엽수림",
+    "참나무림",
+    "전체적으로 S. crispa보다 드묾"
+  ],
+  "lookalikes": [
+    "Sparassis crispa(식용 가능) - 매우 비슷하나 침엽수에서 나고 색이 옅다",
+    "Sparassis spathulata(식용 가능) - 서부종, 외형 비슷",
+    "Grifola(잎새버섯, 식용 가능) - 회갈색 로제트, 식감 다름",
+    "독성 있는 유사종 없음"
+  ],
+  "safety_notes": "최상급 식용: S. crispa와 비슷한 맛과 식감의 훌륭한 식용버섯. 발견되는 곳에서는 높이 평가받는다. 아삭한 식감과 순한 맛이 뛰어나다. 다양한 요리에 훌륭하다. 구조에 이물질이 잘 끼므로 매우 깨끗이 세척할 것. 신선하고 색이 옅을 때가 가장 좋다. 늙은 개체는 질긴다. 반드시 완전히 익혀 먹을 것. 외형이 독특해 위험한 유사종이 없다. 드물지만 찾을 만한 가치가 있다. 뿌리내림 밑동과 활엽수(특히 참나무)와의 공생이 침엽수의 S. crispa와 구별되는 점이다. 조건이 맞으면 같은 자리에 난다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1641786.jpg",
+      "photographer": "Chitin-da-breeze",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-01",
+      "file_size_bytes": 66534,
+      "width": 640,
+      "height": 591,
+      "sha256": "bcbd753dd1d35cb3b8dcb17a2e09c8514ce77c188f0464c6f45cd12f5fb2125b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608950.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-06",
+      "file_size_bytes": 126206,
+      "width": 480,
+      "height": 640,
+      "sha256": "6cd4eb6fcfc3e41a5c6b91f561a2396b6d38cef36f550bd9a10a4c641ca84782"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.522645",
+  "source_language": "en"
+}

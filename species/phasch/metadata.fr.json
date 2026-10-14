@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phasch",
+  "scientific_name": "Phaeolus schweinitzii",
+  "common_name": "Polypore des teinturiers",
+  "edibility": "E",
+  "description": "Grand polypore irrégulier en console ou en rosette de 2 à 12 pouces de large avec des couleurs distinctives brun-rouille à brun orangé quand il est jeune, devenant brun foncé à noir avec l’âge. Texture molle et spongieuse à l’état frais, développant une surface des pores jaune vif. Forme des consoles, des rosettes ou des tablettes irrégulières. Provoque une pourriture brune cubique. Contexte brun foncé avec des stries jaunes. Vieillit en noir friable.",
+  "habitat": "Parasite et saprotrophe à la base et sur les racines des conifères vivants et morts, en particulier le pin, l’épicéa, le sapin et le douglas. Provoque une pourriture brune cubique de la souche et des racines chez les conifères. Pousse à partir du sol près de la base des arbres, sur les racines et sur le bas des troncs. Commun dans les forêts de conifères.",
+  "season": "De l’été à l’automne, généralement de juillet à octobre. Les fructifications annuelles apparaissent à la fin de l’été. Peuvent persister à l’automne en devenant sombres et friables. Pic en août-septembre dans les forêts de conifères.",
+  "regions": [
+    "montagnes Rocheuses",
+    "Pacifique Nord-Ouest",
+    "Forêts de conifères du Nord",
+    "région des Grands Lacs",
+    "chaîne des Cascades",
+    "Circumboréal dans les forêts nordiques"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (couleurs plus vives, texture différente)",
+    "Inonotus tomentosus (habitat similaire, couleurs différentes)",
+    "Onnia tomentosa (similaire mais motif zoné)",
+    "Autres polypores bruns des conifères (diverses espèces)"
+  ],
+  "safety_notes": "DÉCONSEILLÉ À LA CONSOMMATION : malgré sa classification de comestibilité, cette espèce est généralement considérée comme NON COMESTIBLE en raison de sa texture extrêmement coriace et spongieuse et de son goût amer, même jeune. Provoque des troubles digestifs chez la plupart des personnes qui tentent de la manger. Historiquement utilisée pour la teinture (produit de beaux jaunes, ors et verts pour la laine). Mieux appréciée pour son rôle écologique et ses propriétés tinctoriales que pour l’alimentation. Trop coriace et amère pour être consommée.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1735596.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 114742,
+      "width": 480,
+      "height": 640,
+      "sha256": "3928b93ec106fb8d79f9607b03de0dd8bd425be03e42df494f0eade96c49af13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1735597.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 138586,
+      "width": 480,
+      "height": 640,
+      "sha256": "85795157976288edec84c0662da804ef1c76f232f6f7450bdd5e4cb580189d6c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

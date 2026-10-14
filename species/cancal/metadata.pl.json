@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancal",
+  "scientific_name": "Cantharellus californicus",
+  "common_name": "California Chanterelle (Cantharellus californicus)",
+  "edibility": "E",
+  "description": "Pieprznik kalifornijski (zwany też „błotnym szczeniakiem”) ma biały do blado kremowego kapelusz o szerokości 5–15 cm, często przebarwiający się na żółtobrązowo lub pomarańczowobrązowo, zwłaszcza przy dotknięciu lub z wiekiem. Kapelusz z wiekiem staje się głęboko lejkowaty, o falistych, nieregularnych brzegach. Spód pokryty grubymi, tępymi, rozwidlonymi listewkami (NIE są to prawdziwe blaszki), białymi do kremowych, szeroko rozstawionymi, zbiegającymi po trzonie. Trzon pełny, krępy, 3–10 cm wysokości, biały do kremowego, często dość masywny. Miąższ biały, bardzo zwarty, o łagodnym do lekko pieprznego zapachu. Wysyp zarodników biały do blado kremowego.",
+  "habitat": "Grzyb mikoryzowy, związany głównie z dębem kalifornijskim (Quercus agrifolia), a także z tanoakiem (Notholithocarpus densiflorus), madronią (Arbutus menziesii) i daglezją zieloną w mieszanych nadbrzeżnych lasach. Występuje w dąbrowach, mieszanych lasach wieczniezielonych i w kalifornijskim pasie mgieł nadbrzeżnych. Preferuje dobrze przepuszczalne zbocza i miejsca z głęboką ściółką liściastą.",
+  "season": "Zimowa pora deszczowa (listopad–marzec), owocowanie wraz z nadejściem zimowych deszczów w Kalifornii. Szczyt sezonu przypada zwykle na grudzień–luty. Przy utrzymującej się wilgotności może owocować do wczesnej wiosny. W przeciwieństwie do północnych pieprzników jest to grzyb przede wszystkim zimowy.",
+  "regions": [
+    "kalifornijskie pasma nadbrzeżne",
+    "rejon Zatoki San Francisco",
+    "nadbrzeżne lasy północnej Kalifornii",
+    "zachodnie przedgórza Sierra Nevada",
+    "południowy Oregon (rzadki)"
+  ],
+  "lookalikes": [
+    "Cantharellus subalbidus – jadalny, podobna biała barwa, występuje na północno-zachodnim wybrzeżu Pacyfiku pod drzewami iglastymi, brak brązowego przebarwiania",
+    "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) – nietrująca, ale kiepskiej jakości, ma prawdziwe cienkie blaszki, bardziej pomarańczowa",
+    "Gatunki Hygrophorus – jadalne, mają prawdziwe, szerzej rozstawione blaszki, inna konsystencja"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Pieprznik kalifornijski jest wysoko ceniony i należy do najważniejszych komercyjnie grzybów dziko rosnących w Kalifornii. Grube, tępe listewki to kluczowa cecha identyfikacyjna – są woskowate w dotyku i nie dają się łatwo oddzielić od kapelusza, w przeciwieństwie do ostro zakończonych prawdziwych blaszek gatunków podobnych. Masywna, zwarta konsystencja sprawia, że doskonale nadaje się do gotowania; dobrze znosi duszenie i ma łagodny, przyjemny smak. Brązowe przebarwianie przy dotknięciu jest normalne. U niektórych osób może powodować łagodne dolegliwości trawienne – zacznij od małych porcji.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1642142.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 24490,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4d3c1a990e345847d4669b5966cdbb34a2d001e2085e4c714b20182fe14493"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1642143.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 107254,
+      "width": 640,
+      "height": 480,
+      "sha256": "52dc637c1a89cd90b8a166176011a9685cad6b1a79e3bf11fc4383ba4aea79f6"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.203001",
+  "source_language": "en"
+}

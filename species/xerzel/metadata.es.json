@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "xerzel",
+  "scientific_name": "Xerocomellus zelleri",
+  "common_name": "Zeller's Bolete (Xerocomellus zelleri)",
+  "edibility": "E",
+  "description": "El boleto de Zeller presenta un distintivo sombrero de color marrón oscuro a negruzco (4-12 cm) con superficie aterciopelada y seca que a menudo se agrieta con la edad. Los poros son de color amarillo brillante cuando es joven, con azuleamiento verdoso al manipularlos. El pie amarillo no tiene reticulación, pero puede mostrar manchas de color marrón rojizo en la base. La carne amarilla se mancha al instante de azul intenso al cortarla — una reacción espectacular. Esporada de color marrón oliva.",
+  "habitat": "Micorrícico con tanoak, madroño y abeto de Douglas en los bosques de la costa del Pacífico. Prefiere bosques mixtos de frondosas y coníferas con tanoak o madroño. Se encuentra en bosques costeros y robledales con frondosas perennifolias.",
+  "season": "De otoño a invierno (octubre-febrero), con fructificación máxima en noviembre-diciembre. Fructificación de final de temporada tras las lluvias otoñales e invernales en la costa.",
+  "regions": [
+    "Pacífico Noroeste",
+    "norte de California",
+    "cordillera de la costa de Oregón",
+    "cordilleras costeras de California",
+    "sur de Oregón",
+    "bosques de tanoak y madroño"
+  ],
+  "lookalikes": [
+    "especies de Boletus — la mayoría carece de la espectacular reacción de azuleamiento",
+    "Otras especies de Xerocomellus — colores o distribuciones diferentes",
+    "especies de Suillus — sombreros viscosos, hábitat diferente",
+    "El sombrero oscuro aterciopelado y la fuerte tinción azul son distintivos"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto de Zeller es un buen comestible, de textura firme y sabor suave. La espectacular reacción de azuleamiento es completamente normal y segura. Cocinar bien antes de comer. El sombrero oscuro aterciopelado, los poros amarillos brillantes y el fuerte azuleamiento distinguen esta especie. Algunas personas pueden sufrir molestias digestivas leves.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1628073.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 151388,
+      "width": 477,
+      "height": 640,
+      "sha256": "1065d4ae22b7fc7a2af969dc6886731db93070af88a30ab0b37a8f6c860bda5d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1628074.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 108502,
+      "width": 480,
+      "height": 640,
+      "sha256": "edbac5849057adacd51bd5de769ad519ca078bb0708a8ad35f58ab9218700777"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "xerzel",
+  "scientific_name": "Xerocomellus zelleri",
+  "common_name": "Zeller's Bolete (Xerocomellus zelleri)",
+  "edibility": "E",
+  "description": "Xerocomellus zelleri ma charakterystyczny ciemnobrązowy do czarniawego kapelusz (4–12 cm) o aksamitnej, suchej powierzchni, często pękającej z wiekiem. Pory za młodu jasnożółte, siniejące na niebieskozielono po dotknięciu. Żółty trzon nie ma siateczki, lecz u podstawy może mieć rdzawobrązowe plamy. Żółty miąższ na przekroju natychmiast sinieje na głęboki niebieski — spektakularna reakcja. Wysyp zarodników oliwkowobrązowy.",
+  "habitat": "Mikoryzowy z Notholithocarpus, chruściną i daglezją w lasach wybrzeża Pacyfiku. Preferuje mieszane lasy liściasto-iglaste z Notholithocarpus lub chruściną. Występuje w lasach nadbrzeżnych i dąbrowach z wiecznie zielonymi drzewami liściastymi.",
+  "season": "Od jesieni do zimy (październik–luty), szczyt owocnikowania w listopadzie–grudniu. Późnosezonowe owocnikowanie po jesiennych i zimowych deszczach wzdłuż wybrzeża.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Północna Kalifornia",
+    "nadbrzeżne pasmo górskie Oregonu",
+    "nadbrzeżne pasma górskie Kalifornii",
+    "południowy Oregon",
+    "lasy z Notholithocarpus i chruściną (Arbutus)"
+  ],
+  "lookalikes": [
+    "Gatunki Boletus — większość nie ma spektakularnej reakcji sinienia",
+    "Inne gatunki Xerocomellus — inne barwy lub zasięgi",
+    "Gatunki Suillus — śluzowate kapelusze, inne siedlisko",
+    "Ciemny aksamitny kapelusz i silne sinienie są charakterystyczne"
+  ],
+  "safety_notes": "JADALNY: Xerocomellus zelleri to dobry grzyb jadalny o twardej teksturze i łagodnym smaku. Spektakularna reakcja sinienia na niebiesko jest całkowicie normalna i bezpieczna. Dokładnie ugotować przed spożyciem. Ciemny aksamitny kapelusz, jasnożółte pory i silne sinienie wyróżniają ten gatunek. U niektórych osób mogą wystąpić łagodne dolegliwości trawienne.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1628073.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 151388,
+      "width": 477,
+      "height": 640,
+      "sha256": "1065d4ae22b7fc7a2af969dc6886731db93070af88a30ab0b37a8f6c860bda5d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1628074.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-27",
+      "file_size_bytes": 108502,
+      "width": 480,
+      "height": 640,
+      "sha256": "edbac5849057adacd51bd5de769ad519ca078bb0708a8ad35f58ab9218700777"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

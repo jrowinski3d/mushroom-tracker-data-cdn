@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "lacsub",
+  "scientific_name": "Lactarius subpurpureus",
+  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
+  "edibility": "E",
+  "description": "Le lactaire du groupe subdulcis présente un chapeau brun-rougeâtre (3-8 cm), lisse. Lames rose pâle. Pied de couleur similaire. CLÉ : LAIT BLANC, goût doux. Petite espèce aux couleurs rose-beige. Chair pâle. Sporée crème rosâtre.",
+  "habitat": "Mycorhizien des CONIFÈRES et des feuillus. Pousse dans les forêts mixtes. Dispersé.",
+  "season": "De l'été à l'automne (juillet-octobre).",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest"
+  ],
+  "lookalikes": [
+    "Autres petits lactaires — vérifier la couleur et le goût"
+  ],
+  "safety_notes": "COMESTIBLE : Saveur douce. Le LAIT BLANC + le GOÛT DOUX sont diagnostiques pour ce sous-groupe. Meilleur jeune. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722244.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 44232,
+      "width": 640,
+      "height": 427,
+      "sha256": "0498b5201c9cd15c3c0834733e401ccbc2f1868abfe53781f01aab90cb4ac699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722245.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "file_size_bytes": 42834,
+      "width": 640,
+      "height": 427,
+      "sha256": "f200757574e7abfcd0ced99c8ee3b2668fe99470c04396ee020ca016d951e0f8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancal",
+  "scientific_name": "Cantharellus californicus",
+  "common_name": "California Chanterelle (Cantharellus californicus)",
+  "edibility": "E",
+  "description": "Kalifornienkantarellen (även kallad Mud Puppy) har en vit till blek gräddvit hatt 5–15 cm bred som ofta får gulbruna eller orangebruna fläckar, särskilt vid beröring eller med åldern. Hatten blir djupt trattlik vid mognad och har vågig, oregelbunden kant. Undersidan har tjocka, trubbiga, gafflade ribbor (INTE äkta skivor) som är vita till gräddvita, glest ställda och löper nedför foten. Foten är solid, kraftig, 3–10 cm hög, vit till gräddvit, ofta ganska robust. Köttet är vitt, mycket fast, med mild till lätt pepprig doft. Sporfällningen är vit till blek gräddvit.",
+  "habitat": "Mykorrhiza främst med kalifornisk kustek (Quercus agrifolia), även med tanoak, madrone och douglasgran i blandade kustskogar. Förekommer i ekskogar, blandade städsegröna skogar och Kaliforniens kustdimbälte. Föredrar väldränerade sluttningar och områden med djupt lövförna.",
+  "season": "Vinterns regnsäsong (november–mars), fruktar med de vinternära regnen i Kalifornien. Högsäsong är vanligen december–februari. Kan fortsätta frukta in på våren om fukten består. Till skillnad från nordliga kantareller är detta främst en vintersvamp.",
+  "regions": [
+    "Kaliforniens kustberg",
+    "San Francisco Bay-området",
+    "Norra Kaliforniens kustskogar",
+    "Sierra Nevadas västra förberg",
+    "Södra Oregon (sällsynt)"
+  ],
+  "lookalikes": [
+    "Cantharellus subalbidus – Ätlig, liknande vit färg, finns i nordvästra USA med barrträd, saknar brun missfärgning",
+    "Narrkantarell (Hygrophoropsis aurantiaca) – Inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange färg",
+    "Hygrophorus-arter – Ätliga, har äkta skivor som står glesare, annan konsistens"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Kalifornienkantarellen är högt uppskattad och en av de viktigaste kommersiella vilda svamparna i Kalifornien. De tjocka, trubbiga ribborna är det kritiska identifieringskännetecknet – de känns vaxartade och kan inte lätt lossas från hatten, till skillnad från de vassa äkta skivorna hos liknande arter. Den robusta, fasta konsistensen gör den utmärkt att tillaga; den håller bra vid stekning och har en mild, behaglig smak. Den bruna missfärgningen vid beröring är normal. Vissa personer kan få lindriga magbesvär – börja med små portioner.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1642142.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 24490,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4d3c1a990e345847d4669b5966cdbb34a2d001e2085e4c714b20182fe14493"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1642143.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 107254,
+      "width": 640,
+      "height": 480,
+      "sha256": "52dc637c1a89cd90b8a166176011a9685cad6b1a79e3bf11fc4383ba4aea79f6"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.203001",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "coplag",
+  "scientific_name": "Coprinopsis lagopus",
+  "common_name": "토끼발먹물버섯",
+  "edibility": "E",
+  "description": "토끼발먹물버섯은 높이 4–10cm, 갓 너비 2–5cm의 작고 섬세한 버섯이다. 갓은 타원형에서 종 모양이며, 흰색에서 옅은 회갈색이고, 특히 어릴 때 빽빽한 흰색 솜털 또는 양모 같은 털이 덮여 털북숭이 모습을 보인다(토끼 발을 닮아 이름이 붙었다). 표면에는 긴 비단 같은 섬유가 있다. 주름살은 이생, 흰색에서 회색이 되었다가 검어지며 자가용해된다. 대는 높이 4–10cm, 가늘고 흰색이며 비슷한 양모 털이 덮여 있고 속이 비어 있다. 버섯 전체가 털이 많은 모습을 하고 있다.",
+  "habitat": "초지, 잔디밭, 목초지, 공원, 길가 가장자리, 교란된 땅에서 발견된다. 영양분이 풍부한 토양을 선호하며, 종종 가축이 방목하거나 분변 근처에서 자란다. 풀밭에서 지생하며, 흩어지거나 무리지어 발생한다. 관리되는 초지와 방목지에서 흔하다.",
+  "season": "온대 지역에서는 봄에서 가을(5–11월). 절정은 늦봄과 여름이다. 따뜻한 기후에서는 겨울까지 발생할 수 있다. 따뜻하고 습한 날씨에 가장 흔하다.",
+  "regions": [
+    "유럽(널리 분포)",
+    "북아메리카(덜 흔함)",
+    "전 세계 온대 초지",
+    "방목지",
+    "적합한 서식지에 범세계적 분포"
+  ],
+  "lookalikes": [
+    "Coprinus comatus(식용) — 훨씬 크고, 솜털이 아닌 털 인편",
+    "Coprinopsis lagopides — 거의 동일, 구분에는 현미경 필요",
+    "어린 Agaricus 또는 Amanita — 그러나 솜털 표면과 검게 자가용해되는 주름살이 없음",
+    "Parasola 속 — 더 작고 털이 덜함"
+  ],
+  "safety_notes": "식용이나 저질: 어릴 때는 식용으로 여겨지나 풍미는 밋밋하고 조직이 좋지 않다. 작은 크기와 섬세한 특성 때문에 비실용적이다. 알려진 독성은 없으나 흔히 채취하지 않는다. 알코올 상호작용은 없다. 주름살이 빠르게 자가용해되므로 즉시 사용해야 한다. 주름살이 검어지기 전의 어린 개체만 식용 가능하다. 양모털 같은 외관은 매력적이나 식용 품질로 이어지지는 않는다. 안전하지만 먹을 가치는 없다. 유독 유사종이 없다. 솜 같은 흰색 털이 매력적인 털북숭이 모습을 만든다. 식품보다는 표본으로 더 흥미롭다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723677.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 80168,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb65a2e8b50fd754a18e94db92f351c950f6aad16c9436862b1b4e582849bcf9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723658.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-08",
+      "file_size_bytes": 69772,
+      "width": 640,
+      "height": 524,
+      "sha256": "12799b2ca72edccdf51732a8de50992a20502b6b4f9c593c8dcde2c35988af72"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

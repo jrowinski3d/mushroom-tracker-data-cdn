@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hyplac",
+  "scientific_name": "Hypomyces lactifluorum",
+  "common_name": "Lobster Mushroom (Hypomyces lactifluorum)",
+  "edibility": "E",
+  "description": "랍스터버섯은 사실 버섯이 아니라 숙주 버섯(무당버섯속 Russula와 젖버섯속 Lactarius)을 식용 표본으로 변형시키는 밝은 주황색 기생 균류이다. 감염된 버섯은 단단한 밝은 주황색에서 적주황색 껍질로 완전히 덮인다. 모양은 숙주의 형태를 유지하며(종종 주름살이나 관공이 보임), 표면은 거칠고 오돌토돌하거나 사마귀 모양이다. 크기는 숙주에 따라 5~15cm로 다양하다. 살은 흰색에 주황색 대리석 무늬가 있고 단단하고 치밀하다. 전체 구조는 단단하고 무거워진다. 익힌 랍스터나 새우를 닮은 해산물 향이 난다.",
+  "habitat": "숙주 종(흰색 또는 옅은 색 무당버섯 종과 젖버섯 종)이 자라는 침엽수림과 혼합림에서 발견된다. 기생균은 지하의 어린 단추와 감수성 종의 어린 버섯을 식민지화한다. 흰색 또는 옅은 색 무당버섯 종과 젖버섯 종에 가장 흔히 기생한다. 숙주가 풍부한 곳에서 흩어지거나 무리 지어 발생한다. 비옥한 토양과 숙주의 균근 연관 지역을 선호한다.",
+  "season": "숙주 발생에 따라 늦여름부터 가을(7월~11월). 늦여름과 초가을(8월~10월)에 발생 절정. 시기는 숙주 버섯 출현을 따른다. 숙주가 잘 발생하는 해에 더 흔하다.",
+  "regions": [
+    "북미 동부 (흔함)",
+    "태평양 북서부 (매우 흔함)",
+    "로키산맥",
+    "북부 캘리포니아",
+    "미국 남동부",
+    "숙주가 있는 북미 전역"
+  ],
+  "lookalikes": [
+    "다른 균류에 감염된 Russula emetica - 유독 숙주이므로 위험할 수 있음",
+    "Hypomyces가 없는 Lactarius 종 - 유독 젖버섯일 수 있음",
+    "다른 주황색 균류 - 하지만 단단한 껍질과 변형된 외형이 없음",
+    "중요: 전체 버섯을 덮는 단단한 주황색 껍질을 반드시 확인할 것"
+  ],
+  "safety_notes": "최상급 식용: 가장 안전하고 가장 찾는 야생버섯 중 하나이다. Hypomyces 기생은 유독 숙주 종조차 식용 표본으로 변형시킨다. 기생균은 숙주 독소를 중화하고 자체 식용 자실체를 만든다. 단단한 질감과 해산물 같은 맛으로 크게 귀하게 여겨진다. 식당에서 인기 있다. 중요한 동정 요건: 단단한 주황색 껍질로 완전히 덮였는지, 노출된 주름살이나 관공이 없는지(숙주가 완전히 덮임), 단단하고 치밀한 살, 순한 해산물 향을 확인할 것. 부분적 피막은 유독 숙주가 아직 남아 있는 초기 기생일 수 있으므로 피하라. 충분히 조리하라. 볶음, 수프, 랍스터 대용으로 훌륭하다. 정확히 동정하면 유독 유사종이 없이 매우 안전하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1704596.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-12",
+      "file_size_bytes": 63526,
+      "width": 640,
+      "height": 480,
+      "sha256": "acda8b6cd5e164f36ada0e732c42d1f2383bf7585c9742be453479f8e4951f0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1704580.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-10",
+      "file_size_bytes": 133344,
+      "width": 480,
+      "height": 640,
+      "sha256": "f1c7fc75c4e79e66f10e033cde7d397acadeb2d14cc68c045567a456685d10b9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.452340",
+  "source_language": "en"
+}

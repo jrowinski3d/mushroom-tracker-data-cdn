@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlbru",
+  "scientific_name": "Chlorophyllum brunneum",
+  "common_name": "Lépiote brune",
+  "edibility": "P",
+  "description": "La Fausse coulemelle ou Lépiote brune est un champignon de taille moyenne à grande avec un chapeau de 5 à 20 cm de diamètre, d'abord arrondi devenant largement convexe. Le chapeau est blanc à crème, couvert d'écailles brunes à brun-rougeâtre plus plates et plus appliquées que celles de C. rhacodes, concentrées vers le centre. La chair se tache d'orange-brun à rougeâtre à la coupe, mais moins intensément que C. rhacodes. Les lames sont libres, blanches à crème, serrées à très serrées. Le pied mesure 8 à 18 cm de haut, lisse ou finement écailleux, avec un anneau proéminent et mobile et une base bulbeuse.",
+  "habitat": "Présente en zones urbaines et suburbaines : jardins, parcs, massifs paysagers, pelouses, paillis de copeaux de bois et sols riches en compost. Fortement associée aux cultures humaines et aux habitats perturbés. Pousse au sol dans des substrats organiques riches en nutriments. Fructifie de manière dispersée à grégaire, apparaissant souvent dans les paysages entretenus et les zones irriguées.",
+  "season": "De la fin de l'été à l'automne (août à décembre) dans les régions tempérées. En Californie et dans les climats doux, fructifie toute l'année avec des pics à l'automne et au printemps (octobre à mai) après les pluies. Plus commune par temps chaud et humide.",
+  "regions": [
+    "Californie (très commun, surtout en zones urbaines)",
+    "Pacifique Nord-Ouest (commun dans les jardins)",
+    "Sud-Ouest des États-Unis",
+    "Texas et États de la côte du Golfe",
+    "climats méditerranéens",
+    "de plus en plus répandu en Amérique du Nord"
+  ],
+  "lookalikes": [
+    "Chlorophyllum rhacodes (comestible avec prudence) — apparence identique, la distinction exige la microscopie ou le séquençage",
+    "Macrolepiota procera (comestible de choix) — beaucoup plus grande et élancée, pied à motif de peau de serpent, ne se tache pas",
+    "Chlorophyllum molybdites (toxique) — sporée verte diagnostique, verdit au toucher",
+    "Espèces de Lepiota (certaines mortelles) — beaucoup plus petites, structure plus délicate"
+  ],
+  "safety_notes": "TOXIQUE : Chlorophyllum brunneum provoque un empoisonnement gastro-intestinal avec des symptômes comprenant de fortes nausées, des vomissements, de la diarrhée et des crampes abdominales. Les symptômes surviennent généralement 1 à 6 heures après la consommation et peuvent être assez graves pour nécessiter une hospitalisation chez les personnes sensibles. Ce champignon est couramment confondu avec la vraie coulemelle comestible (Macrolepiota procera). Bien que certaines personnes puissent le tolérer lorsqu'il est bien cuit à haute température, le risque de graves troubles gastriques le rend impropre à la consommation. Ne mangez pas ce champignon.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713955.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 73850,
+      "width": 480,
+      "height": 640,
+      "sha256": "43f57bc65101b11b8cc5c61cc5822029939dd2195c52fb4d8f5b7d7f28e87303"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635375.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-15",
+      "file_size_bytes": 127184,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ca30358613326e83ce0f817cef763e745536e2397e2ed796d466968c4f10126"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

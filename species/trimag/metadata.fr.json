@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimag",
+  "scientific_name": "Tricholoma magnivelare",
+  "common_name": "Matsutaké d'Amérique",
+  "edibility": "E",
+  "description": "Le matsutaké d'Amérique porte un chapeau robuste blanc à crème (7-20 cm) qui développe des taches ou des souillures fibrilleuses brunâtres avec l'âge, surtout au centre. Le chapeau est convexe à plat, sec, lisse à fibrilleux. Les lames sont blanches, adnées, serrées, se tachant de brun. Le pied est épais, blanc, très ferme et solide, avec un VOILE PARTIEL ÉPAIS DISTINCTIF qui laisse un GRAND ANNEAU COTONNEUX sur le haut du pied. Le caractère diagnostique est la FORTE ODEUR ÉPICÉE, DE CANNELLE, ou de bonbon à la cannelle — inimitable et puissante. La chair est blanche, très dense et ferme. Sporée blanche. Souvent partiellement enfoui, créant des monticules de terre.",
+  "habitat": "Mycorhizien avec les CONIFÈRES dans l'ouest de l'Amérique du Nord, notamment le pin, le douglas, la pruche et les vrais sapins. Forme des relations mycorhiziennes obligatoires. Pousse au sol, souvent profondément enfoui dans la litière, les aiguilles ou le sol sableux. Trouvé dans les forêts de conifères matures du niveau de la mer à la haute montagne. Préfère les sols bien drainés.",
+  "season": "Automne (septembre-novembre), fructifiant par temps frais d'automne après les pluies. Pleine saison en octobre dans le Pacifique Nord-Ouest.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Colombie-Britannique",
+    "Californie du Nord",
+    "montagnes Rocheuses",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Tricholoma matsutake — espèce asiatique, pratiquement identique",
+    "Tricholoma murrillianum — espèce du sud-ouest, semblable",
+    "Amanita smithiana — TOXIQUE — volve à la base, odeur douceâtre maladive et non de cannelle",
+    "Catathelasma — semblable mais double voile, odeur différente"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Très prisé et récolté commercialement, se vendant 20 à 100 $+ la livre. La forte ODEUR DE CANNELLE/ÉPICÉE est le caractère clé d'identification — une fois sentie, jamais oubliée. Meilleur jeune et ferme (« boutons » ou à moitié émergé). Nettoyer soigneusement pour préserver la saveur délicate. CRITIQUE : Ne jamais confondre avec la toxique Amanita smithiana — vérifier l'absence de volve (coupe à la base) et confirmer l'odeur de cannelle. L'anneau cotonneux épais et l'absence de volve le distinguent des amanites mortelles.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1715643.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 122810,
+      "width": 640,
+      "height": 427,
+      "sha256": "fd4963ca29205aff3919c81291d7ceee7ffab7bff6418162025184f0f4ae0439"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1715644.jpg",
+      "photographer": "Robert(the 3 foragers)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-13",
+      "file_size_bytes": 113832,
+      "width": 427,
+      "height": 640,
+      "sha256": "7916660a2d94152ffd8f39f242604094222ba8708ef19f62821eea3b280c2d84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

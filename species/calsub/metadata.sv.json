@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calsub",
+  "scientific_name": "Calbovista subsculpta",
+  "common_name": "Sculptured Puffball (Calbovista subsculpta)",
+  "edibility": "E",
+  "description": "Medelstora till stora runda till ovala röksvampar 5–15 cm i diameter med distinkt skulpterad yta av låga polygonala vårtor och plattor som ger ett geometriskt mönster. Vit till beige till brun med åldern. Innandömet kritvitt när ätligt, blir olivgult och sedan brunt. Liten basfästning men ingen framträdande steril bas. Öppnas med oregelbundet hål i toppen. Unikt skulpterat ytmönster.",
+  "habitat": "Saprofytisk i bergiga barrskogar, särskilt under ponderosatall, contortatall, douglasgran och gran. Vanlig i bergs- och fjällskogar. Föredrar väldränerade skogsmarker på högre höjd. Ofta i barrförna och skogsgläntor.",
+  "season": "Sommar till höst i bergen, vanligen juli–oktober. Toppfruktning i augusti–september efter monsunregn. Vanligast mitt till sen sommar i bergsskogar.",
+  "regions": [
+    "Klippiga bergen",
+    "Sierra Nevada",
+    "Kaskadbergen",
+    "Sydvästra bergstrakterna",
+    "Västliga bergsbärrskogar",
+    "Colorado till British Columbia"
+  ],
+  "lookalikes": [
+    "Calvatia booniana (liknande fjäll men tjockare, annat mönster)",
+    "DÖDLIG: Omogna flugsvampsknoppar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Scleroderma-arter/jordröksvampar (giftiga, lila-svart innandöme, tjockare vårtig hud)",
+    "Andra skulpterade Calvatia-arter (liknande ätlighet när vita)"
+  ],
+  "safety_notes": "ÄTLIG när kritvit inuti: KRITISKT – skär alltid exemplaret helt i hälften från topp till botten före förtäring. Ätlig ENDAST om innandömet är helt kritvitt och fast igenom. Om minsta gult, olivfärgat, brunt eller utvecklande strukturer syns inuti: ÄT INTE. Detta förhindrar att giftiga liknande arter och omogna dödliga flugsvampar förtärs. Den distinkta geometriskt skulpterade ytan hjälper identifieringen, men den vita innerfärgen är det avgörande ätlighetstestet. Tillaga noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1470448.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 110874,
+      "width": 480,
+      "height": 640,
+      "sha256": "1db346ac95ce5e6845f24c7c5ce39095fc0dec0aca0834476c6e524233795a42"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1470449.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 95434,
+      "width": 480,
+      "height": 640,
+      "sha256": "65d0b97a71a00df496da6cfe54db57beff034d142d0c6a477522849c340dccf3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

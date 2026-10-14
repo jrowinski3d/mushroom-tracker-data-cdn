@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "aurame",
+  "scientific_name": "Auricularia americana",
+  "common_name": "Oreja de madera americana",
+  "edibility": "E",
+  "description": "La oreja de madera americana es similar a A. auricula-judae pero generalmente más gruesa y robusta. Cuerpos fructíferos de 4-15 cm de diámetro, en forma de oreja a concha, gelatinoso-gomosos. La superficie externa fértil es lisa a algo arrugada, de color marrón a marrón rojizo o marrón violáceo. La superficie interna es grisácea y está cubierta de diminutos pelos aterciopelados (visibles con lupa). La textura es dura-gelatinosa cuando está fresca, se arruga al secarse y revive con la humedad. Carne más gruesa que la oreja de madera europea.",
+  "habitat": "Se encuentra en troncos, ramas y árboles muertos en pie de frondosas. Los hospedantes comunes incluyen arces, robles, olmos y otros árboles de hoja caduca. Crece como descomponedora de madera en bosques, parques y áreas arboladas. Fructifica en grupos superpuestos o filas. Prefiere lugares húmedos y sombreados con humedad constante.",
+  "season": "Desde finales de la primavera hasta el otoño (mayo-noviembre), con picos a finales del verano y en otoño. En climas suaves como el Pacífico Noroeste, puede fructificar todo el año. Más abundante durante el clima cálido y húmedo. Puede aparecer después de lluvias intensas incluso en verano.",
+  "regions": [
+    "Este de Norteamérica (muy común)",
+    "Centro de Estados Unidos",
+    "Pacífico Noroeste (común)",
+    "California",
+    "Sur de Canadá",
+    "En toda la Norteamérica templada"
+  ],
+  "lookalikes": [
+    "Auricularia auricula-judae (comestible) - especie europea, más fina, principalmente en saúco",
+    "Exidia glandulosa (comestible) - más en forma de cerebro, en botón, no en forma de oreja",
+    "Tremella foliacea (comestible) - estructura más plegada y en forma de cerebro",
+    "Sin especies similares tóxicas"
+  ],
+  "safety_notes": "COMESTIBLE: Excelente hongo comestible con usos culinarios idénticos a la oreja de madera asiática. Apreciado por su textura gelatinosa crujiente que persiste en la cocción. Popular en la cocina asiático-americana, sopas y salteados. Cocinar bien: no comer crudo. La especie absorbe bien los sabores manteniendo la textura. No existen especies similares peligrosas entre los hongos gelatinosos. Limpiar bien antes de cocinar. Se puede secar y rehidratar como las variedades asiáticas. La forma de oreja y el crecimiento sobre frondosas son diagnósticos. Cada vez más recolectada comercialmente.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1529622.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 108454,
+      "width": 640,
+      "height": 480,
+      "sha256": "feb8d0b7fa0f9d7834066e8f605377bb4ed08e38816d0e953c62bdb67c943230"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1529623.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-11-23",
+      "file_size_bytes": 89374,
+      "width": 480,
+      "height": 640,
+      "sha256": "34035053592c400b146540f7b4d19fa43a71ceb7abd03512ea30029ac42d7d42"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

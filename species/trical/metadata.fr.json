@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trical",
+  "scientific_name": "Tricholoma caligatum",
+  "common_name": "Matsutaké de Californie",
+  "edibility": "E",
+  "description": "Le matsutaké de Californie porte un chapeau robuste blanc à crème (5-15 cm) souvent avec des taches ou des zones brunâtres se développant avec l'âge. Le chapeau est convexe, sec, lisse à légèrement écailleux ou fibrilleux. Les lames sont blanches à crème, adnées, serrées, pouvant se tacher de brun. Le pied est épais, ferme, blanc, avec un ANNEAU MEMBRANEUX À COTONNEUX provenant du voile partiel — les caractéristiques de l'anneau peuvent varier. Le caractère clé est l'ODEUR DISTINCTIVE ÉPICÉE, DE CANNELLE, ou aromatique. La chair est blanche, ferme. Sporée blanche. Distingué par l'habitat de la côte californienne et l'association avec des espèces d'arbres spécifiques.",
+  "habitat": "Mycorhizien avec les CONIFÈRES et les feuillus en Californie, notamment le chêne vert (Quercus agrifolia), le tanoak (Notholithocarpus), l'arbousier (Arbutus) et le douglas. Forme des relations mycorhiziennes dans les forêts côtières de Californie. Pousse au sol dans la litière ou les feuilles mortes. Trouvé dans les forêts mixtes sempervirentes des chaînes côtières aux contreforts de la Sierra Nevada.",
+  "season": "De la fin de l'automne à l'hiver (novembre-février), fructifiant pendant la saison des pluies californienne — plus tard que les autres matsutakés.",
+  "regions": [
+    "côte californienne",
+    "contreforts de la Sierra Nevada",
+    "chaînes côtières",
+    "Californie du Nord",
+    "région frontalière de l'Oregon"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — matsutaké du Pacifique Nord-Ouest, spécifique aux conifères",
+    "Autres espèces de Tricholoma — diverses, sans odeur de cannelle",
+    "Espèces d'Amanita — TOXIQUES — volve à la base",
+    "Catathelasma — structure à double voile"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Très prisé, récolté commercialement en Californie. L'ODEUR ÉPICÉE DE CANNELLE est diagnostique. Meilleur jeune et ferme. Unique parmi les matsutakés par ses associations avec les feuillus (chêne, tanoak, arbousier) en plus des conifères. CRITIQUE : Toujours vérifier l'absence de volve (coupe à la base) pour écarter les espèces toxiques d'Amanita. L'anneau et l'arôme distinctif confirment l'identification.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709829.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 48448,
+      "width": 640,
+      "height": 427,
+      "sha256": "3d523855db60033f8584ae1a15f1acd6727619de2cbc5db25006025b3844aea8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709830.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 39640,
+      "width": 640,
+      "height": 427,
+      "sha256": "1342cf701d1c7ffb2a2df10c0f7671b8bb3dd32a98a987505432c3b3c9bf7046"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

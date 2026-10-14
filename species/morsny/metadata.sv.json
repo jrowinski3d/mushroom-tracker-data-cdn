@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "morsny",
+  "scientific_name": "Morchella snyderi",
+  "common_name": "Snyder's Morel (Morchella snyderi)",
+  "edibility": "E",
+  "description": "Hatten är 3–10 cm hög, konisk till avlång, med honungskaksmönster av åsar och gropar. Färgen är karakteristisk: unga fruktkroppar är gula till beige och mognar till bruna eller svartbruna på hattens åsar medan groparna förblir blekare; torkade exemplar blir mörkbruna till svarta. Trots den ljusa initiala färgen grupperas den genetiskt med svarta murklor (elata-kladen). Foten är proportionell till hatten, blek, ihålig, slät till svagt skrynklig. Helt ihålig från hattens spets genom foten vid längssnitt. Sporfällning krämfärgad till gulaktig.",
+  "habitat": "Växer under barrträd i västra bergsskogar, särskilt förknippad med douglasgran (Pseudotsuga menziesii), ponderosatall (Pinus ponderosa) och coloradogran (Abies concolor). Fruktar i ostörd gammel barrskog, lätt störda områden som campingplatser och skogsvägar, samt områden med kraftig maskinstörning och vedrester. Till skillnad från många västra murklor INTE främst brandberoende; kan dyka upp flera år efter bränder men fruktar vanligtvis i obrända skogar. En av få västra murklor som tillförlitligt hittas i naturliga miljöer utan nylig brand.",
+  "season": "Vår till tidig sommar (april–juni i de flesta områden). Tidpunkten varierar med höjd och snösmältning; högre belägna platser fruktar senare. I Sierra Nevada och Kaskadbergen följer uppkomsten snösmältningen när marken värms. Kustområden kan se tidigare fruktning (april–maj), medan höga bergsplatser fruktar maj–juni.",
+  "regions": [
+    "Stillahavsnordväst",
+    "Kalifornien",
+    "Klippiga bergen"
+  ],
+  "lookalikes": [
+    "Falsk murkla (Gyromitra-arter) – GIFTIG: hjärnliknande skrynklig eller flikig hatt istället för honungskaksåsar, hatten fäst endast vid fotens topp, kammarförsett inre istället för helt ihåligt, rödbrun färg. Innehåller det dödliga giftet gyromitrin.",
+    "Morchella tomentosa (grå murkla) – Ätlig: luddig/hårig yta särskilt på unga fotar, begränsad till brandfält, tjockare dubbelväggig fot. Samma tillagning krävs.",
+    "Andra svarta murklor (M. elata-gruppen) – Ätliga: olika västra svarta murklarter svåra att skilja i fält, alla har liknande ekologi och kulinariskt värde, korrekt tillagning nödvändig för alla.",
+    "Morchella importuna (anläggningsmurkla) – Ätlig: liknande utseende men växer i urban träflis istället för naturliga barrskogar, stegliknande åsmönster."
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad matsvamp med utmärkt smak, eftersökt av svampjägare i västra bergen. Måste tillagas ordentligt i 15–25 minuter; råa eller otillräckligt tillagade murklor innehåller hydrazingifter som orsakar kraftigt illamående, kräkningar och magbesvär. Tillaga vid temperaturer över 71 °C för att bryta ner de giftiga föreningarna. Vissa personer får allergiska reaktioner även när den är korrekt tillagad; ät små portioner vid första försöket. Sällsynta negativa reaktioner i kombination med alkohol har rapporterats. Kritiskt att skilja från dödliga falska murklor (Gyromitra) som har hjärnliknande skrynkliga hattar istället för honungskaksmönster och kammarförsett (inte ihåligt) inre.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1672682.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-27",
+      "file_size_bytes": 63674,
+      "width": 640,
+      "height": 427,
+      "sha256": "33ccb0ad8089463faff78b6f80c699296e83aff8ba45680027a7953bce20b952"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1668917.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-13",
+      "file_size_bytes": 136614,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef847e0c1c4278192c4cf822dae33d3130dfa2cab3defbac8d80f41f0396b9b4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.300097",
+  "source_language": "en"
+}

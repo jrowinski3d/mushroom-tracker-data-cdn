@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilut",
+  "scientific_name": "Suillus luteus",
+  "common_name": "비단그물버섯",
+  "edibility": "E",
+  "description": "비단그물버섯은 초콜릿갈색~자갈색 갓(지름 5–12cm)으로, 젖으면 표면이 독특하게 끈적거리고 질척거려 쉽게 벗겨진다. 관공은 노란색으로 변색되지 않는다. 뚜렷한 흰색 내피막이 노란색 대에 자갈색 턱받이를 남긴다. 흰색~연노란색 살은 변색되지 않는다. 끈적거리는 갓과 짙은 턱받이가 진단 특징이다. 포자문은 계피갈색.",
+  "habitat": "2~3엽송, 특히 구주소나무와 동부백송과만 균근을 이룬다. 소나무 조림지와 자연 재생된 소나무림에서 흔하다. 어린 소나무가 있는 교란지에서 발견된다.",
+  "season": "여름~가을(7~11월)로 9~10월에 열매를 가장 많이 맺는다. 가을비 뒤에 흔히 풍성하게 난다.",
+  "regions": [
+    "미국 북동부",
+    "오대호 지역",
+    "태평양 북서부",
+    "로키산맥",
+    "소나무 조림지가 있는 모든 곳",
+    "캐나다",
+    "알래스카"
+  ],
+  "lookalikes": [
+    "Suillus granulatus - 대에 짙은 턱받이가 없음",
+    "다른 Suillus 종들 - 소나무와 공생하는 다양한 끈적거리는 갓의 그물버섯",
+    "Boletus 종들 - 끈적거리지 않고 서식지가 다름",
+    "Gomphidius 종들 - 관공이 아닌 주름살이 있음"
+  ],
+  "safety_notes": "식용 가능: 비단그물버섯은 어리고 단단할 때 좋은 식용버섯이다. 끈적거리는 갓 표피는 완하 작용이 있을 수 있으므로 요리 전에 제거할 것. 끈적거리는 조직과 노란색 대의 자갈색 턱받이가 독특하다. 일부 사람은 소화불량을 겪을 수 있다. 반드시 완전히 익혀 먹을 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1724477.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 107790,
+      "width": 640,
+      "height": 427,
+      "sha256": "58d9a1262207963b51189423dc109394b7f49fd2160a342af7d6ed999a630e7b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1724478.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 78526,
+      "width": 640,
+      "height": 427,
+      "sha256": "b5eb12ca74c4875c75f45097ea8581a8f1e41b464135995d4bda4dbfa0b0bab4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

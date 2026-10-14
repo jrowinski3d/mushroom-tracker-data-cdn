@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canlat",
+  "scientific_name": "Cantharellus lateritius",
+  "common_name": "Smooth Chanterelle (Cantharellus lateritius)",
+  "edibility": "E",
+  "description": "La chanterelle lisse a un chapeau orange à orange rosé ou couleur saumon de 2 à 10 cm de large, à la surface nettement lisse. La marge du chapeau est ondulée et devient légèrement en entonnoir avec l’âge. Le dessous porte des plis obtus, peu profonds et fourchus (et NON de vraies lames), orange rosé, bien espacés, descendant le long du pied. Les plis sont moins prononcés que chez les autres chanterelles, parfois à peine visibles. Le pied est plein, de 3 à 8 cm de haut, lisse, orange à rosé, souvent orange plus foncé à la base. La chair est blanche à orange pâle, ferme, avec une odeur douce. Sporée blanche à rosé pâle.",
+  "habitat": "Mycorhizien avec les feuillus de l’est, en particulier le chêne (espèces de Quercus), le hêtre américain et le caryer. Trouvé dans les forêts matures de feuillus, souvent sur les versants bien drainés et les crêtes. Préfère les zones à litière épaisse et aux sols acides dans les forêts mixtes de feuillus.",
+  "season": "Été (juin-septembre), fructifiant par temps chaud et humide après les pluies d’été. La haute saison se situe généralement en juillet-août dans la majeure partie de son aire. Peut se poursuivre au début de l’automne avec une humidité suffisante.",
+  "regions": [
+    "Est des États-Unis (répandu)",
+    "États du Sud-Est (de l’Alabama à la Géorgie)",
+    "Région médio-atlantique (de la Virginie au Maryland)",
+    "Vallée de l’Ohio",
+    "Région des Appalaches"
+  ],
+  "lookalikes": [
+    "Clitocybe lumineux (Omphalotus illudens) — TOXIQUE, possède de vraies lames à arêtes vives, pousse sur le bois, orange plus intense, luminescent dans l’obscurité",
+    "Cantharellus cinnabarinus — comestible, couleur rouge-orange plus profonde, plus petit, sinon très similaire",
+    "Cantharellus appalachiensis — comestible, jaune-orange, plis plus prononcés, souvent trouvé dans le même habitat"
+  ],
+  "safety_notes": "COMESTIBLE : la chanterelle lisse est un bon champignon comestible au goût doux. Le caractère de sécurité clé est d’identifier les plis obtus et peu profonds plutôt que de vraies lames — bien que les plis soient moins prononcés que chez les autres chanterelles, ils restent cireux au toucher et soudés au chapeau. Toujours confirmer qu’elle pousse du sol près des arbres, jamais sur le bois. La surface lisse du chapeau et la couleur orange rosé aident à la distinguer du clitocybe lumineux toxique. Saveur douce et agréable ; à poêler de préférence ou à utiliser dans des plats de champignons mélangés.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493438.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-30",
+      "file_size_bytes": 75652,
+      "width": 640,
+      "height": 480,
+      "sha256": "26868116b9a57188a719e933355a0a3b937d610df76f46a7933a12e8bd97c699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1483380.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-09",
+      "file_size_bytes": 34422,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd03168f86a655c67f8d6caf255feaa08ecf9c6b8baf7645836380b32b7893c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

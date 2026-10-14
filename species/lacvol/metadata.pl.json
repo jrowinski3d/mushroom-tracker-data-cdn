@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacvol",
+  "scientific_name": "Lactifluus volemus",
+  "common_name": "Mleczaj smaczny",
+  "edibility": "E",
+  "description": "Mleczaj smaczny ma pomarańczowobrązowy do czerwonobrązowego kapelusz (5–12 cm), suchy, aksamitny. Blaszki kremowe, gęste, przebarwiające się na brązowo. Trzon w kolorze kapelusza. KLUCZ: OBFITE BIAŁE MLECZKO, u starych owocników RYBI ZAPACH. Mleczko nie zmienia barwy. Miąższ jędrny, biały. Wysyp zarodników biały. Obfite mleczko i rybi zapach są diagnostyczne.",
+  "habitat": "Mikoryzowy z DRZEWAMI LIŚCIASTYMI, zwłaszcza dębem. Rośnie na ziemi w lasach mieszanych i liściastych. Pospolity we wschodnich lasach. Rozproszony lub w grupach.",
+  "season": "Od lata do jesieni (lipiec–październik), owocnikuje przez całą porę.",
+  "regions": [
+    "Wschodnie Stany Zjednoczone",
+    "Środkowy Zachód",
+    "Południowy Wschód",
+    "Południowo-środkowe USA"
+  ],
+  "lookalikes": [
+    "Lactifluus corrugis — podobny, ale większy, pofałdowany kapelusz",
+    "Inne Lactifluus — sprawdź zapach i obfitość mleczka"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Doskonały orzechowy smak mimo rybiego zapachu (zanika po ugotowaniu). OBFITE BIAŁE MLECZKO + RYBI ZAPACH są diagnostyczne. Jeden z najlepszych mleczajów do jedzenia. Najlepszy młody. Gotować dokładnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1713865.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 58696,
+      "width": 640,
+      "height": 482,
+      "sha256": "9110570d37ed7ac338b3c87edd414ce36612f3b4b12e9342a702d3b8fab14cd9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1713866.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 75838,
+      "width": 640,
+      "height": 482,
+      "sha256": "5ee558641d816d1e4d4d17fd656481c977ca91568cbd39ab8da7f573934640ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

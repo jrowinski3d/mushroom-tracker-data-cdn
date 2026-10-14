@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "auraur",
+  "scientific_name": "Auricularia auricula-judae",
+  "common_name": "Oreille de Judas",
+  "edibility": "E",
+  "description": "L'oreille de Judas est un champignon gélatineux distinctif aux fructifications en forme d'oreille de 3 à 12 cm de large. La fructification est fine, caoutchouteuse-gélatineuse, d'abord cupuliforme puis en forme d'oreille ou de coquille avec l'âge. La surface externe (fertile) est lisse à ridée, brun-rougeâtre à brun foncé, souvent avec une teinte gris violacé. La surface interne est beige-gris et légèrement veloutée avec de fins poils. La texture est dure et élastique à l'état frais, devenant dure et ratatinée au sec mais revivant quand elle est humidifiée. Pas de pied distinct.",
+  "habitat": "Pousse sur les branches et troncs morts et mourants de feuillus, en particulier le sureau (Sambucus), mais aussi le chêne, le saule et autres arbres à feuilles caduques. Pousse comme décomposeur du bois, typiquement sur les branches tombées ou le bois mort sur pied. Fructifie en touffes ou en rangées le long des branches. Fréquente dans les forêts humides et les lisières des bois.",
+  "season": "Toute l'année dans les climats doux, mais plus abondante de l'automne au printemps (septembre-mai). Dans les régions tempérées, principalement l'automne et le printemps (août-novembre, mars-mai). Peut fructifier en hiver dans les régions à climat doux et humide. Nécessite une humidité constante.",
+  "regions": [
+    "Europe (répandue)",
+    "Amérique du Nord orientale (commune)",
+    "Pacifique Nord-Ouest",
+    "Californie (occasionnelle)",
+    "Asie (très commune)",
+    "Forêts tempérées du monde entier"
+  ],
+  "lookalikes": [
+    "Auricularia americana (comestible) — très semblable, espèce nord-américaine, légèrement plus épaisse",
+    "Espèces d'Exidia (comestibles) — plus en boutons ou cérébriformes, pas en forme d'oreille",
+    "Espèces de Tremella (comestibles) — structure plus cérébriforme ou plissée",
+    "Bulgaria inquinans (non comestible) — noire, caoutchouteuse, hémisphérique et non en forme d'oreille"
+  ],
+  "safety_notes": "COMESTIBLE : largement consommée dans la cuisine asiatique, prisée pour sa texture croquante et sa capacité à absorber les saveurs. Populaire dans les soupes, les sautés et les salades. Doit être cuite — ne pas manger cru. La texture reste croquante et élastique même après cuisson. Riche en nutriments et couramment cultivée. Les spécimens frais doivent être bien nettoyés car ils retiennent les débris. Les spécimens séchés doivent être réhydratés avant la cuisson. Aucun sosie toxique. La forme d'oreille et la croissance sur le sureau/les feuillus sont distinctives. Sans saveur propre mais excellente pour absorber les sauces.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493169.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 90872,
+      "width": 640,
+      "height": 480,
+      "sha256": "69dca539045c9109d9c02f521e09ad74b3bd49ecd2ff3d03592433c62ea6aa38"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493170.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 99828,
+      "width": 640,
+      "height": 480,
+      "sha256": "53742276a39e5b60e6b660873c86789487ab34456dacbb2744b194aeb71f577b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

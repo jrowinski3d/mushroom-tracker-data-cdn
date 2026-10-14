@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armsin",
+  "scientific_name": "Armillaria sinapina",
+  "common_name": "Mustard Honey Mushroom (Armillaria sinapina)",
+  "edibility": "E",
+  "description": "L'armillaire moutarde a un chapeau JAUNE-BRUN à COULEUR MOUTARDE (4 à 12 cm) avec de petites squames brun foncé, surtout au centre — les tons jaunâtres la distinguent des espèces d'Armillaria plus sombres. Les lames sont blanches à crème, adnées, se tachant de brun avec l'âge. Le pied porte un ANNEAU PERSISTANT souvent épais et cotonneux. Le pied est blanc à jaunâtre au-dessus de l'anneau, brunâtre en dessous. Pousse en TOUFFES DENSES sur les conifères. La chair est blanche, ferme, à l'odeur douce. La sporée est blanche. Rhizomorphes noirs présents. Pathogène des arbres parasite.",
+  "habitat": "Parasite et saprotrophe des CONIFÈRES dans les montagnes de l'ouest, en particulier le pin, le sapin, l'épicéa et le mélèze. Pousse en grandes touffes à la base des conifères vivants ou morts et des souches. Pathogène forestier fréquent à haute altitude. Provoque la pourriture blanche et le pourridié.",
+  "season": "De la fin de l'été à l'automne (août-octobre), fructifiant après les pluies à haute altitude.",
+  "regions": [
+    "montagnes Rocheuses",
+    "Montagnes du Pacifique Nord-Ouest",
+    "Colombie-Britannique",
+    "Alberta",
+    "Rocheuses du Nord"
+  ],
+  "lookalikes": [
+    "Armillaria solidipes — semblable, légèrement plus rougeâtre",
+    "Autres espèces d'Armillaria — toutes exigent une cuisson",
+    "Espèces de Pholiota — spores brunes",
+    "Espèces de Galerina — MORTELLES — plus petites, spores brunes"
+  ],
+  "safety_notes": "COMESTIBLE AVEC PRÉCAUTION : les armillaires (espèces d'Armillaria) sont VÉNÉNEUSES crues et doivent être soigneusement cuites avant consommation. Cuire au moins 10 à 15 minutes à feu vif. Même bien cuites, certaines personnes présentent des réactions allergiques ou des troubles digestifs. Essayer d'abord une petite quantité pour tester votre tolérance. Blanchir avant la cuisson peut aider à réduire les irritants gastro-intestinaux et l'amertume. Ne pas consommer avec de l'alcool — les armillaires peuvent provoquer des réactions indésirables en combinaison avec l'alcool (comme chez Coprinopsis). Ne récolter que des spécimens jeunes et fermes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1287208.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-12-05",
+      "file_size_bytes": 139082,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e66523defb49e3d2c804e6864497805e46688a9beaed94dd7d8ec51ef870eb0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1287208.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-12-05",
+      "file_size_bytes": 139082,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e66523defb49e3d2c804e6864497805e46688a9beaed94dd7d8ec51ef870eb0"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:47:55.208473",
+  "source_language": "en"
+}

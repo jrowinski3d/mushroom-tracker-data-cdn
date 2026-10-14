@@ -1,0 +1,920 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-14T17:22:06Z",
+  "source_language": "en",
+  "target_language": "es",
+  "species": [
+    {
+      "mushroom_id": "agaarv",
+      "scientific_name": "Agaricus arvensis",
+      "common_name": "Champiñón anisado",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "agaaug",
+      "scientific_name": "Agaricus augustus",
+      "common_name": "El Príncipe (Agaricus augustus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "agabit",
+      "scientific_name": "Agaricus bitorquis",
+      "common_name": "Pavement Mushroom (Agaricus bitorquis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "agacam",
+      "scientific_name": "Agaricus campestris",
+      "common_name": "Champiñón campestre",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "agacro",
+      "scientific_name": "Agaricus crocodilinus",
+      "common_name": "Macro Mushroom (Agaricus crocodilinus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "agasub",
+      "scientific_name": "Agaricus subrutilescens",
+      "common_name": "Wine-colored Agaricus (Agaricus subrutilescens)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "albovi",
+      "scientific_name": "Albatrellus ovinus",
+      "common_name": "Políporo ovino",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "armgal",
+      "scientific_name": "Armillaria gallica",
+      "common_name": "Armilaria bulbosa",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "armmel",
+      "scientific_name": "Armillaria mellea",
+      "common_name": "Armilaria de miel",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "armost",
+      "scientific_name": "Armillaria ostoyae",
+      "common_name": "Dark Honey Mushroom (Armillaria ostoyae)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "armsin",
+      "scientific_name": "Armillaria sinapina",
+      "common_name": "Mustard Honey Mushroom (Armillaria sinapina)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "armsol",
+      "scientific_name": "Armillaria solidipes",
+      "common_name": "Western Honey Mushroom (Armillaria solidipes)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "armtab",
+      "scientific_name": "Armillaria tabescens",
+      "common_name": "Ringless Honey Mushroom (Armillaria tabescens)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "aurame",
+      "scientific_name": "Auricularia americana",
+      "common_name": "Oreja de madera americana",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "auraur",
+      "scientific_name": "Auricularia auricula-judae",
+      "common_name": "Oreja de Judas",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "aurmir",
+      "scientific_name": "Aureoboletus mirabilis",
+      "common_name": "Admirable Bolete (Aureoboletus mirabilis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bolaer",
+      "scientific_name": "Boletus aereus",
+      "common_name": "Boleto negro",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "boledu",
+      "scientific_name": "Boletus edulis",
+      "common_name": "Boleto comestible",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bolpin",
+      "scientific_name": "Boletus pinophilus",
+      "common_name": "Boleto de pino",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bolrex",
+      "scientific_name": "Boletus rex-veris",
+      "common_name": "Spring King Bolete (Boletus rex-veris)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bolrub",
+      "scientific_name": "Boletus rubriceps",
+      "common_name": "Rocky Mountain King Bolete (Boletus rubriceps)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bolsub",
+      "scientific_name": "Boletus subcaerulescens",
+      "common_name": "Almost Bluing King Bolete (Boletus subcaerulescens)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bolvar",
+      "scientific_name": "Boletus variipes",
+      "common_name": "Variable-stalk Bolete (Boletus variipes)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bonber",
+      "scientific_name": "Bondarzewia berkeleyi",
+      "common_name": "Berkeley's Polypore (Bondarzewia berkeleyi)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "bovpil",
+      "scientific_name": "Bovista pila",
+      "common_name": "Tumbling Puffball (Bovista pila)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "calboo",
+      "scientific_name": "Calvatia booniana",
+      "common_name": "Western Giant Puffball (Calvatia booniana)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "calcya",
+      "scientific_name": "Calvatia cyathiformis",
+      "common_name": "Purple-spored Puffball (Calvatia cyathiformis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "calgig",
+      "scientific_name": "Calvatia gigantea",
+      "common_name": "Giant Puffball (Calvatia gigantea)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "calsub",
+      "scientific_name": "Calbovista subsculpta",
+      "common_name": "Sculptured Puffball (Calbovista subsculpta)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "calvis",
+      "scientific_name": "Calocera viscosa",
+      "common_name": "Yellow Stagshorn (Calocera viscosa)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "canapp",
+      "scientific_name": "Cantharellus appalachiensis",
+      "common_name": "Appalachian Chanterelle (Cantharellus appalachiensis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cancal",
+      "scientific_name": "Cantharellus californicus",
+      "common_name": "California Chanterelle (Cantharellus californicus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cancas",
+      "scientific_name": "Cantharellus cascadensis",
+      "common_name": "Cascade Chanterelle (Cantharellus cascadensis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cancib",
+      "scientific_name": "Cantharellus cibarius",
+      "common_name": "Golden Chanterelle (Cantharellus cibarius)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cancin",
+      "scientific_name": "Cantharellus cinnabarinus",
+      "common_name": "Cinnabar Chanterelle (Cantharellus cinnabarinus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "canfor",
+      "scientific_name": "Cantharellus formosus",
+      "common_name": "Pacific Golden Chanterelle (Cantharellus formosus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "canlat",
+      "scientific_name": "Cantharellus lateritius",
+      "common_name": "Smooth Chanterelle (Cantharellus lateritius)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "canper",
+      "scientific_name": "Cantharellus persicinus",
+      "common_name": "Peach Chanterelle (Cantharellus persicinus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "canros",
+      "scientific_name": "Cantharellus roseocanus",
+      "common_name": "Rebozuelo arcoíris (Cantharellus roseocanus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cansub",
+      "scientific_name": "Cantharellus subalbidus",
+      "common_name": "Rebozuelo blanco (Cantharellus subalbidus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cantex",
+      "scientific_name": "Cantharellus texensis",
+      "common_name": "Rebozuelo texano (Cantharellus texensis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cersqu",
+      "scientific_name": "Cerioporus squamosus",
+      "common_name": "Dryad's Saddle (Cerioporus squamosus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "chlbru",
+      "scientific_name": "Chlorophyllum brunneum",
+      "common_name": "Parasol peludo (Chlorophyllum brunneum)",
+      "edibility": "poisonous"
+    },
+    {
+      "mushroom_id": "chlrha",
+      "scientific_name": "Chlorophyllum rhacodes",
+      "common_name": "Parasol peludo (Chlorophyllum rhacodes)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "clapis",
+      "scientific_name": "Clavariadelphus pistillaris",
+      "common_name": "Clava gigante (Clavariadelphus pistillaris)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "clatru",
+      "scientific_name": "Clavariadelphus truncatus",
+      "common_name": "Clava truncada (Clavariadelphus truncatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "clineb",
+      "scientific_name": "Clitocybe nebularis",
+      "common_name": "Embudo nublado (Clitocybe nebularis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "clinud",
+      "scientific_name": "Clitocybe nuda",
+      "common_name": "Pie azul (Clitocybe nuda)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "copatr",
+      "scientific_name": "Coprinopsis atramentaria",
+      "common_name": "Coprino común (Coprinopsis atramentaria)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "copcom",
+      "scientific_name": "Coprinus comatus",
+      "common_name": "Coprino peludo (Coprinus comatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "copdis",
+      "scientific_name": "Coprinellus disseminatus",
+      "common_name": "Coprino de hadas (Coprinellus disseminatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "coplag",
+      "scientific_name": "Coprinopsis lagopus",
+      "common_name": "Coprino pata de liebre (Coprinopsis lagopus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "copmic",
+      "scientific_name": "Coprinellus micaceus",
+      "common_name": "Coprino micáceo (Coprinellus micaceus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cracor",
+      "scientific_name": "Craterellus cornucopioides",
+      "common_name": "Trompeta negra (Craterellus cornucopioides)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "craign",
+      "scientific_name": "Craterellus ignicolor",
+      "common_name": "Rebozuelo de llama (Craterellus ignicolor)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "cratub",
+      "scientific_name": "Craterellus tubaeformis",
+      "common_name": "Pie amarillo (Craterellus tubaeformis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "dacchr",
+      "scientific_name": "Dacrymyces chrysospermus",
+      "common_name": "Gelatina anaranjada (Dacrymyces chrysospermus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "exigla",
+      "scientific_name": "Exidia glandulosa",
+      "common_name": "Black Witch's Butter (Exidia glandulosa)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "fishep",
+      "scientific_name": "Fistulina hepatica",
+      "common_name": "Hígado de buey",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "grifro",
+      "scientific_name": "Grifola frondosa",
+      "common_name": "Maitake",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "herabi",
+      "scientific_name": "Hericium abietis",
+      "common_name": "Bear's Head Tooth (Hericium abietis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "herame",
+      "scientific_name": "Hericium americanum",
+      "common_name": "Bear's Head Tooth (Hericium americanum)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hercor",
+      "scientific_name": "Hericium coralloides",
+      "common_name": "Coral Tooth (Hericium coralloides)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hereri",
+      "scientific_name": "Hericium erinaceus",
+      "common_name": "Melena de león",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hohpet",
+      "scientific_name": "Hohenbuehelia petaloides",
+      "common_name": "Shoehorn Oyster (Hohenbuehelia petaloides)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hydalb",
+      "scientific_name": "Hydnum albidum",
+      "common_name": "White Hedgehog (Hydnum albidum)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hydrep",
+      "scientific_name": "Hydnum repandum",
+      "common_name": "Gamuza",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hydruf",
+      "scientific_name": "Hydnum rufescens",
+      "common_name": "Terracotta Hedgehog (Hydnum rufescens)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hydumb",
+      "scientific_name": "Hydnum umbilicatum",
+      "common_name": "Depressed Hedgehog (Hydnum umbilicatum)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hypchr",
+      "scientific_name": "Hypomyces chrysospermus",
+      "common_name": "Bolete Eater (Hypomyces chrysospermus)",
+      "edibility": "inedible"
+    },
+    {
+      "mushroom_id": "hyplac",
+      "scientific_name": "Hypomyces lactifluorum",
+      "common_name": "Seta langosta",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "hypulm",
+      "scientific_name": "Hypsizygus ulmarius",
+      "common_name": "Elm Oyster (Hypsizygus ulmarius)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "laccor",
+      "scientific_name": "Lactifluus corrugis",
+      "common_name": "Corrugated Milk Cap (Lactifluus corrugis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacdel",
+      "scientific_name": "Lactarius deliciosus",
+      "common_name": "Níscalo",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacdet",
+      "scientific_name": "Lactarius deterrimus",
+      "common_name": "Falso níscalo",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lachyg",
+      "scientific_name": "Lactifluus hygrophoroides",
+      "common_name": "Hygrophorus-like Milk Cap (Lactifluus hygrophoroides)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacind",
+      "scientific_name": "Lactarius indigo",
+      "common_name": "Hongo azul",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacpar",
+      "scientific_name": "Lactarius paradoxus",
+      "common_name": "Paradoxical Milk Cap (Lactarius paradoxus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacrub",
+      "scientific_name": "Lactarius rubrilacteus",
+      "common_name": "Bleeding Milk Cap (Lactarius rubrilacteus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacruf",
+      "scientific_name": "Lactarius rufus",
+      "common_name": "Red Hot Milk Cap (Lactarius rufus)",
+      "edibility": "inedible"
+    },
+    {
+      "mushroom_id": "lacsan",
+      "scientific_name": "Lactarius sanguifluus",
+      "common_name": "Níscalo sangrante",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacsub",
+      "scientific_name": "Lactarius subpurpureus",
+      "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacthy",
+      "scientific_name": "Lactarius thyinos",
+      "common_name": "Aromatic Milk Cap (Lactarius thyinos)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lacvol",
+      "scientific_name": "Lactifluus volemus",
+      "common_name": "Bradley (Lactifluus volemus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "laecin",
+      "scientific_name": "Laetiporus cincinnatus",
+      "common_name": "White-pored Chicken of the Woods (Laetiporus cincinnatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "laecon",
+      "scientific_name": "Laetiporus conifericola",
+      "common_name": "Pollo del bosque",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "laegil",
+      "scientific_name": "Laetiporus gilbertsonii",
+      "common_name": "Pollo del bosque",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "laehur",
+      "scientific_name": "Laetiporus huroniensis",
+      "common_name": "Pollo del bosque",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "laesul",
+      "scientific_name": "Laetiporus sulphureus",
+      "common_name": "Pollo del bosque",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lecaur",
+      "scientific_name": "Leccinum aurantiacum",
+      "common_name": "Red-capped Scaber Stalk (Leccinum aurantiacum)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lecins",
+      "scientific_name": "Leccinum insigne",
+      "common_name": "Aspen Scaber Stalk (Leccinum insigne)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lecman",
+      "scientific_name": "Leccinum manzanitae",
+      "common_name": "Manzanita Bolete (Leccinum manzanitae)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lecsca",
+      "scientific_name": "Leccinum scabrum",
+      "common_name": "Birch Bolete (Leccinum scabrum)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lentig",
+      "scientific_name": "Lentinus tigrinus",
+      "common_name": "Tiger Sawgill (Lentinus tigrinus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lepcly",
+      "scientific_name": "Lepiota clypeolaria",
+      "common_name": "Shield Dapperling (Lepiota clypeolaria)",
+      "edibility": "unknown"
+    },
+    {
+      "mushroom_id": "lepiri",
+      "scientific_name": "Lepista irina",
+      "common_name": "Flowery Blewit (Lepista irina)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lepnud",
+      "scientific_name": "Lepista nuda",
+      "common_name": "pie azul",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lepsor",
+      "scientific_name": "Lepista sordida",
+      "common_name": "Sordid Blewit (Lepista sordida)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "leuleu",
+      "scientific_name": "Leucoagaricus leucothites",
+      "common_name": "Smooth Parasol (Leucoagaricus leucothites)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lycper",
+      "scientific_name": "Lycoperdon perlatum",
+      "common_name": "pedo de lobo perlado",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "lycpyr",
+      "scientific_name": "Lycoperdon pyriforme",
+      "common_name": "pedo de lobo piriforme",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "macpro",
+      "scientific_name": "Macrolepiota procera",
+      "common_name": "parasol",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "mersum",
+      "scientific_name": "Meripilus sumstinei",
+      "common_name": "Black-staining Polypore (Meripilus sumstinei)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "morame",
+      "scientific_name": "Morchella americana",
+      "common_name": "colmenilla amarilla",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "moresc",
+      "scientific_name": "Morchella esculenta",
+      "common_name": "colmenilla",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "morimp",
+      "scientific_name": "Morchella importuna",
+      "common_name": "Landscape Morel (Morchella importuna)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "morpun",
+      "scientific_name": "Morchella punctipes",
+      "common_name": "Half-free Morel (Morchella punctipes)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "morsny",
+      "scientific_name": "Morchella snyderi",
+      "common_name": "Snyder's Morel (Morchella snyderi)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "mortom",
+      "scientific_name": "Morchella tomentosa",
+      "common_name": "Gray Morel (Morchella tomentosa)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "neolep",
+      "scientific_name": "Neolentinus lepideus",
+      "common_name": "Train Wrecker (Neolentinus lepideus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "phasch",
+      "scientific_name": "Phaeolus schweinitzii",
+      "common_name": "Dyer's Polypore (Phaeolus schweinitzii)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "phosqu",
+      "scientific_name": "Pholiota squarrosa",
+      "common_name": "Shaggy Scalycap (Pholiota squarrosa)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "pleery",
+      "scientific_name": "Pleurotus eryngii",
+      "common_name": "seta de cardo",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "pleost",
+      "scientific_name": "Pleurotus ostreatus",
+      "common_name": "seta de ostra",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "plepop",
+      "scientific_name": "Pleurotus populinus",
+      "common_name": "Aspen Oyster (Pleurotus populinus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "plepul",
+      "scientific_name": "Pleurotus pulmonarius",
+      "common_name": "Phoenix Oyster (Pleurotus pulmonarius)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "polumb",
+      "scientific_name": "Polyporus umbellatus",
+      "common_name": "Umbrella Polypore (Polyporus umbellatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "psegel",
+      "scientific_name": "Pseudohydnum gelatinosum",
+      "common_name": "Toothed Jelly Fungus (Pseudohydnum gelatinosum)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "ramaur",
+      "scientific_name": "Ramaria aurea",
+      "common_name": "Golden Coral (Ramaria aurea)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rambot",
+      "scientific_name": "Ramaria botrytis",
+      "common_name": "Pink-tipped Coral (Ramaria botrytis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "ramfor",
+      "scientific_name": "Ramaria formosa",
+      "common_name": "Beautiful Clavaria (Ramaria formosa)",
+      "edibility": "poisonous"
+    },
+    {
+      "mushroom_id": "rusaer",
+      "scientific_name": "Russula aeruginea",
+      "common_name": "Tacky Green Russula (Russula aeruginea)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rusbre",
+      "scientific_name": "Russula brevipes",
+      "common_name": "Short-stemmed Russula (Russula brevipes)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "ruscas",
+      "scientific_name": "Russula cascadensis",
+      "common_name": "Cascade Russula (Russula cascadensis)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "ruscla",
+      "scientific_name": "Russula claroflava",
+      "common_name": "Yellow Swamp Russula (Russula claroflava)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "ruscya",
+      "scientific_name": "Russula cyanoxantha",
+      "common_name": "Carbonera",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rusden",
+      "scientific_name": "Russula densifolia",
+      "common_name": "Crowded Russula (Russula densifolia)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rusint",
+      "scientific_name": "Russula integra",
+      "common_name": "Entire Russula (Russula integra)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rusoli",
+      "scientific_name": "Russula olivacea",
+      "common_name": "Olive Russula (Russula olivacea)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "ruspal",
+      "scientific_name": "Russula paludosa",
+      "common_name": "Rosy Russula (Russula paludosa)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "russar",
+      "scientific_name": "Russula sardonia",
+      "common_name": "Primrose Russula (Russula sardonia)",
+      "edibility": "inedible"
+    },
+    {
+      "mushroom_id": "rusves",
+      "scientific_name": "Russula vesca",
+      "common_name": "The Flirt (Russula vesca)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rusvir",
+      "scientific_name": "Russula virescens",
+      "common_name": "Green-cracking Russula (Russula virescens)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "rusxer",
+      "scientific_name": "Russula xerampelina",
+      "common_name": "Shrimp Russula (Russula xerampelina)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "sarimb",
+      "scientific_name": "Sarcodon imbricatus",
+      "common_name": "Scaly Hedgehog (Sarcodon imbricatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "spacri",
+      "scientific_name": "Sparassis crispa",
+      "common_name": "Seta coliflor",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "sparad",
+      "scientific_name": "Sparassis radicata",
+      "common_name": "Rooting Cauliflower Mushroom (Sparassis radicata)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "suibre",
+      "scientific_name": "Suillus brevipes",
+      "common_name": "Stubby-stalk (Suillus brevipes)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "suigra",
+      "scientific_name": "Suillus granulatus",
+      "common_name": "Weeping Bolete (Suillus granulatus)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "suigre",
+      "scientific_name": "Suillus grevillei",
+      "common_name": "Boleto del alerce",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "suilak",
+      "scientific_name": "Suillus lakei",
+      "common_name": "Western Painted Suillus (Suillus lakei)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "suilut",
+      "scientific_name": "Suillus luteus",
+      "common_name": "Baboso",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "suipun",
+      "scientific_name": "Suillus pungens",
+      "common_name": "Pungent Slippery Jack (Suillus pungens)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "toloph",
+      "scientific_name": "Tolypocladium ophioglossoides",
+      "common_name": "Goldenthread Cordyceps (Tolypocladium ophioglossoides)",
+      "edibility": "inedible"
+    },
+    {
+      "mushroom_id": "trefuc",
+      "scientific_name": "Tremella fuciformis",
+      "common_name": "Hongo de nieve",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "tremes",
+      "scientific_name": "Tremella mesenterica",
+      "common_name": "Witches' Butter (Tremella mesenterica)",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "trical",
+      "scientific_name": "Tricholoma caligatum",
+      "common_name": "Matsutake de California",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "trimag",
+      "scientific_name": "Tricholoma magnivelare",
+      "common_name": "Matsutake americano",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "trimat",
+      "scientific_name": "Tricholoma matsutake",
+      "common_name": "Matsutake",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "trimur",
+      "scientific_name": "Tricholoma murrillianum",
+      "common_name": "Matsutake del suroeste",
+      "edibility": "edible"
+    },
+    {
+      "mushroom_id": "tylfel",
+      "scientific_name": "Tylopilus felleus",
+      "common_name": "Boleto amargo",
+      "edibility": "inedible"
+    },
+    {
+      "mushroom_id": "xerzel",
+      "scientific_name": "Xerocomellus zelleri",
+      "common_name": "Zeller's Bolete (Xerocomellus zelleri)",
+      "edibility": "edible"
+    }
+  ]
+}

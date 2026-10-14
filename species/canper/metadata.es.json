@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canper",
+  "scientific_name": "Cantharellus persicinus",
+  "common_name": "Peach Chanterelle (Cantharellus persicinus)",
+  "edibility": "E",
+  "description": "El rebozuelo melocotón tiene un distintivo sombrero de color melocotón a naranja rosado pálido o salmón de 2 a 8 cm de ancho, de superficie lisa y ligeramente aterciopelada. El sombrero se vuelve embudado poco profundo con la edad y tiene márgenes ondulados e irregulares. El envés presenta pliegues romos, poco profundos y bifurcados (NO son láminas verdaderas), de melocotón pálido a crema rosado, ampliamente espaciados, que descienden por el pie. Los pliegues son menos pronunciados que en muchos rebozuelos. El pie es macizo, de 2 a 6 cm de alto, liso, de blanco a melocotón pálido. La carne es de blanca a crema pálido, firme, con un olor suave. La esporada es de blanca a crema pálido.",
+  "habitat": "Micorrícico con frondosas del sureste, particularmente especies de roble (especialmente roble de agua, roble sauce), liquidámbar y nogal americano. Se encuentra en bosques de frondosas de tierras bajas, bosques mixtos de pino y frondosas, y zonas ribereñas de toda la llanura costera del sureste. Prefiere suelos arenosos húmedos y áreas cercanas a arroyos.",
+  "season": "Verano (junio-septiembre), fructificando durante períodos cálidos y húmedos tras fuertes lluvias de verano. La temporada máxima suele ser julio-agosto en la mayor parte de su distribución. Más tolerante al calor y la humedad que las especies de rebozuelo del norte.",
+  "regions": [
+    "sureste de los Estados Unidos",
+    "Georgia y Florida",
+    "las Carolinas",
+    "estados de la costa del Golfo (Alabama, Misisipi, Luisiana)",
+    "este de Texas"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius: comestible, más naranja-rosado, más grande, pliegues más pronunciados, distribución superpuesta",
+    "Cantharellus cinnabarinus: comestible, color rojo-rosado más brillante, más pequeño, por lo demás similar",
+    "Falsa rebozuelo (Hygrophoropsis aurantiaca): no tóxica pero de mala calidad, tiene láminas verdaderas delgadas, más naranja"
+  ],
+  "safety_notes": "COMESTIBLE: el rebozuelo melocotón es un buen hongo comestible de sabor suave, notable por su delicada coloración melocotón. Como todos los rebozuelos, el rasgo clave de identificación son los pliegues romos y bifurcados del envés que se sienten cerosos y están fusionados con el sombrero, en lugar de láminas verdaderas. El color melocotón pálido y la distribución sureste ayudan a distinguirlo de otras especies. Verifique siempre que crece del suelo en asociación con árboles, nunca sobre madera. El sabor es suave y agradable; mejor salteado o usado en combinación con otras setas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1635909.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 56958,
+      "width": 640,
+      "height": 480,
+      "sha256": "7295ac8a4866890ab9982a94efb79501e768eda92f96bfd934a0855c793bf63f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635910.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 100608,
+      "width": 640,
+      "height": 480,
+      "sha256": "083c35ad5ed2b794d2310fc1d0b2f49737ee54427726dcdaf35b78ec102e55fb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

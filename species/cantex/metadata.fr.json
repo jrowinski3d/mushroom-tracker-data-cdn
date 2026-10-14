@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cantex",
+  "scientific_name": "Cantharellus texensis",
+  "common_name": "Texas Chanterelle (Cantharellus texensis)",
+  "edibility": "E",
+  "description": "La Chanterelle du Texas possède un chapeau lisse, orange-jaune à jaune doré, de 3 à 10 cm de large, à la texture légèrement veloutée quand il est jeune. Le chapeau devient légèrement en entonnoir avec l'âge et présente une marge ondulée et irrégulière. Le dessous présente des plis épais, obtus et fourchus (PAS de vraies lames), jaunes à jaune-orangé, modérément espacés, décurrents sur le pied. Le pied est plein, de 3 à 8 cm de haut, lisse, jaune à jaune-orangé, souvent s'amincissant vers le bas. La chair est blanche à jaune pâle, ferme, avec un léger arôme fruité. La sporée est blanche à jaune pâle.",
+  "habitat": "Mycorhizienne principalement avec les espèces de chênes (en particulier le chêne étoilé, le chêne vert et le chêne rouge), également présente avec le caryer et le pacanier dans les forêts de feuillus des basses terres. Commune dans les bois dominés par les chênes, les forêts riveraines et les parcs de son aire de répartition. Préfère les sols sableux et bien drainés typiques de la plaine côtière du Golfe.",
+  "season": "De la fin du printemps à l'été (mai à septembre), fructifiant pendant les périodes chaudes et humides après de fortes pluies. La pleine saison se situe généralement en juin-juillet au Texas. Plus tolérante à la chaleur que les chanterelles du Nord.",
+  "regions": [
+    "Texas (répandu)",
+    "Louisiane",
+    "Oklahoma oriental",
+    "Arkansas",
+    "Missouri méridional (rare)"
+  ],
+  "lookalikes": [
+    "Clitocybe lumineux (Omphalotus spp.) — TOXIQUE, possède de vraies lames à arêtes vives, pousse sur le bois, plus intensément orangé",
+    "Cantharellus lateritius — comestible, plus orange-rosé, plus à l'est, taille et habitat semblables",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de mauvaise qualité, possède de vraies lames fines, plus orangée"
+  ],
+  "safety_notes": "COMESTIBLE : la Chanterelle du Texas est un bon champignon comestible et une espèce régionale importante pour les cueilleurs du sud des États-Unis. Comme toutes les chanterelles, l'identification repose sur les plis épais, obtus et fourchus, au toucher cireux et soudés à la chair du chapeau, et non sur les lames fines en forme de lames de couteau des sosies toxiques. Vérifiez toujours qu'elle pousse dans le sol en association avec les arbres, jamais sur le bois. Saveur douce et agréable ; excellente poêlée ou en sauce à la crème. Généralement bien tolérée, mais essayez d'abord de petites quantités.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/530735.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 35332,
+      "width": 640,
+      "height": 410,
+      "sha256": "039ad325445485a3265b7d7b1d48901e12f18bf2759d9161c264fc0efb326162"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530736.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 79722,
+      "width": 640,
+      "height": 499,
+      "sha256": "7ee8854f4821985cf10e9c7ab9d84a27f54691a06102293fa7f26d0817b47c2e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.230118",
+  "source_language": "en"
+}

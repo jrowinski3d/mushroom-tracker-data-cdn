@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "copdis",
+  "scientific_name": "Coprinellus disseminatus",
+  "common_name": "czernidłaczek gromadny",
+  "edibility": "E",
+  "description": "Czernidłaczek gromadny to malutki, delikatny grzyb tworzący ogromne skupiska. Poszczególne kapelusze mają średnicę 0,5–1,5 cm, są owalne do dzwonkowatych, blado kremowe do szarobrązowawych, z promienistymi rowkami. Powierzchnia jest gładka, nie łuskowata. Blaszki są przyrośnięte, białe do bladoszarych, NIE rozpływają się silnie w atrament (kluczowa różnica względem innych czernidłówek – blaszki raczej się kruszą niż zamieniają w płyn). Trzon wysoki na 2–4 cm, niezwykle cienki (nitkowaty), biały, kruchy. Owocnikuje w ogromnych, gęstych skupiskach liczących setki do tysięcy owocników.",
+  "habitat": "Występuje na martwym drewnie, w tym na pniakach, kłodach i zakopanych resztkach drewna. Także na zrębkach i ściółce. Rośnie jako rozkładacz drewna w spektakularnie gęstych skupiskach. Bardzo pospolity w lasach, parkach i na terenach urządzonych. Ogromne skupiska często spotyka się na starych pniakach drzew liściastych.",
+  "season": "Od wiosny do jesieni (kwiecień–listopad) w regionach umiarkowanych. W łagodnych klimatach może owocnikować przez cały rok. Może owocnikować nieprzerwanie w odpowiednich warunkach. Bardzo wytrwały przez cały sezon.",
+  "regions": ["Ameryka Północna (bardzo pospolity, rozpowszechniony)", "Europa (bardzo pospolity)", "Na całym świecie w strefie umiarkowanej", "Lasy i tereny zurbanizowane", "Kosmopolityczny na drewnie"],
+  "lookalikes": ["Coprinellus micaceus (jadalny) – większy, brązowawy, drobinki miki za młodu", "Psathyrella gracilis – podobne malutkie grzyby, ale inny kolor zarodników", "Inne malutkie grzyby – ale żaden w tak ogromnych skupiskach", "Ogromne skupiska setek malutkich grzybów są charakterystyczne"],
+  "safety_notes": "Jadalny, ale niepraktyczny: Technicznie jadalny i nietrujący, ale zdecydowanie za mały, by opłacało się go zbierać. Poszczególne grzyby są malutkie. Blaszki nie rozpływają się tak silnie jak u innych czernidłówek, ale i tak szybko się psują. Bez wyraźnego smaku. Bezpieczny, ale zbieranie go nie ma sensu. Brak trujących gatunków podobnych. Ciekawszy jako spektakularne zjawisko przyrodnicze – ogromne skupiska setek malutkich grzybów na pniakach są piękne i imponujące. Często wygląda jak szary, meszkowaty nalot na kłodach. Lepiej go fotografować niż jeść. Sama liczebność rekompensuje mały rozmiar w przyrodzie, ale nie w kuchni.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751486.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 101340,
+      "width": 640,
+      "height": 480,
+      "sha256": "02efec69dfe340a43bc987ebbbda209c0a303c68f689250f54ea245e4d0f87e4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751487.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 122436,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcd77199817a9948da67d3201eb1a9c44cfda21deaee4bfa97050fb45e6b3aa0"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

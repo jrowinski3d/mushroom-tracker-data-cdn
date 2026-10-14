@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "mersum",
+  "scientific_name": "Meripilus sumstinei",
+  "common_name": "Black-staining Polypore (Meripilus sumstinei)",
+  "edibility": "E",
+  "description": "Duża złożona rozeta o szerokości 20–60+ cm, złożona z wielu zachodzących na siebie wachlarzowatych kapeluszy o szerokości 5–15 cm, wyrastających ze wspólnej podstawy. Kapelusze jasnobrązowe do brązowych, które CZERNIEJĄ po uszkodzeniu lub z wiekiem – cecha rozpoznawcza. Biała do kremowej powierzchnia porów również czernieje. Miękka, gąbczasta faktura. Może ważyć 4,5–13,5+ kg. Charakterystyczne czarne przebarwianie.",
+  "habitat": "Saprobiczny i pasożytniczy u podstaw żywych i martwych drzew liściastych, szczególnie dębów, klonów, buków i wiązów. Powoduje białą zgniliznę korzeni i dolnej części pnia. Tworzy duże rozety u podstaw drzew, na pniakach i zakopanych korzeniach. Pospolity w dojrzałych lasach liściastych i w miastach.",
+  "season": "Późne lato do jesieni, zwykle lipiec–październik. Szczyt owocowania w sierpniu–wrześniu. Może owocować wielokrotnie w sezonie. Najliczniejszy późnym latem. Często w tym samym miejscu co roku.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód",
+    "południowo-wschodnie Stany Zjednoczone",
+    "Region Wielkich Jezior",
+    "Północno-Zachodni Pacyfik",
+    "szeroko rozpowszechniony w Ameryce Północnej"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (szarobrązowa, nie czernieje, inny układ kapeluszy)",
+    "Bondarzewia berkeleyi (jaśniejsza, większe kapelusze, nie czernieje szybko)",
+    "inne duże rozety hub (nie czernieją po dotknięciu)",
+    "Polyporus umbellatus (mniejsza, inna budowa)"
+  ],
+  "safety_notes": "JADALNY, gdy bardzo młody, ale nie wyśmienity: tylko delikatne młode okazy są smaczne – starsze stają się twarde i gorzkie. Szybkie czarne przebarwianie po dotknięciu jest charakterystyczne, ale nie wpływa na jadalność młodych okazów. Musi być dokładnie ugotowany. Na ogół mało poszukiwany ze względu na przeciętny smak i skłonność do powodowania dolegliwości trawiennych u niektórych osób. Zbieraj tylko bardzo młode, białe, delikatne fragmenty. Istnieją lepsze jadalne huby.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688474.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 86536,
+      "width": 482,
+      "height": 640,
+      "sha256": "d11d8bcfd4625365125d32a50af1e5f58bde58d9859e3f55d5d9057146549163"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688475.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 89766,
+      "width": 482,
+      "height": 640,
+      "sha256": "14784a9de79f16b8dd7a16e1acd87da31b87a5c26de5c66af1759e7beaa1afac"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

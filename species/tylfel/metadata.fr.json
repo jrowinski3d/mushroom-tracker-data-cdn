@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "tylfel",
+  "scientific_name": "Tylopilus felleus",
+  "common_name": "Bolet amer",
+  "edibility": "U",
+  "description": "Le bolet amer ressemble au cèpe de Bordeaux mais porte des pores roses distinctifs. Chapeau brun à fauve (5-15 cm), à surface sèche. Les pores sont blancs quand ils sont très jeunes, devenant rapidement rosâtres à couleur chair — un caractère diagnostique clé. Le pied épais porte une réticulation brune (motif en filet). La chair blanche ne change pas de couleur mais a un goût INTENSEMENT AMER. Sporée brun rosâtre.",
+  "habitat": "Mycorhizien avec les conifères et les feuillus dans les forêts mixtes. Trouvé avec le pin, l'épicéa, le chêne et le hêtre. Préfère les sols acides et les zones bien drainées. Commun dans les forêts mixtes matures.",
+  "season": "De l'été à l'automne (juillet-octobre) avec un pic de fructification en août-septembre. Fructifie par temps chaud et humide après la pluie.",
+  "regions": [
+    "Est de l'Amérique du Nord",
+    "forêts du Nord-Est",
+    "région des Grands Lacs",
+    "monts Appalaches",
+    "États du Sud-Est",
+    "Pacifique Nord-Ouest",
+    "répandu dans toute l'Amérique du Nord"
+  ],
+  "lookalikes": [
+    "Boletus edulis (cèpe de Bordeaux) — pores blancs à jaunes, NON roses, non amer",
+    "Boletus subcaerulescens — pores jaunes bleuissant",
+    "Autres espèces de Boletus — vérifier soigneusement la couleur des pores",
+    "Si les pores sont roses et le goût amer, c'est le bolet amer"
+  ],
+  "safety_notes": "NON COMESTIBLE : Tylopilus felleus, communément appelé le bolet amer, est intensément amer — si amer qu'un seul spécimen peut gâcher tout un plat de champignons. L'amertume persiste et s'intensifie même à la cuisson. Bien que non toxique, il est totalement immangeable et non comestible. Souvent confondu avec des bolets comestibles prisés comme le cèpe ; vérifier la surface des pores rose et le motif réticulé du pied pour le distinguer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1718850.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 50034,
+      "width": 640,
+      "height": 427,
+      "sha256": "e44a79ac4907688e85b892bc0db5944518b7238c1b1d7ef058f6f6b65db65502"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718851.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 51248,
+      "width": 640,
+      "height": 427,
+      "sha256": "1791298db73893d8ae15a80e1ac138cdf963bb4cc2d9c7ae7a8d5eff9ec769a4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

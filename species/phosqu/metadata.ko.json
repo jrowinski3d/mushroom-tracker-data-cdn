@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phosqu",
+  "scientific_name": "Pholiota squarrosa",
+  "common_name": "Shaggy Scalycap (Pholiota squarrosa)",
+  "edibility": "E",
+  "description": "샤기 스케일리캡은 갓 지름 5-15cm의 중형에서 대형 버섯으로, 볼록하다가 넓게 볼록하거나 편평해진다. 갓은 옅은 노란색에서 황갈색 또는 황토색이며, 특히 중앙 쪽에 위로 솟은 뒤로 젖혀진 갈색에서 적갈색 비늘이 빽빽하게 덮여 매우 헝클어진 모습을 한다. 주름살은 붙은주름살에서 약간 흘러내리는 주름살까지 다양하며, 처음에는 옅은 노란색이었다가 자라면서 녹슨 갈색이 된다. 대는 높이 5-15cm로 굵고, 턱받이 위는 옅은 노란색이며 턱받이 아래는 갈색 비늘로 덮여 있다. 턱받이는 두껍고 오래 지속된다. 살은 옅은 노란색이며 무 향이 나거나 다소 불쾌한 냄새가 난다.",
+  "habitat": "죽거나 살아 있는 활엽수, 특히 너도밤나무, 단풍나무, 참나무, 포플러에서 발견된다. 나무 기부, 그루터기, 쓰러진 통나무에 빽빽하게 겹쳐진 무리로 자란다. 목재 분해자이며 때로는 약한 기생자이다. 가로수와 공원에서 매우 흔하다. 빽빽하게 무리 지어 열매를 맺으며, 종종 수십 개체가 함께한다.",
+  "season": "대부분 지역에서 늦여름부터 가을까지(8월-11월). 온화한 기후에서는 겨울까지 열매를 맺을 수 있다. 9월-10월이 최성기이다. 좋은 해에는 여러 번 발생할 수 있다.",
+  "regions": [
+    "유럽(널리 분포)",
+    "북아메리카 동부(매우 흔함)",
+    "태평양 북서부(흔함)",
+    "캘리포니아(가끔 발견)",
+    "활엽수림의 전 세계 온대 지역",
+    "가로수의 도시 지역"
+  ],
+  "lookalikes": [
+    "Pholiota 속 - 비슷하게 비늘진 종이 많아 구별 어려움",
+    "Armillaria 속(주의하여 식용 가능) - 꿀색, 비늘이 적음, 서식지가 다름",
+    "Hypholoma fasciculare(유독) - 목재 위 무리 생장이나 녹색빛 주름살, 쓴맛",
+    "Gymnopilus 속(일부 환각성) - 주황갈색, 쓴맛, 녹슨 포자"
+  ],
+  "safety_notes": "식용 가능하나 권장하지 않음: 일부 자료에서는 식용으로 여기나 많은 사람에게 소화 장애를 일으킨다. 성공적인 섭취와 위장 장애 보고가 모두 흔하다. 조직이 섬유질이고 질기다. 무 향이나 화학약품 같은 맛으로 불쾌할 수 있다. 반드시 완전히 익혀야 한다. 유독한 무리 지은 버섯과 혼동할 가능성이 우려된다. 제대로 식별해도 품질이 떨어지고 많은 사람이 견디지 못한다. 더 나은 식용버섯이 있다. 헝클어진 비늘 모습이 독특하다. 시도한다면 먼저 소량만 먹고 소화 장애를 예상할 것. 광범위한 위장 장애 보고와 형편없는 맛 때문에 권장하지 않는다. 활엽수의 빽빽한 무리는 독특하나 식욕을 돋우지 않는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694482.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 132484,
+      "width": 480,
+      "height": 640,
+      "sha256": "3d084ecd15ffe19ff9895f7eb226bc1aa8c2869cf25c8f0bd05b5612f5085c25"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1706127.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 89392,
+      "width": 640,
+      "height": 482,
+      "sha256": "cf74f11b6803c798a105ba96bdcb7ec182982f54ee307acaee9372de457da2c2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:49:48.480026",
+  "source_language": "en"
+}

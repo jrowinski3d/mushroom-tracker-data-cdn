@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "trimat",
+  "scientific_name": "Tricholoma matsutake",
+  "common_name": "Matsutaké",
+  "edibility": "E",
+  "description": "Le matsutaké porte un chapeau blanc robuste (6-20 cm) qui brunit avec l'âge, souvent avec des taches ou des souillures brunâtres. Le chapeau est convexe à plat, sec, lisse à légèrement fibrilleux. Les lames sont blanches, adnées, serrées. Le pied est épais, blanc, ferme, avec un VOILE PARTIEL ÉPAIS DISTINCTIF qui laisse souvent un ANNEAU COTONNEUX ou des restes déchirés sur le haut du pied. Le caractère clé est la FORTE ODEUR ÉPICÉE, DE CANNELLE, ou DE PIN — instantanément reconnaissable et diagnostique. La chair est blanche, très ferme, dense. Sporée blanche. Émerge souvent en poussant à travers le sol/la litière, créant une « bosse de matsutaké » distinctive avant d'émerger complètement.",
+  "habitat": "Mycorhizien avec les CONIFÈRES, notamment le pin (Pinus), la pruche et le sapin en Asie. Forme des relations obligatoires avec des arbres hôtes spécifiques. Pousse au sol, souvent partiellement enfoui dans la litière ou le sol. Trouvé dans les forêts de conifères matures, généralement dans des « shiro » (ronds de sorcières) spécifiques. Nécessite des conditions de sol spécifiques et un habitat forestier intact.",
+  "season": "Automne (septembre-novembre) au Japon et en Asie, fructifiant par temps frais d'automne.",
+  "regions": [
+    "Japon",
+    "Corée",
+    "Chine",
+    "Asie (aire d'origine)"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare (matsutaké d'Amérique) — espèce nord-américaine, très semblable",
+    "Tricholoma murrillianum (matsutaké du Sud-Ouest) — espèce du sud-ouest des États-Unis",
+    "Amanita smithiana — TOXIQUE — blanche mais volve à la base, odeur différente",
+    "Autres espèces de Tricholoma — sans l'odeur distinctive de cannelle"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : L'un des champignons comestibles les plus chers et les plus prisés au monde, notamment dans la cuisine japonaise où il peut se vendre des centaines de dollars la livre. La forte ODEUR ÉPICÉE DE CANNELLE est le caractère clé d'identification. Meilleur jeune et ferme — les vieux spécimens deviennent amers. Nettoyer délicatement pour préserver les composés aromatiques. Ne jamais confondre avec les espèces toxiques d'amanites blanches — le matsutaké n'a pas de volve, a une odeur distinctive et porte un anneau.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/705543.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 61824,
+      "width": 640,
+      "height": 480,
+      "sha256": "97b74a9180a9fba23ead388a50e26d38db132e89b7d39d743c91e8435bb732d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/705544.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 77154,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd70501e766a7b20042ccbf068e41759f221e4300395f3048ba11d8114c34a3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

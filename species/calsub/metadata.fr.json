@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calsub",
+  "scientific_name": "Calbovista subsculpta",
+  "common_name": "Sculptured Puffball (Calbovista subsculpta)",
+  "edibility": "E",
+  "description": "Vesses-de-loup moyennes à grandes, rondes à ovales, de 2 à 6 pouces de diamètre, à la surface sculptée distinctive de basses verrues et plaques polygonales formant un motif géométrique. Blanc à beige à brun avec l’âge. Chair intérieure d’un blanc pur quand elle est comestible, devenant jaune-olive puis brune. Petit point d’attache basal mais pas de base stérile proéminente. S’ouvre par un pore irrégulier au sommet. Motif de surface sculpté unique.",
+  "habitat": "Saprobe dans les forêts de conifères montagneuses, en particulier sous le pin ponderosa, le pin tordu, le douglas et l’épicéa. Commun dans les forêts montagnardes et subalpines. Préfère les sols forestiers bien drainés à haute altitude. Souvent dans la litière d’aiguilles de pin et les clairières forestières.",
+  "season": "De l’été à l’automne en montagne, généralement de juillet à octobre. Pic de fructification en août-septembre après les pluies de mousson. Plus commun au milieu et à la fin de l’été dans les forêts montagnardes.",
+  "regions": [
+    "Montagnes Rocheuses",
+    "Sierra Nevada",
+    "Chaîne des Cascades",
+    "Montagnes du Sud-Ouest",
+    "Forêts de conifères montagnardes de l’Ouest",
+    "Du Colorado à la Colombie-Britannique"
+  ],
+  "lookalikes": [
+    "Calvatia booniana (écailles similaires mais plus épaisses, motif différent)",
+    "MORTEL : boutons d’amanites immatures (TOUJOURS OUVRIR EN DEUX — on y verra des lames/un chapeau en formation à l’intérieur)",
+    "Sclérodermes / vesses-de-terre (toxiques, chair intérieure violet-noir, croûte verruqueuse plus épaisse)",
+    "Autres espèces de Calvatia sculptées (comestibilité similaire quand l’intérieur est blanc)"
+  ],
+  "safety_notes": "COMESTIBLE quand l’intérieur est d’un blanc pur : CRITIQUE — TOUJOURS couper le spécimen complètement en deux du haut vers le bas avant de consommer. Comestible UNIQUEMENT si la chair intérieure est entièrement d’un blanc pur et ferme partout. Si une teinte jaune, olive, brune ou des structures en formation sont visibles à l’intérieur, NE PAS MANGER. Cela évite de consommer des sosies toxiques et des amanites mortelles immatures. La surface sculptée géométrique distinctive aide à l’identification, mais la chair blanche est le test définitif de comestibilité. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1470448.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 110874,
+      "width": 480,
+      "height": 640,
+      "sha256": "1db346ac95ce5e6845f24c7c5ce39095fc0dec0aca0834476c6e524233795a42"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1470449.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 95434,
+      "width": 480,
+      "height": 640,
+      "sha256": "65d0b97a71a00df496da6cfe54db57beff034d142d0c6a477522849c340dccf3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

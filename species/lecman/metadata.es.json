@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lecman",
+  "scientific_name": "Leccinum manzanitae",
+  "common_name": "Manzanita Bolete (Leccinum manzanitae)",
+  "edibility": "E",
+  "description": "El boleto de la manzanita presenta un sombrero de pardo-rojizo a pardo oscuro (5-15 cm) con superficie seca, aterciopelada a lisa. Los poros son blancos cuando jóvenes, envejeciendo a gris-oliva, y se tiñen de parduzco al magullarse. El pie, de blanquecino a pardo pálido, está cubierto de escabrosidades (escamas rugosas) de color pardo a pardo oscuro. La carne blanca se tiñe de pardo-rosado al cortarla, oscureciéndose finalmente a gris. Esporada pardo-oliva.",
+  "habitat": "Micorrícico exclusivamente con manzanita (especies de Arctostaphylos) en chaparrales y bosques mixtos de roble y madroño. Forma asociaciones obligadas con arbustos de manzanita. Se encuentra en bosques costeros y bosques de piedemonte con sotobosque de manzanita.",
+  "season": "Del invierno a la primavera (diciembre-abril), con máxima fructificación en enero-marzo. Inusual período de fructificación invernal asociado a la temporada de lluvias de California.",
+  "regions": [
+    "cordilleras costeras de California",
+    "norte de California",
+    "California central",
+    "Área de la Bahía de San Francisco",
+    "estribaciones de Sierra Nevada",
+    "sur de Oregón"
+  ],
+  "lookalikes": [
+    "Otras especies de Leccinum, pero con asociaciones arbóreas diferentes",
+    "Especies de Boletus: carecen del pie escabroso",
+    "Leccinum aurantiacum: sombrero más anaranjado, hábitat diferente",
+    "Especies de Suillus: sombrero viscoso, asociación con coníferas"
+  ],
+  "safety_notes": "COMESTIBLE: el boleto de la manzanita es un buen comestible de textura firme. Debe cocinarse bien durante al menos 15-20 minutos. La singular asociación con la manzanita y el período de fructificación invernal lo distinguen de otros boletos. El oscurecimiento de la carne es normal y seguro.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.240957",
+  "source_language": "en"
+}

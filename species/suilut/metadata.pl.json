@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilut",
+  "scientific_name": "Suillus luteus",
+  "common_name": "Maślak zwyczajny",
+  "edibility": "E",
+  "description": "Maślak zwyczajny ma czekoladowobrązowy do purpurowobrązowego kapelusz (5–12 cm) o wyraźnie śluzowatej, kleistej powierzchni, gdy wilgotny — łatwo obieralny. Pory żółte, nieprzebarwiające się. Wyraźna biała osłona częściowa pozostawia purpurowobrązowy pierścień na żółtym trzonie. Miąższ biały do bladożółtego, nie przebarwia się. Śluzowaty kapelusz i ciemny pierścień to cechy diagnostyczne. Wysyp zarodników cynamonowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z sosnami dwu- i trójigielnymi, zwłaszcza sosną zwyczajną i sosną wejmutką. Pospolity na plantacjach sosnowych i w naturalnie odnowionych drzewostanach sosnowych. Występuje na terenach zaburzonych z młodymi sosnami.",
+  "season": "Od lata do jesieni (lipiec–listopad), szczyt owocnikowania we wrześniu–październiku. Często owocnikuje obficie po jesiennych deszczach.",
+  "regions": [
+    "północno-wschodnie Stany Zjednoczone",
+    "Region Wielkich Jezior",
+    "Północno-Zachodni Pacyfik",
+    "Góry Skaliste",
+    "wszędzie tam, gdzie są plantacje sosnowe",
+    "Kanada",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Maślak ziarnisty (Suillus granulatus) — brak ciemnego pierścienia na trzonie",
+    "Inne gatunki Suillus — różne śluzowate borowiki związane z sosnami",
+    "Gatunki Boletus — nieśluzowate, inne siedlisko",
+    "Gatunki Gomphidius — mają blaszki, nie pory"
+  ],
+  "safety_notes": "JADALNY: Maślak zwyczajny to dobry grzyb jadalny, gdy młody i twardy. Przed gotowaniem usunąć śluzowatą skórkę kapelusza, gdyż może mieć działanie przeczyszczające. Śluzowata tekstura i purpurowy pierścień na żółtym trzonie są charakterystyczne. U niektórych osób występują dolegliwości trawienne. Zawsze dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1724477.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 107790,
+      "width": 640,
+      "height": 427,
+      "sha256": "58d9a1262207963b51189423dc109394b7f49fd2160a342af7d6ed999a630e7b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1724478.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 78526,
+      "width": 640,
+      "height": 427,
+      "sha256": "b5eb12ca74c4875c75f45097ea8581a8f1e41b464135995d4bda4dbfa0b0bab4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

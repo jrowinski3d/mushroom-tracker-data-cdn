@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hereri",
+  "scientific_name": "Hericium erinaceus",
+  "common_name": "Hydne hérisson",
+  "edibility": "E",
+  "description": "L’hydne hérisson est un champignon blanc reconnaissable, formant une grande masse globuleuse en forme de pompon (10-40 cm), couverte de longs AIGUILLONS PENDANTS EN FORME DE STALACTITES qui cascadent vers le bas (1-5 cm de long). Les aiguillons sont d’un blanc pur à l’état frais, jaunissant avec l’âge. Toute la fructification est blanche, molle, charnue, sans chapeau ni pied - c’est une seule masse compacte d’aiguillons. Chair blanche, ferme mais tendre, au goût doux et à la texture rappelant les fruits de mer. Contrairement aux autres champignons à aiguillons, les aiguillons pendent verticalement en cascade. Son aspect inimitable évoque une crinière de lion blanche ou une barbe hirsute.",
+  "habitat": "Saprotrophe sur les feuillus, en particulier le chêne, le hêtre, l’érable et le noyer. Pousse en hauteur sur les arbres vivants ou morts debout, fructifiant généralement à partir de blessures ou de cicatrices de branches. Non mycorhizien. Apparaît généralement comme un seul grand spécimen par arbre, bien que plusieurs fructifications puissent coexister.",
+  "season": "De la fin de l’été à l’automne (août-novembre), parfois jusqu’en hiver dans les climats doux. Une seule pousse de fructification.",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest",
+    "Sud-Est",
+    "Pacifique Nord-Ouest",
+    "Asie",
+    "Europe (rare)"
+  ],
+  "lookalikes": [
+    "Hericium americanum - structure ramifiée avec des aiguillons sur les branches",
+    "Hericium coralloides - structure corallienne très ramifiée",
+    "Hericium abietis - pousse sur les conifères, structure plus ramifiée"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : très prisé pour sa saveur douce, sucrée, rappelant les fruits de mer (souvent comparée au homard ou au crabe). L’un des champignons sauvages les plus sûrs grâce à son aspect inimitable. Largement cultivé pour ses usages culinaires et médicinaux. Meilleur frais et d’un blanc pur - le jaunissement indique l’âge mais reste comestible. Il n’existe aucun sosie toxique. Nettoyer délicatement pour retirer les débris des aiguillons.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1743539.jpg",
+      "photographer": "(c) Gordon C. Snelling, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2025-02-04",
+      "file_size_bytes": 98174,
+      "width": 384,
+      "height": 640,
+      "sha256": "ad1281635c3fe88358f31d5132c080f4460af6b8b108db6fc18942604974f098"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1712330.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 124150,
+      "width": 480,
+      "height": 640,
+      "sha256": "a54fa6e0dd7de2631f590b0e7581ef1e6d78f9e67baea4c9d288778e6950a718"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.413754",
+  "source_language": "en"
+}

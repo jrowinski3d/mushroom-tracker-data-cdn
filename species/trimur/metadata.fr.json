@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trimur",
+  "scientific_name": "Tricholoma murrillianum",
+  "common_name": "Matsutaké du Sud-Ouest",
+  "edibility": "E",
+  "description": "Le matsutaké du Sud-Ouest porte un chapeau robuste blanc à crème (6-15 cm) qui développe des tons brunâtres avec l'âge. Le chapeau est convexe à plat, sec, lisse à légèrement fibrilleux. Les lames sont blanches à crème, adnées, serrées. Le pied est épais, blanc, ferme, avec un VOILE PARTIEL qui laisse un ANNEAU COTONNEUX ou une zone fibrilleuse sur le haut du pied — souvent moins marqué que chez T. magnivelare. Le caractère diagnostique est l'ODEUR ÉPICÉE, DE CANNELLE, parfois moins intense que chez le matsutaké du Pacifique Nord-Ouest. La chair est blanche, ferme, dense. Sporée blanche. Adapté aux forêts de haute altitude du sud-ouest.",
+  "habitat": "Mycorhizien avec les CONIFÈRES dans les montagnes du sud-ouest, notamment le pin ponderosa, le sapin blanc et le douglas. Forme des relations mycorhiziennes obligatoires. Pousse au sol dans la litière ou les aiguilles dans les forêts de conifères de haute altitude (généralement 1 800 à 3 000 mètres). Nécessite des forêts matures avec des réseaux mycorhiziens spécifiques.",
+  "season": "De la fin de l'été à l'automne (août-octobre) dans les montagnes du sud-ouest, fructifiant après les pluies de mousson.",
+  "regions": [
+    "Nouveau-Mexique",
+    "Arizona",
+    "sud du Colorado",
+    "montagnes Rocheuses du Sud",
+    "hautes montagnes du Sud-Ouest"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare — espèce du Pacifique Nord-Ouest, très semblable",
+    "Tricholoma matsutake — espèce asiatique",
+    "Amanita smithiana — TOXIQUE — volve à la base",
+    "Autres espèces blanches de Tricholoma — sans odeur de cannelle"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Très prisé dans le Sud-Ouest, récolté commercialement. L'ODEUR DE CANNELLE/ÉPICÉE est clé pour l'identification, parfois plus subtile que chez le matsutaké du nord. Meilleur jeune et ferme. CRITIQUE : Toujours vérifier l'absence de volve (coupe à la base) pour écarter les espèces toxiques d'Amanita. L'anneau et l'odeur de cannelle sont diagnostiques. Certains cueilleurs le jugent légèrement moins aromatique que T. magnivelare mais toujours excellent.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725582.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 128318,
+      "width": 640,
+      "height": 563,
+      "sha256": "8c14cd406d0ca0a070dae5d0c8f599a5ab7b67bfb53aa9894c041ca397a82111"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651537.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 12316,
+      "width": 482,
+      "height": 640,
+      "sha256": "63aec1140a6c93f42d8ef6433c91074146579fb2ce078755fbb6bcf824f9ab11"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

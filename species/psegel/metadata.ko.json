@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "psegel",
+  "scientific_name": "Pseudohydnum gelatinosum",
+  "common_name": "Toothed Jelly Fungus (Pseudohydnum gelatinosum)",
+  "edibility": "E",
+  "description": "이 종은 침버섯류와 젤리버섯류의 특징을 겸비한 독특한 버섯이다. 갓은 너비 2~8cm로 주걱 모양 또는 부채 모양이며, 반투명한 회백색에서 연한 갈색이고 젤라틴질의 질감을 가진다. 윗면은 매끄럽고 젤리 같다. 아랫면에는 주름살이나 관공 대신 부드러운 흰색 침(길이 0.5~3mm)이 있다. 대는 측생(중심에서 벗어남)이거나 없으며, 있을 때는 1~4cm이다. 질감은 고무-젤라틴질로 단단하면서도 반투명하며, 말랐다가 물을 머금으면 되살아난다.",
+  "habitat": "잘 썩은 침엽수 통나무와 그루터기에서 발견되며, 특히 솔송나무, 가문비나무, 전나무, 소나무에서 발생한다. 분해가 많이 진행된 아주 썩은 목재에서 자란다. 산악 침엽수림에서 흔하다. 흩어지거나 무리 지어 발생하며, 통나무 위에서 겹친 무리를 이루는 경우가 많다. 목재 잔해가 풍부한 서늘하고 습한 숲을 선호한다.",
+  "season": "산악 지역에서는 늦여름부터 가을(8~11월)까지 발생한다. 태평양 북서부와 연안 지역에서는 겨울(12~1월)까지 발생할 수 있다. 서늘하고 비 오는 가을 날씨에 가장 많이 발생한다. 꾸준한 습기와 서늘한 기온이 필요하다.",
+  "regions": [
+    "태평양 북서부(매우 흔함)",
+    "북캘리포니아 산악지대",
+    "로키산맥",
+    "북아메리카 북동부",
+    "유럽(널리 분포)",
+    "전 세계 북부 온대 침엽수림"
+  ],
+  "lookalikes": [
+    "Phlebia tremellosa (식용 불가) - 젤리 같지만 침이 없고 주름/접힘이 있음",
+    "Hericium속 (식용) - 흰색 침이 있지만 육질이 단단하고 젤라틴질이 아님",
+    "Tremella속 (식용) - 뇌 모양, 침 없음",
+    "유독한 닮은꼴 없음"
+  ],
+  "safety_notes": "식용(최상급은 아님): 식용 가능하고 안전하게 먹을 수 있는 것으로 여겨지지만 맛이 거의 없고 질감이 특이하다. 젤라틴질이면서 침이 있는 구조 때문에 식재료라기보다 신기한 버섯에 가깝다. 수프에 넣거나 볶아 먹을 수 있다. 유독한 닮은꼴은 존재하지 않는다. 반투명한 젤라틴질 갓과 흰색 침의 조합은 절대적으로 특징적이다 - 이 조합을 공유하는 다른 버섯은 없다. 먹어봐도 안전하지만 대부분의 채취자들은 그냥 지나친다. 요리보다는 균학적 관점에서 더 흥미로운 버섯이다. 젤리 같은 질감과 침은 혼동할 수 없을 만큼 분명하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707931.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 91868,
+      "width": 640,
+      "height": 482,
+      "sha256": "72de83a7606453350317a3d488438eccdafd5baf9faeb58d71c3f4935958b6c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1701347.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 86236,
+      "width": 640,
+      "height": 640,
+      "sha256": "3e50e22dcbd0ebbd8f8a4e4295c0ddd6857f8b0efff85aec3b0eb890769555cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

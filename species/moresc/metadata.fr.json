@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "moresc",
+  "scientific_name": "Morchella esculenta",
+  "common_name": "Morille commune",
+  "edibility": "E",
+  "description": "Chapeau de 2 à 10 cm (0,8 à 4 po) de haut, conique à ovoïde avec un motif alvéolé caractéristique de crêtes et de fossettes ; couleur allant du crème pâle au jaune-brun au brun jaunâtre, avec des crêtes légèrement plus pâles que les fossettes. Pied de 2 à 9 cm (0,8 à 3,5 po) de haut, de 2 à 5 cm d’épaisseur, blanc à jaunâtre, creux avec une texture granuleuse. Entièrement creux du sommet du chapeau à la base du pied quand on tranche dans le sens de la longueur. Sporée crème à jaune pâle.",
+  "habitat": "Se trouve sous les feuillus dont le frêne, l’orme, le pommier, le peuplier faux-tremble et le peuplier deltoïde, occasionnellement avec des conifères comme le pin blanc. Privilégie les vieux vergers, les sols perturbés, les zones récemment brûlées et les lisières. Préfère les sols humides mais bien drainés, à teneur en calcaire plus élevée. Fructifie souvent abondamment sous les ormes mourants et dans les vergers de pommiers abandonnés.",
+  "season": "Printemps (mars-juin dans la plupart des régions, avec un pic de fructification en avril-mai). L’émergence coïncide généralement avec des températures du sol atteignant 50 à 55 °F (10 à 13 °C) après les pluies printanières ou la fonte des neiges. Les régions du sud fructifient plus tôt (mars-avril), tandis que les zones nordiques et les altitudes plus élevées peuvent fructifier plus tard (mai-juin).",
+  "regions": [
+    "Nord-Est",
+    "Mid-Atlantique",
+    "Midwest",
+    "Grands Lacs",
+    "Sud-Est",
+    "montagnes Rocheuses",
+    "Pacifique Nord-Ouest"
+  ],
+  "lookalikes": [
+    "Fausse morille (Gyromitra esculenta) - TOXIQUE : chapeau ridé ou lobé en forme de cerveau au lieu de crêtes alvéolées, chapeau attaché uniquement au sommet du pied (non soudé sur la longueur), intérieur cloisonné au lieu d’entièrement creux, couleur brun-rougeâtre à brun foncé. Contient la toxine mortelle gyromitrine même après cuisson.",
+    "Morille à moitié libre (Morchella punctipes) - Comestible : chapeau attaché uniquement à mi-hauteur du pied créant un aspect en jupe contre entièrement attaché chez les vraies morilles, chapeau proportionnellement plus court par rapport à la longueur du pied.",
+    "Espèces de Verpa - Comestible avec prudence : chapeau posé au sommet du pied avec des bords pendant complètement libres, substance cotonneuse à l’intérieur du pied contre entièrement creux chez les vraies morilles.",
+    "Autres espèces de Morchella - Comestible : comprend M. americana (presque identique), M. importuna (plus foncée, milieux paysagers), difficile à distinguer sans microscope, toutes les vraies morilles exigent la même préparation."
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : champignon culinaire très prisé, l’un des comestibles sauvages les plus recherchés au monde. Doit être bien cuit pendant au moins 15 à 25 minutes ; les morilles crues ou insuffisamment cuites contiennent des toxines d’hydrazine qui provoquent de graves troubles gastriques, nausées et vomissements. Une cuisson à des températures supérieures à 160 °F (71 °C) décompose les composés toxiques. Certaines personnes ont des réactions allergiques même après une cuisson adéquate ; consommer de petites portions lors du premier essai. Éviter la consommation d’alcool avec les morilles car de rares effets indésirables ont été documentés. Ne jamais confondre avec les fausses morilles mortelles (espèces de Gyromitra) qui ont des chapeaux en forme de cerveau au lieu de motifs alvéolés.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1329025.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 49674,
+      "width": 640,
+      "height": 480,
+      "sha256": "793f73a5d86bf33ec577e898cc6c501f08ecda5975bcbca73fd4ac8b1396369c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1329026.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 55150,
+      "width": 640,
+      "height": 480,
+      "sha256": "79f349c5ed6b710dcf09709725b0d74e5cea46998d4aa9bfe9c59c1e8313a289"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

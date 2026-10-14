@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hydrep",
+  "scientific_name": "Hydnum repandum",
+  "common_name": "Blek taggsvamp",
+  "edibility": "E",
+  "description": "Blek taggsvamp har en oregelbundet formad grädd- till ljusorange hatt (3–15 cm) med vågig, flikig kant. Det utmärkande draget är undersidan täckt med sköra, nedåtriktade TAGGAR i stället för skivor eller porer – dessa taggar är grädd- till ljusorange och lossnar lätt vid beröring. Foten är sidoställd till central, tjock, vit till ljusorange, slät och ofta böjd. Köttet är vitt, tjockt, sprött, med mild smak och behaglig doft. Sporfällningen är vit. Denna lättbestämda matsvamp har en lätt pepprig smak som rå, vilken försvinner vid tillagning.",
+  "habitat": "Bildar mykorrhiza med både lövträd och barrträd. Växer på marken i blandskog, under ek, bok, tall och gran. Ofta strödd eller i små grupper. Föredrar väldränerad jord, vanligen i mossa eller lövförna.",
+  "season": "Sommar till höst (juli–november), med topp på hösten. I mildare klimat kan den fruktsätta in på tidig vinter.",
+  "regions": [
+    "Nordvästra USA och västra Kanada",
+    "Nordöstra USA",
+    "Mellanvästern",
+    "Sydöstra USA",
+    "Klippiga bergen",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Hydnum umbilicatum (navlad taggsvamp) – mindre, mer orange, fördjupad mitt",
+    "Hydnum albidum (vit taggsvamp) – kritvit färg",
+    "Hydnum rufescens (rödgul taggsvamp) – mörkare orangebrun färg",
+    "Sarcodon-arter – större, mörkare, ofta bitter smak"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Söt och mild smak vid tillagning, dock kan den vara lätt pepprig som rå. Plocka unga exemplar för bästa konsistens – äldre exemplar kan bli sega eller utveckla bitter smak. De utmärkande taggarna på undersidan gör förväxling med giftiga arter osannolik. Rensa ordentligt eftersom taggarna fångar skräp. Kan ge lätta magbesvär hos känsliga personer vid förtäring i stora mängder.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714441.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 99832,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3445093a421555636805635d3ce11d27c8e580b4ef979bccb1b9b4e7636568c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493456.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-31",
+      "file_size_bytes": 101492,
+      "width": 640,
+      "height": 480,
+      "sha256": "707eb43113263b918093c6b9ce0ebcd8da779fe0e9b863d6899aced3d04f9f6d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:02.596413",
+  "source_language": "en"
+}

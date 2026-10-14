@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "spacri",
+  "scientific_name": "Sparassis crispa",
+  "common_name": "Clavaire crépue",
+  "edibility": "E",
+  "description": "La clavaire crépue est un champignon spectaculaire de grande taille formant des masses crème à jaune pâle de 10-40 cm de diamètre (parfois jusqu'à 60 cm) ressemblant à un chou-fleur ou à une éponge de mer. La fructification se compose de nombreux lobes minces, ondulés, en forme de feuilles, ou de branches en rubans partant d'une base centrale en forme de pied. Les lobes sont frisés, ondulés et densément serrés. La couleur est crème, jaune pâle ou chamois à l'état frais, devenant jaune-brun plus foncé avec l'âge. La texture est croquante et cassante à l'état frais. La base est fixée aux racines ou au bois. Aspect très distinctif.",
+  "habitat": "Trouvé à la base de vieux conifères, notamment le pin, le sapin, l'épicéa et le mélèze. Pousse en parasite des racines sur des arbres vivants ou à partir de racines enfouies de conifères morts. Apparaît généralement au même arbre année après année. Fructifie sur ou près de la base des arbres, semblant parfois sortir du sol. Préfère les forêts de conifères matures.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans la plupart des régions. Dans le Pacifique Nord-Ouest et en montagne, principalement septembre-octobre. Pic de fructification en automne. Peut fructifier au printemps et à l'automne à certains endroits. Vivace, revenant aux mêmes endroits chaque année.",
+  "regions": [
+    "Europe (répandu)",
+    "Pacifique Nord-Ouest (commun)",
+    "montagnes Rocheuses",
+    "Amérique du Nord (Nord-Est)",
+    "montagnes de la Californie du Nord",
+    "forêts de conifères tempérées du Nord, dans le monde entier"
+  ],
+  "lookalikes": [
+    "Sparassis radicata (comestible) — très semblable, sur feuillus et non conifères, plus jaune",
+    "Sparassis spathulata (comestible) — ouest de l'Amérique du Nord, aspect semblable",
+    "Poule des bois Grifola (comestible) — rosettes de cuillères gris-brun, structure différente",
+    "Aucun sosie toxique — l'aspect est unique"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Très prisé, saveur excellente et texture unique. L'un des meilleurs champignons sauvages. La texture croquante en forme de nouilles est distinctive. Excellent dans les soupes, les sautés et les plats de pâtes. Nettoyer soigneusement — la structure frisée piège débris et insectes. Meilleur jeune et de couleur crème. Les vieux spécimens deviennent coriaces et jaunissent. Bien cuire. Peut être très volumineux, offrant une récolte substantielle. L'aspect est absolument inimitable — aucun sosie dangereux n'existe. Très recherché par les cueilleurs. Peut être séché ou congelé. Revient au même endroit chaque année.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/380302.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65530,
+      "width": 640,
+      "height": 480,
+      "sha256": "0271503fea6ce136bdc5647e13ea525538f74f78a57e6ca8ce75287d683af72d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/380303.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65944,
+      "width": 640,
+      "height": 480,
+      "sha256": "f27081bca45016950cd1230a0e65c328dab21d3a386eb6faba9715df6b35c6d3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

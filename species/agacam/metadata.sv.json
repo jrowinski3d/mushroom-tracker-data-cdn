@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacam",
+  "scientific_name": "Agaricus campestris",
+  "common_name": "Ängschampinjon",
+  "edibility": "E",
+  "description": "Ängschampinjonen är den klassiska vilda anfadern till den odlade champinjonen. Hatt 5–12 cm bred, till en början rundad och senare brett välvd till utbredd. Hatten är vit till krämfärgad, slät eller med fina platta fjäll, och utvecklar ofta rosa-bruna toner med åldern. Skivorna är fria, till en början klart rosa och blir mörkt chokladbruna (diagnostiskt – rosa skivor skiljer den från vita flugsvampar). Foten är 3–8 cm hög, vit, slät, med en tunn skör ring som ofta försvinner. Köttet är vitt, ibland lätt rosa, med mild behaglig svampdoft.",
+  "habitat": "Växer i öppna gräsmarker som ängar, betesmarker, gräsmattor, golfbanor och parker. Föredrar näringsrika gräsmarker, ofta där djur betar eller där organisk gödsel används. Undviker skog. Markväxande, växer spridd till i grupp, ofta i häxringar. Vanlig i välskötta gräsmarker.",
+  "season": "Sensommar till höst (juli–november) i tempererade områden. I milda klimat kan den komma både vår och höst. Rikligast fruktsättning sker sensommar och tidig höst efter varma regn. En av de klassiska höstsvamparna på betesmarker.",
+  "regions": [
+    "Europa (ursprunglig, vitt utbredd)",
+    "Nordamerika (vitt utbredd, alla regioner)",
+    "östra USA (mycket vanlig)",
+    "Kalifornien (vanlig)",
+    "nordvästra USA (vanlig)",
+    "tempererade gräsmarker världen över"
+  ],
+  "lookalikes": [
+    "flugsvampar ur gruppen vit flugsvamp (dödliga) – vita med vita skivor (inte rosa), har volva vid fotbasen",
+    "Agaricus xanthodermus (giftig) – gulnar intensivt när den skärs, karbollukt",
+    "Agaricus arvensis (ätlig) – större, anisdoft, tandad ring",
+    "Chlorophyllum molybdites (giftig) – gröna sporer, större, skivorna blir så småningom gröna"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Den klassiska vilda svampen med utmärkt smak liknande odlade sorter. Tillaga ordentligt. KRITISK bestämning för att undvika dödligt giftiga vita flugsvampar: kontrollera ROSA skivor när den är ung (flugsvampar har vita skivor), att skivorna blir CHOKLADBRUNA med åldern, CHOKLADBRUNT sporfällning, INGEN volva vid fotbasen, mild behaglig doft (inte fenolisk). De rosa skivorna är det viktigaste kännetecknet – om skivorna är vita är det INTE denna art. Undvik exemplar som gulnar intensivt när de skärs. Mycket populär vild matsvamp men kräver noggrann bestämning.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1637875.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 49032,
+      "width": 640,
+      "height": 427,
+      "sha256": "23a834b68e3daa7b3a096f468aa31c432e37f3837cb0a60675c59a2eae41efcd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1637876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-04",
+      "file_size_bytes": 76590,
+      "width": 640,
+      "height": 427,
+      "sha256": "c1dd63a0a61f671647be7697f74475e2bfd753f007e551708cd67112dadbef1f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copdis",
+  "scientific_name": "Coprinellus disseminatus",
+  "common_name": "Coprino de hadas (Coprinellus disseminatus)",
+  "edibility": "E",
+  "description": "El coprino en tropas o \"bonetes de hadas\" es un hongo diminuto y delicado que forma grupos masivos. Los sombreros individuales miden 0,5-1,5 cm de ancho, ovalados a acampanados, de crema pálido a gris-beige con surcos radiales. La superficie es lisa, no escamosa. Las láminas son adnatas, de blancas a gris pálido, NO se delicuescen fuertemente en tinta (diferencia clave respecto a otros coprinos: las láminas se desmoronan en lugar de licuarse). El pie es de 2-4 cm de alto, extremadamente delgado (como un hilo), blanco, frágil. Fructifica en enormes grupos densos de cientos a miles.",
+  "habitat": "Se encuentra sobre madera muerta, incluyendo tocones, troncos y restos de madera enterrados. También sobre astillas de madera y mantillo. Crece como descomponedor de madera en densos grupos espectaculares. Muy común en bosques, parques y zonas ajardinadas. Las tropas masivas suelen encontrarse en viejos tocones de frondosas.",
+  "season": "Primavera hasta otoño (abril-noviembre) en regiones templadas. En climas suaves puede fructificar todo el año. Puede fructificar de forma continua en condiciones adecuadas. Muy persistente durante toda la temporada.",
+  "regions": [
+    "Norteamérica (muy común, ampliamente distribuido)",
+    "Europa (muy común)",
+    "todo el mundo en regiones templadas",
+    "bosques y zonas urbanas",
+    "cosmopolita en madera"
+  ],
+  "lookalikes": [
+    "Coprinellus micaceus (comestible) - más grande, canela-marrón, partículas de mica cuando es joven",
+    "Psathyrella gracilis - hongos diminutos similares pero diferente color de esporas",
+    "Otros hongos diminutos - pero ninguno en tropas tan masivas",
+    "Los enormes grupos de cientos de hongos diminutos son distintivos"
+  ],
+  "safety_notes": "COMESTIBLE pero poco práctico: Técnicamente comestible y no tóxico, pero demasiado pequeño para que merezca la pena recolectarlo. Los hongos individuales son diminutos. Las láminas no se delicuescen tan fuertemente como otros coprinos, pero aun así se deterioran rápidamente. Sin sabor destacable. Seguro pero inútil cosecharlo. Sin especies similares tóxicas. Más interesante como espectacular fenómeno natural: los grupos masivos de cientos de hongos diminutos en tocones son hermosos e impresionantes. A menudo parece una capa gris difusa sobre los troncos. Mejor fotografiado que comido. La gran cantidad compensa el pequeño tamaño en la naturaleza, pero no en la cocina.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751486.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 101340,
+      "width": 640,
+      "height": 480,
+      "sha256": "02efec69dfe340a43bc987ebbbda209c0a303c68f689250f54ea245e4d0f87e4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751487.jpg",
+      "photographer": "Hunter Le Duc",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 122436,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcd77199817a9948da67d3201eb1a9c44cfda21deaee4bfa97050fb45e6b3aa0"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

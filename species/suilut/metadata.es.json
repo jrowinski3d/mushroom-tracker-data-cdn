@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilut",
+  "scientific_name": "Suillus luteus",
+  "common_name": "Baboso",
+  "edibility": "E",
+  "description": "El baboso presenta un sombrero de color marrón chocolate a marrón violáceo (5-12 cm) con superficie distintivamente viscosa y glutinosa cuando está húmedo, fácil de pelar. Los poros son amarillos, sin azuleamiento. Un velo parcial blanco prominente deja un anillo de color marrón violáceo en el pie amarillo. La carne, de blanca a amarillo pálido, no mancha. El sombrero viscoso y el anillo oscuro son características diagnósticas. Esporada de color marrón canela.",
+  "habitat": "Micorrícico exclusivamente con pinos de dos y tres acículas, sobre todo pino silvestre y pino blanco oriental. Común en plantaciones de pinos y pinares regenerados de forma natural. Se encuentra en zonas alteradas con pinos jóvenes.",
+  "season": "De verano a otoño (julio-noviembre), con fructificación máxima en septiembre-octubre. Suele fructificar abundantemente tras las lluvias otoñales.",
+  "regions": [
+    "noreste de Estados Unidos",
+    "región de los Grandes Lagos",
+    "Pacífico Noroeste",
+    "Montañas Rocosas",
+    "donde haya plantaciones de pinos",
+    "Canadá",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Suillus granulatus — carece del anillo oscuro en el pie",
+    "Otras especies de Suillus — varios boletos de sombrero viscoso con pinos",
+    "especies de Boletus — no son viscosas, hábitat diferente",
+    "especies de Gomphidius — tienen láminas y no poros"
+  ],
+  "safety_notes": "COMESTIBLE: el baboso es un buen comestible cuando es joven y firme. Retirar la cutícula viscosa del sombrero antes de cocinar, ya que puede tener efecto laxante. La textura viscosa y el anillo violáceo en el pie amarillo son distintivos. Algunas personas sufren molestias digestivas. Cocinar siempre bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1724477.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 107790,
+      "width": 640,
+      "height": 427,
+      "sha256": "58d9a1262207963b51189423dc109394b7f49fd2160a342af7d6ed999a630e7b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1724478.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-11",
+      "file_size_bytes": 78526,
+      "width": 640,
+      "height": 427,
+      "sha256": "b5eb12ca74c4875c75f45097ea8581a8f1e41b464135995d4bda4dbfa0b0bab4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

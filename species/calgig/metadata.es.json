@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "calgig",
+  "scientific_name": "Calvatia gigantea",
+  "common_name": "Giant Puffball (Calvatia gigantea)",
+  "edibility": "E",
+  "description": "Pedos de lobo enormes, redondos u oblongos, de 8 a más de 20 pulgadas (pueden alcanzar 5 pies), que parecen balones de fútbol o almohadas blancas gigantes en los campos. Exterior liso y blanco que se vuelve amarillento-castaño con la edad. Interior de color blanco puro y firme cuando es comestible, volviéndose amarillo verdoso y luego pardo a medida que maduran las esporas. Sin pie ni base estéril. Inconfundible cuando alcanza su tamaño completo.",
+  "habitat": "Saprobio en suelo rico de campos abiertos, praderas, pastizales, céspedes y bordes de bosque. Prefiere áreas ricas en nutrientes cerca de materia orgánica en descomposición. Común en áreas agrícolas, parques y pastizales alterados. A menudo aparece en el mismo lugar cada año.",
+  "season": "De finales del verano a otoño, típicamente de agosto a octubre. Fructificación máxima tras las fuertes lluvias de finales del verano. Más abundante en septiembre. Puede aparecer antes en las regiones del sur.",
+  "regions": [
+    "este de Norteamérica",
+    "Medio Oeste y Grandes Llanuras",
+    "Pacífico Noroeste",
+    "sur de Canadá",
+    "extendido por la Norteamérica templada"
+  ],
+  "lookalikes": [
+    "Otras especies de Calvatia (más pequeñas, comestibilidad similar cuando el interior es blanco)",
+    "MORTAL: botones inmaduros de Amanita (CÓRTELOS SIEMPRE POR LA MITAD: mostrarán láminas o sombrero en desarrollo en su interior)",
+    "Especies de Scleroderma / pedos de lobo terrestres (tóxicas, interior púrpura negruzco, piel gruesa y verrugosa)",
+    "Otros pedos de lobo grandes (generalmente comestibles cuando el interior es blanco puro)"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE cuando el interior es de color blanco puro: CRÍTICO: corte siempre el ejemplar completamente por la mitad de arriba abajo. Comestible SOLO si el interior es completamente blanco puro y firme como un malvavisco en su totalidad. Si se observa cualquier tono amarillo, pardo, púrpura o estructuras en desarrollo en el interior, NO LO COMA. Esta regla evita consumir especies similares tóxicas y Amanitas mortales inmaduras que pueden parecer pedos de lobo. Deseche si se observa cualquier indicio de láminas, sombrero o estructura de pie en el interior. Cocine bien: excelente empanado y frito o salteado.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720504.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-27",
+      "file_size_bytes": 51464,
+      "width": 482,
+      "height": 640,
+      "sha256": "7326e09bc739129146ce717bbbc51d4a584aa419d7be1461ee30bf91db625de6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717552.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 41422,
+      "width": 640,
+      "height": 427,
+      "sha256": "19fa36a1c78915de64224dd0c2fa81fcf906c890be7b9bccd277095dee97c971"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

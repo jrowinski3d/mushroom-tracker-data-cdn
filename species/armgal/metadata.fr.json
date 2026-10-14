@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armgal",
+  "scientific_name": "Armillaria gallica",
+  "common_name": "Armillaire à bulbe",
+  "edibility": "E",
+  "description": "L'armillaire à bulbe a un chapeau jaune miel à brun (3 à 10 cm) avec de petites SQUAMES SOMBRES concentrées au centre. Les lames sont blanches à crème, adnées. Le pied porte un ANNEAU PERSISTANT et une BASE BULBEUSE distinctive — la base renflée est une caractéristique d'identification clé qui la distingue d'A. mellea. Le pied est blanc au-dessus de l'anneau, plus sombre en dessous. Pousse en TOUFFES DENSES sur le bois ou près des arbres. La chair est blanche, ferme. La sporée est blanche. Généralement MOINS AGRESSIVE comme pathogène des arbres qu'A. mellea ou A. ostoyae, souvent saprotrophe plutôt que parasite.",
+  "habitat": "Saprotrophe et faiblement parasite des feuillus, occasionnellement des conifères. Pousse en touffes à la base des arbres morts, des souches et du bois enterré. Moins agressive comme pathogène que les autres espèces d'Armillaria. Pousse sur le chêne, l'érable, le hêtre et divers feuillus.",
+  "season": "De la fin de l'été à l'automne (août-novembre), fructifiant après les pluies.",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest",
+    "Nord-Est",
+    "Pacifique Nord-Ouest",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Armillaria mellea — sans base bulbeuse, pathogène plus agressif",
+    "Autres espèces d'Armillaria — très semblables, toutes exigent une cuisson",
+    "Espèces de Pholiota — spores brunes, base différente",
+    "Espèces de Galerina — MORTELLES — plus petites, spores brunes"
+  ],
+  "safety_notes": "COMESTIBLE AVEC PRÉCAUTION : les armillaires (espèces d'Armillaria) sont VÉNÉNEUSES crues et doivent être soigneusement cuites avant consommation. Cuire au moins 10 à 15 minutes à feu vif. Même bien cuites, certaines personnes présentent des réactions allergiques ou des troubles digestifs. Essayer d'abord une petite quantité pour tester votre tolérance. Blanchir avant la cuisson peut aider à réduire les irritants gastro-intestinaux et l'amertume. Ne pas consommer avec de l'alcool — les armillaires peuvent provoquer des réactions indésirables en combinaison avec l'alcool (comme chez Coprinopsis). Ne récolter que des spécimens jeunes et fermes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723298.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 37772,
+      "width": 640,
+      "height": 427,
+      "sha256": "5243f5f67facea290fb948ce30fbcf7efd93e6d534b2093aad0248a85387c1b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723299.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 28588,
+      "width": 640,
+      "height": 427,
+      "sha256": "7a504c92cd99e106f7e327ed456d959a02915920b376b3f7739c1ef4a6a59a8a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

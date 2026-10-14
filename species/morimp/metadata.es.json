@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morimp",
+  "scientific_name": "Morchella importuna",
+  "common_name": "Landscape Morel (Morchella importuna)",
+  "edibility": "E",
+  "description": "Cuerpo fructífero de 6-20 cm (2,4-8 pulg.) de alto en total. Sombrero de 3-15 cm (1,2-6 pulg.) de alto, 2-9 cm de ancho en el punto más ancho, cónico a ampliamente cónico u ocasionalmente en forma de huevo, con un distintivo patrón en forma de panal como escalera con 12-20 prominentes crestas verticales primarias intersectadas por numerosas crestas horizontales que crean fosas rectangulares. Color típicamente más oscuro que las colmenillas amarillas, que va del marrón al marrón grisáceo. Pie hueco, proporcional al sombrero. Completamente hueco al cortarlo. Esporada crema.",
+  "habitat": "Distintiva colmenilla urbana y de jardines que se encuentra en camas de mantillo de astillas de madera, jardines, fogatas, macetas, zonas ajardinadas y suelos alterados en entornos residenciales y comerciales. A diferencia de la mayoría de las colmenillas, que son micorrícicas, M. importuna es en gran medida saprotrófica (descompone las astillas de madera y la materia orgánica de forma independiente). Fuertemente asociada con mantillo fresco de astillas de madera en plantaciones ornamentales, parques y espacios verdes urbanos. Rara vez se encuentra en entornos forestales naturales.",
+  "season": "Primavera (marzo-mayo en la mayoría de las regiones, el momento varía con el clima local). En California y el Pacífico Noroeste puede fructificar en febrero-abril. La emergencia a menudo se desencadena por la humedad tras la aplicación de astillas de madera en la temporada anterior. Puede fructificar en los mismos lugares con mantillo durante varios años consecutivos.",
+  "regions": [
+    "Pacífico Noroeste",
+    "California",
+    "Medio Oeste",
+    "noreste",
+    "Atlántico medio"
+  ],
+  "lookalikes": [
+    "Falsa colmenilla (especies de Gyromitra): TÓXICA: sombrero lobulado como un cerebro en lugar de crestas como escalera, sombrero unido solo en la parte superior del pie, interior con cámaras, color marrón rojizo. Tóxica mortal incluso cocinada.",
+    "Otras colmenillas negras (grupo Morchella elata): comestible: apariencia similar pero típicamente en entornos forestales naturales en lugar de mantillo de jardines, difícil de distinguir visualmente, todas comestibles con la cocción adecuada.",
+    "Half-free Morel (Morchella punctipes): comestible: sombrero unido a mitad del pie creando una falda, en lugar de completamente unido en toda su longitud.",
+    "Morchella tomentosa: comestible: textura peluda/áspera cuando es joven, especialmente en la base del pie, se encuentra en sitios de coníferas tras incendios en lugar de paisajes urbanos."
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: seta culinaria muy apreciada, ahora cultivada comercialmente en Asia con cientos de toneladas anuales. Debe cocinarse a fondo durante un mínimo de 15-25 minutos; las colmenillas crudas o poco cocinadas contienen toxinas de hidrazina que causan náuseas severas, vómitos y molestias gástricas. Cocine a temperaturas superiores a 160 °F (71 °C) para destruir los compuestos tóxicos. Algunas personas experimentan reacciones alérgicas incluso bien cocinadas; pruebe primero pequeñas porciones. Evite consumirla con alcohol debido a raras interacciones adversas documentadas. Asegúrese de una identificación correcta para distinguirla de las mortales falsas colmenillas (Gyromitra), que tienen sombreros arrugados como cerebros. Cuando recolecte en mantillo de jardines, verifique que no se hayan aplicado pesticidas ni herbicidas en la zona.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751485.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 61022,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f486307fe8bc9b853309c9d16f0e5a3baa20133c6f1468621bbd300e2a405cc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751432.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 64566,
+      "width": 640,
+      "height": 480,
+      "sha256": "788ee443df988d03a975784a7e4493e160afd271619e90d83e1011258704f823"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.697677",
+  "source_language": "en"
+}

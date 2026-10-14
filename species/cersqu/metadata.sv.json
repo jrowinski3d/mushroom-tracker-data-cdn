@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "cersqu",
+  "scientific_name": "Cerioporus squamosus",
+  "common_name": "Fjällig ticka",
+  "edibility": "E",
+  "description": "Stor solfjäderformad ticka 10–30 cm bred med distinkt gräddvit till beigefärgad yta täckt av mörkbruna överlappande fjäll som påminner om fasanfjädrar. Stora vinkliga porer i vitt till gräddvitt på undersidan. Tjock, excentrisk svartbrun fot (vid växt på vertikala ytor). Stark doft av gurka eller vattenmelonsskal. Mjuk som ung, seg med åldern. Mycket distinkt fjällmönster.",
+  "habitat": "Saprofyt på döda och döende lövträd, stubbar och stockar, särskilt alm, lönn, ask, pil och sötlönn. Orsakar vitröta. Bildar stora tickor på stammar, grenar och fallna stockar. Vanlig på stående döda almar och andra lövträd i stads- och skogsmiljöer.",
+  "season": "Vår till sommar, vanligen april–juli. Fruktsättningstoppen är maj–juni. En av de tidigaste stora tickorna. Kort fruktsättningsfönster – dyker upp snabbt på våren. Kan sätta frukt igen på hösten.",
+  "regions": [
+    "Östra Nordamerika",
+    "Mellanvästern",
+    "Nordvästra Stillahavsområdet",
+    "Regionen kring de stora sjöarna",
+    "Utbredd över hela Nordamerika",
+    "Europa och Asien"
+  ],
+  "lookalikes": [
+    "Polyporus-arter (mindre, annat fjällmönster)",
+    "Andra fjälliga tickor (annan storlek, värdträd)",
+    "Inonotus-arter (annan färg, inga fjäll)",
+    "Inga farliga förväxlingssvampar – mycket distinkt"
+  ],
+  "safety_notes": "ÄTLIG endast som mycket ung: Endast späda unga exemplar (under 10 cm) med mjuk konsistens är värda att äta – de har gurkliknande smak. Äldre exemplar blir snabbt sega och oätliga som gummi eller läder. Måste skördas i knoppstadium för att ätas. Tillaga ordentligt. Den starka gurkdoften är distinkt. Generellt säker men ätlighetsfönstret är mycket kort. De flesta exemplar man stöter på är för gamla och sega för att ätas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750888.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 117050,
+      "width": 640,
+      "height": 480,
+      "sha256": "6784806d7184bcd1bf84aadc36d73634e1df251be0a75d436880aaf5f1516bcf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750889.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-06",
+      "file_size_bytes": 143762,
+      "width": 480,
+      "height": 640,
+      "sha256": "d2f449e8570e864f434ce05a81072a3d2f52db49f2d507865e13ff76c0495dff"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

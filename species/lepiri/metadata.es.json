@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepiri",
+  "scientific_name": "Lepista irina",
+  "common_name": "Flowery Blewit (Lepista irina)",
+  "edibility": "E",
+  "description": "El Flowery Blewit es similar a L. nuda pero generalmente más pálido. Sombrero de 4-12 cm de diámetro, convexo que se vuelve plano, de lila pálido a lila rosado o beige con sutiles tonos morados. El sombrero se destiñe más rápido que el de L. nuda, volviéndose a menudo completamente beige-marrón. La superficie es lisa. Las láminas son adnatas, de lila pálido a rosado que se vuelve beige pálido. El pie mide 4-8 cm de alto, de lila pálido a blanquecino con tonos morados, con una base ligeramente bulbosa. La carne es pálida, delgada, con un distintivo olor dulce floral parecido al perfume (más fuerte y más floral que el de L. nuda).",
+  "habitat": "Se encuentra en bosques caducifolios y de coníferas, bordes de bosques y zonas herbosas cerca de árboles. Crece en la hojarasca y en suelos orgánicos ricos. Fructifica de forma dispersa a gregaria, a veces en corros. Prefiere zonas con buen humus y retención de humedad.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre) en la mayoría de las regiones. Más temprana que L. nuda, fructifica típicamente antes de las heladas fuertes. Máximo en septiembre-octubre.",
+  "regions": [
+    "Europa (común)",
+    "este de Norteamérica (poco común)",
+    "Pacífico Noroeste (ocasional)",
+    "bosques templados de todo el mundo",
+    "en general menos común que L. nuda"
+  ],
+  "lookalikes": [
+    "Lepista nuda (comestible): muy similar, color morado más intenso, temporada más tardía",
+    "Clitocybe nuda (misma especie): sinónimo de Lepista nuda",
+    "Especies de Cortinarius (algunas mortales): esporas de color marrón rojizo, no rosadas",
+    "Especies de Laccaria (comestible): más pequeñas, más uniformemente moradas"
+  ],
+  "safety_notes": "COMESTIBLE con las mismas precauciones que L. nuda: debe cocinarse a fondo; NUNCA comerla cruda. Puede provocar reacciones alérgicas en algunas personas. El fuerte olor floral a perfume puede resultar abrumador en los platos. Pruebe primero pequeñas cantidades para comprobar la tolerancia. Verifique la ESPORADA ROSADA para distinguirla de Cortinarius. Los colores pálidos y la fuerte fragancia dulce son diagnósticos. Se recolecta menos comúnmente que L. nuda. Cocínela a fondo y empiece con porciones pequeñas. Algunas personas encuentran desagradable el olor a perfume. Comestible pero proceda con precaución.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649896.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95348,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dac1ebaf3f7b1b474965747dad73ac4fd6aac9270bb58023ebd33017f0689b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649897.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 94302,
+      "width": 640,
+      "height": 480,
+      "sha256": "70fa8fb81c58d229ce5ed118b93a56066f1f7d3f3c9e264d3bc7e2b39bd640b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

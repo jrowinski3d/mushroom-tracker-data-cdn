@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "mortom",
+  "scientific_name": "Morchella tomentosa",
+  "common_name": "Gray Morel (Morchella tomentosa)",
+  "edibility": "E",
+  "description": "Chapeau de 3 à 12 cm (1,2 à 4,7 po) de haut, conique à allongé, motif alvéolé densément creusé de crêtes et de fossettes. Couleur très variable allant du noir et du gris suie au brun, au jaune ou au blanchâtre, progressant généralement du plus foncé au plus clair avec l’âge. Caractère distinctif : les jeunes spécimens sont densément couverts de poils fins donnant un aspect duveteux ou velouté, particulièrement visible à la loupe ; les poils sont plus proéminents à la base du pied. Pied de 3 à 12 cm de haut, épais et robuste avec une structure caractéristique à double paroi, plus foncé que chez de nombreuses espèces de morilles, creux. Développe des structures souterraines uniques semblables à des sclérotes. Sporée crème.",
+  "habitat": "Espèce spécialisée associée au feu, trouvée exclusivement dans les forêts de conifères brûlées de l’ouest de l’Amérique du Nord, particulièrement après des feux de forêt d’intensité modérée à élevée. Fructifie dans les zones avec des conifères morts sur pied et des débris ligneux. Préfère les sites brûlés 1 à 3 ans après l’incendie, bien qu’elle puisse apparaître les années suivantes. Trouvée à diverses altitudes, des forêts de plaine aux zones montagnardes. Décrite de l’ouest de l’Amérique du Nord en 2008 comme espèce distincte adaptée au feu. Ne fructifie pas dans les forêts non brûlées ni dans les sites perturbés non incendiés.",
+  "season": "Fin du printemps au début de l’été (mai-juillet dans la plupart des zones). Fructification plus tardive que de nombreuses morilles, émergeant à des altitudes plus élevées et plus tard dans la saison montagnarde à mesure que la fonte des neiges recule. Le calendrier dépend de l’altitude, de l’enneigement et du réchauffement du sol dans les sites brûlés. Les brûlis de basse altitude peuvent fructifier en mai-juin, tandis que les brûlis de haute montagne fructifient en juin-juillet après la fonte des neiges.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie",
+    "montagnes Rocheuses"
+  ],
+  "lookalikes": [
+    "Fausse morille (espèces de Gyromitra) - TOXIQUE : chapeau ridé ou contourné en forme de cerveau au lieu de crêtes alvéolées, chapeau attaché uniquement au sommet du pied, intérieur cloisonné contre entièrement creux, souvent brun-rougeâtre. Toxique mortel contenant de la gyromitrine.",
+    "Morchella snyderi - Comestible : sans revêtement duveteux/poilu, trouvée dans les forêts de conifères non brûlées (non dépendante du feu), paroi du pied plus mince, coloration plus claire quand elle est jeune. Exige la même préparation culinaire.",
+    "Autres morilles noires (groupe M. elata) - Comestible : diverses morilles associées au feu et naturelles, sans le revêtement duveteux et le pied à double paroi caractéristiques de M. tomentosa, distinction sur le terrain difficile sans expérience.",
+    "Morchella importuna (Landscape Morel) - Comestible : trouvée dans les milieux paillés urbains contre les sites brûlés de montagne, sans texture duveteuse, motif de crêtes en échelle."
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : champignon culinaire très prisé, particulièrement apprécié des cueilleurs commerciaux qui en récoltent des tonnes chaque année dans les sites brûlés de l’ouest. Doit être bien cuit pendant 15 à 25 minutes minimum ; les morilles crues ou insuffisamment cuites contiennent des toxines d’hydrazine provoquant de graves nausées, vomissements et troubles gastriques. Cuire à des températures supérieures à 160 °F (71 °C) pour détruire les composés toxiques. Certaines personnes ont des réactions allergiques même après une cuisson adéquate ; consommer d’abord de petites portions. Éviter la consommation d’alcool avec les morilles car de rares effets indésirables sont documentés. Essentiel de distinguer des fausses morilles mortelles (Gyromitra) qui ont des chapeaux en forme de cerveau au lieu de motifs alvéolés. Lors de la cueillette dans les zones brûlées, faire attention aux arbres instables, aux fosses de cendres et aux autres dangers liés au feu.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1074986.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 182406,
+      "width": 640,
+      "height": 640,
+      "sha256": "0817ccd2ef62707eced0007c3b331d1feb697686f646e29b20266c2a36cbf7ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1074987.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 17824,
+      "width": 256,
+      "height": 480,
+      "sha256": "7357e1c34fca970cf9ed95cacd9bea0aee8a49fac418029b6d68666a8c1a17f9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

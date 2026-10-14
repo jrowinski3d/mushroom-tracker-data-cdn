@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hereri",
+  "scientific_name": "Hericium erinaceus",
+  "common_name": "노루궁뎅이버섯",
+  "edibility": "E",
+  "description": "노루궁뎅이버섯은 아래로 늘어지는 긴 고드름 모양 침상(길이 1~5cm)으로 덮인 크고 둥근 공 모양 덩어리(10~40cm)를 이루는 독특한 흰색 균류이다. 침상은 신선할 때 순백색이며 나이가 들면 누렇게 된다. 전체 자실체는 흰색, 부드럽고 다육질이며 갓이나 대 구조가 없다 — 침상의 단일 치밀 덩어리이다. 살은 흰색, 단단하면서도 연하고, 맛이 순하며 해산물 같은 질감이다. 다른 이빨버섯과 달리 침상이 폭포 무늬처럼 수직으로 매달린다. 흰 사자의 갈기나 덥수룩한 수염을 닮은 외형은 오인할 수 없다.",
+  "habitat": "활엽수, 특히 참나무, 너도밤나무, 단풍나무, 호두나무에서 부생성. 살아 있거나 죽은 고사목의 높은 곳에서 자라며, 보통 상처나 가지 흉터에서 발생한다. 균근성이 아니다. 보통 나무당 하나의 대형 개체로 나타나지만, 여러 자실체가 발생할 수도 있다.",
+  "season": "늦여름부터 가을(8월~11월), 온화한 기후에서는 가끔 겨울까지. 한 번만 발생하는 단발성.",
+  "regions": [
+    "미국 동부",
+    "중서부",
+    "남동부",
+    "태평양 북서부",
+    "아시아",
+    "유럽 (희귀)"
+  ],
+  "lookalikes": [
+    "Hericium americanum - 가지에 침상이 달린 분지 구조",
+    "Hericium coralloides - 고도로 분지된 산호 모양 구조",
+    "Hericium abietis - 침엽수에서 자라며 더 분지된 구조"
+  ],
+  "safety_notes": "최상급 식용: 순하고 달콤하며 해산물 같은 맛(종종 랍스터나 게에 비유됨)으로 크게 귀하게 여겨진다. 오인할 수 없는 외형 덕분에 가장 안전한 야생버섯 중 하나이다. 요리용과 약용으로 널리 재배된다. 신선하고 순백색일 때 가장 좋다 — 누렇게 되면 노화된 것이지만 여전히 먹을 수 있다. 유독 유사종이 없다. 침상의 잔해를 제거하도록 가볍게 손질하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1743539.jpg",
+      "photographer": "(c) Gordon C. Snelling, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2025-02-04",
+      "file_size_bytes": 98174,
+      "width": 384,
+      "height": 640,
+      "sha256": "ad1281635c3fe88358f31d5132c080f4460af6b8b108db6fc18942604974f098"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1712330.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 124150,
+      "width": 480,
+      "height": 640,
+      "sha256": "a54fa6e0dd7de2631f590b0e7581ef1e6d78f9e67baea4c9d288778e6950a718"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.413754",
+  "source_language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "craign",
+  "scientific_name": "Craterellus ignicolor",
+  "common_name": "Rebozuelo de llama (Craterellus ignicolor)",
+  "edibility": "E",
+  "description": "El rebozuelo de llama (también llamado rebozuelo dorado del este o rebozuelo de color llama) tiene un sombrero de 2-8 cm de ancho de color amarillo-dorado a amarillo-naranja brillante que se vuelve profundamente en forma de embudo con la edad. El margen del sombrero es fino, ondulado y a menudo perforado en el centro, abriéndose hacia el pie hueco. La parte inferior presenta pliegues poco profundos, romos y bifurcados (NO láminas verdaderas) de color amarillo-dorado a amarillo-naranja, muy espaciados, que descienden por el pie. El pie es de 3-10 cm de alto, hueco, esbelto, de amarillo brillante a amarillo-naranja en toda su extensión. La carne es fina, de amarilla a naranja, con un suave olor afrutado. La esporada es blanca a amarilla pálida.",
+  "habitat": "Micorrícico con frondosas del este, particularmente roble (sobre todo roble blanco, roble rojo), haya americana y nogal americano. Se encuentra en bosques maduros caducifolios, a menudo en zonas con musgo o en laderas bien drenadas. Crece disperso o en tropas en el suelo del bosque entre la hojarasca.",
+  "season": "Verano hasta otoño (julio-octubre), fructificando durante períodos cálidos y húmedos después de las lluvias de verano. La temporada pico suele ser de agosto a septiembre en la mayor parte de su distribución. Puede producir múltiples floraciones durante la temporada.",
+  "regions": [
+    "este de Estados Unidos",
+    "estados del sureste (sobre todo las Carolinas, Tennessee y Georgia)",
+    "región de los Apalaches",
+    "estados del Atlántico medio",
+    "valle del río Ohio"
+  ],
+  "lookalikes": [
+    "Craterellus tubaeformis - Comestible, sombrero más marrón con pie amarillo, se encuentra más al norte con coníferas",
+    "Pequeñas especies de Cantharellus (C. cinnabarinus, C. minor) - Comestibles, pie más macizo (no hueco), por lo demás similares",
+    "Hygrophoropsis aurantiaca (falso rebozuelo) - No tóxico pero de mala calidad, tiene láminas verdaderas finas, más anaranjado"
+  ],
+  "safety_notes": "COMESTIBLE: El rebozuelo de llama es un hongo comestible excelente con buen sabor y un aspecto distintivo. La combinación de color amarillo-dorado, forma de embudo, pie hueco y pliegues romos (no láminas verdaderas) lo hace relativamente fácil de identificar. El pie hueco en toda su extensión lo distingue de las especies de Cantharellus de pie macizo. No existen especies similares tóxicas. A menudo se encuentra en gran número, lo que lo convierte en una recolección que merece la pena. El sabor es agradable y ligeramente afrutado; excelente salteado, en sopas o seco para uso posterior.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716729.jpg",
+      "photographer": "Jess Evans",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-12",
+      "file_size_bytes": 59018,
+      "width": 479,
+      "height": 640,
+      "sha256": "f3fae7e1255a0ae7a2792a65838543cf197bb4cf15b6d6d737220fe368e0065e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691765.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 36078,
+      "width": 640,
+      "height": 427,
+      "sha256": "1836de388cd2ce82bb1b3fa93695bf67badd48b7368ce1dc8f5fc6c0d6565505"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

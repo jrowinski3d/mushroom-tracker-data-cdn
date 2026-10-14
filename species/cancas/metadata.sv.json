@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancas",
+  "scientific_name": "Cantharellus cascadensis",
+  "common_name": "Cascade Chanterelle (Cantharellus cascadensis)",
+  "edibility": "E",
+  "description": "Kaskadkantarellen har en blekgul till gräddvit hatt 2–8 cm bred, märkbart blekare än sin låglandskusin C. formosus. Hatten är slät, blir trattlik med åldern, med vågig, oregelbunden kant. Undersidan har tjocka, trubbiga, gafflade ribbor (INTE äkta skivor) som är gräddvita till blekgula, glest ställda och tydligt nedlöpande längs foten. Foten är solid, 2–6 cm hög, vit till blek gräddvit, ofta avsmalnande mot basen. Köttet är vitt till blekt gräddvitt, fast, med subtil fruktig doft. Sporfällningen är vit till blek gräddvit.",
+  "habitat": "Mykorrhiza med höglänta barrträd inklusive berghemlock, äkta ädelgranar (Abies-arter) och engelmannsgran. Förekommer i bergs- och fjällbarrskogar, ofta i mossiga områden nära snösmältningszoner. Föredrar svala, fuktiga bergsmiljöer med väldränerade jordar.",
+  "season": "Sensommar till höst (augusti–november), fruktar när snötäcket drar sig tillbaka och höstregnen börjar. Högsäsong är september–oktober på högre höjder. Säsongen är kortare än för låglandskantareller på grund av kallare bergstemperaturer.",
+  "regions": [
+    "Kaskadbergen (Washington, Oregon)",
+    "Nordliga Klippiga bergen (Idaho, Montana)",
+    "Höglänta skogar i British Columbia",
+    "Sierra Nevadas berg (norra Kalifornien)",
+    "Olympiska bergen"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus – Ätlig, mörkare guldorange, finns på lägre höjder, större fruktkroppar",
+    "Cantharellus subalbidus – Ätlig, vit till gräddvit, mycket lik men vanligen blekare och i andra regioner",
+    "Narrkantarell (Hygrophoropsis aurantiaca) – Inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Kaskadkantarellen är en utmärkt matsvamp med delikat smak och fast konsistens. Som hos alla kantareller är det avgörande identifieringskännetecknet de trubbiga, gafflade ribborna på undersidan snarare än äkta skivor. Dessa ribbor känns vaxartade och är sammanvuxna med hattköttet. Bekräfta alltid att svampen växer från jord i samband med träd, aldrig på trä. Den bleka färgen skiljer den från giftiga Jack-O'-Lanterns. Utmärkt i soppor och sauteringar; den milda smaken passar bra i gräddbaserade rätter.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1282798.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 118826,
+      "width": 640,
+      "height": 480,
+      "sha256": "58e1d21cb1d18435de5d1d1c8c7c05cda8d1ee0fa95d5b5f028725272ab56569"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1282799.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 129184,
+      "width": 480,
+      "height": 640,
+      "sha256": "2a36f1b24ec17de27e0c3efb15faaf7be7f697c1aebcb7c61d79c93e0439daaf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

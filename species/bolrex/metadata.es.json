@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolrex",
+  "scientific_name": "Boletus rex-veris",
+  "common_name": "Spring King Bolete (Boletus rex-veris)",
+  "edibility": "E",
+  "description": "El boleto rey primaveral presenta un sombrero (5-25 cm) de color pardo rosado a pardo rojizo, de superficie lisa, a menudo arrugada al madurar. Los poros son blancos cuando es joven, volviéndose amarillentos con la edad, sin reacción de azuleamiento. El pie grueso y blanco presenta reticulación blanca y a menudo muestra tonos rosado-rojizos en la base. La carne blanca es firme y no se tiñe al cortarla. La esporada es pardo olivácea.",
+  "habitat": "Micorrícico con pino, abeto de Douglas y otras coníferas en bosques de baja a media altitud. Asociado al deshielo y la humedad primaveral. Prefiere suelos arenosos o pedregosos bajo coníferas maduras.",
+  "season": "De primavera a principios del verano (abril-julio), con la fructificación máxima en mayo-junio. Conocido como el «rey de primavera» por su aparición temprana en la temporada, fructificando a menudo cuando aún hay nieve a mayor altitud.",
+  "regions": [
+    "oeste de los Estados Unidos",
+    "Pacífico Noroeste",
+    "montañas de California",
+    "Montañas Rocosas",
+    "Oregón",
+    "Washington",
+    "Columbia Británica"
+  ],
+  "lookalikes": [
+    "Boletus edulis: temporada posterior, color de sombrero diferente",
+    "Boletus pinophilus: sombrero pardo rojizo más oscuro",
+    "Tylopilus felleus: poros rosados, sabor amargo",
+    "Otras especies primaverales de Boletus: todas comestibles"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: el boleto rey primaveral es muy apreciado por su aparición temprana y su excelente sabor. Su textura firme y sabor intenso lo convierten en un favorito entre los recolectores. La fructificación primaveral y el sombrero de tonos rosados ayudan a distinguirlo de otras especies. Cocine siempre bien antes de comer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677950.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 78788,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dc8681a13b2adf4c8d031d5a882aa0a579ff14fc12af3a898a3127bff4667cf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677951.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 113608,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd6ecd0e3cf80b45bb0612fd32833b55f0d92078b287e3bc8c877eb4955ff265"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

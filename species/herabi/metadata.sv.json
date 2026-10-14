@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "herabi",
+  "scientific_name": "Hericium abietis",
+  "common_name": "Bear's Head Tooth (Hericium abietis)",
+  "edibility": "E",
+  "description": "Har en vit, grenad struktur (10–25 cm bred) med måttligt grenad, koralliknande form, utmärkt genom att växa uteslutande på BARRTRÄDSVED. Grenarna bär klungor av hängande TAGGAR (0,5–2 cm långa), främst på undersidorna men ibland delvis runt grenarna. Grenarna är vita, köttiga, mindre omfattande förgrenade än hos H. coralloides. Hela fruktkroppen är vit som färsk och gulnar eller brunfärgas med åldern. Köttet är vitt, fast, med mild smak. Skiljs främst genom barrträdsvärden och en förgrening mitt emellan H. americanum och H. coralloides.",
+  "habitat": "Saprob på BARRTRÄDSVED, särskilt ädelgran, gran, hemlockgran och tall. Växer på döda stockar, stående döda träd och stubbar av barrträd. Det är den enda arten i släktet Hericium som regelbundet växer på barrträd. Inte mykorrhizabildande. Uppträder vanligen ensam på en stock eller ett träd.",
+  "season": "Sensommar till höst (september–november), ofta senare än lövträdens Hericium-arter.",
+  "regions": [
+    "Nordvästra USA och västra Kanada",
+    "Klippiga bergen",
+    "Norra USA",
+    "Kanada",
+    "Nordeuropa"
+  ],
+  "lookalikes": [
+    "Hericium coralloides – växer på lövträd, mer omfattande förgrenad",
+    "Hericium americanum – växer på lövträd, tjockare grenar",
+    "Climacodon septentrionalis – liknande men med större taggar, annan uppbyggnad"
+  ],
+  "safety_notes": "ÄTLIG: God smak liknande andra Hericium-arter, dock ibland något mer bitter. Det vita taggiga utseendet och den uteslutande anknytningen till barrträd gör bestämningen enkel. Inga giftiga förväxlingsarter finns. Bäst som färsk och kritvit – gulning eller brunfärgning tyder på ålder. Rensa försiktigt för att få bort barrträdsrester från taggarna.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714426.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-06",
+      "file_size_bytes": 59586,
+      "width": 640,
+      "height": 480,
+      "sha256": "64ad0f9013daa01c68572b668c9906b6093066007124fbd95e76e9cd73bc0db5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1658775.jpg",
+      "photographer": "Aaron Miller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 45632,
+      "width": 640,
+      "height": 480,
+      "sha256": "8df4a3bad659adc85c7166e5684a14c98f94895920a7cda2aca912c464780318"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

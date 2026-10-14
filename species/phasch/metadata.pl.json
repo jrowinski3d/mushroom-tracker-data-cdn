@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phasch",
+  "scientific_name": "Phaeolus schweinitzii",
+  "common_name": "siedzuń sosnowy",
+  "edibility": "E",
+  "description": "Duża nieregularna huba lub rozeta o szerokości 5–30 cm, o charakterystycznych rdzawobrązowych do pomarańczowobrązowych barwach za młodu, ciemniejących z wiekiem do ciemnobrązowych do czarnych. Miękka i gąbczasta faktura, gdy świeża, rozwijająca jasnożółtą powierzchnię porów. Tworzy huby, rozety lub nieregularne półki. Powoduje brunatną zgniliznę kostkową. Ciemnobrązowy miąższ z żółtymi smugami. Z wiekiem staje się krucha i czarna.",
+  "habitat": "Pasożytniczy i saprotroficzny u podstaw i na korzeniach żywych i martwych drzew iglastych, szczególnie sosny, świerka, jodły i daglezji. Powoduje brunatną zgniliznę kostkową odziomka i zgniliznę korzeni drzew iglastych. Rośnie z ziemi w pobliżu podstaw drzew, na korzeniach i na dolnych pniach. Pospolity w lasach iglastych.",
+  "season": "Lato do jesieni, zwykle lipiec–październik. Jednoroczne owocniki pojawiają się późnym latem. Mogą przetrwać do jesieni, stając się ciemne i kruche. Szczyt w sierpniu–wrześniu w lasach iglastych.",
+  "regions": [
+    "Góry Skaliste",
+    "Północno-Zachodni Pacyfik",
+    "północne lasy iglaste",
+    "Region Wielkich Jezior",
+    "Kaskady",
+    "cyrkumborealny w północnych lasach"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (jaśniejsze barwy, inna faktura)",
+    "Inonotus tomentosus (podobne siedlisko, inne barwy)",
+    "Onnia tomentosa (podobna, ale strefowany wzór)",
+    "inne brązowe huby iglaste (różne gatunki)"
+  ],
+  "safety_notes": "NIEZALECANY DO SPOŻYCIA: pomimo klasyfikacji jadalności gatunek ten jest na ogół uważany za NIEJADALNY ze względu na niezwykle twardą, gąbczastą fakturę i gorzki smak nawet za młodu. Powoduje dolegliwości trawienne u większości osób, które próbują go zjeść. Historycznie używany do barwienia (daje piękne żółcie, złota i zielenie na wełnie). Najlepiej doceniać go za rolę ekologiczną i właściwości barwierskie, a nie do jedzenia. Zbyt twardy i gorzki do spożycia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1735596.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 114742,
+      "width": 480,
+      "height": 640,
+      "sha256": "3928b93ec106fb8d79f9607b03de0dd8bd425be03e42df494f0eade96c49af13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1735597.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 138586,
+      "width": 480,
+      "height": 640,
+      "sha256": "85795157976288edec84c0662da804ef1c76f232f6f7450bdd5e4cb580189d6c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

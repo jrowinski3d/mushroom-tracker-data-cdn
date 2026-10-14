@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canlat",
+  "scientific_name": "Cantharellus lateritius",
+  "common_name": "Smooth Chanterelle (Cantharellus lateritius)",
+  "edibility": "E",
+  "description": "El rebozuelo liso tiene un sombrero de naranja a naranja rosado o color salmón de 2 a 10 cm de ancho, de superficie notablemente lisa. El margen del sombrero es ondulado y se vuelve embudado poco profundo con la edad. El envés presenta pliegues romos, poco profundos y bifurcados (NO son láminas verdaderas), de color naranja rosado, bien espaciados, que descienden por el pie. Los pliegues son menos pronunciados que en otros rebozuelos, a veces apenas visibles. El pie es macizo, de 3 a 8 cm de alto, liso, de naranja a rosado, a menudo naranja más oscuro en la base. La carne es de blanca a naranja pálido, firme, con un olor suave. La esporada es de blanca a rosado pálido.",
+  "habitat": "Micorrícico con frondosas orientales, particularmente roble (especies de Quercus), haya americana y nogal americano. Se encuentra en bosques maduros caducifolios, a menudo en laderas y crestas bien drenadas. Prefiere áreas con gruesa hojarasca y suelos ácidos en bosques mixtos de frondosas.",
+  "season": "Verano (junio-septiembre), fructificando con clima cálido y húmedo tras las lluvias de verano. La temporada máxima suele ser julio-agosto en la mayor parte de su distribución. Puede continuar hasta principios del otoño con humedad adecuada.",
+  "regions": [
+    "este de los Estados Unidos (amplia distribución)",
+    "estados del sureste (de Alabama a Georgia)",
+    "región del Atlántico medio (de Virginia a Maryland)",
+    "valle del río Ohio",
+    "región de los Apalaches"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus illudens): TÓXICO, tiene láminas verdaderas de borde afilado, crece sobre madera, naranja más intenso, brilla en la oscuridad",
+    "Cantharellus cinnabarinus: comestible, color rojo-naranja más intenso, más pequeño, por lo demás muy similar",
+    "Cantharellus appalachiensis: comestible, amarillo-naranja, pliegues más pronunciados, a menudo se encuentra en el mismo hábitat"
+  ],
+  "safety_notes": "COMESTIBLE: el rebozuelo liso es un buen hongo comestible de sabor suave. El rasgo clave de seguridad es identificar los pliegues romos y poco profundos en lugar de láminas verdaderas: aunque los pliegues son menos pronunciados que en otros rebozuelos, aún se sienten cerosos y están fusionados con el sombrero. Confirme siempre que crece del suelo cerca de árboles, nunca sobre madera. La superficie lisa del sombrero y el color naranja rosado ayudan a distinguirlo del tóxico Jack-O'-Lantern. El sabor es suave y agradable; mejor salteado o usado en platos mixtos de setas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493438.jpg",
+      "photographer": "Scott Ostuni",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-30",
+      "file_size_bytes": 75652,
+      "width": 640,
+      "height": 480,
+      "sha256": "26868116b9a57188a719e933355a0a3b937d610df76f46a7933a12e8bd97c699"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1483380.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-09",
+      "file_size_bytes": 34422,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd03168f86a655c67f8d6caf255feaa08ecf9c6b8baf7645836380b32b7893c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

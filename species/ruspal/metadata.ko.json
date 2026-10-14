@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruspal",
+  "scientific_name": "Russula paludosa",
+  "common_name": "Rosy Russula (Russula paludosa)",
+  "edibility": "E",
+  "description": "이 무당버섯은 빨간색에서 분홍빛 빨간색의 갓(5~15cm)을 가지며, 종종 색이 바랜다. 주름살은 누런빛이다. 대는 흰색이며 분홍빛이 돈다. 핵심: 빨간 갓, 노란 주름살, 잘 부서지는 육질, 큰 크기. 육질은 흰색이다. 포자문은 노랑황토색이다. 온화한 맛.",
+  "habitat": "침엽수, 특히 소나무와 가문비나무와 균근 공생을 이룬다. 침엽수림의 지상, 특히 북부의 이탄습지와 습지에서 자란다. 흩어져 발생한다.",
+  "season": "여름부터 가을(7~9월)까지 발생한다.",
+  "regions": [
+    "북동부",
+    "상부 중서부",
+    "캐나다",
+    "북유럽"
+  ],
+  "lookalikes": [
+    "다른 빨간색 무당버섯류 - 주름살 색 확인",
+    "젖버섯류(Lactarius) - 유액이 있음"
+  ],
+  "safety_notes": "식용: 온화한 맛. 빨간 갓 + 노란 주름살 + 잘 부서지는 육질 + 온화한 맛이 동정 포인트. 충분히 익혀 먹는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650964.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 28720,
+      "width": 640,
+      "height": 427,
+      "sha256": "adcc86b416cac3fab16ef0847319527a39c00df45251ce68bf29142a13aadc7a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1650965.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 32172,
+      "width": 640,
+      "height": 427,
+      "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

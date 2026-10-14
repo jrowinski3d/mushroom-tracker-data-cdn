@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancal",
+  "scientific_name": "Cantharellus californicus",
+  "common_name": "California Chanterelle (Cantharellus californicus)",
+  "edibility": "E",
+  "description": "La chanterelle de Californie (aussi appelée « Mud Puppy ») a un chapeau blanc à crème pâle de 5 à 15 cm de large qui se tache souvent de brun jaunâtre ou brun-orange, surtout au toucher ou avec l’âge. Le chapeau devient profondément en entonnoir à maturité et présente une marge ondulée et irrégulière. Le dessous porte des plis épais, obtus et fourchus (et NON de vraies lames), blancs à crème, largement espacés, descendant le long du pied. Le pied est plein, trapu, de 3 à 10 cm de haut, blanc à crème, souvent assez robuste. La chair est blanche, très ferme, avec une odeur douce à légèrement poivrée. Sporée blanche à crème pâle.",
+  "habitat": "Mycorhizien principalement avec le chêne vert de Californie (Quercus agrifolia), aussi associé au chêne tan, à l’arbousier et au douglas dans les forêts côtières mixtes. Trouvé dans les chênaies, les forêts sempervirentes mixtes et la ceinture de brouillard côtière de Californie. Préfère les versants bien drainés et les zones à litière épaisse.",
+  "season": "Saison des pluies d’hiver (novembre-mars), fructifiant avec l’arrivée des pluies d’hiver en Californie. La haute saison se situe généralement entre décembre et février. Peut continuer à fructifier jusqu’au début du printemps si l’humidité persiste. Contrairement aux chanterelles du Nord, c’est principalement un champignon d’hiver.",
+  "regions": [
+    "Chaînes côtières de Californie",
+    "Région de la baie de San Francisco",
+    "Forêts côtières de Californie du Nord",
+    "Contreforts occidentaux de la Sierra Nevada",
+    "Sud de l’Oregon (rare)"
+  ],
+  "lookalikes": [
+    "Cantharellus subalbidus — comestible, couleur blanche similaire, trouvé dans le Pacifique Nord-Ouest avec les conifères, sans taches brunes",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de piètre qualité, possède de vraies lames fines, couleur plus orange",
+    "Espèces d’Hygrophorus — comestibles, possèdent de vraies lames plus largement espacées, texture différente"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : la chanterelle de Californie est très prisée et l’un des champignons sauvages commerciaux les plus importants de Californie. Les plis épais et obtus sont le caractère d’identification critique — ils sont cireux au toucher et ne peuvent pas être facilement séparés du chapeau, contrairement aux vraies lames à arêtes vives des sosies. La texture robuste et ferme en fait un excellent champignon de cuisine ; elle résiste bien à la poêlée et a une saveur douce et agréable. Les taches brunes au toucher sont normales. Certaines personnes peuvent éprouver de légers troubles digestifs — commencer par de petites portions.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1642142.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 24490,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4d3c1a990e345847d4669b5966cdbb34a2d001e2085e4c714b20182fe14493"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1642143.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-12-31",
+      "file_size_bytes": 107254,
+      "width": 640,
+      "height": 480,
+      "sha256": "52dc637c1a89cd90b8a166176011a9685cad6b1a79e3bf11fc4383ba4aea79f6"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.203001",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lentig",
+  "scientific_name": "Lentinus tigrinus",
+  "common_name": "Tiger Sawgill (Lentinus tigrinus)",
+  "edibility": "E",
+  "description": "Seta pequeña a mediana con sombrero blanco de 2,5-7,5 cm cubierto de anillos concéntricos de escamas pardas a negras que le dan un aspecto de rayas de tigre. Láminas blancas aserradas (con bordes dentados), rasgo diagnóstico. Pie central blanco de 2,5-7,5 cm de alto, a menudo escamoso. Tiene LÁMINAS con distintivos bordes aserrados, no poros. Crece sobre frondosas. Textura dura y correosa. Distintivo patrón de rayas de tigre.",
+  "habitat": "Saprófito sobre frondosas muertas, incluidos troncos, tocones, ramas y restos leñosos, particularmente sauces, alisos, chopos y otras frondosas ribereñas. Común a lo largo de arroyos y ríos. Prefiere madera húmeda o encharcada. A menudo sobre ramitas pequeñas. Causa podredumbre blanca.",
+  "season": "De primavera a otoño, típicamente de mayo a octubre. Máximo en verano. Más común con clima cálido y húmedo. Puede aparecer todo el año en climas suaves. Fructifica prolíficamente durante períodos húmedos.",
+  "regions": [
+    "este de Norteamérica",
+    "Pacífico Noroeste",
+    "extendida por toda Norteamérica",
+    "región de los Grandes Lagos",
+    "zonas ribereñas de todo el país",
+    "distribución cosmopolita"
+  ],
+  "lookalikes": [
+    "Neolentinus lepideus (más grande, madera de coníferas, olor a anís, escamas diferentes)",
+    "Lentinus arcularius (similar pero con escamas más pequeñas, patrón diferente)",
+    "Pleurotus dryinus (con escamas pero sin láminas aserradas)",
+    "Especies de Panellus (bordes de láminas lisos, crecimiento diferente)"
+  ],
+  "safety_notes": "COMESTIBLE cuando es muy joven, pero no recomendado: solo los botones jóvenes y tiernos son apetecibles; rápidamente se vuelve duro y correoso. Incluso los ejemplares jóvenes tienen una textura masticable que requiere cocción extensa o secado y pulverizado. Su pequeño tamaño y dureza hacen que no valga la pena recolectarlo. Generalmente seguro, pero poco apetecible por su textura. Los distintivos bordes aserrados de las láminas y el sombrero a rayas de tigre son únicos. Hay mejores setas comestibles disponibles.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721722.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 51736,
+      "width": 640,
+      "height": 482,
+      "sha256": "0e82849a5dc34798348db9c7f1bfa1f5a3ea4e60a201f43532ef85eb34e51251"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721723.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 58200,
+      "width": 640,
+      "height": 482,
+      "sha256": "d9734262995f308da3b0255496f7b5ef96a142c44bbfa98a54bb62f1f1460f5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

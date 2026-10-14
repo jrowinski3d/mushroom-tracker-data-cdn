@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "hydumb",
+  "scientific_name": "Hydnum umbilicatum",
+  "common_name": "Hydne ombiliqué",
+  "edibility": "E",
+  "description": "L’hydne ombiliqué a un petit chapeau orange à brun-orange (2-7 cm) avec un CENTRE DÉPRIMÉ ou ENFONCÉ caractéristique (ombiliqué), créant une forme d’entonnoir ou de vase. Le dessous est couvert d’AIGUILLONS ou DENTS fragiles, pointant vers le bas, au lieu de lames ou de pores - ces aiguillons sont orange à orange pâle, plus courts que chez H. repandum. Le pied est central, mince, lisse, orange à orange pâle, souvent plus foncé à la base. La chair est orange pâle, mince, fragile, au goût doux à légèrement amer. Sporée blanche. Plus petit et aux tons plus orangés que le pied-de-mouton commun.",
+  "habitat": "Mycorhizien avec les feuillus et les conifères. Trouvé au sol dans les forêts mixtes, les zones moussues, sous les chênes, hêtres et conifères. Pousse souvent dispersé ou en petits groupes. Préfère les sols acides et la mousse.",
+  "season": "De l’été à l’automne (août-novembre), avec un pic de fructification en automne.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Nord-Est",
+    "Midwest",
+    "montagnes Rocheuses",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (Pied-de-mouton) - plus grand, plus pâle, sans centre déprimé",
+    "Hydnum rufescens (Hydne roussissant) - semblable mais plus foncé, plus brun rougeâtre",
+    "Espèces de Cantharellus - ont des plis et non de vrais aiguillons/dents"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce une fois cuit, bien que plus petit et moins consistant que H. repandum. Peut développer une légère amertume avec l’âge. Ses aiguillons/dents caractéristiques sous le chapeau et son centre déprimé rendent l’identification facile. Bien nettoyer, car les aiguillons retiennent les débris. Récolter de jeunes spécimens pour la meilleure qualité.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1712933.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-27",
+      "file_size_bytes": 43036,
+      "width": 640,
+      "height": 427,
+      "sha256": "d9dbf6fe2a93a581c1dd721abc3dfa1ebc830de898b31a48e2f24a269c292488"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1710284.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-25",
+      "file_size_bytes": 63406,
+      "width": 640,
+      "height": 427,
+      "sha256": "15a7c86a7263e1e486d238eaf346c57ba1b3bd5b7f90013743d422d417c6cd87"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

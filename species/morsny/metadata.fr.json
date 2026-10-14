@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "morsny",
+  "scientific_name": "Morchella snyderi",
+  "common_name": "Snyder’s Morel (Morchella snyderi)",
+  "edibility": "E",
+  "description": "Chapeau de 3 à 10 cm (1,2 à 4 po) de haut, conique à allongé, motif alvéolé de crêtes et de fossettes. Couleur distinctive : fructifications jeunes jaunes à beiges, devenant brunes ou brun-noirâtres sur les crêtes du chapeau à maturité tandis que les fossettes restent plus pâles ; les spécimens séchés deviennent brun foncé à noirs. Malgré la coloration claire initiale, se regroupe génétiquement avec les morilles noires (clade elata). Pied proportionné au chapeau, pâle, creux, lisse à légèrement ridé. Entièrement creux du sommet du chapeau au pied quand on coupe dans le sens de la longueur. Sporée crème à jaunâtre.",
+  "habitat": "Se trouve sous les conifères dans les forêts montagnardes de l’ouest, particulièrement associé au douglas (Pseudotsuga menziesii), au pin ponderosa (Pinus ponderosa) et au sapin blanc (Abies concolor). Fructifie dans les forêts de conifères anciennes non perturbées, les zones légèrement perturbées comme les terrains de camping et les routes forestières, et les zones avec de lourds engins et des débris ligneux. Contrairement à de nombreuses morilles de l’ouest, PAS principalement dépendante du feu ; peut apparaître plusieurs années après les brûlis mais fructifie couramment dans les forêts non brûlées. L’une des rares morilles de l’ouest trouvée de façon fiable en milieu naturel sans feu récent.",
+  "season": "Printemps au début de l’été (avril-juin dans la plupart des zones). Le calendrier varie selon l’altitude et la fonte des neiges ; les sites de haute altitude fructifient plus tard. Dans la Sierra Nevada et la chaîne des Cascades, l’émergence suit la fonte des neiges à mesure que le sol se réchauffe. Les chaînes côtières peuvent voir une fructification plus précoce (avril-mai), tandis que les sites de haute montagne fructifient en mai-juin.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie",
+    "montagnes Rocheuses"
+  ],
+  "lookalikes": [
+    "Fausse morille (espèces de Gyromitra) - TOXIQUE : chapeau ridé ou lobé en forme de cerveau au lieu de crêtes alvéolées, chapeau attaché uniquement au sommet, intérieur cloisonné contre entièrement creux, couleur brun-rougeâtre. Contient la toxine mortelle gyromitrine.",
+    "Morchella tomentosa (Morille grise) - Comestible : texture duveteuse/poilue surtout sur les jeunes pieds, limitée aux sites après incendie, pied plus épais à double paroi. Même préparation requise.",
+    "Autres morilles noires (groupe M. elata) - Comestible : diverses espèces de morilles noires de l’ouest difficiles à distinguer sur le terrain, toutes partagent une écologie et une valeur culinaire similaires, une cuisson adéquate est essentielle pour toutes.",
+    "Morchella importuna (Landscape Morel) - Comestible : apparence similaire mais trouvée dans le paillis de copeaux de bois urbain contre les forêts de conifères naturelles, motif de crêtes en échelle."
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : champignon culinaire très prisé au goût excellent, recherché par les cueilleurs dans les montagnes de l’ouest. Doit être bien cuit pendant 15 à 25 minutes ; les morilles crues ou insuffisamment cuites contiennent des toxines d’hydrazine provoquant de graves nausées, vomissements et troubles gastriques. Cuire à des températures supérieures à 160 °F (71 °C) pour décomposer les composés toxiques. Certaines personnes ont des réactions allergiques même après une préparation adéquate ; consommer de petites portions lors du premier essai. De rares effets indésirables avec la consommation d’alcool ont été signalés. Essentiel de distinguer des fausses morilles mortelles (Gyromitra) qui ont des chapeaux ridés en forme de cerveau plutôt que des motifs alvéolés et des intérieurs cloisonnés (non creux).",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1672682.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-27",
+      "file_size_bytes": 63674,
+      "width": 640,
+      "height": 427,
+      "sha256": "33ccb0ad8089463faff78b6f80c699296e83aff8ba45680027a7953bce20b952"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1668917.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-13",
+      "file_size_bytes": 136614,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef847e0c1c4278192c4cf822dae33d3130dfa2cab3defbac8d80f41f0396b9b4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.300097",
+  "source_language": "en"
+}

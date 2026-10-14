@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "grifro",
+  "scientific_name": "Grifola frondosa",
+  "common_name": "Korallticka",
+  "edibility": "E",
+  "description": "Utmärkande stor sammansatt fruktkropp, 25–90+ cm bred, uppbyggd av dussintals överlappande gråbruna skedformade hattar som strålar ut från en centralt förgrenad vit bas. Enskilda hattar är 2,5–8 cm breda med vågig kant. Undersidan har en vit porsyta. Växer i täta rosetter som liknar en hönas fjäderdräkt. Kan väga 4,5–23+ kg. Omistlig som fullvuxen.",
+  "habitat": "Parasit vid basen av levande och döda lövträd, särskilt ek, alm, lönn och bok. Orsakar vitröta i kärnved och rötter. Bildar stora rosetter vid trädens baser, ofta på samma plats år efter år. Vanlig i gammal lövskog. Växer från underjordiska sklerotier.",
+  "season": "Sensommar till höst, vanligen augusti–november. Topp under september–oktober. Vanligast tidigt på hösten. Kan komma på samma plats i många år. Fruktsätter efter sensommarregn.",
+  "regions": [
+    "Östra Nordamerika",
+    "Stora sjöarna-området",
+    "Nordöstra skogar",
+    "Appalacherna",
+    "Mellanvästerns lövskogar",
+    "Asien och Europa"
+  ],
+  "lookalikes": [
+    "Meripilus sumstinei (mörkare, svartnar vid beröring, annan konsistens)",
+    "Bondarzewia berkeleyi (ljusare, större enskilda hattar)",
+    "Berkeley-tickans komplex (mindre organiserad rosettform)",
+    "Grenticka (Polyporus) – annan uppbyggnad, inte klungad"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad som en av de finaste matsvamparna med utmärkt smak, köttig konsistens och medicinska egenskaper. Odlas i stor skala i Asien som ”Maitake”. Plocka färsk innan insektsangrepp. Bäst som ung med vita till ljusgrå färger. Tillaga ordentligt. Den komplexa rosettformen och ekanknytningen gör bestämningen enkel. Mycket säker vid korrekt bestämning. En av de mest eftertraktade vilda svamparna.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1752161.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 108262,
+      "width": 640,
+      "height": 482,
+      "sha256": "51db775a2a9dd70049932751edb12254fe0e55a21d80322b789a74ba2cb4c8bb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1752162.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 60112,
+      "width": 482,
+      "height": 640,
+      "sha256": "0140fb98a260129712883e87b2bfa756a52f9834955cee3fb9796b0351ebc719"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morpun",
+  "scientific_name": "Morchella punctipes",
+  "common_name": "Half-free Morel (Morchella punctipes)",
+  "edibility": "E",
+  "description": "Kapelusz zwykle o wysokości 1–4 cm, stożkowaty, z wzorem plastra miodu żeberek i jamek, żółtobrązowy do brązowego. Charakterystyczna cecha: kapelusz przyrośnięty do trzonu mniej więcej w połowie jego długości (nie w pełni zrośnięty jak u prawdziwych smardzów), tworzący charakterystyczny spódnicowaty wygląd, w którym dolna połowa odstaje od trzonu. Trzon o wysokości 3–10 cm, proporcjonalnie dłuższy niż kapelusz, biały do kremowego, ziarnisty (pokryty drobnymi ziarnami), pusty. Po przecięciu wzdłuż całkowicie pusty przez kapelusz i trzon. Wysyp zarodników kremowy do żółtawego.",
+  "habitat": "Występuje pod różnymi drzewami liściastymi we wschodniej Ameryce Północnej, w tym jesionami, wiązami, tulipanowcami, jabłoniami i innymi drzewami liściastymi. Preferuje żyzne, wilgotne gleby leśne, często na terenach zalewowych, w dolinach rzecznych i wilgotnych lasach. Powszechnie owocuje w tych samych miejscach co prawdziwe smardze, ale zwykle pojawia się nieco wcześniej w sezonie. Sporadycznie znajdowany w starych sadach i parkach z dojrzałymi drzewami liściastymi.",
+  "season": "Wczesna do środkowej wiosny (marzec–maj w większości obszarów, na południu może zaczynać się pod koniec lutego). Często owocuje 1–2 tygodnie przed szczytem sezonu prawdziwych smardzów. Pojawianie się zbiega się z ogrzaniem gleby do 7–10°C i kwitnieniem wczesnowiosennych roślin runa. Regiony południowe: marzec–kwiecień, północne i wyższe położenia: kwiecień–maj.",
+  "regions": [
+    "Północny Wschód",
+    "Środkowy Atlantyk",
+    "Środkowy Zachód",
+    "Wielkie Jeziora",
+    "południowy wschód"
+  ],
+  "lookalikes": [
+    "naparstniczka czeska (Verpa bohemica) – jadalna z ostrożnością: kapelusz przyrośnięty tylko na wierzchołku trzonu z bokami zwisającymi całkowicie wolno (w przeciwieństwie do przyrośnięcia w połowie), watowaty rdzeń wewnątrz trzonu (w przeciwieństwie do całkowicie pustego), naparstkowaty gładki kapelusz. Niektóre osoby doświadczają dolegliwości żołądkowych; ogranicz spożycie.",
+    "naparstniczka stożkowata (Verpa conica) – jadalna z ostrożnością: podobna do V. bohemica, kapelusz całkowicie wolno zwisający tylko z górnego przyrośnięcia, gładsza powierzchnia kapelusza. Spożywaj z umiarem, gdyż zgłaszano reakcje.",
+    "prawdziwe smardze (Morchella americana, M. esculenta) – jadalne: kapelusz zrośnięty z trzonem na całej długości (w przeciwieństwie do półwolnego), kapelusz proporcjonalnie większy względem trzonu, identyczne wymagania gotowania.",
+    "piestrzenica (gatunki Gyromitra) – TRUJĄCA: mózgowato pomarszczony kapelusz zamiast plastra miodu, czerwonobrązowa barwa, wnętrze komorowe. Śmiertelnie trująca."
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: dobry grzyb kulinarny, choć na ogół uważany za mniej smaczny niż w pełni przyrośnięte prawdziwe smardze. Musi być dokładnie ugotowany przez 15–25 minut; nigdy nie spożywaj na surowo ani niedogotowany, gdyż smardze zawierają toksyny hydrazynowe powodujące silne nudności, wymioty i dolegliwości żołądkowe. Gotowanie w temperaturze powyżej 71°C niszczy toksyczne związki. Niektóre osoby mogą doświadczać reakcji alergicznych nawet po prawidłowym przygotowaniu; przy pierwszej próbie spożywaj małe porcje. Unikaj spożywania alkoholu ze smardzami, gdyż udokumentowano rzadkie niepożądane reakcje. Kluczowe jest odróżnienie od gatunków Verpa poprzez zbadanie miejsca przyrośnięcia kapelusza: smardze półwolne przyrastają w połowie długości trzonu, podczas gdy kapelusze Verpa zwisają całkowicie wolno tylko z górnego przyrośnięcia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667024.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 57148,
+      "width": 640,
+      "height": 482,
+      "sha256": "cdf8ccaf8393ce574dd7fd3d4c03dac08f5ff6b765864d0b6bcfec1f864e38d4"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667025.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-04",
+      "file_size_bytes": 67512,
+      "width": 640,
+      "height": 482,
+      "sha256": "8caf59108b82c0f05597c420fa38a09720623411e13ec3515fe5c579095422c1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trefuc",
+  "scientific_name": "Tremella fuciformis",
+  "common_name": "Trzęsak morszczynowaty",
+  "edibility": "E",
+  "description": "Trzęsak morszczynowaty to biały do bladożółtego grzyb galaretowaty, tworzący miękkie, falbankowate masy przypominające koralowiec morski lub śnieg. Owocniki o średnicy 5–15 cm za świeżości, złożone z cienkich, rozgałęzionych, przeświecających płatów o delikatnym, falbankowatym wyglądzie. Barwa czysto biała do bladokremowej lub jasnożółtej. Tekstura miękka, galaretowata i drżąca. Płaty cienkie i płatkowate, tworzące misterną, koronkową strukturę. Po wyschnięciu staje się twardy i skurczony, odradza się po zwilżeniu.",
+  "habitat": "Występuje na martwych gałęziach i drewnie drzew liściastych, zazwyczaj wysoko na stojących martwych drzewach lub powalonych pniach. Często pasożytuje na innych grzybach rozkładających drewno. W naturze występuje na drzewach liściastych w lasach. Szeroko uprawiany komercyjnie na podłożu z trocin drzew liściastych. Preferuje ciepłe, wilgotne środowiska.",
+  "season": "W naturze głównie od lata do jesieni (czerwiec–listopad) w ciepłym klimacie. W regionach tropikalnych i subtropikalnych może owocnikować przez cały rok. Uprawiany komercyjnie przez cały rok. Szczyt dzikiego owocnikowania przypada na ciepłą, wilgotną pogodę po deszczach.",
+  "regions": [
+    "Azja (ojczysty, szeroko rozpowszechniony)",
+    "strefy tropikalne i subtropikalne na całym świecie",
+    "południowe Stany Zjednoczone (rzadki w naturze)",
+    "uprawiany komercyjnie na całym świecie",
+    "naturalny w lasach od ciepłej strefy umiarkowanej po tropiki"
+  ],
+  "lookalikes": [
+    "Trzęsak pomarańczowożółty (Tremella mesenterica, jadalny) — jasnożółty, bardziej zwarty, mózgowaty",
+    "Odmiany uprawne Tremella fuciformis — różnią się barwą od białej do kremowej",
+    "Gatunki Exidia (jadalne) — ciemniejsze, bardziej zwarte, nie falbankowate",
+    "Brak trujących gatunków podobnych"
+  ],
+  "safety_notes": "JADALNY: Wysoce ceniony w kuchni azjatyckiej i tradycyjnej medycynie chińskiej. Łagodny, słodki smak i chrupiąco-galaretowata konsystencja po przygotowaniu. Należy go ugotować — nie jeść na surowo. Popularny w słodkich zupach, deserach i napojach. Uważa się, że ma właściwości zdrowotne, w tym poprawę stanu skóry i wsparcie odporności. Prawie zawsze spożywany jako produkt uprawny, a nie dziki. Suszone formy należy namoczyć, aby je nawodnić. Bezpieczny, bez trujących gatunków podobnych. Biały, falbankowaty wygląd jest charakterystyczny. Drogi, specjalistyczny składnik na rynkach azjatyckich.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1684389.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 22236,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4dc59fd528c2bddd0ea121e6b9c3ad082895aa996fbf88c2890bf63affe3a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1684390.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 59496,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbb8fd49a0a994ba488f9c69af2375975d1f8daf9b8396d3db7977a1292cce1c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.173269",
+  "source_language": "en"
+}

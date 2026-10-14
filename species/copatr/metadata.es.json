@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copatr",
+  "scientific_name": "Coprinopsis atramentaria",
+  "common_name": "Coprino común (Coprinopsis atramentaria)",
+  "edibility": "E",
+  "description": "El coprino de tinta común o \"azote del borracho\" es un hongo de tamaño mediano de 5-15 cm de alto con un sombrero de 3-7 cm de ancho. El sombrero es ovalado a acampanado, de gris-marrón a canela, con una superficie gris pálida a marrón, escamosa (cubierta de diminutas escamas o fibras). El centro suele ser ligeramente más oscuro. Las láminas son libres a adnatas, blancas que se vuelven grises y luego negras, delicuescentes en tinta. El pie es de 8-15 cm de alto, liso, blanco, hueco, con una pequeña zona de anillo frágil. Fructifica en densos grupos a partir de madera enterrada o materia orgánica.",
+  "habitat": "Se encuentra en céspedes, jardines, parques, mantillo de astillas de madera, zonas de compost y cerca de tocones o madera enterrada. Crece como descomponedor de madera, a menudo sobre restos de frondosas enterrados. Muy común en paisajes urbanos y suburbanos. Fructifica en densos grupos apretados, a menudo en gran número. Prefiere suelos alterados ricos en nutrientes.",
+  "season": "Primavera hasta otoño (abril-noviembre) en regiones templadas. En climas suaves puede fructificar todo el año. Más abundante a finales de verano y en otoño. Puede aparecer en grandes floraciones después de las lluvias.",
+  "regions": [
+    "Norteamérica (muy común, ampliamente distribuido)",
+    "Europa (muy común)",
+    "todo el mundo en regiones templadas",
+    "zonas urbanas de todo el mundo",
+    "distribución cosmopolita"
+  ],
+  "lookalikes": [
+    "Coprinus comatus (comestible) - más alto, escamas blancas peludas, sin interacción con el alcohol",
+    "Coprinellus micaceus (comestible) - partículas como mica en el sombrero, más pequeño",
+    "Especies de Coprinopsis - muchos coprinos grises similares",
+    "Especies de Psathyrella - similares pero no se delicuescen con tanta facilidad"
+  ],
+  "safety_notes": "PRECAUCIÓN - INTERACCIÓN CON EL ALCOHOL: Coprinopsis atramentaria contiene coprina, que bloquea el metabolismo del alcohol y causa reacciones graves cuando se combina con alcohol. NO consumas alcohol 24 horas antes ni hasta 72 horas después de comer este hongo. Los síntomas incluyen enrojecimiento facial, náuseas, vómitos, palpitaciones, hormigueo en las extremidades, dolor de cabeza y dolor en el pecho. Cuando se cocina adecuadamente y se consume sin alcohol, este hongo es comestible, pero el grave riesgo de interacción lo hace inadecuado para la mayoría de los recolectores.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723335.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-06",
+      "file_size_bytes": 51172,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9f845c360fd59b871bda93baaa0c0830a86fec122b83661c898ff70e174b1ae"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659341.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-03",
+      "file_size_bytes": 67868,
+      "width": 353,
+      "height": 640,
+      "sha256": "9446ede186e58a31d122204a1fc0a987c47e238da67bdaec005abb33923e7814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:53:05.984277",
+  "source_language": "en"
+}

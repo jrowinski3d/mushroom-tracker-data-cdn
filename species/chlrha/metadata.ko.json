@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlrha",
+  "scientific_name": "Chlorophyllum rhacodes",
+  "common_name": "큰갓버섯",
+  "edibility": "E",
+  "description": "털큰갓버섯은 갓 너비 5–15cm의 중대형 버섯으로, 처음에는 달걀 모양이었다가 낮은 중앙 돌기와 함께 넓게 볼록해진다. 갓은 크림색에서 황갈색이며, 중앙으로 갈수록 집중된 털이 많은 적갈색에서 황갈색의 위로 솟은 인편이 덮여 있다. 자르거나 멍들면 살이 적주황색에서 적갈색으로 변한다(진단적 특징). 주름살은 이생, 흰색이며 촘촘하다. 대는 높이 8–20cm, 크고 움직이는 턱받이 아래는 매끄럽거나 인편이 있고, 외피막 없이 부푼 구근형 밑동을 가진다.",
+  "habitat": "정원, 퇴비 더미, 목재 칩 멀치, 조경 지역, 목재 파편이 있는 산림 가장자리 등 비옥한 토양의 교란 지역에서 발견된다. 침엽수림과 혼합림에서도 자란다. 분해되는 유기물이 있는 영양분 풍부한 기질에서 지생한다. 흩어지거나 무리지어 발생하며, 때로는 요정고리를 이룬다.",
+  "season": "대부분 지역에서 늦여름에서 가을(8–11월). 캘리포니아와 지중해성 기후에서는 비가 온 뒤 겨울과 봄(11–3월)에도 발생할 수 있다. 따뜻한 가을비가 온 뒤 절정을 이룬다.",
+  "regions": [
+    "유럽(자생)",
+    "태평양 북서부(흔함)",
+    "캘리포니아(흔함, 특히 정원)",
+    "북미 동부(가끔)",
+    "호주 및 뉴질랜드",
+    "전 세계 온대 지역"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum(유독) — 거의 동일하나 녹색빛 포자문, 더 심한 위장 증상",
+    "Chlorophyllum molybdites(유독) — 녹색 포자, 멍들면 녹색으로 변함, 초지 서식",
+    "Macrolepiota procera(식용) — 키가 크고 가늘며, 뱀가죽 무늬 대, 붉게 변색되지 않음",
+    "Lepiota 속(일부 치명적) — 크기가 작고 섬세함"
+  ],
+  "safety_notes": "주의 식용: 충분히 익히면 잘 견디는 사람도 있으나, 다른 사람에게는 위장관 장애를 일으킨다(섭취자의 10–20%). 증상은 섭취 후 1–3시간에 메스꺼움과 위장 불편감을 포함한다. 근연종인 C. brunneum은 더 유독하다. 고온에서 충분히 익혀라 — 절대 날로 먹지 마라. 먼저 소량으로 내성을 테스트하라. 포자문이 흰색에서 옅은 회색인지(녹색이 아닌지) 확인하라. 자르면 붉어지는 반응은 도움이 되지만 결정적이지는 않다. 부작용 보고율이 높고 C. brunneum과 혼동되기 쉬우므로, 많은 전문가가 이 종을 피할 것을 권한다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1697672.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 53948,
+      "width": 640,
+      "height": 575,
+      "sha256": "fb03b288e729ed23237ea3b683587083e3a757553791d94528f6d724fb78b6ef"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698177.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 23006,
+      "width": 640,
+      "height": 519,
+      "sha256": "4acbeebde1334184676d41a225f2309dc2ec3492fb3c1137657a8ef7e9f9d5be"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

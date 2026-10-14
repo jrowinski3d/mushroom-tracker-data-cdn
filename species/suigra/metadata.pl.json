@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigra",
+  "scientific_name": "Suillus granulatus",
+  "common_name": "Maślak ziarnisty",
+  "edibility": "E",
+  "description": "Maślak ziarnisty ma cynamonowobrązowy do żółtobrązowego kapelusz (4–10 cm) o śluzowatej, kleistej powierzchni, gdy wilgotny. Pory bladożółte, wydzielające mleczne krople, gdy młode — cecha diagnostyczna. Bladożółty trzon pokryty jest drobnymi brązowymi plamkami gruczołowymi i nie ma pierścienia. Bladożółty miąższ nie przebarwia się. Mleczne krople na porach i ziarnisty trzon są charakterystyczne. Wysyp zarodników cynamonowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z sosnami dwu- i trójigielnymi w różnych siedliskach. Pospolity na plantacjach sosnowych, terenach zaburzonych z młodymi sosnami oraz w naturalnie odnowionych drzewostanach sosnowych. Szeroko rozpowszechniony wraz z sadzonymi sosnami.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad), szczyt owocnikowania we wrześniu–październiku. Często owocnikuje obficie po jesiennych deszczach.",
+  "regions": [
+    "północno-wschodnie Stany Zjednoczone",
+    "Region Wielkich Jezior",
+    "Północno-Zachodni Pacyfik",
+    "plantacje sosnowe południowego wschodu",
+    "Góry Skaliste",
+    "wszędzie tam, gdzie są plantacje sosnowe",
+    "Kanada"
+  ],
+  "lookalikes": [
+    "Maślak zwyczajny (Suillus luteus) — ma ciemny pierścień na trzonie, brak mlecznych kropli",
+    "Suillus brevipes — brak mlecznych kropli na porach",
+    "Inne gatunki Suillus — sprawdź mleczne krople na młodych porach",
+    "Gatunki Boletus — nieśluzowate, inne siedlisko"
+  ],
+  "safety_notes": "JADALNY: Maślak ziarnisty jest jadalny, o łagodnym smaku, lecz miękkiej teksturze. Przed gotowaniem usunąć śluzowatą skórkę kapelusza. Mleczne krople na młodych porach i ziarniste plamki na trzonie to cechy diagnostyczne. U niektórych osób występują dolegliwości trawienne. Zawsze dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699876.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 134442,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa09a25fc62426dcb808a3f67b840074a1ff24276f0127ea378dd610d33e7016"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699877.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 109388,
+      "width": 640,
+      "height": 482,
+      "sha256": "02918768915d5a8f5894ffac5d79ee1fb7f128668b01c42d7090b26a3abad8cb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

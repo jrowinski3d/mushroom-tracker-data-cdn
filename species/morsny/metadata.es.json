@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "morsny",
+  "scientific_name": "Morchella snyderi",
+  "common_name": "Snyder's Morel (Morchella snyderi)",
+  "edibility": "E",
+  "description": "Sombrero de 3-10 cm (1,2-4 pulg.) de alto, cónico a alargado, patrón en forma de panal de crestas y fosas. Color distintivo: los cuerpos fructíferos jóvenes son de amarillos a marrón claro, madurando a marrón o marrón negruzco en las crestas del sombrero mientras las fosas permanecen más pálidas; los ejemplares secos se vuelven de marrón oscuro a negro. A pesar de la coloración inicial clara, genéticamente se agrupa con las colmenillas negras (clado elata). Pie proporcional al sombrero, pálido, hueco, liso a ligeramente arrugado. Completamente hueco desde la punta del sombrero hasta el pie cuando se corta longitudinalmente. Esporada de crema a amarillenta.",
+  "habitat": "Se encuentra bajo coníferas en bosques montanos occidentales, particularmente asociada con el abeto de Douglas (Pseudotsuga menziesii), el pino ponderosa (Pinus ponderosa) y el abeto blanco (Abies concolor). Fructifica en bosques de coníferas antiguas no alterados, zonas ligeramente alteradas como campamentos y caminos forestales, y zonas con fuerte alteración por maquinaria y restos leñosos. A diferencia de muchas colmenillas occidentales, NO depende principalmente del fuego; puede aparecer varios años después de incendios, pero comúnmente fructifica en bosques no quemados. Una de las pocas colmenillas occidentales que se encuentra con fiabilidad en entornos naturales sin fuego reciente.",
+  "season": "De primavera a principios del verano (abril-junio en la mayoría de las zonas). El momento varía con la elevación y el deshielo; los sitios de mayor elevación fructifican más tarde. En la Sierra Nevada y la cordillera de las Cascadas, la emergencia sigue al deshielo a medida que el suelo se calienta. Las cordilleras costeras pueden ver una fructificación más temprana (abril-mayo), mientras que los sitios de alta montaña fructifican en mayo-junio.",
+  "regions": [
+    "Pacífico Noroeste",
+    "California",
+    "Montañas Rocosas"
+  ],
+  "lookalikes": [
+    "Falsa colmenilla (especies de Gyromitra): TÓXICA: sombrero arrugado o lobulado como un cerebro en lugar de crestas en forma de panal, sombrero unido solo en la punta, interior con cámaras en lugar de completamente hueco, color marrón rojizo. Contiene la mortal toxina giromitrina.",
+    "Morchella tomentosa (Gray Morel): comestible: textura peluda/áspera especialmente en pies jóvenes, restringida a sitios tras incendios, pie más grueso de doble pared. Requiere la misma preparación.",
+    "Otras colmenillas negras (grupo M. elata): comestible: varias especies de colmenillas negras occidentales difíciles de distinguir en el campo, todas comparten ecología y valor culinario similares, la cocción adecuada es esencial para todas.",
+    "Morchella importuna (Landscape Morel): comestible: apariencia similar pero se encuentra en mantillo urbano de astillas de madera en lugar de bosques naturales de coníferas, patrón de crestas como escalera."
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: seta culinaria muy apreciada con excelente sabor, buscada por los recolectores de setas en las montañas occidentales. Debe cocinarse a fondo durante 15-25 minutos; las colmenillas crudas o poco cocinadas contienen toxinas de hidrazina que causan náuseas severas, vómitos y molestias gástricas. Cocine a temperaturas superiores a 160 °F (71 °C) para descomponer los compuestos tóxicos. Algunas personas experimentan reacciones alérgicas incluso bien preparadas; consuma pequeñas porciones en la primera prueba. Se han reportado raras reacciones adversas con el consumo de alcohol. Es crítico distinguirla de las mortales falsas colmenillas (Gyromitra), que tienen sombreros arrugados como cerebros en lugar de patrones en forma de panal e interiores con cámaras (no huecos).",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1672682.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-27",
+      "file_size_bytes": 63674,
+      "width": 640,
+      "height": 427,
+      "sha256": "33ccb0ad8089463faff78b6f80c699296e83aff8ba45680027a7953bce20b952"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1668917.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-13",
+      "file_size_bytes": 136614,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef847e0c1c4278192c4cf822dae33d3130dfa2cab3defbac8d80f41f0396b9b4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.300097",
+  "source_language": "en"
+}

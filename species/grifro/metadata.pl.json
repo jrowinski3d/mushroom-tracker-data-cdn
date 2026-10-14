@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "grifro",
+  "scientific_name": "Grifola frondosa",
+  "common_name": "żagiew okółkowa",
+  "edibility": "E",
+  "description": "Charakterystyczny duży złożony owocnik o szerokości 25–90+ cm, złożony z dziesiątek zachodzących na siebie szaro-brązowych łyżeczkowatych kapeluszy wyrastających z centralnej rozgałęzionej białej podstawy. Poszczególne kapelusze o szerokości 2,5–7,5 cm, o falistych brzegach. Biała powierzchnia z porami od spodu. Rośnie w gęstych rozetach przypominających pióra kury. Może ważyć 5–25+ kg. Nie do pomylenia, gdy dojrzały.",
+  "habitat": "Pasożytniczy u podstaw żywych i martwych drzew liściastych, szczególnie dębu, wiązu, klonu i buka. Powoduje białą zgniliznę twardzieli i korzeni. Tworzy duże rozety u podstaw drzew, często pojawiając się w tym samym miejscu co roku. Powszechny w dojrzałych lasach liściastych. Wyrasta z podziemnych sklerocjów.",
+  "season": "Późne lato do jesieni, zazwyczaj sierpień–listopad. Szczyt owocnikowania we wrześniu–październiku. Najpospolitszy wczesną jesienią. Może wyrastać w tym samym miejscu przez wiele lat. Owocnikuje po późnoletnich deszczach.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Region Wielkich Jezior",
+    "Lasy północno-wschodnie",
+    "Appalachy",
+    "Liściaste lasy Środkowego Zachodu",
+    "Azja i Europa"
+  ],
+  "lookalikes": [
+    "Meripilus sumstinei (ciemniejszy, czernieje po dotknięciu, inna tekstura)",
+    "Bondarzewia berkeleyi (jaśniejszy, większe pojedyncze kapelusze)",
+    "Zespół hub Berkeleya (mniej uporządkowana forma rozety)",
+    "Żagiew parasolowata (Polyporus) – inna budowa, nie kępowa"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoce ceniony jako jeden z najlepszych grzybów jadalnych – doskonały smak, mięsista tekstura i właściwości lecznicze. Szeroko uprawiany w Azji jako „maitake”. Zbierać świeży, zanim uszkodzą go owady. Najlepszy młody, o białych do jasnoszarych barwach. Dokładnie gotować. Złożona forma rozety i związek z dębami ułatwiają identyfikację. Bardzo bezpieczny przy prawidłowej identyfikacji. Jeden z najbardziej pożądanych dzikich grzybów.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1752161.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 108262,
+      "width": 640,
+      "height": 482,
+      "sha256": "51db775a2a9dd70049932751edb12254fe0e55a21d80322b789a74ba2cb4c8bb"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1752162.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 60112,
+      "width": 482,
+      "height": 640,
+      "sha256": "0140fb98a260129712883e87b2bfa756a52f9834955cee3fb9796b0351ebc719"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

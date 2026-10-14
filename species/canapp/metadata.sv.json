@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canapp",
+  "scientific_name": "Cantharellus appalachiensis",
+  "common_name": "Appalachian Chanterelle (Cantharellus appalachiensis)",
+  "edibility": "E",
+  "description": "Den appalachiska kantarellen har en guldgul till klar orangegul hatt 3–12 cm bred med slät till lätt skrynklig yta. Hatten blir trattlik med åldern och har vågig, oregelbunden kant. Undersidan har väldefinierade, tjocka, trubbiga, gafflade ribbor (INTE äkta skivor) som är klargula till orangegula, glest ställda och löper tydligt nedför foten. Ribborna är mer framträdande än hos C. lateritius men liknar C. cibarius. Foten är solid, fast, 3–9 cm hög, gul till orangegul, ofta klubbformad. Köttet är vitt till blekgult, fast, med fruktig aprikosdoft. Sporfällningen är blekgul till gräddvit.",
+  "habitat": "Mykorrhiza med östliga lövträd, särskilt vitskogsek, rödek, amerikansk bok, hickory och tulpanträd. Förekommer i mogna blandade lövskogar i hela Appalachregionen. Föredrar väldränerade bergssluttningar, dalar och åsar med tjockt lövförna och sura jordar.",
+  "season": "Sommar till höst (juni–oktober), med toppfruktning i juli–september. Fruktar ofta rikligt efter varma sommarregn. Kan ge flera fruktningssköljar under säsongen vid tillräcklig fukt.",
+  "regions": [
+    "Appalacherna (Georgia till Maine)",
+    "Mellanatlantiska staterna (Virginia, West Virginia, Maryland)",
+    "Bergen i Tennessee och North Carolina",
+    "Pennsylvania och New York",
+    "Södra Ohio och Kentucky"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus illudens) – GIFTIG, har äkta vassa skivor, växer på trä eller nedgrävt trä, lyser i mörker",
+    "Narrkantarell (Hygrophoropsis aurantiaca) – Inte giftig men dålig kvalitet, har äkta tunna skivor, mer intensivt orange",
+    "Cantharellus cibarius – Ätlig, mycket lik, finns i nordligare regioner, i princip identisk till utseendet"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Den appalachiska kantarellen är en av de mest uppskattade vilda svamparna i östra Nordamerika, högt eftertraktad för sin utmärkta smak och fasta konsistens. Det kritiska identifieringskännetecknet är de tjocka, trubbiga, gafflade ribborna som känns vaxartade och är sammanvuxna med hatten, till skillnad från de tunna, knivlika äkta skivorna hos den giftiga Jack-O'-Lantern. Verifiera alltid att den växer från jord nära träd, aldrig på trä. Den har en härlig fruktig, pepprig smak; utmärkt stekt, i soppor eller konserverad genom torkning. Vissa individer kan få lindriga magbesvär.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695286.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 58918,
+      "width": 640,
+      "height": 550,
+      "sha256": "1e531b8fdb9faf5e522613f935369fa08b17d8304ffbea739b036127f37058e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695282.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-11",
+      "file_size_bytes": 35850,
+      "width": 640,
+      "height": 500,
+      "sha256": "0d643f4fa701f4b4b45e1ee889956eb3e6793e82ea4fb063547d712c44fbbd9b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.207174",
+  "source_language": "en"
+}

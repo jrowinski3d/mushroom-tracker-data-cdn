@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscya",
+  "scientific_name": "Russula cyanoxantha",
+  "common_name": "Russule charbonnier",
+  "edibility": "E",
+  "description": "La Russule charbonnier a un chapeau de couleur variable (5 à 15 cm) — violet, vert, gris ou couleurs mélangées — souvent avec plusieurs couleurs sur le même chapeau. Lames blanches à crème. Pied blanc. CLÉ : CHAIR CASSANTE CRAIEUSE, PAS DE LATEX, GOÛT DOUX. Chapeau multicolore diagnostique. Chair blanche. Sporée blanche à crème pâle.",
+  "habitat": "Mycorhizienne avec les feuillus et les conifères. Pousse au sol dans les forêts mixtes. Répandue. Espèce commune. Dispersée ou en groupes.",
+  "season": "De l'été à l'automne (juillet-octobre).",
+  "regions": [
+    "est des États-Unis",
+    "Midwest",
+    "Pacifique Nord-Ouest",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Autres russules — vérifier le goût (doux vs âcre)",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : excellente saveur, goût doux. Chapeau multicolore + CHAIR CASSANTE + GOÛT DOUX : diagnostique. L'une des meilleures russules comestibles. Le test de goût confirme la comestibilité. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1583712.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 127886,
+      "width": 480,
+      "height": 640,
+      "sha256": "cf39c2df4133405fd5f7d600686fbcf0229faf42054f084e29703cf4f8706217"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1583713.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-29",
+      "file_size_bytes": 112990,
+      "width": 480,
+      "height": 640,
+      "sha256": "a0e8fcc9bbb17f04c8dadcb62a756fda2b1f1a84f9923aeb2a2397795bdc73d4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

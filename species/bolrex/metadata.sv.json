@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "bolrex",
+  "scientific_name": "Boletus rex-veris",
+  "common_name": "Spring King Bolete (Boletus rex-veris)",
+  "edibility": "E",
+  "description": "Vårsoppen visar en rosa- till rödbrun hatt (5–25 cm) med slät, ofta skrynklig yta när den är mogen. Porerna är vita hos unga exemplar och blir gulaktiga med åldern, utan missfärgning vid tryck. Den tjocka, vita foten har vitt nätmönster och visar ofta rosa-röda toner vid basen. Det vita köttet är fast och missfärgas inte vid skärning. Sporfällningen är olivbrun.",
+  "habitat": "Mykorrhiza med tall, douglasgran och andra barrträd i skogar på låg till medelhög höjd. Knuten till snösmältning och vårfukt. Föredrar sandiga eller grusiga jordar under mogna barrträd.",
+  "season": "Vår till försommar (april–juli), med toppfruktning i maj–juni. Den uppträder tidigt på säsongen, ofta medan snö fortfarande ligger kvar på högre höjder.",
+  "regions": [
+    "Västra USA",
+    "Nordvästra USA",
+    "Kaliforniens bergstrakter",
+    "Klippiga bergen",
+    "Oregon",
+    "Washington",
+    "British Columbia"
+  ],
+  "lookalikes": [
+    "Boletus edulis (Karl-Johan) – senare på säsongen, annan hattfärg",
+    "Boletus pinophilus – mörkare rödbrun hatt",
+    "Tylopilus felleus – rosa porer, bitter smak",
+    "Andra vårväxande Boletus-arter – alla ätliga"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Vårsoppen är högt uppskattad för sitt tidiga uppträdande och utmärkta smak. Fast konsistens och fyllig smak gör den till en favorit bland svampplockare. Vårens fruktningstid och den rosatonade hatten hjälper till att skilja den från andra arter. Tillaga alltid noggrant före förtäring.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1677950.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 78788,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dc8681a13b2adf4c8d031d5a882aa0a579ff14fc12af3a898a3127bff4667cf"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1677951.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-21",
+      "file_size_bytes": 113608,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd6ecd0e3cf80b45bb0612fd32833b55f0d92078b287e3bc8c877eb4955ff265"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

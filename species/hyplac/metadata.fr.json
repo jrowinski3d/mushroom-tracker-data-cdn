@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hyplac",
+  "scientific_name": "Hypomyces lactifluorum",
+  "common_name": "Dermatose des russules",
+  "edibility": "E",
+  "description": "La dermatose des russules n’est pas un champignon à proprement parler, mais un parasite fongique orange vif qui transforme ses champignons hôtes (espèces de Russula et de Lactarius) en spécimens comestibles. Le champignon infecté devient entièrement recouvert d’une croûte dure orange vif à rouge orangé. La forme conserve celle de l’hôte (montrant souvent des lames ou des pores), mais la surface est rugueuse, bosselée ou verruqueuse. La taille varie de 5 à 15 cm selon l’hôte. La chair est blanche marbrée d’orange, ferme et dense. Toute la structure devient rigide et lourde. Elle dégage un arôme de fruits de mer rappelant le homard ou la crevette cuits.",
+  "habitat": "Trouvée dans les forêts de conifères et mixtes où poussent ses espèces hôtes (russules et lactaires à lait). Le parasite colonise les boutons souterrains et les jeunes champignons des espèces sensibles. Parasite le plus souvent les espèces de Russula blanches ou pâles et les espèces de Lactarius. Fructifie là où les hôtes sont abondants, dispersée à grégaire. Préfère les zones au sol riche et les associations mycorhiziennes de ses hôtes.",
+  "season": "De la fin de l’été à l’automne (juillet-novembre), selon la fructification des hôtes. Pic d’occurrence à la fin de l’été et au début de l’automne (août-octobre). Le moment suit l’émergence des champignons hôtes. Plus fréquente les années de bonne fructification des hôtes.",
+  "regions": [
+    "Est de l’Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (très commun)",
+    "montagnes Rocheuses",
+    "Californie du Nord",
+    "Sud-Est des États-Unis",
+    "Dans toute l’Amérique du Nord où les hôtes sont présents"
+  ],
+  "lookalikes": [
+    "Russula emetica infectée par d’autres champignons - hôte toxique, pourrait être dangereuse",
+    "Espèces de Lactarius sans Hypomyces - peuvent être des lactaires toxiques",
+    "Autres champignons oranges - mais aucun n’a la croûte dure et l’aspect déformé",
+    "CRUCIAL : il faut vérifier la croûte dure orange recouvrant tout le champignon"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : l’un des champignons sauvages les plus sûrs et les plus recherchés. Le parasitisme par Hypomyces transforme même les espèces hôtes toxiques en spécimens comestibles. Le parasite neutralise les toxines de l’hôte et produit sa propre fructification comestible. Très prisée pour sa texture ferme et sa saveur rappelant les fruits de mer. Populaire dans les restaurants. Identification CRUCIALE : vérifier une couverture COMPLÈTE par la croûte dure orange, AUCUNE lame ni pore exposé (hôte entièrement recouvert), une chair ferme et dense, un léger arôme de fruits de mer. Une couverture partielle peut indiquer un parasitisme précoce avec l’hôte toxique encore présent - à éviter. Bien cuire. Excellente poêlée, dans les soupes ou comme substitut du homard. Très sûre, sans sosies toxiques une fois bien identifiée.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1704596.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-12",
+      "file_size_bytes": 63526,
+      "width": 640,
+      "height": 480,
+      "sha256": "acda8b6cd5e164f36ada0e732c42d1f2383bf7585c9742be453479f8e4951f0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1704580.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-10",
+      "file_size_bytes": 133344,
+      "width": 480,
+      "height": 640,
+      "sha256": "f1c7fc75c4e79e66f10e033cde7d397acadeb2d14cc68c045567a456685d10b9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.452340",
+  "source_language": "en"
+}

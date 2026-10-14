@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "tremes",
+  "scientific_name": "Tremella mesenterica",
+  "common_name": "Gul geléöra",
+  "edibility": "E",
+  "description": "Gul geléöra är en klart gyllengul till orange gelésvamp som bildar oregelbundna hjärnliknande eller veckade massor 2–8 cm breda. Fruktkroppen är gelatinös, genomskinlig, med en vindlande yta som liknar en hjärna eller veckade tarmar. Färgen är klart gyllengul till gul när den är färsk och fuktig, och blir mörkare orange och skrumpen när den är torr. Konsistensen är mjuk, darrande och geléliknande. Återhämtar sig och sväller när den återfuktas. Ingen tydlig fot- eller hattstruktur.",
+  "habitat": "Finns på döda grenar och kvistar av lövträd, särskilt ek, bok och andra lövfällande arter. Växer som parasit på skorpsvampar (särskilt Peniophora-arter) som koloniserar död ved. Fruktsätter på fallna grenar, stående dödved och bark. Vanlig i skogar, lundar och parker. Föredrar fuktiga förhållanden.",
+  "season": "Året runt i områden med milt fuktigt väder, men rikligast från höst till vår (oktober–april). I tempererade områden främst vinter och tidig vår (november–mars). Kan fruktsätta under sommaren efter kraftiga regn. Huvudsäsong under svala våta perioder.",
+  "regions": [
+    "Europa (utbredd)",
+    "Östra Nordamerika (vanlig)",
+    "Nordvästra USA (vanlig)",
+    "Kalifornien (tillfällig)",
+    "Världen över i tempererade områden",
+    "Särskilt vanlig i Storbritannien"
+  ],
+  "lookalikes": [
+    "Tremella aurantia (ätlig) – liknande men klart orange, parasitisk på Stereum",
+    "Dacrymyces-arter (ätliga) – mindre, mer orange, på barrved",
+    "Calocera viscosa (ätlig) – korallliknande grenar inte hjärnliknande",
+    "Inga giftiga liknande arter bland gelésvampar"
+  ],
+  "safety_notes": "ÄTLIG men smaklös: Anses ätlig och äts i vissa kulturer, men har liten eller ingen smak. Den gelatinösa konsistensen är huvudkaraktären. Används i traditionell kinesisk medicin. Säker att smaka rå men tillagas vanligen i soppor eller söta rätter. Inget näringsvärde men ofarlig. Mer intressant som prydnad än som mat. Den klart gyllengula färgen och det hjärnliknande utseendet är kännetecken. Inga farliga liknande arter – alla liknande gelésvampar är ätliga. Används ofta dekorativt tack vare den livliga färgen.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1731381.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 32694,
+      "width": 640,
+      "height": 427,
+      "sha256": "23f4f40b6067140f44e12ff967c1f22b92604b2d0a4e605c5a11482334462a0a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1731382.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 24616,
+      "width": 640,
+      "height": 427,
+      "sha256": "bb94d948d2b36a65b8905a39e8c0caf8562ea265cfd8f11cc609375abe7260bf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

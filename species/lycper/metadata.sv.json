@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycper",
+  "scientific_name": "Lycoperdon perlatum",
+  "common_name": "Vårtig röksvamp",
+  "edibility": "E",
+  "description": "Små päronformade röksvampar, 2,5–7,5 cm höga och 2,5–5 cm breda, med en karakteristisk taggig eller vårtig yta när de är unga. Vita som unga och blir beige till bruna med åldern. Täckta med små konformade taggar som faller av och lämnar ett nätliknande mönster. Innanmätet är helt vitt när den är ätlig och blir olivgult och sedan brunt. Har en uttalad steril bas. Öppnas med en enda por i toppen när den är mogen.",
+  "habitat": "Saprofytisk på marken i blandade löv- och barrskogar, skogsbryn, mossiga områden och murkande ved. Växer ofta i flockar eller utspridda grupper. Vanlig på skogsbottnar med rikligt organiskt material, på multnande stubbar och i mossiga områden.",
+  "season": "Sommar till höst, vanligtvis juli–oktober. Högsäsong i augusti–september. Kan dyka upp in i november i milda regioner. Fruktar efter varma regn.",
+  "regions": [
+    "Östra Nordamerika",
+    "Stillahavsnordväst",
+    "Klippiga bergen",
+    "Området kring Stora sjöarna",
+    "Utbredd över tempererade Nordamerika",
+    "Cirkumboreal utbredning"
+  ],
+  "lookalikes": [
+    "Andra Lycoperdon-arter (de flesta ätliga när de är vita inuti)",
+    "DÖDLIG: Omogna Amanita-knappar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Scleroderma-arter/jordbollar (giftiga, lila-svart inre, tjock vårtig hud)",
+    "Lycoperdon pyriforme (slät yta, växer på ved i täta klungor)"
+  ],
+  "safety_notes": "ÄTLIG när den är helt vit inuti: KRITISKT – skär ALLTID exemplaret helt itu från topp till botten innan förtäring. Ätlig ENDAST om innanmätet är helt kritvitt och fast igenom, som en marshmallow. Om något gult, olivfärgat, brunt eller utvecklande strukturer syns inuti, ÄT INTE. Detta förhindrar att man äter giftiga Scleroderma och omogna dödliga Amanita-arter. Den taggiga ytan hos unga exemplar underlättar identifieringen, men det vita innanmätet måste verifieras. Tillaga ordentligt – god mild smak.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723310.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 40870,
+      "width": 640,
+      "height": 427,
+      "sha256": "9bd78ffa68b85a9358b87ced4958d2bb98f4ca6f0d2a5d8f47f054e958c3f200"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723311.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 48344,
+      "width": 640,
+      "height": 427,
+      "sha256": "e1e4721679e9a34c106a965d67f391b1f9de88157371d5bf7ee579366346ce5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

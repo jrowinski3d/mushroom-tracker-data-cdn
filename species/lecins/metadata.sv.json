@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecins",
+  "scientific_name": "Leccinum insigne",
+  "common_name": "Aspen Scaber Stalk (Leccinum insigne)",
+  "edibility": "E",
+  "description": "Aspen Scaber Stalk har en orange-röd till tegelröd hatt (5-18 cm) med torr, svagt sammetshårig konsistens. Porerna är vita som unga, åldrande till smutsigt gråbruna, och blåmärker brunaktigt. Den vita till gulaktiga foten är tätt täckt med orangebruna till rödbruna fjäll. Det vita köttet fläckar rosaaktigt till vinrött vid snitt och mörknar så småningom till lila-grått eller svart. Sporfällningen är olivbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med asp (Populus tremuloides) i bergs- och subalpina skogar. Bildar obligatoriska associationer med amerikansk asp. Vanlig i asplundar på högre höjder.",
+  "season": "Sommar till höst (juli-september) med toppfruktkroppar i augusti på högre höjder. Dyker upp efter monsunregn i bergsaspskogar.",
+  "regions": [
+    "Klippiga bergen",
+    "Colorados högland",
+    "New Mexicos bergstrakter",
+    "Arizonas höglänta områden",
+    "Utahs aspskogar",
+    "Wyoming",
+    "västra bergsregioner"
+  ],
+  "lookalikes": [
+    "Leccinum aurantiacum – liknande utseende, också med asp",
+    "Andra strävsoppar – fotens fjäll är distinkta",
+    "Boletus-arter – saknar sträva fotfjäll",
+    "Suillus-arter – klibbig hatt, annat habitat"
+  ],
+  "safety_notes": "ÄTLIG: Aspen Scaber Stalk är en god matsvamp med fast konsistens. Måste tillagas ordentligt i minst 20 minuter – otillräckligt tillagade exemplar kan orsaka magbesvär. De dramatiska köttfärgomslagen är normala och ofarliga. Vanligast i sydvästra bergsaspskogar.",
+  "images": [
+    {
+      "file_size_bytes": 76548,
+      "height": 640,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-21",
+      "photographer": "Scott Ostuni",
+      "sha256": "8c5d73a0b2a91de96a83317f55f23729071463c8350c4c2f27b21f30c41c5110",
+      "source_url": "https://mushroomobserver.org/images/640/1488161.jpg",
+      "width": 480
+    },
+    {
+      "file_size_bytes": 48106,
+      "height": 480,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-07-19",
+      "photographer": "Scott Ostuni",
+      "sha256": "69ea5eb95fedcbc3f5687115b45c15b6a0aeecec49bb7d9b07cd713c5badb4cf",
+      "source_url": "https://mushroomobserver.org/images/640/1476740.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

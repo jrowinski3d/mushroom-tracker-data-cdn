@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bolsub",
+  "scientific_name": "Boletus subcaerulescens",
+  "common_name": "Almost Bluing King Bolete (Boletus subcaerulescens)",
+  "edibility": "E",
+  "description": "Den blånande soppen har en brun till rödbrun hatt (5–15 cm) med slät yta. Porerna är gula till olivgula och blånar långsamt blågrönt vid beröring – ett diagnostiskt kännetecken. Den gulaktiga foten har nätmönster och blånar också. Det vita till blekgula köttet missfärgas blått vid skärning, särskilt nära porlagret. Denna blåfärgningsreaktion skiljer den från liknande arter. Sporfällningen är olivbrun.",
+  "habitat": "Mykorrhiza med ek och andra lövträd i löv- och blandskogar. Föredrar näringsrika, väldränerade jordar i mogna skogar. Vanlig i ekdominerade miljöer.",
+  "season": "Sommar till höst (juli–oktober) med toppfruktning under sensommaren. Uppträder efter varma regn under fuktigt väder.",
+  "regions": [
+    "Östra USA",
+    "Sydöstra staterna",
+    "Mellanatlantiska regionen",
+    "Appalacherna",
+    "Området kring Stora sjöarna",
+    "Ekskogar i östra Nordamerika"
+  ],
+  "lookalikes": [
+    "Boletus edulis (Karl-Johan) – vita porer, ingen blåfärgning",
+    "Boletus variipes – dramatiskare blåfärgning, annat utbredningsområde",
+    "Tylopilus felleus – rosa porer, bitter, blånar inte",
+    "Boletus sensibilis – blånar mycket kraftigt"
+  ],
+  "safety_notes": "ÄTLIG: Den blånande soppen är en god matsvamp med fast konsistens och mild smak. Blåfärgningsreaktionen är normal och ofarlig – den är INTE ett tecken på giftighet. Tillaga noggrant före förtäring. Blåfärgningen hjälper till att skilja den från icke-blånande arter som B. edulis.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722125.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 70142,
+      "width": 640,
+      "height": 427,
+      "sha256": "07354155f08a7b03b39453c28f73db981c5f2a131435c593e2e86f9004209fc8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722126.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 60122,
+      "width": 640,
+      "height": 427,
+      "sha256": "392e0e070bd16a650927fcbac5642d898e2e348fcb7a42e33c509e08ac29cf59"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

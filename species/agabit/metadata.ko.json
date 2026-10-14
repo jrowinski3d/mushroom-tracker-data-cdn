@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agabit",
+  "scientific_name": "Agaricus bitorquis",
+  "common_name": "Pavement Mushroom (Agaricus bitorquis)",
+  "edibility": "E",
+  "description": "페이브먼트머쉬룸은 갓 지름 5-15cm의 짧고 튼튼한 종으로, 처음에는 둥글다가 볼록해진다. 갓은 흰색에서 크림색으로 매끄럽거나 약간 갈라지며, 나이가 들거나 상처가 나면 흔히 황갈색으로 얼룩진다. 주름살은 떨어진주름살로, 처음에는 옅은 분홍색이다가 초콜릿 갈색이 된다. 대는 높이 3-8cm로 매우 짧고 굵으며(특징적), 흰색이고, 이중 턱받이(두 개의 턱받이처럼 보이는 경우가 많아 'bitorquis'라는 이름이 붙음)가 있다. 조직은 단단하고 흰색이며 온화하고 기분 좋은 냄새가 난다. 다른 Agaricus에 비해 눈에 띄게 질기고 강하다.",
+  "habitat": "인도 보도 틈, 도로변 다져진 흙, 주차장, 자갈길, 조경 화단, 아스팔트 아래 등 교란이 심한 도시 환경에서 발견된다. 척박한 토양과 인간의 교란에 놀랄 만큼 잘 견딘다. 다져진 흙이 있는 정원과 잔디밭에서도 자란다. 단단한 표면을 뚫고 산재하거나 군집을 이루어 발생한다.",
+  "season": "봄부터 가을까지(4-11월) 발생하며, 늦봄과 초여름에 가장 많다. 캘리포니아 같은 온화한 기후에서는 연중 발생할 수 있다. 대부분의 Agaricus보다 추위에 강하여, 다른 버섯이 없을 때 서늘한 날씨에 자주 나타난다.",
+  "regions": [
+    "유럽 (자생)",
+    "북아메리카 (널리 분포, 전 지역)",
+    "캘리포니아 (매우 흔함)",
+    "전 세계 도시 지역",
+    "온대에서 아열대 기후",
+    "도시에서 세계적으로 흔함"
+  ],
+  "lookalikes": [
+    "Agaricus campestris (식용) - 더 섬세하고 대가 길며 초지 서식지",
+    "Agaricus bisporus (재배 버섯, 식용) - 유사하나 재배종으로 덜 튼튼함",
+    "어린 광대버섯류 Amanita (일부 치명적) - 기부 외피막이 있고 주름살이 분홍-갈색으로 변하지 않음",
+    "Agaricus bernardii (식용) - 해안 종으로 짠 기운 서식지, 외형 유사"
+  ],
+  "safety_notes": "최상급 식용: 조리해도 무너지지 않는 단단하고 밀도 높은 조직으로 훌륭한 식감. 시중 양송이보다 향이 진한 경우가 많다. 충분히 익혀 먹는다. 핵심 식별: 매우 짧고 굵은 대(특징적), 이중 턱받이, 떨어진주름살이 분홍색에서 초콜릿 갈색으로 변함, 초콜릿 갈색 포자문, 기부 외피막 없음, 도시/교란 서식지를 확인. 짧고 튼튼한 체형과 보도 서식지가 특징적이다. 오염된 도시 환경에서 자라므로 잘 씻는다. 상처와 벌레 피해에 매우 강하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1667634.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 30240,
+      "width": 299,
+      "height": 640,
+      "sha256": "b8c0822eca069f9adac112fea1b3b5f29ede428a0e55ca49c9c310abc42faec6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1667635.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-04-03",
+      "file_size_bytes": 44562,
+      "width": 640,
+      "height": 351,
+      "sha256": "a0618a54d140d180bee42b7373c27eb12cfb3ab5d05f36b110833f80a157b540"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

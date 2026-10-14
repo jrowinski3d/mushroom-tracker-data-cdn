@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agasub",
+  "scientific_name": "Agaricus subrutilescens",
+  "common_name": "Wine-colored Agaricus (Agaricus subrutilescens)",
+  "edibility": "E",
+  "description": "El Agaricus de color vino es una especie de mediana a grande con un sombrero de 8-20 cm de diámetro, inicialmente redondeado que se vuelve ampliamente convexo hasta plano. El sombrero es blanco a crema con escamas fibrilosas marrones a marrón rojizo, que a menudo desarrolla manchas rojo vino a rojo rosado con la edad o la manipulación. Las láminas son libres, al principio de color rosa pálido y se vuelven marrón chocolate oscuro. El pie mide 6-15 cm de alto, blanco sobre el anillo, manchándose de rojo vino a rosado especialmente en la base (carácter diagnóstico). El anillo es grande y colgante. La carne es blanca, manchándose lentamente de rosado a rojo vino al cortarse, con un agradable olor a almendra-anís.",
+  "habitat": "Se encuentra en bosques de coníferas y mixtos, particularmente bajo pinos, abetos y píceas. También en zonas urbanas con coníferas, áreas ajardinadas con virutas de madera y mantillo de corteza. Crece en el suelo en suelos ricos en humus y restos leñosos en descomposición. Fructifica disperso a gregario, a menudo en tropas en lechos de virutas de madera.",
+  "season": "Otoño a invierno (octubre-febrero) en California y climas mediterráneos. Desde finales del verano hasta el otoño (agosto-noviembre) en regiones templadas. La fructificación máxima ocurre a finales del otoño y principios del invierno. Más tolerante al frío que muchas especies de Agaricus.",
+  "regions": [
+    "California (muy común)",
+    "Pacífico Noroeste (común)",
+    "Suroeste de Estados Unidos",
+    "Oeste de Norteamérica (extendido)",
+    "Climas mediterráneos",
+    "Regiones de bosques de coníferas"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (comestible) - más grande, escamas más doradas, menos manchado rojo vino",
+    "Agaricus crocodilinus (comestible) - similar pero sin el distintivo manchado rojo vino en la base del pie",
+    "Agaricus moelleri (tóxico) - amarillea intensamente, olor fenólico en lugar de anís",
+    "Especies grandes de Amanita (algunas mortales) - tienen volva en la base, ausente en Agaricus"
+  ],
+  "safety_notes": "COMESTIBLE: Considerado comestible con buen sabor y textura firme cuando se cocina. Popular entre los recolectores en California. Cocinar bien. Identificación crítica: verificar el agradable olor a ALMENDRA-ANÍS (no fenólico), el manchado ROJO VINO a rosado especialmente en la base del pie (carácter diagnóstico), láminas LIBRES que se vuelven rosadas y luego marrón chocolate, esporada MARRÓN CHOCOLATE, SIN volva en la base. Evitar los ejemplares con intenso amarilleamiento al magullarse u olor fenólico desagradable. El manchado rojo vino en la base del pie es el carácter más distintivo. Excelente en sopas y salteados.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716382.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 80414,
+      "width": 640,
+      "height": 480,
+      "sha256": "2282913404fba100a85b46b81b99da6902789dc53d82cfe38e734143809ca12b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716373.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 92004,
+      "width": 640,
+      "height": 480,
+      "sha256": "d36a5a5cc111729564d1e8943cf126c3e8233ccf4dcede126b2a13cd99d81814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.615608",
+  "source_language": "en"
+}

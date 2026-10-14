@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bonber",
+  "scientific_name": "Bondarzewia berkeleyi",
+  "common_name": "Berkeley's Polypore (Bondarzewia berkeleyi)",
+  "edibility": "E",
+  "description": "Ogromna rozeta dużych, zachodzących na siebie wachlarzowatych kapeluszy o szerokości 10–30 cm; cały owocnik może osiągać 30–90+ cm średnicy. Górna powierzchnia kremowa do jasnobrązowej i brązowej, z promienistymi zmarszczkami. Powierzchnia porów biała do kremowej. Miąższ gruby, twardy, włóknisty nawet u młodych owocników. Poszczególne kapelusze większe i mniej regularnie ułożone niż u żagwicy wielogłowej (Grifola frondosa). Może ważyć 9–23+ kg. Silny, stęchły zapach.",
+  "habitat": "Grzyb pasożytniczy i saprotroficzny, rosnący u podstaw żywych i martwych drzew liściastych, zwłaszcza dębów, powodując zgniliznę odziomkową i korzeniową. Tworzy ogromne rozety u podstaw pni, na korzeniach i pniakach. Częsty w dojrzałych lasach liściastych. Często pojawia się w tym samym miejscu przez kilka lat.",
+  "season": "Lato do jesieni, zwykle lipiec–październik. Szczyt owocowania w sierpniu–wrześniu. Może utrzymywać się przez kilka tygodni. Najobfitszy późnym latem i wczesną jesienią po deszczach.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód",
+    "południowo-wschodnie Stany Zjednoczone",
+    "Region Wielkich Jezior",
+    "Appalachy",
+    "północno-zachodnie wybrzeże Pacyfiku"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (mniejsze pojedyncze kapelusze, szarobrązowe, lepiej uporządkowana rozeta)",
+    "Meripilus sumstinei (ciemniejszy, czernieje przy dotknięciu)",
+    "Inne duże rozety hub (inna konsystencja, inne ułożenie)",
+    "Młode Albatrellus (mniejsze, inne siedlisko)"
+  ],
+  "safety_notes": "JADALNY, gdy bardzo młody, ale generalnie unikany: jadalne są jedynie delikatne, rosnące brzegi bardzo młodych owocników – większość owocnika jest zbyt twarda do jedzenia nawet za młodu. Silny stęchły zapach i włóknista konsystencja czynią go nieatrakcyjnym. Może powodować dolegliwości trawienne. Wymaga dokładnego ugotowania. Ze względu na twardość zazwyczaj nie wart zbierania. Istnieją lepsze huby do jedzenia. Niektórzy mielą suszone owocniki na przyprawę.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1708313.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 89214,
+      "width": 640,
+      "height": 480,
+      "sha256": "935b8fc5b3803aa029baf2bcb81d1f9ba55995e4017c9b3ccb79c238195119c1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1708314.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 110054,
+      "width": 480,
+      "height": 640,
+      "sha256": "78d3bea57198757ee2d96e32c3c6c4be2d9d9c54bb8f36074c19ebb323cd806f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

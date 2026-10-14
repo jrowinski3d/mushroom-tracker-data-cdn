@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "trimat",
+  "scientific_name": "Tricholoma matsutake",
+  "common_name": "Matsutake",
+  "edibility": "E",
+  "description": "El matsutake tiene un sombrero robusto de color blanco (6-20 cm) que se vuelve parduzco con la edad, a menudo con manchas o parches parduzcos. El sombrero es convexo a plano, seco, liso a ligeramente fibriloso. Las láminas son blancas, adheridas, apretadas. El pie es grueso, blanco, firme, con un DISTINTIVO VELO PARCIAL GRUESO que a menudo deja un ANILLO ALGODONOSO o restos rasgados en la parte superior del pie. La característica clave es el FUERTE OLOR PICANTE, A CANELA o A PINO — reconocible al instante y diagnóstico. La carne es blanca, muy firme, densa. Esporada blanca. A menudo emerge empujando la tierra/broza, creando un distintivo «bulto» antes de emerger por completo.",
+  "habitat": "Micorrícico con CONÍFERAS, sobre todo pino (Pinus), tsuga y abeto en Asia. Forma relaciones obligadas con árboles huéspedes concretos. Crece en el suelo, a menudo parcialmente enterrado en broza o tierra. Se encuentra en bosques maduros de coníferas, normalmente en «shiro» concretos (corros de brujas). Requiere condiciones de suelo específicas y hábitat forestal no alterado.",
+  "season": "Otoño (septiembre-noviembre) en Japón y Asia, fructificando con el clima fresco otoñal.",
+  "regions": [
+    "Japón",
+    "Corea",
+    "China",
+    "Asia (área de distribución natural)"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare (matsutake americano) — especie norteamericana, muy similar",
+    "Tricholoma murrillianum (matsutake del suroeste) — especie del suroeste de EE. UU.",
+    "Amanita smithiana — TÓXICA: blanca pero tiene volva en la base, olor diferente",
+    "Otras especies de Tricholoma — carecen del distintivo olor a canela"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: uno de los hongos comestibles más caros y apreciados del mundo, sobre todo en la cocina japonesa, donde puede venderse por cientos de dólares por libra. El fuerte OLOR PICANTE A CANELA es la característica clave de identificación. Mejor cuando es joven y firme: los ejemplares viejos se vuelven amargos. Limpiar con suavidad para conservar los compuestos aromáticos. No confundir nunca con las tóxicas amanitas blancas: el matsutake no tiene volva, tiene olor distintivo y tiene anillo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/705543.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 61824,
+      "width": 640,
+      "height": 480,
+      "sha256": "97b74a9180a9fba23ead388a50e26d38db132e89b7d39d743c91e8435bb732d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/705544.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 77154,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd70501e766a7b20042ccbf068e41759f221e4300395f3048ba11d8114c34a3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

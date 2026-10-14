@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sarimb",
+  "scientific_name": "Sarcodon imbricatus",
+  "common_name": "노루털버섯",
+  "edibility": "E",
+  "description": "노루털버섯은 크고 갈색인 갓(지름 5–25cm)에 독특한 크고 뒤집힌 비늘이 덮여 있어 지붕널처럼 겹친 무늬를 이룬다. 비늘은 짙은 갈색~흑갈색으로 기와를 얹은 듯 보인다. 아랫면은 주름살이나 관공 대신 부서지기 쉬운 아래를 향한 가시 또는 이빨로 덮여 있는데, 이 가시는 회색~갈색이다. 대는 굵고 짧으며 회갈색으로 매끄럽거나 약간 비늘이 있다. 살은 흰색~회색으로 두껍고 단단하며, 늙은 개체는 쓴맛이 난다. 포자문은 갈색. Hydnum 종보다 훨씬 크고 색이 짙다.",
+  "habitat": "침엽수, 특히 소나무·가문비나무·전나무와 균근을 이룬다. 침엽수림과 혼합산지림의 지상에서 자란다. 종종 흩어져 있거나 작은 무리로 난다. 북부 및 산악림의 산성 토양을 좋아한다.",
+  "season": "늦여름~가을(8~10월)로, 많은 Hydnum 종보다 일찍 난다.",
+  "regions": [
+    "태평양 북서부",
+    "로키산맥",
+    "북동부",
+    "어퍼미드웨스트",
+    "유럽",
+    "아시아"
+  ],
+  "lookalikes": [
+    "Sarcodon scabrosus - 비슷하지만 비늘 무늬가 다름",
+    "Hydnum 종들 - 훨씬 작고 색이 옅으며 큰 짙은 비늘이 없음",
+    "Phaeolus schweinitzii(염색용 다공균) - 목재에서 자라고 가시가 아닌 관공이 있음"
+  ],
+  "safety_notes": "어릴 때는 식용 가능하나 품질이 일정하지 않음 - 어린 개체는 맛이 순하고 식용 가능하지만, 늙은 개체는 쓴맛이 나서 먹을 수 없게 된다. 쓴맛이 들기 전 아주 어리고 신선한 개체만 채집할 것. 큰 짙은 비늘과 아랫면의 가시/이빨 덕분에 동정이 쉽다. 어린 개체도 약간 쓴맛을 느끼는 사람이 있다. 품질이 일정하지 않아 초보자에게는 권하지 않는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650864.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-26",
+      "file_size_bytes": 117182,
+      "width": 640,
+      "height": 427,
+      "sha256": "6f537228230a6ac726b46c6a6c8a104eca1164addbab69377a4c611c024578fd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1570165.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-20",
+      "file_size_bytes": 103960,
+      "width": 640,
+      "height": 482,
+      "sha256": "29edf671ea70a2af5871958d4ba2f294dad2398b28bb2d455534b0db4a015384"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calsub",
+  "scientific_name": "Calbovista subsculpta",
+  "common_name": "Sculptured Puffball (Calbovista subsculpta)",
+  "edibility": "E",
+  "description": "지름 5~15cm의 중대형 둥글거나 타원형 말불버섯으로, 낮고 다각형인 사마귀와 판이 기하학적 무늬를 이루는 독특한 조각 같은 표면을 가졌다. 흰색에서 황갈색을 거쳐 나이가 들면 갈색이 된다. 속은 식용 가능한 시기엔 순백색이며 올리브황색을 거쳐 갈색으로 변한다. 작은 밑동 부착부가 있으나 뚜렷한 불임대는 없다. 위쪽에 불규칙한 구멍으로 열린다. 독특한 조각 같은 표면 무늬.",
+  "habitat": "산악 침엽수림, 특히 폰데로사소나무, 로지폴소나무, 미송(더글러스퍼), 가문비나무 아래에서 부생한다. 고산과 아고산 삼림에서 흔하다. 고지대의 배수가 잘되는 삼림 바닥을 선호한다. 소나무 낙엽층과 삼림 공터에서 자주 발견된다.",
+  "season": "산악 지대에서는 여름부터 가을, 보통 7월~10월. 몬순 비가 내린 뒤 8월~9월에 최성기. 고산 삼림에서는 한여름~늦여름에 가장 흔하다.",
+  "regions": [
+    "로키산맥",
+    "시에라네바다산맥",
+    "캐스케이드산맥",
+    "남서부 산악 지대",
+    "서부 산악 침엽수림",
+    "콜로라도주~브리티시컬럼비아주"
+  ],
+  "lookalikes": [
+    "Calvatia booniana (비슷한 비늘이나 더 두껍고 무늬가 다름)",
+    "치명적: 어린 광대버섯(Amanita) 단추 모양 자실체 (반드시 잘라 확인하십시오 - 내부에 발달 중인 주름살/갓이 보입니다)",
+    "Scleroderma 종/댕기버섯 (독성, 자주검은 속, 더 두꺼운 사마귀 껍질)",
+    "기타 조각 모양 Calvatia 종 (속이 흰색일 때 식용 가능성 비슷)"
+  ],
+  "safety_notes": "속이 완전히 흰색일 때만 식용 가능: 중요 - 섭취 전 반드시 표본을 위에서 아래까지 완전히 반으로 잘라 확인하십시오. 속이 전체적으로 완전히 순백색이고 단단할 때만 식용 가능합니다. 노란색, 올리브색, 갈색 기운이나 발달 중인 구조물이 조금이라도 보이면 절대로 먹지 마십시오. 이렇게 하면 독성 유사종과 미성숙한 치명적 광대버섯을 먹는 것을 막을 수 있습니다. 독특한 기하학적 조각 표면이 동정에 도움이 되지만, 흰색 속이 식용 가능 여부를 판단하는 결정적 기준입니다. 충분히 익히십시오.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1470448.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 110874,
+      "width": 480,
+      "height": 640,
+      "sha256": "1db346ac95ce5e6845f24c7c5ce39095fc0dec0aca0834476c6e524233795a42"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1470449.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-06-17",
+      "file_size_bytes": 95434,
+      "width": 480,
+      "height": 640,
+      "sha256": "65d0b97a71a00df496da6cfe54db57beff034d142d0c6a477522849c340dccf3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "tremes",
+  "scientific_name": "Tremella mesenterica",
+  "common_name": "Witches' Butter (Tremella mesenterica)",
+  "edibility": "E",
+  "description": "마녀의 버터는 밝은 황금노란색~오렌지색 젤리버섯으로 너비 2–8cm의 불규칙한 뇌 모양 또는 주름진 덩어리를 이룬다. 자실체는 젤라틴질로 반투명하며 뇌 또는 접힌 내장을 닮은 주름진 표면을 갖는다. 신선하고 촉촉할 때 색은 밝은 황금오렌지색~노란색이며, 마르면 짙은 오렌지색으로 오그라든다. 조직은 부드럽고 떨리며 젤리 같다. 다시 물을 머금으면 부풀어 되살아난다. 뚜렷한 대나 갓 구조가 없다.",
+  "habitat": "활엽수, 특히 참나무·너도밤나무 등 낙엽수의 죽은 가지와 잔가지에서 발견된다. 죽은 목재에 정착한 껍질버섯(특히 Peniophora 종)에 기생하며 자란다. 쓰러진 가지·서 있는 고사목·수피에서 열매를 맺는다. 삼림·숲·공원에서 흔하다. 습한 조건을 좋아한다.",
+  "season": "온화하고 비가 오는 지역에서는 연중 나지만 가을~봄(10~4월)에 가장 많다. 온대 지역에서는 주로 겨울~초봄(11~3월). 여름에도 폭우 뒤에 날 수 있다. 서늘하고 비가 오는 시기에 가장 많다.",
+  "regions": [
+    "유럽 (널리 분포)",
+    "북미 동부 (흔함)",
+    "태평양 북서부 (흔함)",
+    "캘리포니아 (가끔)",
+    "온대 지역 전 세계",
+    "영국에서 특히 흔함"
+  ],
+  "lookalikes": [
+    "Tremella aurantia(식용 가능) - 비슷하나 밝은 오렌지색, Stereum에 기생",
+    "Dacrymyces 종들(식용 가능) - 더 작고 더 오렌지색이며 침엽수 목재에서 남",
+    "Calocera viscosa(식용 가능) - 뇌 모양이 아닌 산호 모양 가지",
+    "젤리버섯 중 독성 있는 유사종 없음"
+  ],
+  "safety_notes": "식용 가능하나 맛이 없음: 식용으로 여겨져 일부 문화권에서 먹지만 맛이 거의 또는 전혀 없다. 젤라틴질 식감이 주된 특징이다. 한방에서 쓰인다. 날로 맛봐도 안전하나 대개 탕이나 단 요리에 넣어 익혀 먹는다. 영양가는 없으나 무해하다. 식품보다는 장식품으로서 더 흥미롭다. 밝은 황금노란색과 뇌 같은 외형이 진단 포인트. 위험한 유사종 없음 - 비슷한 젤리버섯은 모두 식용 가능하다. 선명한 색 덕분에 장식용으로 자주 쓰인다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1731381.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 32694,
+      "width": 640,
+      "height": 427,
+      "sha256": "23f4f40b6067140f44e12ff967c1f22b92604b2d0a4e605c5a11482334462a0a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1731382.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-12-17",
+      "file_size_bytes": 24616,
+      "width": 640,
+      "height": 427,
+      "sha256": "bb94d948d2b36a65b8905a39e8c0caf8562ea265cfd8f11cc609375abe7260bf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

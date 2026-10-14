@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sparad",
+  "scientific_name": "Sparassis radicata",
+  "common_name": "Rooting Cauliflower Mushroom (Sparassis radicata)",
+  "edibility": "E",
+  "description": "Le sparassis à base radicante (Rooting Cauliflower Mushroom) est semblable à S. crispa, formant des masses crème à jaune doré de 10-30 cm de diamètre ressemblant à un chou-fleur. La fructification se compose de nombreux lobes minces, frisés et ondulés, ou de branches aplaties partant d'une base centrale. La couleur est généralement d'un jaune plus vif à jaune doré que S. crispa. La texture est croquante à l'état frais. La base présente une structure radicante distincte qui s'enfonce profondément dans le sol pour atteindre les racines de feuillus enfouies. Les lobes sont densément frisés et serrés.",
+  "habitat": "Trouvé à la base des feuillus, notamment le chêne, rarement sur conifères. Pousse en parasite des racines sur des arbres vivants ou à partir de racines enfouies de feuillus morts. La base radicante s'enfonce profondément pour atteindre les racines. Fructifie à la base des arbres, semblant émerger du sol. Préfère les forêts de feuillus matures.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans la plupart des régions. Pic de fructification en automne. Peut revenir au même endroit plusieurs années. Nécessite un été chaud suivi de pluies d'automne.",
+  "regions": [
+    "Est de l'Amérique du Nord (peu commun)",
+    "Europe (répandu mais peu commun)",
+    "forêts tempérées de feuillus",
+    "forêts de chênes",
+    "globalement moins commun que S. crispa"
+  ],
+  "lookalikes": [
+    "Sparassis crispa (comestible) — très semblable mais sur conifères, de couleur plus pâle",
+    "Sparassis spathulata (comestible) — espèce de l'ouest, aspect semblable",
+    "Poule des bois Grifola (comestible) — rosettes gris-brun, texture différente",
+    "Aucun sosie toxique"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : Excellent champignon comestible, saveur et texture semblables à S. crispa. Très prisé là où on le trouve. La texture croquante et la saveur douce sont remarquables. Excellent dans divers plats. Nettoyer très soigneusement car la structure piège les débris. Meilleur frais et de couleur pâle. Les vieux spécimens deviennent coriaces. Bien cuire. L'aspect est distinctif, sans sosie dangereux. Peu commun mais vaut la recherche. La base radicante et l'association avec les feuillus (notamment le chêne) le distinguent de S. crispa sur conifères. Revient aux mêmes endroits quand les conditions sont favorables.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1641786.jpg",
+      "photographer": "Chitin-da-breeze",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-01",
+      "file_size_bytes": 66534,
+      "width": 640,
+      "height": 591,
+      "sha256": "bcbd753dd1d35cb3b8dcb17a2e09c8514ce77c188f0464c6f45cd12f5fb2125b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608950.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-06",
+      "file_size_bytes": 126206,
+      "width": 480,
+      "height": 640,
+      "sha256": "6cd4eb6fcfc3e41a5c6b91f561a2396b6d38cef36f550bd9a10a4c641ca84782"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.522645",
+  "source_language": "en"
+}

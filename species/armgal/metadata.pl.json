@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armgal",
+  "scientific_name": "Armillaria gallica",
+  "common_name": "opieńka żółtawa",
+  "edibility": "E",
+  "description": "Armillaria gallica ma miodowo-żółty do brązowego kapelusz (3-10 cm) z drobnymi CIEMNYMI ŁUSKAMI skoncentrowanymi w środku. Blaszki białe do kremowych, przyrośnięte. Trzon ma TRWAŁY PIERŚCIEŃ i charakterystyczną BULWIASTĄ PODSTAWĘ - nabrzmiała podstawa jest kluczową cechą rozpoznawczą odróżniającą ją od A. mellea. Trzon biały nad pierścieniem, ciemniejszy poniżej. Rośnie w GĘSTYCH KĘPACH na drewnie lub w pobliżu drzew. Miąższ biały, zwarty. Wysyp zarodników biały. Ogólnie MNIEJ AGRESYWNA jako patogen drzew niż A. mellea czy A. ostoyae, często raczej saprofit niż pasożyt.",
+  "habitat": "Saprofit i słaby pasożyt na drzewach liściastych, sporadycznie iglastych. Rośnie w kępach u podstawy martwych drzew, pniaków i zakopanego drewna. Mniej agresywna jako patogen niż inne gatunki opieńki. Występuje na dębie, klonie, buku i różnych drzewach liściastych.",
+  "season": "Od późnego lata do jesieni (sierpień-listopad), owocnikuje po deszczach.",
+  "regions": [
+    "Wschodnie Stany Zjednoczone",
+    "Środkowo-zachodnie Stany Zjednoczone",
+    "Północno-wschodnie Stany Zjednoczone",
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Armillaria mellea - bez bulwiastej podstawy, bardziej agresywny patogen",
+    "Inne gatunki opieńki - wszystkie wymagają ugotowania",
+    "Gatunki Pholiota - brązowe zarodniki, inna podstawa",
+    "Gatunki Galerina - ŚMIERTELNIE TRUJĄCE - mniejsze, brązowe zarodniki"
+  ],
+  "safety_notes": "JADALNY Z OSTROŻNOŚCIĄ: Opieńki (gatunki Armillaria) są TRUJĄCE na surowo i muszą być dokładnie ugotowane przed spożyciem. Gotować przez co najmniej 10-15 minut na dużym ogniu. Nawet prawidłowo ugotowane u niektórych osób wywołują reakcje alergiczne lub dolegliwości żołądkowe. Najpierw spróbować małej ilości, aby sprawdzić tolerancję. Obgotowanie przed gotowaniem pomaga zredukować drażniące substancje żołądkowo-jelitowe i gorzki smak. Nie spożywać z alkoholem - opieńki mogą wywoływać niepożądane reakcje w połączeniu z alkoholem (podobnie jak Coprinopsis). Zbierać tylko młode, zwarte okazy.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723298.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 37772,
+      "width": 640,
+      "height": 427,
+      "sha256": "5243f5f67facea290fb948ce30fbcf7efd93e6d534b2093aad0248a85387c1b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723299.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-05",
+      "file_size_bytes": 28588,
+      "width": 640,
+      "height": 427,
+      "sha256": "7a504c92cd99e106f7e327ed456d959a02915920b376b3f7739c1ef4a6a59a8a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

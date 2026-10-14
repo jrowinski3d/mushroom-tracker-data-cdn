@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacind",
+  "scientific_name": "Lactarius indigo",
+  "common_name": "Hongo azul",
+  "edibility": "E",
+  "description": "El hongo azul presenta un llamativo sombrero AZUL ÍNDIGO (5-15 cm), que se torna grisáceo o verdoso con la edad. Láminas azules, juntas. Pie azul. CLAVE: LÁTEX (leche) DE COLOR AZUL ÍNDIGO OSCURO al cortarlo, ¡inconfundible! El látex y la carne se tiñen lentamente de verde. Todo el hongo es azul. Esporada crema. Una de las setas más distintivas.",
+  "habitat": "Micorrícico con frondosas y PINOS en el sureste de EE. UU. y México. Crece en el suelo en bosques mixtos, de robles y pinos. Disperso o en grupos. Común en los bosques del sur.",
+  "season": "Del verano al otoño (junio-noviembre), con una larga temporada de fructificación en climas cálidos.",
+  "regions": [
+    "Sureste",
+    "Texas",
+    "México",
+    "Atlántico medio",
+    "Costa del Golfo"
+  ],
+  "lookalikes": [
+    "NINGUNA ESPECIE SIMILAR: el color azul y el látex azul son únicos"
+  ],
+  "safety_notes": "COMESTIBLE: el inconfundible COLOR AZUL ÍNDIGO y el LÁTEX AZUL hacen que la identificación sea infalible. Sabor suave, algo picante. Tiñe la comida de azul/verde, es normal. Mejor joven. Popular en México. Cocine bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721805.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 68194,
+      "width": 640,
+      "height": 427,
+      "sha256": "a2e72275996dbc2acc74b39bd093e3c70970209b21f6f919a6be24f0849b21ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721806.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 46472,
+      "width": 640,
+      "height": 427,
+      "sha256": "d1253a27350141fbac8ed1de140874ff71ffbfced03ecdfdd64cc92a14fdf6d8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

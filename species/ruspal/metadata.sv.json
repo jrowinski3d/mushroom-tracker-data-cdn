@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruspal",
+  "scientific_name": "Russula paludosa",
+  "common_name": "Storkremla",
+  "edibility": "E",
+  "description": "Storkremla har en röd till rosaröd hatt (5–15 cm), ofta bleknande. Skivorna gulaktiga. Foten vit med rosa toner. NYCKEL: RÖD HATT, GULA SKIVOR, SKÖRT KÖTT, stor storlek. Köttet vitt. Gulockra sporfällning. Mild smak.",
+  "habitat": "Bildar mykorrhiza med barrträd, särskilt tall och gran. Växer på marken i barrskog, särskilt i nordliga myrar och våta områden. Spridd.",
+  "season": "Sommar till höst (juli–september).",
+  "regions": [
+    "Nordöstra USA",
+    "Övre Mellanvästern",
+    "Kanada",
+    "Norra Europa"
+  ],
+  "lookalikes": [
+    "Andra röda kremlor – kontrollera skivfärg",
+    "Riskor – har LATEX"
+  ],
+  "safety_notes": "ÄTLIG: Mild smak. RÖD HATT + GULA SKIVOR + SKÖRT KÖTT + MILD SMAK diagnostiskt. Stek ordentligt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650964.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 28720,
+      "width": 640,
+      "height": 427,
+      "sha256": "adcc86b416cac3fab16ef0847319527a39c00df45251ce68bf29142a13aadc7a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1650965.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-27",
+      "file_size_bytes": 32172,
+      "width": 640,
+      "height": 427,
+      "sha256": "f1c71d61e7e7d71dde75bb6ea1ed0d825ca8bdb4025ac3d0a37e881d64c7d0a2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

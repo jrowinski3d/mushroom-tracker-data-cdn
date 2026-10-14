@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacro",
+  "scientific_name": "Agaricus crocodilinus",
+  "common_name": "Macro Mushroom (Agaricus crocodilinus)",
+  "edibility": "E",
+  "description": "매크로머쉬룸은 갓 지름 8-18cm의 독특한 종으로, 처음에는 둥글다가 넓게 볼록해지며 평평해진다. 갓은 흰색이며, 중심부로 갈수록 밀집된 암갈색에서 회갈색의 뒤집힌 인편이 악어 가죽 무늬를 이룬다(진단 특징). 주름살은 떨어진주름살로, 처음에는 옅은 분홍색이다가 초콜릿 갈색이 된다. 대는 높이 6-12cm로 흰색이며 매끄럽거나 미세한 인편이 있고, 큰 늘어진 턱받이가 있다. 조직은 흰색이며 서서히 황색에서 갈색으로 변색하고, 기분 좋은 아몬드-아니스 향이 난다.",
+  "habitat": "혼합 침엽수림과 활엽수림, 수림 가장자리, 성목이 있는 공원, 목재 칩이 깔린 조경 지역에서 발견된다. 부식질이 풍부한 토양과 목재 파편 위의 지상에서 자란다. 산재하거나 무리지어 자라며, 종종 소규모 군집을 이룬다. 분해 중인 유기물이 있는 지역을 선호한다.",
+  "season": "대부분 지역에서 늦여름부터 가을까지(8-11월). 캘리포니아와 온화한 기후에서는 겨울(12-2월)에도 발생할 수 있다. 따뜻한 비가 내린 뒤 가을에 가장 많이 발생한다. 수분이 일정한 해에 더 흔하다.",
+  "regions": [
+    "캘리포니아 (흔함)",
+    "태평양 북서부 (간혹)",
+    "미국 남서부",
+    "지중해성 기후",
+    "북아메리카 서부 (주로)",
+    "난온대 지역"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (식용) - 더 크고 황금갈색 인편이 많으며 아니스 향이 강함",
+    "Agaricus subrutilescens (식용) - 외형 유사하나 대 기부 와인색 착색",
+    "Agaricus moelleri (독성) - 강하게 황변하고 아니스 향 대신 페놀 냄새",
+    "대형 광대버섯류 Amanita (일부 치명적) - 기부 외피막이 있는데 Agaricus에는 없음"
+  ],
+  "safety_notes": "식용: 충분히 익히면 좋은 향미와 조직을 지닌 식용종. A. augustus보다 채집이 적지만 품질은 유사하다. 핵심 식별: 기분 좋은 아몬드-아니스 향 확인(페놀 냄새가 아님), 갓의 독특한 악어 가죽 인편 무늬, 떨어진주름살이 분홍색에서 초콜릿 갈색으로 변함, 초콜릿 갈색 포자문, 기부 외피막 없음. 강한 황변 또는 페놀 화학 냄새가 나는 개체는 피한다. 독특한 인편 무늬가 식별에 도움이 된다. 섭취 전 충분히 익힌다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634317.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 120438,
+      "width": 640,
+      "height": 480,
+      "sha256": "57a6ec9533933760d0e54c184e86a6cafa732d7772394117fe4b2ec1f09482b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634318.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 86592,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5ca0feb44040250d42aeb015502ef583b1dd53e55968d08ca16c5468222e3bb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

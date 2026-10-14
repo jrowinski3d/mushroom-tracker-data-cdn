@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laecon",
+  "scientific_name": "Laetiporus conifericola",
+  "common_name": "Chicken of the Woods (Laetiporus conifericola)",
+  "edibility": "E",
+  "description": "Jaskrawo pomarańczowa do łososiowej półka o siarkowo-żółtej powierzchni porów, tworząca duże zachodzące na siebie półki o szerokości 2–12 cali na drzewach iglastych. Wygląd podobny do L. sulphureus, ale odróżniają ją iglaste gospodarze w zachodnich górach. Miękka i soczysta, gdy młoda, twarda z wiekiem. Liczne półki tworzą rozety na pniach i kłodach drzew iglastych. Roczna półka o jaskrawych barwach.",
+  "habitat": "Pasożytniczy i saprotroficzny, konkretnie na żywych i martwych drzewach iglastych w zachodnich górach, zwłaszcza na daglezji, modrzewiu zachodnim, choinie i innych drzewach iglastych. Tworzy duże półkowe owocniki na pniach, pniakach i kłodach. Powoduje brunatną kostkową zgniliznę rdzeniową drzew iglastych. Górskie i subalpejskie lasy iglaste.",
+  "season": "Lato do jesieni w górach, zazwyczaj czerwiec–październik. Szczyt owocnikowania w lipcu–wrześniu. Pojawia się po letnich monsunach i ciepłych deszczach. Późniejsza pora niż u gatunków z niższych wysokości.",
+  "regions": [
+    "Góry Skaliste",
+    "Kaskady",
+    "Sierra Nevada",
+    "Północne Góry Skaliste",
+    "Zachodnie lasy górskie",
+    "Od Kolumbii Brytyjskiej do Nowego Meksyku"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (na drzewach liściastych, nie iglastych)",
+    "Laetiporus huroniensis (północno-wschodni, na choinie)",
+    "Inne zachodnie Laetiporus na drzewach iglastych",
+    "Jack-o'-lantern (Omphalotus) — trujący, ma blaszki, nie pory"
+  ],
+  "safety_notes": "JADALNY, gdy młody, ale OSTROŻNIE: Okazy rosnące na drzewach iglastych (w tym ten gatunek) częściej powodują dolegliwości trawienne niż te z drzew liściastych. Wiele osób zgłasza problemy żołądkowe po iglastych Laetiporus. Zbierać tylko bardzo młode, delikatne owocniki. Zacząć od bardzo małych ilości, aby sprawdzić tolerancję. Niektórzy tolerują go dobrze, inni reagują źle. Gotować dokładnie. Rozważyć unikanie przy wrażliwości na związki siarki.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1501415.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-17",
+      "file_size_bytes": 116100,
+      "width": 480,
+      "height": 640,
+      "sha256": "093b9c7196fe1d0eacd272f12dc64c4fc263bef1aad901be307393b43d28ec5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.139829",
+  "source_language": "en"
+}

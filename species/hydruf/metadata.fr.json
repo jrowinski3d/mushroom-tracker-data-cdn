@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "hydruf",
+  "scientific_name": "Hydnum rufescens",
+  "common_name": "Hydne roussissant",
+  "edibility": "E",
+  "description": "L’hydne roussissant a un chapeau brun-orange à brun rougeâtre (3-10 cm), aux tons rouille et terre cuite qui le distinguent des espèces d’Hydnum plus pâles. Le chapeau est convexe à irrégulier, avec des marges ondulées et lobées. Le dessous est couvert d’AIGUILLONS ou DENTS fragiles, pointant vers le bas, au lieu de lames ou de pores - ces aiguillons sont brun-orange à orange pâle et se détachent facilement au frottement. Le pied est brun-orange, central à excentré, souvent courbé, lisse. La chair est blanche à orange pâle, épaisse, fragile, au goût doux à légèrement poivré. Sporée blanche. Plus intensément coloré que les autres espèces d’Hydnum.",
+  "habitat": "Mycorhizien avec les feuillus et les conifères. Trouvé au sol dans les forêts mixtes, sous les chênes, hêtres, pins et épinettes. Pousse souvent dispersé ou en troupes. Préfère les sols acides et les zones moussues.",
+  "season": "De l’été à l’automne (juillet-novembre), avec un pic de fructification en automne. En Californie, peut fructifier en hiver.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie",
+    "montagnes Rocheuses",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (Pied-de-mouton) - plus pâle, crème à orange pâle",
+    "Hydnum umbilicatum (Hydne ombiliqué) - plus petit, avec un centre déprimé",
+    "Espèces de Sarcodon - plus grandes, brun plus foncé, souvent amères"
+  ],
+  "safety_notes": "COMESTIBLE : bonne saveur une fois cuit, bien que parfois légèrement plus poivré que H. repandum. Ses aiguillons/dents rouille-orange caractéristiques sous le chapeau rendent l’identification facile. Bien nettoyer, car les aiguillons retiennent les débris. Récolter de jeunes spécimens pour la meilleure qualité - les spécimens âgés peuvent développer un goût amer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/600174.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 76816,
+      "width": 640,
+      "height": 480,
+      "sha256": "167152d25d958cdd5654f38018fe7142d1a5e9270a76fecf665ade15d81da26c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/600175.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-02-05",
+      "file_size_bytes": 73398,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc1df510fa831e5533c10dcaa932758470edcd4aab203d0d412a6e16e0899091"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.645319",
+  "source_language": "en"
+}

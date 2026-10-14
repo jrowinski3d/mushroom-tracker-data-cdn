@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "hydalb",
+  "scientific_name": "Hydnum albidum",
+  "common_name": "kolczak biały",
+  "edibility": "E",
+  "description": "Kolczak biały ma czysto biały do kremowego kapelusz (3–10 cm), który z wiekiem lub po uszkodzeniu może przybierać bladożółtawe tony. Kapelusz wypukły do nieregularnego, o falistym brzegu. Spód pokryty kruchymi, skierowanymi w dół KOLCAMI lub ZĘBAMI zamiast blaszek lub porów – kolce białe do kremowych, łatwo odpadające przy potarciu. Trzon biały, centralny do mimośrodkowego, często wygięty, gładki, jędrny. Miąższ biały, gruby, kruchy, o łagodnym smaku i przyjemnym zapachu. Wysyp zarodników biały. Wyróżniany konsekwentnie jasnym ubarwieniem.",
+  "habitat": "Mikoryzowy z drzewami iglastymi, zwłaszcza sosną i świerkiem. Rośnie na ziemi w lasach iglastych i mieszanych. Często rośnie rozproszony lub w małych grupach w ściółce igielnej lub mchu. Preferuje dobrze zdrenowane gleby kwaśne.",
+  "season": "Późne lato do jesieni (wrzesień–listopad), sporadycznie do wczesnej zimy w łagodnym klimacie.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Góry Skaliste",
+    "Północny Wschód",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Hydnum repandum (kolczak obłączasty) – zazwyczaj z pomarańczowymi lub brzoskwiniowymi tonami",
+    "Gatunki Hericium – inna forma wzrostu, dłuższe kaskadowe kolce",
+    "Climacodon septentrionale – rośnie na drewnie, większe kolce"
+  ],
+  "safety_notes": "JADALNY: łagodny, przyjemny smak podobny do H. repandum. Czysto biała barwa i charakterystyczne kolce lub zeby sprawiają, że pomyłka jest mało prawdopodobna. Dokładnie czyścić, gdyż kolce zatrzymują zanieczyszczenia i igły sosnowe. Zbierać młode okazy dla najlepszej tekstury – starsze mogą nabierać lekkiej goryczki.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1601564.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 54376,
+      "width": 640,
+      "height": 477,
+      "sha256": "56293c519adfb2d25da34b960ae4f8c169e13afc2f30e0c79aa7aac919b83ce1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1601565.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-15",
+      "file_size_bytes": 38400,
+      "width": 640,
+      "height": 477,
+      "sha256": "03513469f6ff79ebad654a1dc0315f4b394e1643601683e5e1e38fd7646584f2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

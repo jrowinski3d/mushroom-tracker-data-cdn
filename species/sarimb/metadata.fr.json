@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sarimb",
+  "scientific_name": "Sarcodon imbricatus",
+  "common_name": "Hydne imbriqué",
+  "edibility": "E",
+  "description": "L'hydne imbriqué porte un grand chapeau brun (5-25 cm) couvert de GRANDES ÉCAILLES DISTINCTIVES, RELEVÉES, formant un motif hirsute et imbriqué (chevauchant) — les écailles sont brun foncé à brun noirâtre, donnant un aspect en bardeaux. Le dessous est couvert d'AIGUILLONS ou DENTS cassants, pointant vers le bas, au lieu de lames ou de pores — ces aiguillons sont grisâtres à bruns. Le pied est épais, court, brun grisâtre, lisse ou légèrement écailleux. La chair est blanchâtre à grisâtre, épaisse, ferme, au goût amer chez les vieux spécimens. Sporée brune. Bien plus grand et plus foncé que les espèces d'Hydnum.",
+  "habitat": "Mycorhizien avec les conifères, notamment le pin, l'épicéa et le sapin. Trouvé au sol dans les forêts de conifères et les forêts mixtes de montagne. Pousse souvent dispersé ou en petits groupes. Préfère les sols acides des forêts du nord et de montagne.",
+  "season": "De la fin de l'été à l'automne (août-octobre), plus tôt que de nombreuses espèces d'Hydnum.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "montagnes Rocheuses",
+    "Nord-Est",
+    "Haut-Midwest",
+    "Europe",
+    "Asie"
+  ],
+  "lookalikes": [
+    "Sarcodon scabrosus — semblable mais motif d'écailles différent",
+    "Espèces d'Hydnum — bien plus petites, plus pâles, sans grandes écailles foncées",
+    "Phaeolus schweinitzii (polypore du teinturier) — pousse sur le bois, pores et non aiguillons"
+  ],
+  "safety_notes": "COMESTIBLE JEUNE mais qualité variable — les jeunes spécimens sont doux et comestibles, mais les vieux spécimens développent un GOÛT AMER qui les rend non comestibles. Récolter uniquement des spécimens très jeunes et frais avant que l'amertume ne se développe. Les grandes écailles foncées et les aiguillons/dents sous le chapeau rendent l'identification simple. Certains trouvent même les jeunes spécimens légèrement amers. Non recommandé aux débutants en raison de la qualité variable.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1650864.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-08-26",
+      "file_size_bytes": 117182,
+      "width": 640,
+      "height": 427,
+      "sha256": "6f537228230a6ac726b46c6a6c8a104eca1164addbab69377a4c611c024578fd"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1570165.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-20",
+      "file_size_bytes": 103960,
+      "width": 640,
+      "height": 482,
+      "sha256": "29edf671ea70a2af5871958d4ba2f294dad2398b28bb2d455534b0db4a015384"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

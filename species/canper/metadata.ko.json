@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canper",
+  "scientific_name": "Cantharellus persicinus",
+  "common_name": "Peach Chanterelle (Cantharellus persicinus)",
+  "edibility": "E",
+  "description": "복숭아꾀꼬리버섯은 너비 2~8cm의 독특한 복숭아색에서 옅은 분홍빛 주황색 또는 연어색의 갓을 가지며 표면은 매끄럽고 약간 벨벳 같다. 갓은 나이가 들면 얕게 깔때기 모양이 되고 가장자리는 물결 모양으로 불규칙하다. 아랫면에는 뭉툭하고 얕으며 갈라진 주름(진짜 주름살이 아님)이 있고 옅은 복숭아색에서 분홍빛 크림색이며 간격이 넓고 대를 따라 흘러내린다. 많은 꾀꼬리버섯보다 주름이 덜 뚜렷하다. 대는 속이 차 있고 높이 2~6cm, 매끄러우며 흰색에서 옅은 복숭아색이다. 살은 흰색에서 옅은 크림색이며 단단하고 순한 냄새가 난다. 포자문은 흰색에서 옅은 크림색이다.",
+  "habitat": "남동부 활엽수, 특히 참나무 종(특히 물참나무, 버드나무참나무), 미국풍나무, 히코리와 균근공생한다. 남동부 해안 평야 전역의 저지대 활엽수림, 혼합 소나무-활엽수림, 하천변 지역에서 발견된다. 습하고 모래질 토양과 시냇가 근처 지역을 선호한다.",
+  "season": "여름(6월~9월), 여름에 비가 많이 내린 뒤 따뜻하고 습한 시기에 자실체를 낸다. 최성기는 분포역 대부분에서 보통 7월~8월이다. 북부 꾀꼬리버섯 종보다 더위와 습기에 강하다.",
+  "regions": [
+    "미국 남동부",
+    "조지아주와 플로리다주",
+    "캐롤라이나",
+    "걸프 연안 주들 (앨라배마, 미시시피, 루이지애나)",
+    "동부 텍사스"
+  ],
+  "lookalikes": [
+    "Cantharellus lateritius - 식용 가능, 더 주황분홍색, 크고 주름이 더 뚜렷하며 분포역 겹침",
+    "Cantharellus cinnabarinus - 식용 가능, 더 밝은 적분홍색, 작으며 그 외 비슷",
+    "거짓꾀꼬리버섯 (Hygrophoropsis aurantiaca) - 독성은 없으나 품질이 떨어짐, 얇은 진짜 주름살, 더 주황색"
+  ],
+  "safety_notes": "식용 가능: 복숭아꾀꼬리버섯은 섬세한 복숭아색이 눈에 띄는 순한 맛의 좋은 식용 버섯이다. 모든 꾀꼬리버섯과 마찬가지로 핵심 동정 특징은 아랫면의 뭉툭하고 갈라진 주름으로, 밀랍 같은 촉감이며 갓에 붙어 있어 진짜 주름살이 아니다. 옅은 복숭아색과 남동부 분포가 다른 종과의 구분에 도움이 된다. 반드시 나무와 함께 토양에서 자라는지, 목재에서 자라지 않는지 확인하십시오. 맛은 순하고 기분 좋으며, 볶거나 다른 버섯과 함께 쓰는 것이 가장 좋다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1635909.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 56958,
+      "width": 640,
+      "height": 480,
+      "sha256": "7295ac8a4866890ab9982a94efb79501e768eda92f96bfd934a0855c793bf63f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1635910.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-13",
+      "file_size_bytes": 100608,
+      "width": 640,
+      "height": 480,
+      "sha256": "083c35ad5ed2b794d2310fc1d0b2f49737ee54427726dcdaf35b78ec102e55fb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

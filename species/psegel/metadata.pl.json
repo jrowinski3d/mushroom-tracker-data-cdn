@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "psegel",
+  "scientific_name": "Pseudohydnum gelatinosum",
+  "common_name": "Toothed Jelly Fungus (Pseudohydnum gelatinosum)",
+  "edibility": "E",
+  "description": "Jest to niezwykły grzyb łączący cechy grzybów kolczastych i galaretowatych. Kapelusz szerokości 2–8 cm, łopatkowaty lub wachlarzowaty, półprzezroczysty, szarobiały do jasnobrązowego, o galaretowatej konsystencji. Górna powierzchnia gładka i galaretowata. Spód pokryty miękkimi, białymi kolcami (długości 0,5–3 mm) zamiast blaszek czy porów. Trzon boczny (niesymetryczny) lub nieobecny, 1–4 cm, gdy występuje. Konsystencja gumowato-galaretowata, jędrna, lecz półprzezroczysta, ożywająca po zwilżeniu po wyschnięciu.",
+  "habitat": "Występuje na dobrze zbutwiałych kłodach i pniakach iglastych, zwłaszcza cykuty, świerka, jodły i sosny. Rośnie na bardzo rozłożonym drewnie w zaawansowanych stadiach rozkładu. Powszechna w górskich lasach iglastych. Owocuje rozproszona do gromadnie, często w nakładających się grupach na kłodach. Preferuje chłodne, wilgotne lasy z obfitością zdrewniałych szczątków.",
+  "season": "Późne lato do jesieni (sierpień–listopad) w regionach górskich. W północno-zachodnim Pacyfiku i na obszarach przybrzeżnych może owocować aż do zimy (grudzień–styczeń). Szczyt owocowania przypada na jesień, w chłodną, wilgotną pogodę. Wymaga stałej wilgotności i chłodnych temperatur.",
+  "regions": [
+    "Północno-Zachodni Pacyfik (bardzo powszechna)",
+    "Góry północnej Kalifornii",
+    "Góry Skaliste",
+    "Północno-Wschodnia Ameryka Północna",
+    "Europa (szeroko rozpowszechniona)",
+    "Północne umiarkowane lasy iglaste na całym świecie"
+  ],
+  "lookalikes": [
+    "Phlebia tremellosa (niejadalna) – galaretowata, lecz bez kolców, ze zmarszczkami i fałdami",
+    "Gatunki Hericium (jadalne) – białe kolce, lecz jędrny miąższ, nie galaretowaty",
+    "Gatunki Tremella (jadalne) – mózgowate, bez kolców",
+    "Brak trujących gatunków podobnych"
+  ],
+  "safety_notes": "JADALNA, lecz nie wyborna: Uznawana za jadalną i bezpieczną do spożycia, lecz mało smaczna i o nietypowej konsystencji. Galaretowata, a zarazem kolczasta budowa czyni ją bardziej ciekawostką niż pożywieniem. Można gotować w zupach lub smażyć. Nie istnieją trujące gatunki podobne. Połączenie półprzezroczystego, galaretowatego kapelusza i białych kolców jest absolutnie charakterystyczne – żaden inny grzyb nie łączy tych cech. Bezpieczna do spróbowania, lecz większość grzybiarzy ją omija. Ciekawsza z punktu widzenia mykologii niż kulinariów. Galaretowata konsystencja i kolce są nie do pomylenia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707931.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 91868,
+      "width": 640,
+      "height": 482,
+      "sha256": "72de83a7606453350317a3d488438eccdafd5baf9faeb58d71c3f4935958b6c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1701347.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 86236,
+      "width": 640,
+      "height": 640,
+      "sha256": "3e50e22dcbd0ebbd8f8a4e4295c0ddd6857f8b0efff85aec3b0eb890769555cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

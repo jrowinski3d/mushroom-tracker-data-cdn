@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "mersum",
+  "scientific_name": "Meripilus sumstinei",
+  "common_name": "Black-staining Polypore (Meripilus sumstinei)",
+  "edibility": "E",
+  "description": "Stor sammansatt rosett, 20–60+ cm bred, bestående av många överlappande solfjäderformade hattar på 5–15 cm som växer från en central bas. Blekt beige till bruna hattar som SVARTNAR vid tryck eller med åldern – ett diagnostiskt tecken. Vit till krämfärgad porsyta som också svartnar. Mjuk och svampig konsistens. Kan väga 5–15+ kg. Karakteristisk svart missfärgning.",
+  "habitat": "Saprofytisk och parasitisk vid basen av levande och döda lövträd, särskilt ek, lönn, bok och alm. Orsakar vitröta i rötter och nedre stam. Bildar stora rosetter vid trädbaser, stubbar och nedgrävda rötter. Vanlig i mogna lövskogar och stadsmiljöer.",
+  "season": "Sensommar till höst, vanligtvis juli–oktober. Högsäsong i augusti–september. Kan frukta flera gånger per säsong. Rikligast i sensommar. Ofta på samma plats årligen.",
+  "regions": [
+    "Östra Nordamerika",
+    "Mellanvästern",
+    "Sydöstra USA",
+    "Området kring Stora sjöarna",
+    "Stillahavsnordväst",
+    "Utbredd över Nordamerika"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (gråbrun, svartnar inte, annan hattarrangemang)",
+    "Bondarzewia berkeleyi (ljusare, större hattar, svartnar inte snabbt)",
+    "Andra stora tickrosetter (svartnar inte vid hantering)",
+    "Polyporus umbellatus (mindre, annan struktur)"
+  ],
+  "safety_notes": "ÄTLIG när den är mycket ung men inte eftertraktad: Endast möra unga exemplar är ätliga i konsistens – äldre blir sega och bittra. Den snabba svarta missfärgningen vid beröring är karakteristisk men påverkar inte ätligheten hos unga exemplar. Måste tillagas ordentligt. Generellt inte eftertraktad på grund av medelmåttig smak och tendens att orsaka magbesvär hos vissa personer. Skörda endast mycket unga, vita, möra delar. Det finns bättre ätliga tickor.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688474.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 86536,
+      "width": 482,
+      "height": 640,
+      "sha256": "d11d8bcfd4625365125d32a50af1e5f58bde58d9859e3f55d5d9057146549163"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688475.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-27",
+      "file_size_bytes": 89766,
+      "width": 482,
+      "height": 640,
+      "sha256": "14784a9de79f16b8dd7a16e1acd87da31b87a5c26de5c66af1759e7beaa1afac"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "laccor",
+  "scientific_name": "Lactifluus corrugis",
+  "common_name": "Corrugated Milk Cap (Lactifluus corrugis)",
+  "edibility": "E",
+  "description": "주름지거나 골이 진 표면이 독특한 대형 주황갈색 갓(7~20cm) — 물결 모양 능선 같다. 주름살은 크림색, 촘촘하고 갈색으로 변색된다. 대는 비슷한 색. 핵심: 풍부한 흰색 유즙, 비린내. L. volemus보다 크고 갓이 깊게 주름져 있다. 살은 흰색. 포자문은 흰색.",
+  "habitat": "활엽수, 특히 참나무와 균근성. 활엽수림의 지면에서 자란다. 미국 동부에 흔하다. 흩어지거나 무리 지어 발생.",
+  "season": "여름부터 가을(7월~10월).",
+  "regions": [
+    "미국 동부",
+    "중서부",
+    "남동부"
+  ],
+  "lookalikes": [
+    "Lactifluus volemus - 더 작고 덜 주름짐"
+  ],
+  "safety_notes": "최상급 식용: 비린내에도 불구하고 훌륭한 맛(조리하면 사라진다). 주름진 갓 + 풍부한 유즙 + 비린내가 진단적이다. 충분히 조리하라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698325.jpg",
+      "photographer": "dario.z",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 122254,
+      "width": 480,
+      "height": 640,
+      "sha256": "692c751c0f7b578b5283dc38ec6b8e88391b67c08f3879050ef1e5676a8237a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698326.jpg",
+      "photographer": "dario.z",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 122904,
+      "width": 480,
+      "height": 640,
+      "sha256": "fad6dc37c33462b4af2a055c8df7190997ef5e83ba113c2c78eb8f44f6bc00f8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "rusbre",
+  "scientific_name": "Russula brevipes",
+  "common_name": "Short-stemmed Russula (Russula brevipes)",
+  "edibility": "E",
+  "description": "La rúsula de pie corto tiene el sombrero blanco (de 5 a 20 cm), que se vuelve en forma de embudo. Láminas blancas, apretadas. Pie corto, grueso, blanco. CLAVE: CARNE QUEBRADIZA COMO TIZA (se parte como la tiza), SIN LÁTEX. Seta blanca grande. A menudo parcialmente enterrada. Carne blanca. Esporada blanca. Sabor de suave a ligeramente picante.",
+  "habitat": "Micorrícica con CONÍFERAS en el oeste de Norteamérica, especialmente pino, abeto y abeto de Douglas. Crece en el suelo, a menudo parcialmente enterrada. Común en los bosques del Pacífico Noroeste. De forma dispersa o en grupos.",
+  "season": "Otoño (septiembre-noviembre), fructificando tras las lluvias.",
+  "regions": [
+    "Pacífico Noroeste",
+    "California",
+    "Montañas Rocosas",
+    "Columbia Británica"
+  ],
+  "lookalikes": [
+    "Russula cascadensis — rúsula blanca similar",
+    "Especies de Lactarius — tienen LÁTEX",
+    "Amanitas blancas — tienen volva"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave cuando está cocinada. CARNE QUEBRADIZA + SIN LÁTEX la distingue de Lactarius. Gran tamaño. Prueba de sabor (morder y escupir): los ejemplares suaves son comestibles, los picantes no son comestibles. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 90422,
+      "width": 640,
+      "height": 427,
+      "sha256": "44daff7dcc494859d60cae368d1e47333f09a941ecd76444e2ef69ebc8c07ef9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720877.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 62368,
+      "width": 640,
+      "height": 427,
+      "sha256": "05b48730e8c844ff2516b290e6be0217096360c670b60ba6c9feda8b36789d5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

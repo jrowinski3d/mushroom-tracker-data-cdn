@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cansub",
+  "scientific_name": "Cantharellus subalbidus",
+  "common_name": "Chanterelle blanche",
+  "edibility": "E",
+  "description": "La Chanterelle blanche possède un chapeau blanc à crème ou beige pâle de 4 à 15 cm de large, prenant parfois des tons jaunâtres avec l'âge ou au toucher. Le chapeau est lisse, devenant profondément en entonnoir à maturité, avec une marge ondulée et irrégulière souvent relevée. Le dessous présente des plis épais, obtus et fourchus (PAS de vraies lames), blancs à crème, espacés, nettement décurrents sur le pied. Le pied est plein, trapu, de 3 à 12 cm de haut, blanc à crème, souvent robuste et en forme de massue. La chair est blanche, très ferme, avec une odeur douce à légèrement fruitée. La sporée est blanche à crème pâle.",
+  "habitat": "Mycorhizienne principalement avec les conifères du Pacifique Nord-Ouest, notamment le douglas, la pruche de l'Ouest, l'épinette de Sitka et les vrais sapins. Présente dans les forêts de conifères côtières et montagnardes, souvent dans les zones à épaisse mousse et litière. Préfère les pentes bien drainées et les forêts matures.",
+  "season": "De l'automne à l'hiver (septembre à février), fructifiant avec l'arrivée des pluies d'automne et se poursuivant pendant la saison humide. La récolte maximale a généralement lieu d'octobre à janvier. L'une des chanterelles les plus tardives du Pacifique Nord-Ouest.",
+  "regions": [
+    "Pacifique Nord-Ouest (Washington, Oregon, Californie du Nord)",
+    "Colombie-Britannique",
+    "chaîne des Cascades",
+    "Oregon et Washington côtiers",
+    "montagnes de la Sierra Nevada (Californie du Nord)"
+  ],
+  "lookalikes": [
+    "Cantharellus californicus — comestible, couleur blanche semblable mais se tache de brun/orangé, plus au sud avec les chênes",
+    "Cantharellus cascadensis — comestible, jaune pâle à crème, altitude plus élevée, très semblable",
+    "Espèces d'Hygrophorus (hygrophores) — comestibles, possèdent de vraies lames cireuses mais distinctes, texture différente"
+  ],
+  "safety_notes": "COMESTIBLE : la Chanterelle blanche est un excellent champignon comestible, prisé pour sa saveur douce et sa chair ferme. Comme toutes les chanterelles, le critère d'identification essentiel est constitué par les plis épais, obtus et fourchus, au toucher cireux et soudés à la chair du chapeau, et non par les lames fines en forme de lames de couteau des autres champignons. Sa coloration blanche à crème la rend distinctive parmi les chanterelles mais exige une attention particulière à la structure des plis pour une identification certaine. Vérifiez toujours qu'elle pousse dans le sol près des conifères. Saveur douce et délicate ; excellente poêlée ou dans les plats à base de crème.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725764.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 88178,
+      "width": 640,
+      "height": 454,
+      "sha256": "7f20af0347d62bca6726dc4dc738619761e24a7bcf1250253d9eeb233018e452"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691129.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 77272,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7976d4f0fbe820123466bd7948e5178f42fe36f78897f041037ab93c8216cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

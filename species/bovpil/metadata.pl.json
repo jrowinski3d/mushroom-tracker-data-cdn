@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bovpil",
+  "scientific_name": "Bovista pila",
+  "common_name": "Tumbling Puffball (Bovista pila)",
+  "edibility": "E",
+  "description": "Małe, kuliste purchawki o średnicy 2,5–6,5 cm, wyglądające jak białe kulki w trawie. Gładka, biała powłoka zewnętrzna, która w dojrzałości łuszczy się, odsłaniając cienką, papierową, brązową powłokę wewnętrzną. BRAK płonnej podstawy – jedynie mały punkt przyczepu, który łatwo się odrywa. Wnętrze czysto białe, gdy jadalne, z czasem oliwkowobrązowe. Dojrzałe owocniki swobodnie toczą się na wietrze, rozsiewając zarodniki. Otwierają się nieregularnymi pęknięciami.",
+  "habitat": "Grzyb saprotroficzny, rosnący na otwartych terenach trawiastych: pastwiskach, łąkach, trawnikach, w parkach, na polach golfowych i preriach. Preferuje niską trawę i tereny zaburzone. Często w kręgach lub rozproszonych grupach. Pospolity na suchych łąkach i zadbanych trawnikach.",
+  "season": "Późne lato do jesieni, zwykle sierpień–październik. Szczyt owocowania we wrześniu. Dojrzałe owocniki utrzymują się przez zimę jako brązowe „toczeńce”. Owocuje po późnoletnich deszczach.",
+  "regions": [
+    "Wielkie Równiny i prerie",
+    "Środkowy Zachód",
+    "zachodnie tereny trawiaste",
+    "górskie parki i łąki",
+    "szeroko rozpowszechniony w Ameryce Północnej",
+    "kosmopolityczny na terenach trawiastych"
+  ],
+  "lookalikes": [
+    "Inne gatunki Bovista (podobne, większość jadalna, gdy wnętrze białe)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory (ZAWSZE PRZEKRÓJ NA PÓŁ – w środku będą widoczne rozwijające się blaszki/kapelusz)",
+    "Małe gatunki Lycoperdon (mają płonną podstawę, inne siedlisko)",
+    "Gatunki Scleroderma (trujące, fioletowoczarne wnętrze, gruba brodawkowata powłoka)"
+  ],
+  "safety_notes": "JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przekrój owocnik całkowicie na pół przed spożyciem. Jadalny WYŁĄCZNIE, gdy wnętrze jest w całości czysto białe i jędrne. Jeśli w środku widoczne są jakiekolwiek oliwkowe, żółte, brązowe zabarwienia lub rozwijające się struktury, NIE JEDZ. Zapobiega to spożyciu trujących gatunków podobnych oraz młodych, śmiertelnie trujących muchomorów. Brak płonnej podstawy i tocząca się dojrzała forma ułatwiają identyfikację. Najlepszy, gdy bardzo młody i mały. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1746457.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-03-01",
+      "file_size_bytes": 39098,
+      "width": 640,
+      "height": 509,
+      "sha256": "31162c2df8adcc2b01da99e1297c38a85e8e0af2a48959a1b16d120868a42a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1746458.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-03-01",
+      "file_size_bytes": 32340,
+      "width": 640,
+      "height": 492,
+      "sha256": "25111fbe5c2a2dd4f4425e29c649c266d6e9015be4c80a62c8e072f9e254fc2c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

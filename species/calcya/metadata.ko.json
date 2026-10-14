@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calcya",
+  "scientific_name": "Calvatia cyathiformis",
+  "common_name": "Purple-spored Puffball (Calvatia cyathiformis)",
+  "edibility": "E",
+  "description": "높이 7~20cm, 너비 5~15cm의 중대형 말불버섯으로, 뒤집힌 배, 팽이, 꽃병 모양이며 아래 절반을 차지하는 두껍고 뚜렷한 불임대가 있다. 겉은 흰색에서 회갈색이며 나이가 들면 자주갈색이 된다. 속은 식용 가능한 시기엔 순백색이며 성숙하면 자주갈색 포자 덩어리가 된다. 포자가 흩날린 뒤에도 남는 컵 모양 불임대가 특징이다.",
+  "habitat": "초원, 목초지, 초지, 잔디밭, 밭, 탁 트인 숲에서 부생한다. 토양이 비옥한 교란 지역을 선호한다. 공원, 골프장, 길가, 농경지에서 흔하다. 종종 고리 모양이나 흩어진 무리로 난다.",
+  "season": "늦여름부터 가을, 보통 8월~10월. 늦여름 비가 내린 뒤 9월에 최성기. 기후가 온화하면 11월까지 나타날 수 있다.",
+  "regions": [
+    "북아메리카 동부",
+    "중서부와 그레이트플레인스",
+    "태평양 연안",
+    "캐나다 남부",
+    "북아메리카 전역에 널리 분포",
+    "전 세계적 분포"
+  ],
+  "lookalikes": [
+    "불임대가 있는 기타 Calvatia 종 (속이 흰색일 때 식용 가능성 비슷)",
+    "치명적: 어린 광대버섯(Amanita) 단추 모양 자실체 (반드시 잘라 확인하십시오 - 내부에 발달 중인 주름살/갓이 보입니다)",
+    "Scleroderma 종/댕기버섯 (독성, 처음부터 자주검은 속, 불임대 없음)",
+    "Handkea (Calvatia) excipuliformis (거의 동일, 식용 가능성 같음)"
+  ],
+  "safety_notes": "속이 완전히 흰색일 때만 식용 가능: 중요 - 섭취 전 반드시 표본을 위에서 아래까지 완전히 반으로 잘라 확인하십시오. 속이 전체적으로 완전히 순백색이고 단단할 때만 식용 가능합니다. 자주색, 노란색, 갈색 기운이나 발달 중인 구조물이 조금이라도 보이면 절대로 먹지 마십시오. 성숙한 자주갈색 포자는 무해하나 식용할 수 없습니다. 이 절단 규칙은 독성 유사종과 미성숙한 치명적 광대버섯을 먹는 것을 막아줍니다. 오래 남는 컵 모양 밑동이 독특합니다. 흰색일 때 충분히 익히십시오.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699011.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 81978,
+      "width": 640,
+      "height": 480,
+      "sha256": "08eb68f45de38ccaf4d9a4033e068336d755458b634870abe6fe2568f29cefde"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699012.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 79784,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec43de6f829e776db61ff6efc95aa3911da73444fbdc60655ed8c16da167bab"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

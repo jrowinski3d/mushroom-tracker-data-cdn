@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "rusves",
+  "scientific_name": "Russula vesca",
+  "common_name": "Russule coquette",
+  "edibility": "E",
+  "description": "La Russule coquette a un chapeau brun rosé à lie-de-vin (5 à 12 cm), souvent avec un centre plus foncé. La marge du chapeau présente des STRIES RADIALES (sillons). Lames blanches à crème. Pied blanc, teinté de rose. CLÉ : CHAIR CASSANTE CRAIEUSE, PAS DE LATEX, GOÛT DOUX, cuticule pelable. Chair blanche. Sporée blanche.",
+  "habitat": "Mycorhizienne avec les feuillus, surtout le chêne et le hêtre. Pousse au sol dans les forêts de feuillus. Espèce européenne, commune. En groupes ou dispersée.",
+  "season": "De l'été à l'automne (juillet-octobre).",
+  "regions": [
+    "Europe",
+    "est des États-Unis (introduite)"
+  ],
+  "lookalikes": [
+    "Autres russules rosâtres — vérifier le goût",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : excellente saveur douce. CHAPEAU ROSE + CHAIR CASSANTE + GOÛT DOUX + CUTICULE PELABLE : diagnostique. Très appréciée en Europe. Le test de goût confirme. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634353.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 56956,
+      "width": 640,
+      "height": 480,
+      "sha256": "94747d722675afcfef23d7474d503248e46f104e75083906f9b38a86977ef31a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634354.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 68208,
+      "width": 640,
+      "height": 480,
+      "sha256": "60eec0c2e05b5d829333d3b1b3529dbe6ad45777398c60d361ec1443034bf2d1"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

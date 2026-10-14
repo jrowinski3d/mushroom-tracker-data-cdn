@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "plepop",
+  "scientific_name": "Pleurotus populinus",
+  "common_name": "Aspen Oyster (Pleurotus populinus)",
+  "edibility": "E",
+  "description": "Sombreros en forma de abanico o de ostra de 5 a 15 cm de ancho, de color blanco a crema o beige pálido, a veces con tonos grisáceos. Superficie lisa, con láminas blancas decurrentes y pie lateral corto o ausente. Se distingue por su marcada preferencia por el álamo temblón (Populus tremuloides) y los chopos (especies de Populus). Crece en grupos densos y superpuestos. Esporada blanca.",
+  "habitat": "Saprobio, específicamente sobre álamos temblones (Populus tremuloides), chopos (especies de Populus) y ocasionalmente otros chopos, muertos o moribundos. Forma repisas densas en grupos sobre troncos, tocones y árboles muertos en pie. Fuertemente asociado a las especies de Populus en regiones montañosas y del norte.",
+  "season": "Desde finales de primavera hasta el otoño, con fructificación máxima en mayo-octubre. Más común a principios de verano. Fructifica tras las lluvias de primavera en los sotos de álamos temblones y las riberas de chopos.",
+  "regions": [
+    "Montañas Rocosas",
+    "Pacífico Noroeste",
+    "Llanuras del Norte",
+    "Oeste Intermontano",
+    "oeste de Norteamérica",
+    "norte de Norteamérica"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (más oscuro, en una gama más amplia de frondosas)",
+    "Pleurotus pulmonarius (casi idéntico, pero en otros árboles hospedadores)",
+    "Alas de ángel (Pleurocybella porrigens) — tóxica, de blanco puro, solo en coníferas",
+    "Hypsizygus ulmarius (pie más central, en olmo)"
+  ],
+  "safety_notes": "COMESTIBLE: seta comestible buena, de sabor suave, similar a las setas ostra cultivadas. Cocinar bien antes de comer. Segura cuando está correctamente identificada. La fuerte asociación con los álamos temblones y los chopos es una útil característica de identificación. Recolectar ejemplares jóvenes y frescos para obtener la mejor calidad.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1671361.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 92202,
+      "width": 480,
+      "height": 640,
+      "sha256": "ab584c44a19e8be388c08b68b220b44f70bc572f672fa8c98da3dabd01292b21"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1671362.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-05-26",
+      "file_size_bytes": 117926,
+      "width": 480,
+      "height": 640,
+      "sha256": "22e8f7ab52e7e0940cd7a073638fcdbbe292e5e914ef1dc3e769d327b0c6e10e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

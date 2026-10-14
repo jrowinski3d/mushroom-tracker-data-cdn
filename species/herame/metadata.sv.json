@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "herame",
+  "scientific_name": "Hericium americanum",
+  "common_name": "Bear's Head Tooth (Hericium americanum)",
+  "edibility": "E",
+  "description": "Har en vit, grenad struktur som bildar en stor klunga (15–40 cm bred) med flera KORTA GRENAR som vardera bär klungor av hängande TAGGAR på undersidorna. Huvudstrukturen består av tjocka, köttiga grenar med taggar (0,5–2 cm långa) som växer endast på grenarnas undersidor, inte runt om. Taggarna är vita som färska och gulnar med åldern. Hela fruktkroppen sitter fast i veden på en enda punkt. Köttet är vitt, fast, med mild smak. Skiljs från H. erinaceus genom sin grenade uppbyggnad och från H. coralloides genom kortare, tjockare grenar med taggar endast undertill.",
+  "habitat": "Saprob på lövträd, särskilt ek, bok och lönn. Växer på döda eller döende stående träd, stockar och stubbar. Fruktsätter vanligen från sår eller rötahåligheter. Inte mykorrhizabildande. Uppträder vanligen ensam på ett träd.",
+  "season": "Sensommar till höst (augusti–november), ibland in på tidig vinter.",
+  "regions": [
+    "Östra USA",
+    "Mellanvästern",
+    "Sydöstra USA",
+    "Klippiga bergen"
+  ],
+  "lookalikes": [
+    "Hericium erinaceus (igelkottstaggsvamp) – ogrenad tofsstruktur",
+    "Hericium coralloides (koralltaggsvamp) – rikt förgrenad, taggar runt hela grenarna",
+    "Hericium abietis – växer på barrträd, mer kompakt förgrening"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt smak, liknande H. erinaceus, med mild, söt, skaldjurslik smak. Inga giftiga förväxlingsarter tack vare det utmärkande vita taggiga utseendet. Bäst som färsk och kritvit – gulning tyder på ålder. Rensa försiktigt för att få bort skräp från taggarna. Den grenade uppbyggnaden skiljer den från den kompakta igelkottstaggsvampen.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-04",
+      "file_size_bytes": 57254,
+      "width": 640,
+      "height": 482,
+      "sha256": "4ac9fe480e1a633010363f9ec99b70d933e57e90422bb5dab4a766109be5c41d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705306.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 32562,
+      "width": 640,
+      "height": 482,
+      "sha256": "e4f44d924b5441615ed855220bb55bdb42da4c4d242252f2b659c11ab0418b19"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

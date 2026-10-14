@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cracor",
+  "scientific_name": "Craterellus cornucopioides",
+  "common_name": "검은나팔버섯",
+  "edibility": "E",
+  "description": "검은나팔버섯(풍요의 뿔)은 짙은 회색에서 검은색의 깊이 깔때기 모양 또는 나팔 모양 자실체가 특징이며, 높이 3–12cm, 윗부분 너비 2–8cm이다. 갓은 물결 모양의 불규칙한 형태이며 얇고 위로 들린 가장자리를 가진다. 안쪽 표면은 짙은 회색에서 검은색이며 매끄럽거나 약간 인편이 있다. 바깥쪽(포자 형성) 표면은 매끄럽거나 약간 주름져 있으며 회색에서 회갈색이고, 주름이나 주름살이 전혀 없다. 자실체 전체가 나팔처럼 위에서 아래까지 속이 비어 있다. 살은 얇고, 마르면 부서지기 쉬우며 신선할 때는 탄력이 있고 짙은 회색이다. 포자문은 흰색에서 옅은 크림색이다.",
+  "habitat": "활엽수, 특히 미국너도밤나무, 참나무, 자작나무와 균근 공생한다. 성숙한 활엽수림, 종종 이끼 낀 지역이나 시냇가 근처에서 발견된다. 산림 바닥에 흩어지거나 대형 무리로 자라며, 낙엽층 속에 위장되어 있다. 비옥하고 습한 토양을 선호한다.",
+  "season": "여름에서 가을(7–11월)이며, 대부분 지역에서 절정은 8–10월이다. 매년 같은 장소에서 발생하는 경우가 많다. 비가 온 뒤 풍부하게 발생할 수 있다.",
+  "regions": [
+    "북미 동부(널리 분포)",
+    "미국 북동부",
+    "애팔래치아 지역",
+    "오대호 지역",
+    "태평양 북서부(덜 흔함)",
+    "유럽(분포함)"
+  ],
+  "lookalikes": [
+    "Craterellus fallax — 식용, 매우 유사하나 더 갈색, 다른 지역에 분포, 본질적으로 같은 용도",
+    "Craterellus foetidus — 식용, 유사하나 말리면 악취, 그 외 거의 동일",
+    "Urnula craterium(악마의 항아리) — 불가식, 나팔 모양이 아닌 컵 모양, 목재에서 자람, 고무 같은 조직"
+  ],
+  "safety_notes": "최상급 식용: 검은나팔버섯은 풍부하고 훈제 같은 풍미로 유명한 가장 귀한 야생 버섯 중 하나이다. 검은 외관에도 불구하고 완전히 안전하고 맛있다. 독특한 나팔 모양, 속이 빈 내부, 주름살이나 주름이 없다는 점 덕분에 무엇을 찾아야 하는지 알면 비교적 동정하기 쉽다. 그러나 짙은 색 때문에 산림 바닥에서 발견하기 매우 어렵다 — 낙엽층과 그림자에 섞인다. 신선하게도 말려서도 훌륭하며, 건조하면 풍미가 강화된다. 유독 유사종이 없다. 소화가 약간 안 되는 사람도 있으므로 충분히 익혀라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590146.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-06",
+      "file_size_bytes": 96024,
+      "width": 640,
+      "height": 482,
+      "sha256": "6a964ee7a7c9010355eb71cea4562ffaff2b0e228eb4a224b377695fce86c317"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.178989",
+  "source_language": "en"
+}

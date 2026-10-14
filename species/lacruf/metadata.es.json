@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacruf",
+  "scientific_name": "Lactarius rufus",
+  "common_name": "Red Hot Milk Cap (Lactarius rufus)",
+  "edibility": "U",
+  "description": "El níscalo rojo picante presenta un sombrero de color pardo-rojizo a rojizo (4-10 cm) con un distintivo pequeño umbo central (pezón). La superficie del sombrero es seca, lisa a ligeramente aterciopelada. Las láminas son de crema a rosado pálido, adheridas, apretadas. El pie es de color similar al sombrero, liso, hueco. El RASGO CLAVE es el abundante LÁTEX BLANCO (leche) que brota al cortarlo o romperlo; este látex es EXTREMADAMENTE ACRE y de sabor picante. El látex no cambia de color. La carne es pálida, frágil. Esporada de blanca a crema. El látex acre es comparable al picor del chile habanero.",
+  "habitat": "Micorrícico con CONÍFERAS, especialmente pinos y píceas. Crece en el suelo en bosques de coníferas y mixtos, a menudo en suelos ácidos y musgo esfagno. Común en los bosques de coníferas del norte. Prefiere zonas húmedas y pantanosas.",
+  "season": "Del verano al otoño (julio-octubre), fructificando durante toda la temporada.",
+  "regions": [
+    "Noreste",
+    "Pacífico Noroeste",
+    "Alto Medio Oeste",
+    "Montañas Rocosas",
+    "Canadá",
+    "norte de Europa"
+  ],
+  "lookalikes": [
+    "Otras especies de Lactarius: pruebe el sabor del látex para distinguirlas (muerda y escupa: suave frente a acre)",
+    "Russula emetica: color rojo similar pero SIN LÁTEX, carne quebradiza",
+    "Lactarius hepaticus: similar pero pardo más oscuro, igualmente acre"
+  ],
+  "safety_notes": "NO COMESTIBLE: Lactarius rufus, conocido como níscalo rojizo o Red Hot Milk Cap, tiene una leche (látex) de sabor extremadamente picante y acre que brota al cortarlo, descrita como la más picante de todas las especies de Lactarius, comparable al picor del chile habanero. Aunque tiene usos culinarios tradicionales en algunos países del norte de Europa tras una preparación extensa, las guías de campo occidentales lo clasifican universalmente como no comestible debido a su sabor intensamente acre y picante. Se sospecha que es ligeramente venenoso si se consume crudo o mal preparado. No se recomienda su consumo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722544.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 41822,
+      "width": 640,
+      "height": 427,
+      "sha256": "60bf73eba948d84dc255c36c3d8f6481b283df81d56eaee0f65fac3c49ff7337"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722545.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 37488,
+      "width": 640,
+      "height": 427,
+      "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "ruscas",
+  "scientific_name": "Russula cascadensis",
+  "common_name": "Каскадна сироїжка (Russula cascadensis)",
+  "edibility": "E",
+  "description": "Каскадна сироїжка має білу шапинку (5–15 см), з віком жовтіє. Пластинки білі, густі. Ніжка біла, товста. КЛЮЧОВІ ОЗНАКИ: ЛАМКА М'ЯКОТЬ, БЕЗ МОЛОЧНОГО СОКУ, великий білий гриб, Тихоокеанський північний захід. М'якоть біла. Споровий відбиток білий. Смак м'який.",
+  "habitat": "Мікоризний з ХВОЙНИМИ деревами Тихоокеанського північного заходу, особливо з псевдотсугою, тсугою, справжніми ялицями. Росте наземно в хвойних лісах. Регіональний ендемік. Росте розрізнено або групами.",
+  "season": "Восени (вересень–листопад), плодоносить після осінніх дощів.",
+  "regions": [
+    "Тихоокеанський північний захід",
+    "Британська Колумбія",
+    "Північна Каліфорнія"
+  ],
+  "lookalikes": [
+    "Russula brevipes — дуже подібна",
+    "Інші білі сироїжки",
+    "Молочники (Lactarius) — виділяють молочний сік"
+  ],
+  "safety_notes": "ЇСТІВНИЙ: м'який смак. БІЛА ШАПИНКА + ЛАМКА М'ЯКОТЬ + БЕЗ МОЛОЧНОГО СОКУ + ХВОЙНІ ТИХООКЕАНСЬКОГО ПІВНІЧНОГО ЗАХОДУ — діагностичні ознаки. Проба на смак підтверджує. Готуйте ретельно.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1515362.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 96106,
+      "width": 640,
+      "height": 480,
+      "sha256": "80a360b89bb292bf9e445025b2536932d8451eae663609d677c69e8fe42cf3c5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1515363.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-14",
+      "file_size_bytes": 120372,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1665ef87b0306cd7f9dc949b407a33a50feffb6cf95dfcd8508cd4ea3aa9131"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "copatr",
+  "scientific_name": "Coprinopsis atramentaria",
+  "common_name": "czernidłówka pospolita",
+  "edibility": "E",
+  "description": "Czernidłówka pospolita to średniej wielkości grzyb, wysoki na 5–15 cm, o kapeluszu o średnicy 3–7 cm. Kapelusz jest owalny do dzwonkowatego, szarobrązowy do brązowawego, o bladoszarej do brązowej, otrębiastej powierzchni (pokrytej drobnymi łuskami lub włókienkami). Środek jest często nieco ciemniejszy. Blaszki są wolne do przyrośniętych, białe, z czasem szare, potem czarne i rozpływające się w atrament. Trzon wysoki na 8–15 cm, gładki, biały, pusty, z małą kruchą strefą pierścienia. Owocnikuje w gęstych kępach z zakopanego drewna lub materii organicznej.",
+  "habitat": "Występuje na trawnikach, w ogrodach, parkach, ściółce z kory, na kompoście oraz w pobliżu pniaków lub zakopanego drewna. Rośnie jako rozkładacz drewna, często na zakopanych resztkach drzew liściastych. Bardzo pospolity w krajobrazach miejskich i podmiejskich. Owocnikuje w gęstych, zwartych kępach, często w dużych liczbach. Preferuje żyzne, zaburzone gleby.",
+  "season": "Od wiosny do jesieni (kwiecień–listopad) w regionach umiarkowanych. W łagodnych klimatach może owocnikować przez cały rok. Najobfitszy późnym latem i jesienią. Może pojawiać się w dużych rzutach po deszczach.",
+  "regions": ["Ameryka Północna (bardzo pospolity, rozpowszechniony)", "Europa (bardzo pospolity)", "Na całym świecie w strefie umiarkowanej", "Tereny zurbanizowane na całym świecie", "Rozmieszczenie kosmopolityczne"],
+  "lookalikes": ["Coprinus comatus (jadalny) – wyższy, kosmate białe łuski, brak interakcji z alkoholem", "Coprinellus micaceus (jadalny) – drobinki jak mika na kapeluszu, mniejszy", "Gatunki Coprinopsis – wiele podobnych szarych czernidłówek", "Gatunki Psathyrella – podobne, ale nie rozpływają się tak łatwo"],
+  "safety_notes": "OSTROŻNIE – INTERAKCJA Z ALKOHOLEM: Czernidłówka pospolita zawiera koprynę, która blokuje metabolizm alkoholu i powoduje ciężkie reakcje w połączeniu z alkoholem. NIE spożywaj alkoholu na 24 godziny przed ani do 72 godzin po zjedzeniu tego grzyba. Objawy obejmują zaczerwienienie twarzy, nudności, wymioty, kołatanie serca, mrowienie w kończynach, ból głowy i ból w klatce piersiowej. Prawidłowo ugotowany i spożywany bez alkoholu grzyb ten jest jadalny, ale poważne ryzyko interakcji sprawia, że nie nadaje się dla większości grzybiarzy.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723335.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-06",
+      "file_size_bytes": 51172,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9f845c360fd59b871bda93baaa0c0830a86fec122b83661c898ff70e174b1ae"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659341.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-03",
+      "file_size_bytes": 67868,
+      "width": 353,
+      "height": 640,
+      "sha256": "9446ede186e58a31d122204a1fc0a987c47e238da67bdaec005abb33923e7814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:53:05.984277",
+  "source_language": "en"
+}

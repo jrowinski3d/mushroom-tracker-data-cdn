@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypchr",
+  "scientific_name": "Hypomyces chrysospermus",
+  "common_name": "Gul svampsnylting",
+  "edibility": "U",
+  "description": "Gul svampsnylting är en parasitsvamp som bildar lysande guldgula till orangegula mjöliga eller sammetslena beläggningar på soppar. Parasiten täcker värdens porer och hattyta med klar gul-guld mjöl (sporer). Tidig infektion visar gula fläckar som sprider sig och till slut täcker hela svampen. Värdsvampens form är igenkännbar men förvriden. Den gula beläggningen är först sammetslen och blir sedan mjölig. Värdens porer blir helt dolda av det gula mjölet. Inte en köttig fruktkropp som H. lactifluorum, utan en ytbeläggning.",
+  "habitat": "Finns i skogar där soppar förekommer och parasiterar olika sopparter, särskilt i släktena Leccinum, Boletus och Suillus. Svampen koloniserar befintliga soppfruktkroppar. Uppträder på färska soppar i olika tillväxtstadier. Utbredningen följer värdarnas utbredning i barr- och blandskog.",
+  "season": "Sommar till höst (juni–november) när värdsopparna fruktsätter. Vanligast mitt i till sen sommar (juli–september). Tidpunkten är knuten till värdarnas tillgänglighet. Kan uppträda på soppar i alla utvecklingsstadier.",
+  "regions": [
+    "Europa (utbredd)",
+    "Östra Nordamerika (ovanlig)",
+    "Nordvästra USA och västra Kanada (förekommer ibland)",
+    "Där lämpliga soppvärdar förekommer",
+    "Tempererade skogar med soppar"
+  ],
+  "lookalikes": [
+    "Soppar med gul porsyta – men naturliga porer, inte mjölig beläggning",
+    "Russula/Lactarius med H. chrysospermus – annan parasit på andra värdar",
+    "Gula mögel på svampar – men mindre jämnt färgade, annan konsistens",
+    "Oinfekterade gula soppar – porerna är naturliga, inte mjöliga"
+  ],
+  "safety_notes": "REKOMMENDERAS INTE: Även om svampen inte är känd som giftig har den inget matvärde och värdsoppen kan vara i olika stadier av nedbrytning. De infekterade sopparna är vanligen förstörda och oaptitliga. Vissa källor antyder möjlig ätlighet, men det finns ingen tradition av förtäring och ingen anledning att äta den. Det lysande gula mjölet är iögonfallande, men den underliggande soppen kan vara en giftig art. Undvik förtäring. Mer intressant ur mykologisk synvinkel. Den guldgula mjöliga beläggningen på soppar är diagnostisk men inte användbar som mat.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1734294.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 39908,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d2a43beb0f25fae1f93fa65a65aeac3aaa96ef17a4b27b67204441e40222ad7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1734295.jpg",
+      "photographer": "Liz Popich",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-05",
+      "file_size_bytes": 62044,
+      "width": 640,
+      "height": 480,
+      "sha256": "541354ee51ac12cb5435c558ce390e1bed346b89eb64409571f7e2e42d3ac1e9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

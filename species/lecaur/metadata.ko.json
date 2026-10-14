@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "lecaur",
+  "scientific_name": "Leccinum aurantiacum",
+  "common_name": "붉은그물버섯 (Leccinum aurantiacum)",
+  "edibility": "E",
+  "description": "붉은그물버섯은 건조하거나 약간 끈적한 표면의 특징적인 주황색~적주황색 갓(5~20cm)을 지닌다. 관공은 어릴 때 흰색이며 노화되면 회색빛으로, 상처 나면 갈색으로 변한다. 키 큰 흰색 대는 진갈색~흑갈색의 거친 인편(까슬까슬한 비늘)으로 덮여 있다 — 동정 특징이다. 흰색 살은 자르면 분홍~적색으로 변색되고, 노화되면 회색이나 흑색이 된다. 포자문은 올리브갈색이다.",
+  "habitat": "혼효림의 사시나무 및 포플러와만 균근성. Populus 종과 절대적 공생 관계를 이룬다. 사시나무 숲, 미루나무가 있는 강가 지역, 사시나무-침엽수 혼효림에서 발견된다.",
+  "season": "여름부터 가을(6~10월)까지, 7~8월에 결실 최성기. 사시나무 서식지에서 여름 비 온 직후 흔히 나타난다.",
+  "regions": [
+    "로키산맥",
+    "오대호 지역",
+    "사시나무 있는 북동부 산림",
+    "태평양 북서부 사시나무림",
+    "북부 캘리포니아",
+    "알래스카",
+    "캐나다"
+  ],
+  "lookalikes": [
+    "Leccinum insigne — 주홍적 갓, 사시나무 서식지 비슷",
+    "기타 Leccinum 종 — 대의 인편으로 Boletus와 구분",
+    "Boletus 종 — 특징적인 거친 대 비늘 없음",
+    "Lactarius 종 — 주름살 있음(관공 아님), 유즙 분비"
+  ],
+  "safety_notes": "식용: 붉은그물버섯은 단단한 질감의 좋은 식용종이나 왕그물버섯만큼 높이 평가되지는 않는다. 충분히 익혀 먹어야 한다 — 덜 익히거나 생으로 먹으면 소화불량을 일으킬 수 있다. 살이 검게 변하는 것은 정상이다. 주황색 갓과 거친 비늘 대가 동정 특징이다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1698286.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 191462,
+      "width": 640,
+      "height": 640,
+      "sha256": "960769b31fc623f0aab525e0fc0fd3302f856913829a4264d2671df9f66ca4ce"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698287.jpg",
+      "photographer": "Paul Vï¿½ï¿½zina",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-21",
+      "file_size_bytes": 80824,
+      "width": 640,
+      "height": 640,
+      "sha256": "e15aa3a3545abe4c7397959592d4182ac1019366861857b9c06046c59472dd8f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

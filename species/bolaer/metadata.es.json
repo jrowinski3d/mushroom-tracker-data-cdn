@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "bolaer",
+  "scientific_name": "Boletus aereus",
+  "common_name": "Boleto negro",
+  "edibility": "E",
+  "description": "El boleto negro muestra un distintivo sombrero de color marrón oscuro a negro bronce (6-20 cm) con textura aterciopelada cuando es joven, que se vuelve liso con la edad. Los poros son blancos cuando es joven, envejeciendo a amarillo verdoso, sin reacción al magullarse. El pie robusto y bulboso es de color marrón pálido con reticulación blanca concentrada cerca del ápice. La carne blanca no cambia de color al cortarse. La esporada es de color marrón oliva.",
+  "habitat": "Micorrícico principalmente con robles, ocasionalmente con hayas y castaños en bosques mixtos de frondosas. Prefiere hábitats cálidos y secos con suelos bien drenados. A menudo se encuentra en laderas y márgenes de bosques.",
+  "season": "Verano a otoño (junio-octubre), fructificando antes que B. edulis en climas más cálidos. Producción máxima durante períodos cálidos tras la lluvia.",
+  "regions": [
+    "Sureste de Estados Unidos",
+    "Estados del Atlántico medio",
+    "Sur de California",
+    "Montañas Rocosas del sur",
+    "Suroeste del Pacífico"
+  ],
+  "lookalikes": [
+    "Boletus edulis - sombrero marrón más claro, prefiere coníferas",
+    "Tylopilus felleus - poros rosados, sabor amargo",
+    "Otras especies de Boletus de sombrero oscuro - todas comestibles",
+    "Especies de Xerocomellus - más pequeñas, con hábitat diferente"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: El boleto negro es muy apreciado en Europa y algunos lo consideran igual o mejor que el boleto comestible. Excelente textura firme y sabor a nuez que se intensifica al secarse. Cocinar bien para mejores resultados. El color oscuro del sombrero es diagnóstico y ayuda a distinguirlo de otras especies.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1565467.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 81716,
+      "width": 640,
+      "height": 480,
+      "sha256": "18a7756a0c33dd630276c40e6695acadf2f6a932749979e40810de1873f23d82"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1565468.jpg",
+      "photographer": "Glen van Niekerk",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-03",
+      "file_size_bytes": 77270,
+      "width": 480,
+      "height": 640,
+      "sha256": "b9a429096996249a3fbade549352e72d0b48c88fa3163dba00fa888305e5724c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.585198",
+  "source_language": "en"
+}

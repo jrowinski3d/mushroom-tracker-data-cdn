@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trical",
+  "scientific_name": "Tricholoma caligatum",
+  "common_name": "California Matsutake (Tricholoma caligatum)",
+  "edibility": "E",
+  "description": "Kaliforniamatsutaken har en kraftig vit till krämfärgad hatt (5–15 cm) som ofta får brunaktiga fläckar eller zoner med åldern. Hatten är välvd, torr, slät till lätt fjällig eller fibrig. Skivorna är vita till krämfärgade, vidfästa, täta, och kan få bruna fläckar. Foten är tjock, fast, vit, med en HINNAKTIG TILL BOMULLSLIKNANDE RING från den partiella slöjan – ringens egenskaper kan variera. Huvudkännetecknet är den KARAKTERISTISKA KRYDDIGA, KANELDOFTANDE eller aromatiska LUKTEN. Köttet är vitt, fast. Sporfällningen är vit. Skiljs åt genom Kaliforniens kustnära utbredning och associationen med specifika trädslag.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD och lövträd i Kalifornien, särskilt live oak (Quercus agrifolia), tanoak (Notholithocarpus), madrone (Arbutus) och douglasgran. Bildar mykorrhizaassociationer i Kaliforniens kustskogar. Växer på marken i förna eller lövförna. Finns i blandade städsegröna skogar från kustbergen till Sierra Nevadas fot.",
+  "season": "Sen höst till vinter (november–februari), fruktsätter under Kaliforniens regnperiod – senare än andra matsutake-arter.",
+  "regions": [
+    "Kaliforniens kust",
+    "Sierra Nevadas fot",
+    "Kustbergen",
+    "Norra Kalifornien",
+    "Gränsområdet mot Oregon"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare – matsutake i nordvästra USA, barrträdsspecifik",
+    "Andra Tricholoma-arter – olika, saknar kanellukt",
+    "Amanita-arter – GIFTIGA – har volva vid basen",
+    "Catathelasma – har dubbel slöjstruktur"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Mycket uppskattad, skördas kommersiellt i Kalifornien. Den KRYDDIGA KANELDOFTEN är kännetecken. Bäst när den är ung och fast. Unik bland matsutake-arter genom sina lövträdsassociationer (ek, tanoak, madrone) utöver barrträd. KRITISKT: Kontrollera alltid att volva (skål vid basen) saknas för att utesluta giftiga Amanita-arter. Ringen och den karakteristiska aromen bekräftar identifieringen.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709829.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 48448,
+      "width": 640,
+      "height": 427,
+      "sha256": "3d523855db60033f8584ae1a15f1acd6727619de2cbc5db25006025b3844aea8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709830.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-23",
+      "file_size_bytes": 39640,
+      "width": 640,
+      "height": 427,
+      "sha256": "1342cf701d1c7ffb2a2df10c0f7671b8bb3dd32a98a987505432c3b3c9bf7046"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

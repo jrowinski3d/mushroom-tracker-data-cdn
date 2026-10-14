@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "cratub",
+  "scientific_name": "Craterellus tubaeformis",
+  "common_name": "Pie amarillo (Craterellus tubaeformis)",
+  "edibility": "E",
+  "description": "El pie amarillo (rebozuelo de invierno/rebozuelo embudo) es un hongo pequeño con un sombrero de 1-6 cm de ancho de color marrón-amarillento a marrón-grisáceo que se vuelve profundamente en forma de embudo con la edad. El sombrero tiene un margen fino y ondulado y a menudo está perforado en el centro, abriéndose hacia el pie hueco. La parte inferior tiene pliegues poco profundos, romos y bifurcados (NO láminas verdaderas) de color gris-amarillento a amarillo pálido, muy espaciados, que descienden por el pie. El distintivo pie es de 2-8 cm de alto, hueco, esbelto y de color amarillo brillante a amarillo-naranja (lo que le da el nombre de \"pie amarillo\"). La carne es fina, amarillenta, con un olor suave. La esporada es blanca a amarilla pálida.",
+  "habitat": "Micorrícico con coníferas, particularmente pícea, abeto y tsuga en bosques norteños y montanos. Se encuentra en bosques de coníferas con musgo, a menudo en grandes tropas sobre suelo cubierto de musgo, madera en descomposición o entre acículas de coníferas. Prefiere entornos frescos y húmedos a mayor altitud o latitudes norteñas.",
+  "season": "Finales de otoño hasta invierno (octubre-febrero), uno de los hongos comestibles de fructificación más tardía. A menudo aparece después de las primeras heladas y puede fructificar bajo la nieve. La temporada pico suele ser de noviembre a enero en el Pacífico Noroeste y las regiones norteñas.",
+  "regions": [
+    "Pacífico Noroeste (Oregón, Washington, Columbia Británica)",
+    "norte de Estados Unidos (de Maine a Minnesota)",
+    "región de los Grandes Lagos",
+    "norte de las Montañas Rocosas",
+    "estados del noreste",
+    "norte de Europa (también presente)"
+  ],
+  "lookalikes": [
+    "Craterellus ignicolor - Comestible, más amarillo-dorado en general, se encuentra en el este de Norteamérica",
+    "Pequeñas especies de Cantharellus - Comestibles, más robustas, carecen del distintivo pie amarillo y del centro hueco",
+    "Hygrophoropsis aurantiaca (falso rebozuelo) - No tóxico pero de mala calidad, tiene láminas verdaderas finas, más anaranjado"
+  ],
+  "safety_notes": "COMESTIBLE: El pie amarillo es un hongo comestible excelente a pesar de su pequeño tamaño. El distintivo pie hueco de color amarillo brillante y el sombrero marrón lo hacen fácil de identificar. Como los rebozuelos, tiene pliegues romos en lugar de láminas verdaderas, aunque son poco profundos y a veces apenas visibles. No existen especies similares tóxicas. El pequeño tamaño significa que hay que recolectar muchos para una comida, pero a menudo fructifican abundantemente. El sabor es delicado y ligeramente picante; excelente en sopas, pasta o salteado. Se puede secar con éxito para uso posterior.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719682.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 69358,
+      "width": 480,
+      "height": 640,
+      "sha256": "fc9fb71e90d30d54edf3e5aa489e4451406c1669a8b5215ca31bdf4596317759"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719683.jpg",
+      "photographer": "mykorzi",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 45096,
+      "width": 480,
+      "height": 640,
+      "sha256": "f91bd6be1fc4662333cd75708085d399ebe96caae4a04e3927a4f45985eb9c7c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lecman",
+  "scientific_name": "Leccinum manzanitae",
+  "common_name": "Manzanita Bolete (Leccinum manzanitae)",
+  "edibility": "E",
+  "description": "Le bolet du manzanita présente un chapeau brun-rougeâtre à brun foncé (5-15 cm) à surface sèche, veloutée à lisse. Pores blancs jeunes, devenant gris-olive, se tachant de brunâtre. Le pied blanchâtre à brun pâle est couvert d'écaillettes brunes à brun foncé (écailles rugueuses). La chair blanche se tache de brun-rosâtre à la coupe, finissant par foncer vers le gris. Sporée brun-olive.",
+  "habitat": "Mycorhizien exclusivement du manzanita (espèces d'Arctostaphylos) dans le chaparral et les forêts mixtes chêne-arbousier. Forme des associations obligatoires avec les arbustes de manzanita. Trouvé dans les forêts côtières et les bois de contreforts avec sous-étage de manzanita.",
+  "season": "De l'hiver au printemps (décembre-avril) avec un pic de fructification en janvier-mars. Période de fructification hivernale inhabituelle associée à la saison des pluies en Californie.",
+  "regions": [
+    "chaînes côtières de Californie",
+    "Californie du Nord",
+    "Californie centrale",
+    "région de la baie de San Francisco",
+    "contreforts de la Sierra Nevada",
+    "Oregon du Sud"
+  ],
+  "lookalikes": [
+    "Autres espèces de Leccinum — mais associations d'arbres différentes",
+    "Espèces de Boletus — dépourvues du pied rude",
+    "Leccinum aurantiacum — chapeau plus orange, habitat différent",
+    "Espèces de Suillus — chapeau visqueux, association conifère"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet du manzanita est un bon comestible à chair ferme. Doit être bien cuit pendant au moins 15 à 20 minutes. L'association unique avec le manzanita et la période de fructification hivernale le distinguent des autres bolets. Le noircissement de la chair est normal et sans danger.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "photographer": "Oluna & Adolf Ceska",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "file_size_bytes": 89814,
+      "width": 640,
+      "height": 480,
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.240957",
+  "source_language": "en"
+}

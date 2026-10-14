@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bolsub",
+  "scientific_name": "Boletus subcaerulescens",
+  "common_name": "Almost Bluing King Bolete (Boletus subcaerulescens)",
+  "edibility": "E",
+  "description": "Ten borowik ma brązowy do czerwonobrązowego kapelusz (5–15 cm) o gładkiej powierzchni. Pory żółte do oliwkowożółtych, przy dotknięciu powoli przebarwiają się na niebieskozielono – cecha diagnostyczna. Żółtawy trzon pokryty siateczką również sinieje. Biały do bladożółtego miąższ na przekroju sinieje, zwłaszcza przy powierzchni porów. Ta reakcja sinienia odróżnia go od gatunków podobnych. Wysyp zarodników oliwkowobrązowy.",
+  "habitat": "Grzyb mikoryzowy, związany z dębami i innymi drzewami liściastymi w lasach liściastych i mieszanych. Preferuje żyzne, dobrze przepuszczalne gleby w dojrzałych lasach. Częsty w siedliskach zdominowanych przez dęby.",
+  "season": "Lato do jesieni (lipiec–październik), szczyt owocowania późnym latem. Pojawia się po ciepłych deszczach w wilgotną pogodę.",
+  "regions": [
+    "wschodnie Stany Zjednoczone",
+    "stany południowo-wschodnie",
+    "region Środkowego Atlantyku",
+    "Appalachy",
+    "Region Wielkich Jezior",
+    "dębowe lasy wschodniej Ameryki Północnej"
+  ],
+  "lookalikes": [
+    "Boletus edulis – białe pory, brak reakcji sinienia",
+    "Boletus variipes – bardziej dramatyczne sinienie, inny zasięg",
+    "Tylopilus felleus – różowe pory, gorzki, nie sinieje",
+    "Boletus sensibilis – sinieje bardzo silnie"
+  ],
+  "safety_notes": "JADALNY: Borowik siniejący to dobry grzyb jadalny o zwartej konsystencji i łagodnym smaku. Reakcja sinienia jest normalna i bezpieczna – NIE świadczy o trującości. Przed spożyciem dokładnie ugotować. Sinienie pomaga odróżnić go od gatunków niesiniejących, takich jak B. edulis.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722125.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 70142,
+      "width": 640,
+      "height": 427,
+      "sha256": "07354155f08a7b03b39453c28f73db981c5f2a131435c593e2e86f9004209fc8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722126.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 60122,
+      "width": 640,
+      "height": 427,
+      "sha256": "392e0e070bd16a650927fcbac5642d898e2e348fcb7a42e33c509e08ac29cf59"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

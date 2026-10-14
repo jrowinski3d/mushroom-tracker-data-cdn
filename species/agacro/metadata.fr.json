@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacro",
+  "scientific_name": "Agaricus crocodilinus",
+  "common_name": "Macro Mushroom (Agaricus crocodilinus)",
+  "edibility": "E",
+  "description": "L'agaric crocodile est une espèce distinctive au chapeau de 8 à 18 cm de diamètre, d'abord arrondi puis largement convexe à plat. Le chapeau est blanc avec un motif saisissant de squames brun foncé à brun-gris retroussées, disposées en motif de peau de crocodile (caractéristique diagnostique), plus concentrées vers le centre. Les lames sont libres, d'abord rose pâle puis brun chocolat. Le pied mesure 6 à 12 cm de hauteur, blanc, lisse ou finement squameux, avec un grand anneau pendant. La chair est blanche, bleuissant lentement en jaune puis brun, à l'agréable odeur d'amande-anis.",
+  "habitat": "Pousse dans les forêts mixtes de conifères et de feuillus, les lisières des bois, les parcs avec arbres matures et les espaces paysagers avec paillis de copeaux de bois. Pousse au sol dans un sol riche en humus et des débris ligneux. Fructifie de manière dispersée à grégaire, souvent en petits groupes. Préfère les zones riches en matière organique en décomposition.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans la plupart des régions. En Californie et dans les climats doux, peut fructifier en hiver (décembre-février). La fructification maximale a lieu à l'automne après des pluies chaudes. Plus fréquent les années à humidité constante.",
+  "regions": [
+    "Californie (commune)",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Sud-Ouest des États-Unis",
+    "Climats méditerranéens",
+    "Ouest de l'Amérique du Nord (principalement)",
+    "Régions tempérées chaudes"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (comestible) — plus grand, squames plus brun doré, odeur d'anis plus forte",
+    "Agaricus subrutilescens (comestible) — aspect semblable, taches vineuses à la base du pied",
+    "Agaricus moelleri (toxique) — jaunit fortement, odeur phénolique au lieu d'anis",
+    "Grandes espèces d'Amanita (certaines mortelles) — avec une volve à la base, absente chez Agaricus"
+  ],
+  "safety_notes": "COMESTIBLE : considéré comme comestible avec une bonne saveur et une bonne texture une fois bien cuit. Moins fréquemment récolté qu'A. augustus mais de qualité semblable. Identification critique : vérifier l'agréable odeur d'AMANDE-ANIS (et non phénolique), le motif distinctif de peau de crocodile sur le chapeau, des lames LIBRES virant au rose puis au brun chocolat, une sporée BRUN CHOCOLAT, et AUCUNE volve à la base. Éviter les spécimens à bleuissement jaune intense ou à odeur phénolique chimique. Le motif squameux distinctif aide à l'identification. Bien cuire avant de consommer.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634317.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 120438,
+      "width": 640,
+      "height": 480,
+      "sha256": "57a6ec9533933760d0e54c184e86a6cafa732d7772394117fe4b2ec1f09482b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634318.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 86592,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5ca0feb44040250d42aeb015502ef583b1dd53e55968d08ca16c5468222e3bb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

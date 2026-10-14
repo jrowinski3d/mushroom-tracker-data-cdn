@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laegil",
+  "scientific_name": "Laetiporus gilbertsonii",
+  "common_name": "Chicken of the Woods (Laetiporus gilbertsonii)",
+  "edibility": "E",
+  "description": "Ljusorange till rosa-laxfärgad ticka med svavelgult porskikt, som bildar stora överlappande hyllor 5-25 cm breda. Mycket lik L. sulphureus men vanligtvis mer rosa-orange toner. Mjuk och saftig som ung, blir seg med åldern. Skiljs från östra arter genom västligt utbredningsområde och värdträd, särskilt eukalyptus och ek. Ettårig ticka.",
+  "habitat": "Parasitisk och saprofytisk på levande och döda lövträd i västra Nordamerika, särskilt eukalyptus, ek och andra lövträd. Bildar stora rosetter på stammar och vid trädbaser. Vanlig på prydnadseukalyptus i Kalifornien. Orsakar brun kubisk kärnröta.",
+  "season": "Sen höst till vår i Kalifornien, vanligen oktober-mars, sammanfallande med regnsäsongen. Kan bära frukt året runt i milda kustklimat. Topp i december-februari. Motsatt säsongsmönster mot östra Laetiporus.",
+  "regions": [
+    "Kaliforniens kust",
+    "stillahavskustens områden",
+    "sydvästra öknarna",
+    "Baja California",
+    "västra Nordamerika",
+    "särskilt vanlig i urbana Kalifornien"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (österländsk, annan säsong/värdar)",
+    "Laetiporus conifericola (på barrträd, annan region)",
+    "Andra västliga Laetiporus-arter (liknande ätlighet)",
+    "Omphalotus olivascens (giftig, har skivor inte porer)"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP som ung och på rätta värdar: Plocka endast unga, mjuka, böjbara exemplar. UNDVIK exemplar som växer på eukalyptus eftersom dessa ofta orsakar magbesvär hos många. Exemplar från ek och andra inhemska lövträd är säkrare. Börja med små mängder för att testa tolerans. Tillaga ordentligt. Bäst när den är mjuk och fuktig. Vissa reagerar dåligt oavsett värdträd.",
+  "images": [
+    {
+      "file_size_bytes": 45092,
+      "height": 407,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "photographer": "Kevin Fox",
+      "sha256": "01b5b2cb2a6a93d860d9de1d6cb30146ba0f77c7601e5288af9fefe4708c8037",
+      "source_url": "https://mushroomobserver.org/images/640/1709999.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 61780,
+      "height": 640,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "photographer": "Kevin Fox",
+      "sha256": "a8e4a312bb3db79fe35cb25936fd52ccc0bf8329cf077e77abb78ad9d880cf65",
+      "source_url": "https://mushroomobserver.org/images/640/1710000.jpg",
+      "width": 345
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "trimat",
+  "scientific_name": "Tricholoma matsutake",
+  "common_name": "송이",
+  "edibility": "E",
+  "description": "송이는 튼튼한 흰색 갓(지름 6–20cm)으로 나이가 들면 갈색이 되며 종종 갈색 얼룩이나 반점이 생긴다. 갓은 볼록~편평하고 건조하며 매끄럽거나 약간 섬유상이다. 주름살은 흰색으로 대에 붙고 빽빽하다. 대는 굵고 흰색이며 단단하고, 독특한 두꺼운 내피막이 윗대에 솜털 같은 턱받이나 찢긴 흔적을 남기는 경우가 많다. 핵심 특징은 강렬한 매콤하고 계피 같은, 또는 솔향 같은 냄새로 - 즉시 알아볼 수 있고 진단적이다. 살은 흰색으로 매우 단단하고 치밀하다. 포자문은 흰색. 종종 토양/부엽토를 밀어 올리며 나오면서 독특한 '송이 혹'을 만든 뒤 완전히 나온다.",
+  "habitat": "아시아의 침엽수, 특히 소나무(Pinus)·솔송나무·전나무와 균근을 이룬다. 특정 숙주수와 절대적 관계를 맺는다. 부엽토나 토양에 종종 반쯤 묻혀 지상에서 자란다. 성숙 침엽수림, 대개 특정 '시로'(요정고리)에서 발견된다. 특정 토양 조건과 훼손되지 않은 삼림 서식지가 필요하다.",
+  "season": "일본과 아시아의 가을(9~11월)로 서늘한 가을 날씨에 열매를 맺는다.",
+  "regions": [
+    "일본",
+    "한국",
+    "중국",
+    "아시아 (자생지)"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare(미국송이) - 북미종, 매우 비슷함",
+    "Tricholoma murrillianum(남서부송이) - 미국 남서부종",
+    "Amanita smithiana - 독성 있음 - 흰색이나 밑동에 외피막이 있고 냄새가 다름",
+    "다른 Tricholoma 종들 - 독특한 계피 향이 없음"
+  ],
+  "safety_notes": "최상급 식용: 세계에서 가장 비싸고 높이 평가받는 식용버섯 중 하나로, 특히 일본 요리에서 파운드당 수백 달러에 팔린다. 강렬한 매콤한 계피 향이 핵심 동정 특징이다. 어리고 단단할 때가 가장 좋다 - 늙은 개체는 쓴맛이 난다. 방향성 성분을 지키기 위해 부드럽게 세척할 것. 독성 흰색 Amanita 종과 절대 혼동하지 말 것 - 송이에는 외피막이 없고, 독특한 향이 나며, 턱받이가 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/705543.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 61824,
+      "width": 640,
+      "height": 480,
+      "sha256": "97b74a9180a9fba23ead388a50e26d38db132e89b7d39d743c91e8435bb732d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/705544.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 77154,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd70501e766a7b20042ccbf068e41759f221e4300395f3048ba11d8114c34a3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "chlrha",
+  "scientific_name": "Chlorophyllum rhacodes",
+  "common_name": "Parasol peludo (Chlorophyllum rhacodes)",
+  "edibility": "E",
+  "description": "El parasol peludo es un hongo de mediano a grande con un sombrero de 5-15 cm de ancho, inicialmente con forma de huevo que se vuelve ampliamente convexo con un umbo bajo. El sombrero es de color crema a beige y está cubierto de escamas peludas de color marrón-rojizo a canela, levantadas, más concentradas hacia el centro. La carne se mancha de naranja-rojizo a marrón-rojo al cortarse o magullarse (característica diagnóstica). Las láminas son libres, blancas y apretadas. El pie es de 8-20 cm de alto, liso a escamoso debajo del gran anillo móvil, con una base bulbosa hinchada pero sin volva.",
+  "habitat": "Se encuentra en suelo rico en zonas alteradas, incluyendo jardines, pilas de compost, mantillo de astillas de madera, zonas ajardinadas y bordes de bosque con restos leñosos. También en bosques de coníferas y mixtos. Crece terrestremente, a menudo en sustratos ricos en nutrientes con materia orgánica en descomposición. Fructifica disperso a gregario, a veces en corros de brujas.",
+  "season": "Finales de verano hasta otoño (agosto-noviembre) en la mayoría de las regiones. En California y climas mediterráneos, puede fructificar en invierno y primavera (noviembre-marzo) tras las lluvias. La fructificación pico ocurre después de las lluvias cálidas de otoño.",
+  "regions": [
+    "Europa (nativa)",
+    "Pacífico Noroeste (común)",
+    "California (común, sobre todo en jardines)",
+    "este de Norteamérica (ocasional)",
+    "Australia y Nueva Zelanda",
+    "regiones templadas de todo el mundo"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (tóxico) - casi idéntico pero con esporada verdosa, síntomas gastrointestinales más intensos",
+    "Chlorophyllum molybdites (tóxico) - esporas verdes, se vuelve verde al magullarse, praderas",
+    "Macrolepiota procera (comestible) - más alta, más esbelta, pie con piel de serpiente, no se mancha de rojo",
+    "Especies de Lepiota (algunas mortales) - tamaño menor, más delicadas"
+  ],
+  "safety_notes": "COMESTIBLE CON PRECAUCIÓN: Algunas personas toleran bien este hongo cuando está bien cocido, pero causa malestar gastrointestinal en otras (10-20% de los consumidores). Los síntomas incluyen náuseas y malestar estomacal 1-3 horas después de comer. El estrechamente emparentado C. brunneum es más tóxico. Cocina bien a fuego alto; nunca lo comas crudo. Prueba primero una pequeña cantidad para comprobar la tolerancia. Verifica la esporada BLANCA a gris pálido (no verde). La reacción de enrojecimiento al cortarlo es útil pero no definitiva. Debido a la alta tasa de reacciones adversas y la confusión con C. brunneum, muchos expertos recomiendan evitar esta especie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1697672.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 53948,
+      "width": 640,
+      "height": 575,
+      "sha256": "fb03b288e729ed23237ea3b683587083e3a757553791d94528f6d724fb78b6ef"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698177.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 23006,
+      "width": 640,
+      "height": 519,
+      "sha256": "4acbeebde1334184676d41a225f2309dc2ec3492fb3c1137657a8ef7e9f9d5be"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

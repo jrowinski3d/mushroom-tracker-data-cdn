@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bolsub",
+  "scientific_name": "Boletus subcaerulescens",
+  "common_name": "Almost Bluing King Bolete (Boletus subcaerulescens)",
+  "edibility": "E",
+  "description": "Le bolet bleuissant affiche un chapeau brun à brun rougeâtre (5-15 cm) à la surface lisse. Les pores sont jaunes à jaune-olive, bleuissant lentement au bleu-vert au toucher — un caractère diagnostique. Le pied jaunâtre porte un réseau et bleuit également. La chair blanche à jaune pâle se tache de bleu à la coupe, surtout près de la surface des pores. Cette réaction de bleuissement le distingue des espèces voisines. Sporée brun-olive.",
+  "habitat": "Mycorhizien avec le chêne et d’autres feuillus dans les forêts de feuillus et mixtes. Préfère les sols riches et bien drainés des forêts matures. Commun dans les habitats dominés par le chêne.",
+  "season": "De l’été à l’automne (juillet-octobre), avec un pic de fructification à la fin de l’été. Apparaît après les pluies chaudes par temps humide.",
+  "regions": [
+    "Est des États-Unis",
+    "États du Sud-Est",
+    "Région médio-atlantique",
+    "Monts Appalaches",
+    "Région des Grands Lacs",
+    "Chênaies de tout l’est de l’Amérique du Nord"
+  ],
+  "lookalikes": [
+    "Boletus edulis — pores blancs, pas de bleuissement",
+    "Boletus variipes — bleuissement plus marqué, aire de répartition différente",
+    "Tylopilus felleus — pores roses, amer, pas de bleu",
+    "Boletus sensibilis — bleuit très fortement"
+  ],
+  "safety_notes": "COMESTIBLE : le bolet bleuissant est un bon comestible à la chair ferme et au goût doux. La réaction de bleuissement est normale et sans danger — elle N’indique PAS une toxicité. Bien cuire avant de consommer. Le bleuissement aide à le distinguer des espèces non bleuissantes comme B. edulis.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722125.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 70142,
+      "width": 640,
+      "height": 427,
+      "sha256": "07354155f08a7b03b39453c28f73db981c5f2a131435c593e2e86f9004209fc8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722126.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 60122,
+      "width": 640,
+      "height": 427,
+      "sha256": "392e0e070bd16a650927fcbac5642d898e2e348fcb7a42e33c509e08ac29cf59"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

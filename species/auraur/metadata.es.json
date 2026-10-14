@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "auraur",
+  "scientific_name": "Auricularia auricula-judae",
+  "common_name": "Oreja de Judas",
+  "edibility": "E",
+  "description": "La oreja de Judas es un hongo gelatinoso distintivo con cuerpos fructíferos en forma de oreja de 3-12 cm de diámetro. El cuerpo fructífero es fino, gomoso-gelatinoso, inicialmente en forma de copa que se vuelve en forma de oreja o concha con la edad. La superficie externa (fértil) es lisa a arrugada, de color marrón rojizo a marrón oscuro, a menudo con un matiz gris violáceo. La superficie interna es de color gris tostado y ligeramente aterciopelada con finos pelos. La textura es dura y elástica cuando está fresca, se vuelve dura y encogida cuando está seca, pero revive al humedecerse. Sin pie distintivo.",
+  "habitat": "Se encuentra en ramas y troncos muertos y moribundos de frondosas, particularmente saúco (Sambucus), pero también en robles, sauces y otros árboles de hoja caduca. Crece como descomponedora de madera, típicamente en ramas caídas o madera muerta en pie. Fructifica en grupos o filas a lo largo de las ramas. Común en bosques húmedos y bordes de bosques.",
+  "season": "Todo el año en climas suaves, pero más abundante de otoño a primavera (septiembre-mayo). En regiones templadas, principalmente otoño y primavera (agosto-noviembre, marzo-mayo). Puede fructificar durante el invierno en áreas con clima suave y húmedo. Requiere humedad constante.",
+  "regions": [
+    "Europa (extendida)",
+    "Este de Norteamérica (común)",
+    "Pacífico Noroeste",
+    "California (ocasional)",
+    "Asia (muy común)",
+    "Bosques templados de todo el mundo"
+  ],
+  "lookalikes": [
+    "Auricularia americana (comestible) - muy similar, especie norteamericana, ligeramente más gruesa",
+    "Especies de Exidia (comestibles) - más en forma de botón o cerebro, no en forma de oreja",
+    "Especies de Tremella (comestibles) - estructura más en forma de cerebro o plegada",
+    "Bulgaria inquinans (no comestible) - negra, gomosa, hemisférica, no en forma de oreja"
+  ],
+  "safety_notes": "COMESTIBLE: Ampliamente consumido en la cocina asiática, apreciado por su textura crujiente y su capacidad para absorber sabores. Popular en sopas, salteados y ensaladas. Debe cocinarse: no comer crudo. La textura permanece crujiente-masticable incluso después de la cocción. Rico en nutrientes y comúnmente cultivado. Los ejemplares frescos deben limpiarse bien, ya que atrapan residuos. Los ejemplares secos deben rehidratarse antes de cocinarlos. Sin especies similares tóxicas. La forma de oreja y el crecimiento sobre saúco/frondosas son distintivos. Insípido por sí solo, pero excelente para absorber salsas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1493169.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 90872,
+      "width": 640,
+      "height": 480,
+      "sha256": "69dca539045c9109d9c02f521e09ad74b3bd49ecd2ff3d03592433c62ea6aa38"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1493170.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-10",
+      "file_size_bytes": 99828,
+      "width": 640,
+      "height": 480,
+      "sha256": "53742276a39e5b60e6b660873c86789487ab34456dacbb2744b194aeb71f577b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

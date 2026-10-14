@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "lacind",
+  "scientific_name": "Lactarius indigo",
+  "common_name": "남빛젖버섯",
+  "edibility": "E",
+  "description": "남빛젖버섯은 강렬한 남빛 갓(5~15cm)을 지니며, 노화되면 회색빛이나 녹색빛으로 바랜다. 주름살은 남빛이며 밀집한다. 대도 남빛이다. 핵심: 자르면 흘러나오는 진한 남빛 유즙(젖) — 틀림없다! 유즙과 살은 서서히 녹색으로 변색된다. 버섯 전체가 남빛이다. 포자문은 크림색이다. 가장 개성적인 버섯 중 하나다.",
+  "habitat": "미국 남동부와 멕시코의 활엽수 및 소나무와 균근성. 혼효림, 참나무-소나무림의 지면에서 자란다. 드문드문 또는 무리지어 난다. 남부 산림에서 흔하다.",
+  "season": "여름부터 가을(6~11월)까지, 따뜻한 기후에서는 긴 결실 기간.",
+  "regions": [
+    "남동부",
+    "텍사스",
+    "멕시코",
+    "중부 대서양 연안",
+    "걸프 연안"
+  ],
+  "lookalikes": [
+    "유사종 없음 — 남빛과 남빛 유즙은 이 종 고유"
+  ],
+  "safety_notes": "식용: 틀림없는 남빛과 남빛 유즙 덕분에 동정이 확실하다. 순한 맛, 약간 후추 향. 음식이 남빛/녹색으로 물드는 것은 정상이다. 어린 개체를 채취하라. 멕시코에서 인기. 충분히 익혀 먹으라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1721805.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 68194,
+      "width": 640,
+      "height": 427,
+      "sha256": "a2e72275996dbc2acc74b39bd093e3c70970209b21f6f919a6be24f0849b21ac"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1721806.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-26",
+      "file_size_bytes": 46472,
+      "width": 640,
+      "height": 427,
+      "sha256": "d1253a27350141fbac8ed1de140874ff71ffbfced03ecdfdd64cc92a14fdf6d8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

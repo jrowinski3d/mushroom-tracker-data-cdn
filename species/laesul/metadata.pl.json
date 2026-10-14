@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laesul",
+  "scientific_name": "Laetiporus sulphureus",
+  "common_name": "Żółciak siarkowy",
+  "edibility": "E",
+  "description": "Uderzająco jaskrawy siarkowo-żółty do pomarańczowego grzyb półkowy, tworzący duże zachodzące na siebie półki o szerokości 2–12 cali. Górna powierzchnia jaskrawo pomarańczowa do łososiowej, dolna powierzchnia porów jaskrawo siarkowo-żółta. Miękki, soczysty, o kurczakopodobnej teksturze, gdy młody, z wiekiem twardy i kruchy. Bez trzonu. Roczny owocnik. Grzyb białej zgnilizny o charakterystycznej siarkowo-żółtej powierzchni porów.",
+  "habitat": "Pasożytniczy i saprotroficzny na żywych i martwych drzewach liściastych, zwłaszcza na dębie, czereśni, wierzbie i innych gatunkach liściastych. Tworzy duże rozety lub półkowe owocniki na pniach, pniakach i powalonych kłodach. Powoduje brunatną kostkową zgniliznę rdzeniową. Pospolity na dębach we wschodnich lasach.",
+  "season": "Od wiosny do jesieni, zależnie od regionu, ze szczytem owocnikowania maj–wrzesień. Może wysypywać wielokrotnie w sezonie. Najpospolitszy późną wiosną i wczesnym latem. Młode, delikatne owocniki pojawiają się wcześniej w sezonie.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Środkowy Zachód",
+    "Południowe Stany Zjednoczone",
+    "Region Wielkich Jezior",
+    "Powszechny na wschód od Gór Skalistych",
+    "Europa i Azja"
+  ],
+  "lookalikes": [
+    "Laetiporus cincinnatus (biała powierzchnia porów, wyrasta z ziemi/korzeni)",
+    "Laetiporus gilbertsonii (zachodni, gospodarz eukaliptus)",
+    "Jack-o'-lantern (Omphalotus) — trujący, ma blaszki, nie pory, inny wzrost",
+    "Inne gatunki Laetiporus (wszystkie jadalne, inni gospodarze/regiony)"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY, gdy młody i delikatny: Zbierać tylko młode, miękkie, giętkie owocniki o wilgotnej teksturze. Unikać starych, suchych, kruchych owocników. WAŻNE: Niektórzy doświadczają dolegliwości trawiennych, zwłaszcza po okazach rosnących na drzewach iglastych, eukaliptusie lub cedrze — unikać tych gospodarzy. Zacząć od małych ilości, aby sprawdzić tolerancję. Gotować dokładnie. Najlepsze, gdy brzegi wciąż rosną i są jaskrawo wybarwione. Doskonała kurczakopodobna tekstura przy właściwym przygotowaniu.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1717527.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 143724,
+      "width": 480,
+      "height": 640,
+      "sha256": "96ecc15722b354ccdb58b90e11a997df2f8e07812f5581037ef20111ec94ac0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1711715.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-03",
+      "file_size_bytes": 75342,
+      "width": 482,
+      "height": 640,
+      "sha256": "cced2e82c7075ceb4a44c2c7c8fea1b49ed2b614b53cc34dc6f1d1dc5dc4f3d4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.487276",
+  "source_language": "en"
+}

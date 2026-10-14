@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agacro",
+  "scientific_name": "Agaricus crocodilinus",
+  "common_name": "Macro Mushroom (Agaricus crocodilinus)",
+  "edibility": "E",
+  "description": "Agaricus crocodilinus to charakterystyczny gatunek o kapeluszu 8-18 cm średnicy, początkowo kulistym, z wiekiem szeroko wypukłym do płaskiego. Kapelusz biały z uderzającym wzorem ciemnobrązowych do szarobrązowych odgiętych łusek ułożonych we wzór skóry krokodyla (cecha diagnostyczna), gęściej ku środkowi. Blaszki wolne, początkowo bladoróżowe, z wiekiem czekoladowobrązowe. Trzon 6-12 cm wysokości, biały, gładki lub z drobnymi łuskami, z dużym zwisającym pierścieniem. Miąższ biały, powoli przebarwiający się na żółto do brązowego, o przyjemnym zapachu migdałowo-anyżowym.",
+  "habitat": "Występuje w mieszanych lasach iglastych i liściastych, na skrajach lasu, w parkach z dojrzałymi drzewami oraz na zagospodarowanych terenach ze zrębkami drzewnymi. Rośnie naziemnie w glebie bogatej w próchnicę i szczątkach drzewnych. Owocnikuje rozproszone do gromadnie, często w małych grupach. Preferuje obszary z rozkładającą się materią organiczną.",
+  "season": "Od późnego lata do jesieni (sierpień-listopad) w większości regionów. W Kalifornii i łagodnym klimacie może owocować zimą (grudzień-luty). Szczyt owocowania przypada na jesień po ciepłych deszczach. Pospolitszy w latach o stabilnej wilgotności.",
+  "regions": [
+    "Kalifornia (pospolita)",
+    "Północno-zachodnie wybrzeże Pacyfiku (sporadycznie)",
+    "Południowo-zachodnie Stany Zjednoczone",
+    "Klimat śródziemnomorski",
+    "Zachodnia Ameryka Północna (głównie)",
+    "Ciepłe regiony strefy umiarkowanej"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (jadalny) - większy, bardziej złocistobrązowe łuski, silniejszy zapach anyżu",
+    "Agaricus subrutilescens (jadalny) - podobny wygląd, winno-czerwone przebarwienie u podstawy trzonu",
+    "Agaricus moelleri (trujący) - intensywnie żółknie, zapach fenolowy zamiast anyżu",
+    "Duże gatunki muchomorów (niektóre śmiertelnie trujące) - mają pochwę u podstawy, której pieczarki nie mają"
+  ],
+  "safety_notes": "JADALNY: Uznawany za jadalny o dobrym smaku i konsystencji po dokładnym ugotowaniu. Rzadziej zbierany niż A. augustus, ale podobnej jakości. Kluczowa identyfikacja: potwierdzić przyjemny zapach MIGDAŁOWO-ANYŻOWY (nie fenolowy), charakterystyczny wzór łusek jak skóra krokodyla na kapeluszu, WOLNE blaszki różowiejące, a potem czekoladowobrązowe, CZEKOLADOWOBRĄZOWY wysyp zarodników, BRAK pochwy u podstawy. Unikać okazów z intensywnym żółtym przebarwianiem lub fenolowym chemicznym zapachem. Charakterystyczny wzór łusek ułatwia identyfikację. Dokładnie ugotować przed spożyciem.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1634317.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 120438,
+      "width": 640,
+      "height": 480,
+      "sha256": "57a6ec9533933760d0e54c184e86a6cafa732d7772394117fe4b2ec1f09482b8"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1634318.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-09-07",
+      "file_size_bytes": 86592,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5ca0feb44040250d42aeb015502ef583b1dd53e55968d08ca16c5468222e3bb"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

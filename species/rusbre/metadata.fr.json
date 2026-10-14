@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "rusbre",
+  "scientific_name": "Russula brevipes",
+  "common_name": "Russule à pied court",
+  "edibility": "E",
+  "description": "La Russule à pied court a un chapeau blanc (5 à 20 cm), devenant en entonnoir. Lames blanches, serrées. Pied court, épais, blanc. CLÉ : CHAIR CASSANTE CRAIEUSE (se brise comme la craie), PAS DE LATEX. Grand champignon blanc. Souvent partiellement enfoui. Chair blanche. Sporée blanche. Goût doux à légèrement âcre.",
+  "habitat": "Mycorhizienne avec les CONIFÈRES dans l'ouest de l'Amérique du Nord, surtout le pin, le sapin, le douglas. Pousse au sol, souvent partiellement enfouie. Commune dans les forêts du Pacifique Nord-Ouest. Dispersée ou en groupes.",
+  "season": "Automne (septembre-novembre), fructifiant après les pluies.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Californie",
+    "montagnes Rocheuses",
+    "Colombie-Britannique"
+  ],
+  "lookalikes": [
+    "Russula cascadensis — russule blanche semblable",
+    "Espèces de Lactarius — ont du LATEX",
+    "Amanites blanches — ont une volve"
+  ],
+  "safety_notes": "COMESTIBLE : saveur douce une fois cuite. CHAIR CASSANTE + PAS DE LATEX : la distingue des lactaires. Grande taille. Test de goût (croquer et recracher) — les spécimens doux sont comestibles, les âcres ne sont pas comestibles. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720876.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 90422,
+      "width": 640,
+      "height": 427,
+      "sha256": "44daff7dcc494859d60cae368d1e47333f09a941ecd76444e2ef69ebc8c07ef9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720877.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-23",
+      "file_size_bytes": 62368,
+      "width": 640,
+      "height": 427,
+      "sha256": "05b48730e8c844ff2516b290e6be0217096360c670b60ba6c9feda8b36789d5b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

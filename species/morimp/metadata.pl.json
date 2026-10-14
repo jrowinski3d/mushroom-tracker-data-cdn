@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "morimp",
+  "scientific_name": "Morchella importuna",
+  "common_name": "smardz parastożkowaty",
+  "edibility": "E",
+  "description": "Owocnik o całkowitej wysokości 6–20 cm. Kapelusz o wysokości 3–15 cm, szerokości 2–9 cm w najszerszym miejscu, stożkowaty do szeroko stożkowatego lub sporadycznie jajowatego, z charakterystycznym drabinkowym wzorem plastra miodu z 12–20 wyraźnymi głównymi pionowymi żeberkami przecinanymi licznymi poziomymi żeberkami, tworzącymi prostokątne jamki. Barwa zwykle ciemniejsza niż u smardzów żółtych, od jasnobrązowej przez brązową do szarobrązowej. Trzon pusty, proporcjonalny do kapelusza. Całkowicie pusty w przekroju. Wysyp zarodników kremowy.",
+  "habitat": "Charakterystyczny miejski i ogrodowy smardz występujący w rabatach ze ściółką z wiórów drzewnych, ogrodach, miejscach ognisk, donicach, terenach urządzonych i naruszonej glebie w miejscach mieszkalnych i komercyjnych. W przeciwieństwie do większości smardzów, które są mikoryzowe, M. importuna jest w dużej mierze saprotroficzny (rozkłada wióry drzewne i materię organiczną niezależnie). Silnie związany ze świeżą ściółką z wiórów w nasadzeniach ozdobnych, parkach i miejskich terenach zielonych. Rzadko znajdowany w naturalnych lasach.",
+  "season": "Wiosna (marzec–maj w większości regionów, czas zależy od lokalnego klimatu). W Kalifornii i na Północno-Zachodnim Pacyfiku może owocować od lutego do kwietnia. Pojawianie się często wywołane wilgocią po zastosowaniu ściółki z wiórów w poprzednim sezonie. Może owocować w tych samych ściółkowanych miejscach przez kilka kolejnych lat.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia",
+    "Środkowy Zachód",
+    "Północny Wschód",
+    "Środkowy Atlantyk"
+  ],
+  "lookalikes": [
+    "piestrzenica (gatunki Gyromitra) – TRUJĄCA: mózgowato klapowany kapelusz zamiast drabinkowych żeberek, kapelusz przyrośnięty tylko na szczycie trzonu, wnętrze komorowe, czerwonobrązowa barwa. Śmiertelnie trująca nawet po ugotowaniu.",
+    "inne czarne smardze (grupa Morchella elata) – jadalne: podobny wygląd, ale zwykle w naturalnych lasach, a nie w miejskiej ściółce, trudne do odróżnienia wzrokowo, wszystkie jadalne po prawidłowym ugotowaniu.",
+    "smardz półwolny (Morchella punctipes) – jadalny: kapelusz przyrośnięty w połowie długości trzonu, tworzący spódniczkę, a nie w pełni przyrośnięty na długości.",
+    "Morchella tomentosa – jadalny: puszysta i owłosiona faktura za młodu, szczególnie u podstawy trzonu, występujący na pogorzeliskach iglastych, a nie w miejskich krajobrazach."
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoko ceniony grzyb kulinarny, obecnie uprawiany komercyjnie w Azji z produkcją setek ton rocznie. Musi być dokładnie ugotowany przez minimum 15–25 minut; surowe lub niedogotowane smardze zawierają toksyny hydrazynowe powodujące silne nudności, wymioty i dolegliwości żołądkowe. Gotuj w temperaturze powyżej 71°C, aby zniszczyć toksyczne związki. Niektóre osoby doświadczają reakcji alergicznych nawet po prawidłowym ugotowaniu; początkowo próbuj małych porcji. Unikaj spożywania z alkoholem ze względu na rzadkie udokumentowane niepożądane interakcje. Zapewnij prawidłowe rozpoznanie, aby odróżnić od śmiertelnie trujących piestrzenic (Gyromitra) o mózgowato pomarszczonych kapeluszach. Zbierając ze ściółki ogrodowej, sprawdź, czy w okolicy nie stosowano pestycydów ani herbicydów.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751485.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 61022,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f486307fe8bc9b853309c9d16f0e5a3baa20133c6f1468621bbd300e2a405cc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751432.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-11",
+      "file_size_bytes": 64566,
+      "width": 640,
+      "height": 480,
+      "sha256": "788ee443df988d03a975784a7e4493e160afd271619e90d83e1011258704f823"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.697677",
+  "source_language": "en"
+}

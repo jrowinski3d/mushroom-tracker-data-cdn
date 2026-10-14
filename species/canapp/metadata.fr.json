@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canapp",
+  "scientific_name": "Cantharellus appalachiensis",
+  "common_name": "Appalachian Chanterelle (Cantharellus appalachiensis)",
+  "edibility": "E",
+  "description": "La chanterelle des Appalaches a un chapeau jaune doré à jaune-orange vif de 3 à 12 cm de large, à la surface lisse à légèrement ridée. Le chapeau devient en entonnoir avec l’âge et présente une marge ondulée et irrégulière. Le dessous porte des plis bien définis, épais, obtus et fourchus (et NON de vraies lames), jaune vif à jaune-orange, largement espacés, descendant nettement le long du pied. Les plis sont plus prononcés que chez C. lateritius mais semblables à ceux de C. cibarius. Le pied est plein, ferme, de 3 à 9 cm de haut, jaune à jaune-orange, souvent en massue. La chair est blanche à jaune pâle, ferme, avec un arôme fruité d’abricot. Sporée jaune pâle à crème.",
+  "habitat": "Mycorhizien avec les feuillus de l’est, en particulier le chêne blanc, le chêne rouge, le hêtre américain, le caryer et le tulipier de Virginie. Trouvé dans les forêts matures mixtes de feuillus dans toute la région des Appalaches. Préfère les versants montagneux bien drainés, les vallons abrités et les crêtes à la litière épaisse et aux sols acides.",
+  "season": "De l’été à l’automne (juin-octobre), avec un pic de fructification en juillet-septembre. Fructifie souvent abondamment après les pluies chaudes d’été. Peut produire plusieurs poussées au cours de la saison avec une humidité suffisante.",
+  "regions": [
+    "Monts Appalaches (de la Géorgie au Maine)",
+    "États médio-atlantiques (Virginie, Virginie-Occidentale, Maryland)",
+    "Montagnes du Tennessee et de la Caroline du Nord",
+    "Pennsylvanie et New York",
+    "Sud de l’Ohio et Kentucky"
+  ],
+  "lookalikes": [
+    "Clitocybe lumineux (Omphalotus illudens) — TOXIQUE, possède de vraies lames à arêtes vives, pousse sur le bois ou le bois enfoui, est luminescent dans l’obscurité",
+    "Fausse chanterelle (Hygrophoropsis aurantiaca) — non toxique mais de piètre qualité, possède de vraies lames fines, plus intensément orange",
+    "Cantharellus cibarius — comestible, très similaire, trouvé dans des régions plus septentrionales, essentiellement identique en apparence"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : la chanterelle des Appalaches est l’un des champignons sauvages les plus prisés de l’est de l’Amérique du Nord, très recherchée pour son excellente saveur et sa chair ferme. Le caractère d’identification critique est constitué par les plis épais, obtus et fourchus qui sont cireux au toucher et soudés au chapeau, par opposition aux vraies lames fines comme des couteaux du clitocybe lumineux toxique. Toujours vérifier qu’elle pousse du sol près des arbres, jamais sur le bois. Saveur fruitée et poivrée délicieuse ; excellente poêlée, en soupe ou séchée pour la conservation. Certaines personnes peuvent éprouver de légers troubles digestifs.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695286.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 58918,
+      "width": 640,
+      "height": 550,
+      "sha256": "1e531b8fdb9faf5e522613f935369fa08b17d8304ffbea739b036127f37058e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695282.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-11",
+      "file_size_bytes": 35850,
+      "width": 640,
+      "height": 500,
+      "sha256": "0d643f4fa701f4b4b45e1ee889956eb3e6793e82ea4fb063547d712c44fbbd9b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.207174",
+  "source_language": "en"
+}

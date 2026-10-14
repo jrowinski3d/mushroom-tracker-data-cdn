@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "toloph",
+  "scientific_name": "Tolypocladium ophioglossoides",
+  "common_name": "Maczużnik nasięźrzałowy",
+  "edibility": "U",
+  "description": "Maczużnik nasięźrzałowy to fascynujący grzyb pasożytniczy atakujący grzyby żyjące pod ziemią (fałszywe trufle, zwłaszcza jeleniaki Elaphomyces). Owocnik składa się z długiej, smukłej maczugi lub kolca o wysokości 3–12 cm i szerokości 0,5–1,5 cm, wyrastającego z gleby. Maczuga jest cylindryczna, często zakrzywiona, żółtobrązowa do oliwkowobrązowej, o lekko szorstkiej powierzchni. Płodna górna część jest lekko powiększona. Maczuga wyrasta z podziemnego grzyba żywiciela (Elaphomyces), który wygląda jak ciemna kula połączona z podstawą. Po wykopaniu widać przytwierdzoną czarną do brązowej kulę żywiciela.",
+  "habitat": "Występuje w mieszanych lasach liściastych i iglastych, wyrastając z gleby, w której pod ziemią rośnie grzyb żywiciel Elaphomyces. Żywiciel jest mikoryzowy z korzeniami drzew. Maczuga przebija się przez glebę, mech i opadłe liście. Owocnikuje rozproszony, często niepozorny. Pospolity w wilgotnych lasach o żyznej, próchnicznej glebie.",
+  "season": "Od lata do jesieni (lipiec–listopad) w większości regionów. Szczyt owocnikowania późnym latem i wczesną jesienią (sierpień–październik). Po wyrośnięciu może utrzymywać się tygodniami. Pospolitszy w latach o stałej wilgotności.",
+  "regions": [
+    "Wschodnia Ameryka Północna (szeroko rozpowszechniony)",
+    "Północno-Zachodni Pacyfik (pospolity)",
+    "Północna Kalifornia",
+    "Góry Skaliste",
+    "Europa (szeroko rozpowszechniona)",
+    "północne lasy strefy umiarkowanej na całym świecie"
+  ],
+  "lookalikes": [
+    "Gatunki Cordyceps na owadach — pasożytują na owadach, nie na grzybach, inne podłoże",
+    "Clavariadelphus ligula (jadalna) — kształt maczugi, lecz większa, z fioletowym odcieniem, nie pasożytuje",
+    "Włosojęzyki (Geoglossum, Trichoglossum) — ciemnobrązowe do czarnych, nie na grzybowych żywicielach",
+    "Próchnilec gałęzisty (Xylaria hypoxylon, niejadalny) — o kształcie przypominającym poroże, na drewnie, nie na podziemnych grzybach"
+  ],
+  "safety_notes": "NIEJADALNY: Choć technicznie nietrujący, grzyb ten nie ma wartości kulinarnej i jest zbyt mały i zbyt twardy, aby był wart zachodu. Historycznie niejedzony w tradycji zachodniej. Niektóre gatunki Cordyceps są stosowane w tradycyjnej medycynie chińskiej, lecz ten gatunek nie jest powszechnie używany. Rzadkość i rola ekologiczna sprawiają, że zbieranie jest niewłaściwe. Cenniejszy jako interesujący okaz ekologiczny ukazujący pasożytnictwo grzyba na grzybie. Przytwierdzenie do podziemnego jeleniaka Elaphomyces jest charakterystyczne i fascynujące, ale niejadalne. Zostawić w miejscu, aby obserwować tę unikalną relację przyrodniczą.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695832.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 124104,
+      "width": 640,
+      "height": 482,
+      "sha256": "1e2ef7dcb84f3cda23d2b104b4f5a6220a69ae2f488693e464c8a5335f539fc9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695833.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 120130,
+      "width": 640,
+      "height": 482,
+      "sha256": "9b1b60be8962b17ec5d5a62e529b453d1553ba641e4af729a3fabca5aa254aad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

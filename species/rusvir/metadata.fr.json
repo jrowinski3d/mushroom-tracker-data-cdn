@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusvir",
+  "scientific_name": "Russula virescens",
+  "common_name": "Palomet",
+  "edibility": "E",
+  "description": "Le Palomet a un chapeau vert (5 à 12 cm) avec un motif CRAQUELÉ ou en DAMIER caractéristique, exposant la chair blanche en dessous — très caractéristique. Lames blanches. Pied blanc, ferme. CLÉ : CHAPEAU VERT CRAQUELÉ, CHAIR CASSANTE, PAS DE LATEX, GOÛT DOUX. Chair blanche. Sporée blanche.",
+  "habitat": "Mycorhizienne avec les feuillus, surtout le chêne, le hêtre, le châtaignier. Pousse au sol dans les forêts de feuillus. Espèce européenne. Dispersée ou en groupes.",
+  "season": "De l'été à l'automne (juillet-septembre).",
+  "regions": [
+    "Europe",
+    "est des États-Unis (peut-être introduite)"
+  ],
+  "lookalikes": [
+    "Russula aeruginea — verte mais lisse",
+    "Autres russules",
+    "Lactaires — ont du LATEX"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : excellente saveur douce et de noisette. Motif du CHAPEAU VERT CRAQUELÉ inimitable. CHAIR CASSANTE + GOÛT DOUX. Très prisé en Europe. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1577038.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 67492,
+      "width": 640,
+      "height": 480,
+      "sha256": "a609f8d413c5866ecfc3b1d8dd55ca38c560370d54100b6c5180553ae41659a1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1577039.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 52214,
+      "width": 480,
+      "height": 640,
+      "sha256": "d60f279b895b6e53ce3ebeb25006c468963e1e5b63c6fd6c606b67e877e604a7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

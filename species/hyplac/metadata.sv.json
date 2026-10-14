@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "hyplac",
+  "scientific_name": "Hypomyces lactifluorum",
+  "common_name": "Lobster Mushroom (Hypomyces lactifluorum)",
+  "edibility": "E",
+  "description": "Hummersvampen är egentligen ingen svamp utan en klarorange parasitsvamp som förvandlar sina värdsvampar (kremlor och riskor) till ätliga exemplar. Den infekterade svampen blir helt täckt med en hård klarorange till rödorange skorpa. Formen behåller värdens form (visar ofta skivor eller porer), men ytan är grov, knottrig eller vårtig. Storleken varierar 5–15 cm beroende på värden. Köttet är vitt marmorerat med orange, fast och tätt. Hela strukturen blir stel och tung. Har en skaldjurslik doft som påminner om kokt hummer eller räkor.",
+  "habitat": "Finns i barr- och blandskog där dess värdarter (kremlor och riskor) växer. Parasiten koloniserar underjordiska knappar och unga svampar av mottagliga arter. Parasiterar vanligen vita eller ljusa kremlor och riskor. Fruktsätter där värdarna är rikliga, strödd till i grupper. Föredrar områden med rik jord och värdarnas mykorrhizaanknytningar.",
+  "season": "Sensommar till höst (juli–november) beroende på värdarnas fruktsättning. Topp sent på sommaren och tidigt på hösten (augusti–oktober). Tidpunkten följer värdsvamparnas framträdande. Vanligare under år med god värdfruktsättning.",
+  "regions": [
+    "Östra Nordamerika (vanlig)",
+    "Nordvästra USA och västra Kanada (mycket vanlig)",
+    "Klippiga bergen",
+    "Norra Kalifornien",
+    "Sydöstra USA",
+    "Hela Nordamerika där värdar förekommer"
+  ],
+  "lookalikes": [
+    "Russula emetica infekterad av andra svampar – giftig värd, kan vara farlig",
+    "Lactarius-arter utan Hypomyces – kan vara giftiga riskor",
+    "Andra orange svampar – men ingen har den hårda skorpan och det förvridna utseendet",
+    "KRITISKT: Måste verifiera den hårda orange skorpan som täcker hela svampen"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av de säkraste och mest eftertraktade vilda svamparna. Hypomyces-parasitismen förvandlar även giftiga värdarter till ätliga exemplar. Parasiten neutraliserar värdens gifter och bildar sin egen ätliga fruktkropp. Högt uppskattad för fast konsistens och skaldjurslik smak. Populär på restauranger. KRITISK bestämning: verifiera FULLSTÄNDIG täckning med hård orange skorpa, INGA blottade skivor eller porer (värden helt täckt), fast tätt kött, mild skaldjursdoft. Delvis täckning kan tyda på tidig parasitism med giftig värd fortfarande kvar – undvik. Tillaga ordentligt. Utmärkt stekt, i soppor eller som hummerersättning. Mycket säker utan giftiga förväxlingsarter vid korrekt bestämning.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1704596.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-12",
+      "file_size_bytes": 63526,
+      "width": 640,
+      "height": 480,
+      "sha256": "acda8b6cd5e164f36ada0e732c42d1f2383bf7585c9742be453479f8e4951f0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1704580.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-10",
+      "file_size_bytes": 133344,
+      "width": 480,
+      "height": 640,
+      "sha256": "f1c7fc75c4e79e66f10e033cde7d397acadeb2d14cc68c045567a456685d10b9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.452340",
+  "source_language": "en"
+}

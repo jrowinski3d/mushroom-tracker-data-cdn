@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "spacri",
+  "scientific_name": "Sparassis crispa",
+  "common_name": "Seta coliflor",
+  "edibility": "E",
+  "description": "La seta coliflor es un hongo grande y espectacular que forma masas de color crema a amarillo pálido de 10-40 cm de diámetro (a veces hasta 60 cm) que recuerdan a una coliflor o a una esponja marina. El cuerpo fructífero está formado por numerosos lóbulos delgados, ondulados, parecidos a hojas, o ramas en forma de cinta que nacen de una base central en forma de pie. Los lóbulos son crespos, con volantes y muy apretados. El color es crema, amarillo pálido o beige cuando está fresco, volviéndose amarillo parduzco más oscuro con la edad. La textura es crujiente y quebradiza cuando está fresca. La base se une a raíces o a madera. Aspecto muy distintivo.",
+  "habitat": "Se encuentra en la base de coníferas viejas, sobre todo pino, abeto, pícea y alerce. Crece como parásito de raíces en árboles vivos o a partir de raíces enterradas de coníferas muertas. Suele aparecer en la misma ubicación del árbol año tras año. Fructifica en o cerca de la base de los árboles, a veces pareciendo crecer del suelo. Prefiere bosques maduros de coníferas.",
+  "season": "De finales del verano a otoño (agosto-noviembre) en la mayoría de las regiones. En el Pacífico Noroeste y las montañas, principalmente septiembre-octubre. Fructificación máxima en otoño. Puede fructificar en primavera y otoño en algunos lugares. Perenne: vuelve a los mismos lugares cada año.",
+  "regions": [
+    "Europa (extendida)",
+    "Pacífico Noroeste (común)",
+    "Montañas Rocosas",
+    "noreste de Norteamérica",
+    "montañas del norte de California",
+    "bosques de coníferas templados del norte en todo el mundo"
+  ],
+  "lookalikes": [
+    "Sparassis radicata (comestible) — muy similar, en frondosas y no en coníferas, más amarilla",
+    "Sparassis spathulata (comestible) — oeste de Norteamérica, aspecto similar",
+    "Maitake Grifola (comestible) — rosetas de cucharas gris-marrón, estructura diferente",
+    "Sin especies tóxicas similares — el aspecto es único"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciada, con sabor excelente y textura única. Uno de los mejores hongos silvestres. La textura crujiente, parecida a fideos, es distintiva. Excelente en sopas, salteados y platos de pasta. Limpiar a fondo: la estructura con volantes atrapa suciedad e insectos. Mejor cuando es joven y de color crema. Los ejemplares viejos se vuelven duros y amarillentos. Cocinar bien. Puede ser bastante grande y dar una cosecha abundante. El aspecto es absolutamente inconfundible: no existen especies peligrosas similares. Muy buscada por los recolectores. Se puede secar o congelar. Vuelve a la misma ubicación cada año.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/380302.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65530,
+      "width": 640,
+      "height": 480,
+      "sha256": "0271503fea6ce136bdc5647e13ea525538f74f78a57e6ca8ce75287d683af72d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/380303.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65944,
+      "width": 640,
+      "height": 480,
+      "sha256": "f27081bca45016950cd1230a0e65c328dab21d3a386eb6faba9715df6b35c6d3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

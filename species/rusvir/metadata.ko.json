@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusvir",
+  "scientific_name": "Russula virescens",
+  "common_name": "기와버섯",
+  "edibility": "E",
+  "description": "기와버섯은 녹색 갓(5~12cm)에 독특한 갈라진 또는 바둑판 무늬가 있어 아래의 흰색 육질이 드러나는데, 이는 매우 특징적이다. 주름살은 흰색이다. 대는 흰색이며 단단하다. 핵심: 갈라진 녹색 갓, 잘 부서지는 육질, 유액 없음, 온화한 맛. 육질은 흰색이다. 포자문은 흰색이다.",
+  "habitat": "활엽수, 특히 참나무, 너도밤나무, 밤나무와 균근 공생을 이룬다. 낙엽수림의 지상에서 자란다. 유럽 종이다. 흩어지거나 무리 지어 발생한다.",
+  "season": "여름부터 가을(7~9월)까지 발생한다.",
+  "regions": [
+    "유럽",
+    "미국 동부(도입된 것으로 추정)"
+  ],
+  "lookalikes": [
+    "Russula aeruginea - 녹색이지만 매끄러움",
+    "다른 무당버섯류",
+    "젖버섯류(Lactarius) - 유액이 있음"
+  ],
+  "safety_notes": "최상급 식용: 훌륭하고 온화하며 고소한 맛. 갈라진 녹색 갓 무늬는 혼동할 수 없다. 잘 부서지는 육질 + 온화한 맛. 유럽에서 매우 귀하게 여겨진다. 충분히 익혀 먹는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1577038.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 67492,
+      "width": 640,
+      "height": 480,
+      "sha256": "a609f8d413c5866ecfc3b1d8dd55ca38c560370d54100b6c5180553ae41659a1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1577039.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 52214,
+      "width": 480,
+      "height": 640,
+      "sha256": "d60f279b895b6e53ce3ebeb25006c468963e1e5b63c6fd6c606b67e877e604a7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

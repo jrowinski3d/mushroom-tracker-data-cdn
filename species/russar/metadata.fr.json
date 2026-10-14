@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "russar",
+  "scientific_name": "Russula sardonia",
+  "common_name": "Russule sardoine",
+  "edibility": "U",
+  "description": "La Russule sardoine a un chapeau violet à rouge vin (3 à 10 cm), visqueux. Lames jaunâtres. Pied blanc à rosâtre. CLÉ : CHAIR CASSANTE CRAIEUSE, PAS DE LATEX, GOÛT INTENSÉMENT ÂCRE/POIVRÉ. Chapeau violet-rouge. Chair blanche. Sporée ocre. Le goût âcre est immédiat et intense.",
+  "habitat": "Mycorhizienne avec les CONIFÈRES, surtout le pin et l'épinette. Pousse au sol dans les forêts de conifères et mixtes. Souvent sur sol acide. Espèce nordique et montagnarde. Dispersée.",
+  "season": "De l'été à l'automne (juillet-octobre).",
+  "regions": [
+    "Nord-Est",
+    "Haut-Midwest",
+    "montagnes Rocheuses",
+    "Pacifique Nord-Ouest",
+    "Canada",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Autres russules violettes/rouges — TEST DE GOÛT (croquer et recracher)",
+    "Russula emetica — rouge âcre semblable",
+    "Lactarius rufus — a du LATEX"
+  ],
+  "safety_notes": "NON COMESTIBLE : Russula sardonia a un goût intensément brûlant, poivré et âcre qui la rend totalement non comestible. Le nom d'espèce 'sardonia' vient du grec et signifie amer ou âcre. Bien que certaines sources débattent de sa comestibilité technique après une longue préparation, la chaleur poivrée extrême la rend immangeable et peut provoquer des troubles gastro-intestinaux. Éviter la consommation.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1279557.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 63552,
+      "width": 640,
+      "height": 480,
+      "sha256": "be0573fb193d83ca13d213b80336d3193cb3074e717e73443062fc4c5b7346e1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1279558.jpg",
+      "photographer": "Dave Ross",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-14",
+      "file_size_bytes": 101028,
+      "width": 480,
+      "height": 640,
+      "sha256": "dd9df0d9882a745a495036f89e4aa33404d26dd0d37ec6a7584e352b08bbd3ea"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

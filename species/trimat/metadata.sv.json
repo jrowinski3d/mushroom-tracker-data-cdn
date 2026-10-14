@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "trimat",
+  "scientific_name": "Tricholoma matsutake",
+  "common_name": "Matsutake",
+  "edibility": "E",
+  "description": "Matsutaken har en kraftig vit hatt (6–20 cm) som blir brunaktig med åldern, ofta med brunaktiga fläckar. Hatten är välvd till utbredd, torr, slät till lätt fibrig. Skivorna är vita, vidfästa, täta. Foten är tjock, vit, fast, med en KARAKTERISTISK TJOCK PARTIELL SLÖJA som ofta lämnar en BOMULLSLIKNANDE RING eller trasiga rester på övre delen av foten. Huvudkännetecknet är den STARKA KRYDDIGA, KANELDOFTANDE eller TALLDOFTANDE LUKTEN – omedelbart igenkännbar och kännetecknande. Köttet är vitt, mycket fast, tätt. Sporfällningen är vit. Kommer ofta upp genom jord/förna och skapar en karakteristisk 'matsutakeknöl' innan den helt träder fram.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD, särskilt tall (Pinus), hemlock och ädelgran i Asien. Bildar obligatoriska associationer med specifika värdträd. Växer på marken, ofta delvis nedgrävd i förna eller jord. Finns i mogna barrskogar, vanligen i specifika 'shiro' (häxringar). Kräver specifika jordförhållanden och ostörd skogsmiljö.",
+  "season": "Höst (september–november) i Japan och Asien, fruktsätter i svalt höstväder.",
+  "regions": [
+    "Japan",
+    "Korea",
+    "Kina",
+    "Asien (ursprungsområde)"
+  ],
+  "lookalikes": [
+    "Tricholoma magnivelare (amerikansk matsutake) – nordamerikansk art, mycket lik",
+    "Tricholoma murrillianum (sydvästlig matsutake) – sydvästra USAs art",
+    "Amanita smithiana – GIFTIG – vit men har volva vid basen, annan lukt",
+    "Andra Tricholoma-arter – saknar karakteristisk kanellukt"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av världens dyraste och mest uppskattade matsvampar, särskilt i det japanska köket där den kan säljas för hundratals dollar per pund. Den starka KRYDDIGA KANELDOFTEN är huvudkännetecknet. Bäst när den är ung och fast – äldre exemplar blir beska. Rengör varsamt för att bevara de aromatiska ämnena. Förväxla aldrig med giftiga vita Amanita-arter – matsutaken har ingen volva, har karakteristisk lukt och har en ring.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/705543.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 61824,
+      "width": 640,
+      "height": 480,
+      "sha256": "97b74a9180a9fba23ead388a50e26d38db132e89b7d39d743c91e8435bb732d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/705544.jpg",
+      "photographer": "gillow2e",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2016-10-20",
+      "file_size_bytes": 77154,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd70501e766a7b20042ccbf068e41759f221e4300395f3048ba11d8114c34a3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigre",
+  "scientific_name": "Suillus grevillei",
+  "common_name": "Bolet élégant",
+  "edibility": "E",
+  "description": "Le bolet élégant porte un chapeau jaune doré vif à jaune orangé (3-10 cm), très visqueux et gluant par temps humide. Les pores sont jaune vif, brunissant. Un anneau membraneux bien visible sur le pied jaune se tache souvent de brun avec les spores. La chair jaune ne se tache pas. Les couleurs jaune vif et l'association avec le mélèze sont diagnostiques. Sporée brun cannelle.",
+  "habitat": "Mycorhizien exclusivement avec le mélèze (espèces de Larix) — ne peut fructifier sans mélèzes. Forme des associations obligatoires avec le mélèze d'Europe, le mélèze occidental et le mélèze laricin. Trouvé dans les plantations de mélèzes et les forêts indigènes de mélèzes.",
+  "season": "De la fin de l'été à l'automne (août-novembre) avec un pic de fructification en septembre-octobre. Fructifie en synchronie avec le mélèze dans les régions tempérées.",
+  "regions": [
+    "Pacifique Nord-Ouest (mélèze occidental)",
+    "montagnes Rocheuses",
+    "forêts du Nord-Est (mélèze laricin)",
+    "région des Grands Lacs",
+    "plantations de mélèzes dans toute l'Amérique du Nord",
+    "Canada",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Suillus luteus — chapeau plus foncé, avec le pin et non le mélèze",
+    "Autres espèces de Suillus — aucune d'un jaune aussi vif",
+    "Espèces de Boletus — non visqueux, habitat différent",
+    "Aucun sosie toxique quand on le trouve avec le mélèze"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet élégant est un bon comestible, de texture ferme et de saveur douce. Retirer la cuticule très visqueuse du chapeau avant la cuisson. L'association obligatoire avec le mélèze rend l'identification simple — s'il n'y a pas de mélèzes, ce n'est pas cette espèce. Certaines personnes ressentent des troubles digestifs. Bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1514245.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 81080,
+      "width": 480,
+      "height": 640,
+      "sha256": "2107c1ba7397ae9b012d8dde6e396d9ab6720ac9ad6b0d69cceb47499a0eb10b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1514246.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 102390,
+      "width": 480,
+      "height": 640,
+      "sha256": "63324e26cc0f1ce46d1f506e95ec446d2124bd4d7dfd867474f8d87d9e5f4991"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

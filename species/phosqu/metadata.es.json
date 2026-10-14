@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phosqu",
+  "scientific_name": "Pholiota squarrosa",
+  "common_name": "Shaggy Scalycap (Pholiota squarrosa)",
+  "edibility": "E",
+  "description": "La Shaggy Scalycap es una seta de mediana a grande con un sombrero de 5-15 cm de diámetro, convexo que se vuelve ampliamente convexo o plano. El sombrero es de amarillo pálido a amarillo-marrón u ocre, densamente cubierto de escamas marrones a marrón rojizas levantadas y recurvadas, especialmente hacia el centro, lo que le da un aspecto muy desgreñado. Las láminas son adnatas a subdecurrentes, inicialmente amarillo pálido que se vuelven marrón rojizo con la edad. El pie mide 5-15 cm de alto, robusto, amarillo pálido por encima del anillo, cubierto de escamas marrones debajo del anillo. El anillo es grueso y persistente. La carne es amarillo pálido con un olor a rábano o algo desagradable.",
+  "habitat": "Se encuentra sobre árboles de frondosas muertos y vivos, particularmente haya, arce, roble y álamo. Crece en densos grupos superpuestos en la base de los árboles, en tocones o en troncos caídos. Actúa como descomponedora de madera y a veces como parásita débil. Muy común en árboles de calles y en parques. Fructifica en apretados grupos agrupados, a menudo con decenas de individuos.",
+  "season": "Desde finales del verano hasta el otoño (agosto-noviembre) en la mayoría de las regiones. En climas suaves puede fructificar hasta el invierno. Fructificación máxima en septiembre-octubre. Puede producir múltiples brotes en los buenos años.",
+  "regions": [
+    "Europa (muy extendida)",
+    "este de Norteamérica (muy común)",
+    "Pacífico Noroeste (común)",
+    "California (ocasional)",
+    "regiones templadas de todo el mundo sobre frondosas",
+    "zonas urbanas en árboles de calles"
+  ],
+  "lookalikes": [
+    "Especies de Pholiota: muchas especies escamosas similares, difíciles de distinguir",
+    "Especies de Armillaria (comestible con precaución): de color miel, menos escamosas, hábitat diferente",
+    "Hypholoma fasciculare (tóxica): grupos sobre madera pero láminas verdosas, sabor amargo",
+    "Especies de Gymnopilus (algunas alucinógenas): marrón anaranjado, amargas, esporas rojizas"
+  ],
+  "safety_notes": "COMESTIBLE PERO NO RECOMENDADA: considerada comestible por algunas fuentes, pero causa molestias digestivas en muchas personas. Los informes de consumo exitoso y de molestias gástricas son comunes. La textura es fibrosa y dura. El sabor puede ser desagradable con un gusto a rábano o químico. Debe cocinarse a fondo. La posibilidad de confusión con setas tóxicas agrupadas es motivo de preocupación. Incluso bien identificada, la calidad es pobre y muchas personas no la toleran. Existen mejores comestibles. El aspecto desgreñado y escamoso es distintivo. Si la prueba, pruebe primero pequeñas cantidades y espere molestias digestivas. No recomendada debido a los generalizados informes de molestias gastrointestinales y el mal sabor. Los densos grupos sobre frondosas son distintivos pero no apetitosos.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694482.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-12",
+      "file_size_bytes": 132484,
+      "width": 480,
+      "height": 640,
+      "sha256": "3d084ecd15ffe19ff9895f7eb226bc1aa8c2869cf25c8f0bd05b5612f5085c25"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1706127.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 89392,
+      "width": 640,
+      "height": 482,
+      "sha256": "cf74f11b6803c798a105ba96bdcb7ec182982f54ee307acaee9372de457da2c2"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:49:48.480026",
+  "source_language": "en"
+}

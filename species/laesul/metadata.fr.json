@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laesul",
+  "scientific_name": "Laetiporus sulphureus",
+  "common_name": "Poulet des bois",
+  "edibility": "E",
+  "description": "Console frappante jaune soufre vif à orange, formant de grandes tablettes chevauchantes de 2 à 12 pouces de large. Surface supérieure orange vif à saumon, surface des pores jaune soufre vif en dessous. Tendre, succulent et à texture de poulet jeune, devenant dur et friable avec l'âge. Pas de pied. Fructification annuelle. Champignon de pourriture blanche à surface des pores jaune soufre distinctive.",
+  "habitat": "Parasite et saprobe sur les feuillus vivants et morts, notamment chêne, cerisier, saule et autres espèces caduques. Forme de grandes rosettes ou consoles en étagères sur les troncs, souches et bûches tombées. Provoque une pourriture brune cubique du cœur. Commun sur les chênes dans les forêts de l'est.",
+  "season": "Du printemps à l'automne selon la région, avec un pic de fructification de mai à septembre. Peut pousser plusieurs fois par saison. Le plus commun à la fin du printemps et au début de l'été. Les spécimens jeunes et tendres apparaissent plus tôt dans la saison.",
+  "regions": [
+    "Est de l'Amérique du Nord",
+    "Midwest",
+    "Sud des États-Unis",
+    "région des Grands Lacs",
+    "largement répandu à l'est des Rocheuses",
+    "Europe et Asie"
+  ],
+  "lookalikes": [
+    "Laetiporus cincinnatus (surface des pores blanche, pousse du sol/racines)",
+    "Laetiporus gilbertsonii (ouest, hôte eucalyptus)",
+    "Clitocybe illusoire (Omphalotus) — toxique, a des lames et non des pores, croissance différente",
+    "Autres espèces de Laetiporus (toutes comestibles, hôtes/régions différents)"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX jeune et tendre : Ne récolter que des spécimens jeunes, tendres, souples, à texture humide. Éviter les spécimens vieux, secs et friables. IMPORTANT : Certaines personnes éprouvent des troubles digestifs, notamment avec les spécimens poussant sur conifères, eucalyptus ou cèdre — éviter ces hôtes. Commencer par de petites quantités pour tester la tolérance. Bien cuire. Meilleur quand les bords sont encore en croissance et de couleur vive. Excellente texture de poulet bien préparé.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1717527.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-20",
+      "file_size_bytes": 143724,
+      "width": 480,
+      "height": 640,
+      "sha256": "96ecc15722b354ccdb58b90e11a997df2f8e07812f5581037ef20111ec94ac0e"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1711715.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-03",
+      "file_size_bytes": 75342,
+      "width": 482,
+      "height": 640,
+      "sha256": "cced2e82c7075ceb4a44c2c7c8fea1b49ed2b614b53cc34dc6f1d1dc5dc4f3d4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.487276",
+  "source_language": "en"
+}

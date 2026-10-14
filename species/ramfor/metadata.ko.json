@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramfor",
+  "scientific_name": "Ramaria formosa",
+  "common_name": "Beautiful Clavaria (Ramaria formosa)",
+  "edibility": "P",
+  "description": "이 산호버섯은 매력적이지만 유독한 종으로, 높이 10~20cm, 너비 10~15cm이다. 자실체는 굵은 흰색에서 연한 색의 밑동에서 나온 수많은 곧게 선 가지들로 이루어진다. 가지는 어릴 때 연어분홍에서 복숭아주황색이며, 나이 들면 더 주황노랑이 된다. 상처를 입거나 만지면 육질이 뚜렷하게 노랗게 변한다(동정 특징). 가지 끝은 대개 노란색이다. 가지가 빽빽하고 정교하다. 육질은 흰색에서 연한 노란색이며 잘 부서지고, 종종 불쾌한 냄새가 난다. 이름과 달리 식용이 아니다.",
+  "habitat": "활엽수림과 혼합림에서 발견되며, 참나무, 너도밤나무 등 낙엽수와 균근 공생을 이룬다. 보통 비옥한 부엽토에서 흙으로부터 지상으로 자란다. 흩어지거나 무리 지어 발생한다. 유기질 토양이 좋은 성숙한 숲을 선호한다. 낙엽층에서 흔하다.",
+  "season": "대부분의 지역에서 늦여름부터 가을(8~11월)까지 발생한다. 유럽에서는 주로 8~10월이다. 초가을에서 중가을에 가장 많이 발생한다. 따뜻해진 토양과 꾸준한 가을 습기가 필요하다.",
+  "regions": [
+    "유럽(널리 분포)",
+    "북아메리카 동부(흔함)",
+    "태평양 북서부(가끔)",
+    "캘리포니아(드묾)",
+    "온대 낙엽수림",
+    "북동부에서 특히 흔함"
+  ],
+  "lookalikes": [
+    "Ramaria aurea (식용) - 황금노랑, 상처 입어도 노랗게 변하지 않음",
+    "Ramaria botrytis (식용) - 분홍색 끝이지만 밑동이 흰색/노란색, 노랗게 변하는 반응 없음",
+    "Ramaria flava (식용) - 전체가 연한 노란색, 연어분홍빛 없음",
+    "다른 Ramaria속 종 - 유독 종과 식용 종이 많이 비슷함"
+  ],
+  "safety_notes": "유독: Ramaria formosa는 메스꺼움, 구토, 설사, 복통(산통)을 포함한 위장관 장애를 일으킨다. 생명을 위협하는 경우는 드물지만 증상은 심하고 괴로울 수 있다. 이 버섯을 먹지 마라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1581352.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 44560,
+      "width": 640,
+      "height": 573,
+      "sha256": "9cb3b04fef0a9adeba4093d6864745b13963188cabfeb24b2f0856988ec56dd1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1581353.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 67020,
+      "width": 640,
+      "height": 536,
+      "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

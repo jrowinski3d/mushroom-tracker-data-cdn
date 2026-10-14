@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusden",
+  "scientific_name": "Russula densifolia",
+  "common_name": "Crowded Russula (Russula densifolia)",
+  "edibility": "E",
+  "description": "Ma biały do kremowego kapelusz (4–10 cm), czasem z brązowawymi tonami. Blaszki białe, BARDZO GĘSTE. Trzon biały. KLUCZ: KRUCHY MIĄŻSZ, BARDZO GĘSTE BLASZKI, białe zabarwienie. Miąższ biały. Wysyp zarodników biały. Smak łagodny do lekko piekącego.",
+  "habitat": "Mikoryzowa z drzewami iglastymi i liściastymi. Rośnie na ziemi w lasach mieszanych. Gatunek północno-zachodniego Pacyfiku. Rozproszona lub w grupach.",
+  "season": "Jesień (wrzesień–listopad).",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Kalifornia",
+    "Kolumbia Brytyjska"
+  ],
+  "lookalikes": [
+    "Inne białe gołąbki",
+    "Mleczaje – mają MLECZKO"
+  ],
+  "safety_notes": "JADALNY: Łagodny smak. BIAŁY KAPELUSZ + BARDZO GĘSTE BLASZKI + KRUCHY MIĄŻSZ – diagnostyczne. Próba smaku (łagodne okazy jadalne). Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714127.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-29",
+      "file_size_bytes": 70928,
+      "width": 640,
+      "height": 427,
+      "sha256": "8aff2c8839ac4152dde72b2b7b07ea8ed17b19b9a8bd921e95b6419ba4b60b98"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1644739.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-17",
+      "file_size_bytes": 67462,
+      "width": 640,
+      "height": 427,
+      "sha256": "8abc0be6a366ca5fcb6b67ae26230389bed72f12c82bf446ab568db283c66c53"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

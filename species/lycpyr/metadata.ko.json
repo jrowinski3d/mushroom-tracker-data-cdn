@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycpyr",
+  "scientific_name": "Lycoperdon pyriforme",
+  "common_name": "Pear-shaped Puffball (Lycoperdon pyriforme)",
+  "edibility": "E",
+  "description": "높이 1-2인치, 너비 0.75-1.5인치의 작은 배 모양 말불버섯으로, 표면이 매끄럽거나 미세하게 과립상이며 가시가 없다. 자라면서 흰색에서 황갈색, 갈색이 된다. 흰색 균사 다발(근상균사속)로 연결된 빽빽한 무리로 자란다. 식용 가능할 때는 속이 순백색이며, 올리브황색에서 갈색으로 변한다. 매끄러운 표면과 나무 위의 무리 지은 생장으로 구별된다.",
+  "habitat": "통나무, 그루터기, 묻힌 나무, 목질 잔해를 포함한 잘 썩은 나무 위에서 직접 부생한다. 기부에서 연결된 수십 개의 자실체로 이루어진 빽빽한 무리로 자란다. 숲의 썩은 활엽수와 침엽수 목재에서 흔하다. 땅에서 자라는 것처럼 보이나 항상 묻힌 나무와 연결되어 있다.",
+  "season": "여름부터 가을까지, 보통 7월-11월. 온화한 기후에서는 봄부터 가을까지 나타날 수 있다. 8월-10월이 최성기이다. 가장 늦게까지 열매를 맺는 말불버섯 중 하나이다.",
+  "regions": [
+    "북아메리카 동부",
+    "태평양 북서부",
+    "로키 산맥",
+    "오대호 지역",
+    "북아메리카 전역에 분포",
+    "전 세계적으로 광범위하게 분포"
+  ],
+  "lookalikes": [
+    "Lycoperdon perlatum(가시 표면, 나무 위 무리 생장 아님)",
+    "치명적: 미성숙 광대버섯 단추(반드시 잘라 볼 것 - 안에 발달 중인 주름살/갓이 보임)",
+    "다른 작은 Lycoperdon 속(서식지가 다르며 나무 위 무리 생장 아님)",
+    "어린 Apioperdon(Lycoperdon) 속(표면 질감이 다름)"
+  ],
+  "safety_notes": "속이 순백색일 때 식용 가능: 필수 — 먹기 전에 반드시 표본을 위에서 아래로 완전히 반으로 잘라 볼 것. 속이 전체적으로 완전히 순백색이고 단단할 때만 식용 가능. 노란색, 올리브색, 갈색이나 발달 중인 구조가 조금이라도 보이면 먹지 말 것. 이를 통해 유독 유사종과 미성숙 치명적 광대버섯류를 먹는 것을 방지한다. 나무 위의 무리 생장과 흰색 균사 다발이 식별에 도움이 된다. 완전히 익혀 먹을 것 — 어릴 때는 순하고 기분 좋은 맛.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719866.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 45098,
+      "width": 640,
+      "height": 427,
+      "sha256": "025b68dcca9112710f3959f8bb7d0f77f9d8cd19726479ecbe880eb39fe3fb8c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717930.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 44818,
+      "width": 640,
+      "height": 427,
+      "sha256": "69d292fb21699cee44f79057132cff9d0cf638d5adf550166783c068eb52dfe5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

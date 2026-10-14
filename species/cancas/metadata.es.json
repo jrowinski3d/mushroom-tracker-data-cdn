@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancas",
+  "scientific_name": "Cantharellus cascadensis",
+  "common_name": "Cascade Chanterelle (Cantharellus cascadensis)",
+  "edibility": "E",
+  "description": "El rebozuelo de las Cascadas tiene un sombrero de amarillo pálido a crema de 2 a 8 cm de ancho, notablemente más pálido que su primo de menor altitud C. formosus. El sombrero es liso, se vuelve embudado con la edad, con márgenes ondulados e irregulares. El envés presenta pliegues gruesos, romos y bifurcados (NO son láminas verdaderas), de crema a amarillo pálido, ampliamente espaciados y fuertemente decurrentes por el pie. El pie es macizo, de 2 a 6 cm de alto, de blanco a crema pálido, a menudo adelgazado hacia la base. La carne es de blanca a crema pálido, firme, con un sutil aroma afrutado. La esporada es de blanca a crema pálido.",
+  "habitat": "Micorrícico con coníferas de alta montaña, incluidos tsuga de montaña, abetos verdaderos (especies de Abies) y pícea de Engelmann. Se encuentra en bosques montanos y subalpinos de coníferas, a menudo en áreas musgosas cerca de zonas de deshielo. Prefiere ambientes montañosos frescos y húmedos con suelos bien drenados.",
+  "season": "De finales del verano a otoño (agosto-noviembre), fructificando a medida que retrocede la capa de nieve y comienzan las lluvias de otoño. La temporada máxima es septiembre-octubre a mayor altitud. La temporada es más corta que la de los rebozuelos de tierras bajas debido a las temperaturas montañosas más frías.",
+  "regions": [
+    "cordillera de las Cascadas (Washington, Oregón)",
+    "Rocosas del norte (Idaho, Montana)",
+    "bosques de alta montaña de la Columbia Británica",
+    "montañas de Sierra Nevada (norte de California)",
+    "montañas Olímpicas"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus: comestible, dorado-naranja más oscuro, se encuentra a menor altitud, cuerpos fructíferos más grandes",
+    "Cantharellus subalbidus: comestible, de blanco a crema, muy similar pero típicamente más pálido y se encuentra en regiones diferentes",
+    "Falsa rebozuelo (Hygrophoropsis aurantiaca): no tóxica pero de mala calidad, tiene láminas verdaderas delgadas, más naranja"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: el rebozuelo de las Cascadas es una seta comestible excelente de sabor delicado y textura firme. Como todos los rebozuelos, el rasgo clave de identificación son los pliegues romos y bifurcados del envés en lugar de láminas verdaderas. Estos pliegues se sienten cerosos y son continuos con la carne del sombrero. Confirme siempre que la seta crece del suelo en asociación con árboles, nunca sobre madera. La coloración pálida lo distingue de los tóxicos Jack-O'-Lanterns. Excelente en sopas y salteados; el sabor suave combina bien con platos a base de crema.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1282798.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 118826,
+      "width": 640,
+      "height": 480,
+      "sha256": "58e1d21cb1d18435de5d1d1c8c7c05cda8d1ee0fa95d5b5f028725272ab56569"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1282799.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-11-12",
+      "file_size_bytes": 129184,
+      "width": 480,
+      "height": 640,
+      "sha256": "2a36f1b24ec17de27e0c3efb15faaf7be7f697c1aebcb7c61d79c93e0439daaf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

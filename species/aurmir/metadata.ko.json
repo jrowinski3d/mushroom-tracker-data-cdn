@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "aurmir",
+  "scientific_name": "Aureoboletus mirabilis",
+  "common_name": "Admirable Bolete (Aureoboletus mirabilis)",
+  "edibility": "E",
+  "description": "어드마이러블볼리트는 진한 적갈색에서 버건디색의 갓(5-20cm)에 벨벳 같은 건조한 표면이 특징이다. 관공은 밝은 황금황색이며 청록색으로 변색한다. 황색 대에는 버건디적색 기운이 있고 독특한 황색 그물무늬가 있다. 황색 조직은 자르면 청색으로 착색한다. 부후 중인 솔송나무 목재 위에서 자라는 경우가 많아 그물버섯류 중 독특한 서식지이다. 포자문은 올리브 갈색이다.",
+  "habitat": "솔송나무와 균근성이지만, 독특하게 부후 중인 솔송나무 목재, 그루터기, 통나무 위나 근처에서 발생한다. 원시림과 성숙한 솔송나무림에서 발견된다. 목재 관련 발생 습성은 그물버섯에서 이례적이며 이 종의 진단 특징이다.",
+  "season": "늦여름부터 가을까지(8-10월) 발생하며 9월에 정점을 이룬다. 솔송나무 서식지에서 늦여름비 뒤에 나타난다.",
+  "regions": [
+    "태평양 북서부",
+    "북부 캘리포니아",
+    "오리건",
+    "워싱턴",
+    "브리티시컬럼비아",
+    "연안 솔송나무림",
+    "서부 솔송나무 지대"
+  ],
+  "lookalikes": [
+    "Boletus 종 - 목재에서 자라지 않고 색상이 다름",
+    "Xerocomellus 종 - 더 작고 서식지가 다름",
+    "Leccinum 종 - 거친 대, 목재에서 자라지 않음",
+    "목재 관련 발생과 버건디색이 독특함"
+  ],
+  "safety_notes": "식용: 어드마이러블볼리트는 단단한 조직과 기분 좋은 향미를 지닌 좋은 식용종. 청색 변색은 정상이며 안전하다. 솔송나무 목재 위나 근처에서 자라는 독특한 습성 덕분에 식별이 명확하다. 섭취 전 충분히 익힌다. 일부 사람은 가벼운 소화 불량을 겪을 수 있다. 비교적 드문 종이다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725765.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 150640,
+      "width": 640,
+      "height": 606,
+      "sha256": "814e356be5517f04c9d57950a24d9848d5876f0ce45ad179af08b9fe61821613"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1725766.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-07",
+      "file_size_bytes": 99810,
+      "width": 617,
+      "height": 640,
+      "sha256": "a7dea91a17c0ee221a8abd93059d972fddf1117e4c021788e9398cd02170e32a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusden",
+  "scientific_name": "Russula densifolia",
+  "common_name": "Crowded Russula (Russula densifolia)",
+  "edibility": "E",
+  "description": "La rúsula apretada tiene el sombrero de color blanco a crema (de 4 a 10 cm), a veces con tonos marrones. Láminas blancas, MUY APRETADAS. Pie blanco. CLAVE: CARNE QUEBRADIZA, LÁMINAS MUY APRETADAS, colores blancos. Carne blanca. Esporada blanca. De sabor suave a ligeramente picante.",
+  "habitat": "Micorrícica con coníferas y frondosas. Crece en el suelo en bosques mixtos. Especie del Pacífico Noroeste. De forma dispersa o en grupos.",
+  "season": "Otoño (septiembre-noviembre).",
+  "regions": [
+    "Pacífico Noroeste",
+    "California",
+    "Columbia Británica"
+  ],
+  "lookalikes": [
+    "Otras rúsulas blancas",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave. SOMBRERO BLANCO + LÁMINAS MUY APRETADAS + CARNE QUEBRADIZA: diagnóstico. Prueba de sabor (los ejemplares suaves son comestibles). Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1714127.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-29",
+      "file_size_bytes": 70928,
+      "width": 640,
+      "height": 427,
+      "sha256": "8aff2c8839ac4152dde72b2b7b07ea8ed17b19b9a8bd921e95b6419ba4b60b98"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1644739.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-17",
+      "file_size_bytes": 67462,
+      "width": 640,
+      "height": 427,
+      "sha256": "8abc0be6a366ca5fcb6b67ae26230389bed72f12c82bf446ab568db283c66c53"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

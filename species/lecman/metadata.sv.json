@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lecman",
+  "scientific_name": "Leccinum manzanitae",
+  "common_name": "Manzanita Bolete (Leccinum manzanitae)",
+  "edibility": "E",
+  "description": "Manzanita Bolete har en rödbrun till mörkbrun hatt (5-15 cm) med torr, sammetshårig till slät yta. Porerna är vita som unga, åldrande till olivgrå, och blåmärker brunaktigt. Den vitaktiga till blekt bruna foten är täckt med bruna till mörkbruna fjäll. Det vita köttet fläckar rosa-brunt vid snitt och mörknar så småningom till grått. Sporfällningen är olivbrun.",
+  "habitat": "Bildar mykorrhiza uteslutande med manzanita (Arctostaphylos-arter) i chaparral och blandade ek-madronaskogar. Bildar obligatoriska associationer med manzanitabuskar. Finns i kustskogar och fotskogar med manzanitaundervegetation.",
+  "season": "Vinter till vår (december-april) med toppfruktkroppar i januari-mars. Ovanlig vinterfruktkroppsperiod kopplad till Kaliforniens regnsäsong.",
+  "regions": [
+    "Kaliforniens kustberg",
+    "norra Kalifornien",
+    "centrala Kalifornien",
+    "San Franciscobukten",
+    "Sierra Nevadas fot",
+    "södra Oregon"
+  ],
+  "lookalikes": [
+    "Andra strävsoppar – men andra trädassociationer",
+    "Boletus-arter – saknar den sträva foten",
+    "Leccinum aurantiacum – mer orange hatt, annat habitat",
+    "Suillus-arter – klibbig hatt, barrträdsassociation"
+  ],
+  "safety_notes": "ÄTLIG: Manzanita Bolete är en god matsvamp med fast konsistens. Måste tillagas ordentligt i minst 15-20 minuter. Den unika manzanitaassociationen och vinterfruktkroppsperioden skiljer den från andra soppar. Köttets mörknande är normalt och ofarligt.",
+  "images": [
+    {
+      "file_size_bytes": 89814,
+      "height": 480,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "photographer": "Oluna & Adolf Ceska",
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d",
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 89814,
+      "height": 480,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "observation_date": "2020-11-05",
+      "photographer": "Oluna & Adolf Ceska",
+      "sha256": "68644f4f5b0f085dbb2aa4095dcd5a335a1ecc62e315b945ebf9366535c7ae4d",
+      "source_url": "https://mushroomobserver.org/images/640/1276979.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.240957",
+  "source_language": "en"
+}

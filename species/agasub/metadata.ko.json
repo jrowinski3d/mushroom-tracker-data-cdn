@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "agasub",
+  "scientific_name": "Agaricus subrutilescens",
+  "common_name": "Wine-colored Agaricus (Agaricus subrutilescens)",
+  "edibility": "E",
+  "description": "와인색양송이는 갓 지름 8-20cm의 중대형 종으로, 처음에는 둥글다가 넓게 볼록해지며 평평해진다. 갓은 흰색에서 크림색이며 갈색에서 적갈색의 섬유상 인편이 있고, 나이가 들거나 만지면 종종 와인색에서 분홍적색으로 착색된다. 주름살은 떨어진주름살로, 처음에는 옅은 분홍색이다가 진한 초콜릿 갈색이 된다. 대는 높이 6-15cm로 턱받이 위는 흰색이며, 특히 기부에서 와인색에서 분홍빛으로 착색된다(진단 특징). 턱받이는 크고 늘어져 있다. 조직은 흰색이며 자르면 서서히 분홍빛에서 와인색으로 착색되고, 기분 좋은 아몬드-아니스 향이 난다.",
+  "habitat": "침엽수림과 혼합림, 특히 소나무, 전나무, 가문비나무 아래에서 발견된다. 침엽수가 있는 도시 지역, 목재 칩과 수피 멀치가 깔린 조경 지역에서도 자란다. 부식질이 풍부한 토양과 분해 중인 목재 파편 위의 지상에서 자란다. 산재하거나 무리지어 자라며, 목재 칩 침상에서 종종 군집을 이룬다.",
+  "season": "캘리포니아와 지중해성 기후에서는 가을부터 겨울까지(10-2월). 온대 지역에서는 늦여름부터 가을까지(8-11월). 늦가을과 초겨울에 가장 많이 발생한다. 많은 Agaricus보다 추위에 강하다.",
+  "regions": [
+    "캘리포니아 (매우 흔함)",
+    "태평양 북서부 (흔함)",
+    "미국 남서부",
+    "북아메리카 서부 (널리 분포)",
+    "지중해성 기후",
+    "침엽수림 지역"
+  ],
+  "lookalikes": [
+    "Agaricus augustus (식용) - 더 크고 황금색 인편이 많으며 와인색 착색이 적음",
+    "Agaricus crocodilinus (식용) - 유사하나 독특한 와인색 대 기부 착색이 없음",
+    "Agaricus moelleri (독성) - 강하게 황변하고 아니스 향 대신 페놀 냄새",
+    "대형 광대버섯류 Amanita (일부 치명적) - 기부 외피막이 있는데 Agaricus에는 없음"
+  ],
+  "safety_notes": "식용: 충분히 익히면 좋은 향미와 단단한 조직을 지닌 식용종. 캘리포니아 채집가들에게 인기가 있다. 충분히 익혀 먹는다. 핵심 식별: 기분 좋은 아몬드-아니스 향 확인(페놀 냄새가 아님), 특히 대 기부에서 와인색에서 분홍빛으로 착색(진단 특징), 떨어진주름살이 분홍색에서 초콜릿 갈색으로 변함, 초콜릿 갈색 포자문, 기부 외피막 없음. 강한 황변 또는 불쾌한 페놀 냄새가 나는 개체는 피한다. 대 기부의 와인색 착색이 가장 독특한 특징이다. 수프와 볶음에 훌륭하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716382.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 80414,
+      "width": 640,
+      "height": 480,
+      "sha256": "2282913404fba100a85b46b81b99da6902789dc53d82cfe38e734143809ca12b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716373.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 92004,
+      "width": 640,
+      "height": 480,
+      "sha256": "d36a5a5cc111729564d1e8943cf126c3e8233ccf4dcede126b2a13cd99d81814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.615608",
+  "source_language": "en"
+}

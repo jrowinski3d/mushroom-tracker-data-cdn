@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "toloph",
+  "scientific_name": "Tolypocladium ophioglossoides",
+  "common_name": "Goldenthread Cordyceps (Tolypocladium ophioglossoides)",
+  "edibility": "U",
+  "description": "Le cordyceps fil d'or (Goldenthread Cordyceps) est un fascinant champignon parasite qui attaque les champignons souterrains (fausses truffes, notamment Elaphomyces). La fructification se compose d'une longue massue ou d'un épi mince de 3-12 cm de haut et 0,5-1,5 cm de large, émergeant du sol. La massue est cylindrique, souvent courbée, jaune-brun à brun olive, à surface légèrement rugueuse. La partie fertile supérieure est légèrement renflée. La massue émerge d'un hôte fongique souterrain (Elaphomyces) qui apparaît comme une boule sombre reliée à la base. Une fois déterré, la boule hôte noire à brune est visible, attachée.",
+  "habitat": "Trouvé dans les forêts mixtes de feuillus et de conifères, émergeant du sol où l'hôte fongique Elaphomyces pousse sous terre. L'hôte est mycorhizien avec les racines des arbres. La massue perce le sol, la mousse et la litière de feuilles. Fructifie dispersé, souvent discret. Commun dans les forêts humides au sol organique riche.",
+  "season": "De l'été à l'automne (juillet-novembre) dans la plupart des régions. Pic de fructification à la fin de l'été et au début de l'automne (août-octobre). Peut persister des semaines une fois émergé. Plus commun les années à humidité constante.",
+  "regions": [
+    "Est de l'Amérique du Nord (répandu)",
+    "Pacifique Nord-Ouest (commun)",
+    "Californie du Nord",
+    "montagnes Rocheuses",
+    "Europe (répandu)",
+    "forêts tempérées du Nord, dans le monde entier"
+  ],
+  "lookalikes": [
+    "Espèces de Cordyceps sur insectes — parasitent les insectes et non les champignons, substrat différent",
+    "Clavariadelphus ligula (comestible) — forme de massue mais plus grande, teintée de violet, non parasite",
+    "Langues de terre (Geoglossum, Trichoglossum) — brun foncé à noir, non sur hôtes fongiques",
+    "Xylaria hypoxylon (non comestible) — en forme de bois de cerf, sur le bois et non sur des champignons souterrains"
+  ],
+  "safety_notes": "NON COMESTIBLE : Bien que techniquement non toxique, ce champignon n'a aucune valeur culinaire et est bien trop petit et coriace pour valoir la peine. Historiquement non consommé dans la tradition occidentale. Certaines espèces de Cordyceps sont utilisées en médecine traditionnelle chinoise mais cette espèce n'est pas couramment utilisée. Sa rareté et son rôle écologique rendent la récolte inappropriée. Plus précieux comme spécimen écologique intéressant montrant le parasitisme champignon-sur-champignon. L'attachement à la truffe souterraine Elaphomyces est distinctif et fascinant mais non comestible. Laisser en place pour observer cette relation naturelle unique.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695832.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 124104,
+      "width": 640,
+      "height": 482,
+      "sha256": "1e2ef7dcb84f3cda23d2b104b4f5a6220a69ae2f488693e464c8a5335f539fc9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695833.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 120130,
+      "width": 640,
+      "height": 482,
+      "sha256": "9b1b60be8962b17ec5d5a62e529b453d1553ba641e4af729a3fabca5aa254aad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

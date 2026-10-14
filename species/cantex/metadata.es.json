@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cantex",
+  "scientific_name": "Cantharellus texensis",
+  "common_name": "Rebozuelo texano (Cantharellus texensis)",
+  "edibility": "E",
+  "description": "El rebozuelo texano tiene un sombrero liso de 3-10 cm de ancho de color naranja-amarillo a amarillo-dorado con una textura ligeramente aterciopelada cuando es joven. El sombrero se vuelve ligeramente en forma de embudo con la edad y tiene bordes ondulados e irregulares. La parte inferior presenta pliegues gruesos, romos y bifurcados (NO láminas verdaderas) de color amarillo a amarillo-anaranjado, moderadamente espaciados, que descienden por el pie. El pie es macizo, de 3-8 cm de alto, liso, amarillo a amarillo-anaranjado, a menudo estrechándose hacia abajo. La carne es blanca a amarilla pálida, firme, con un suave aroma afrutado. La esporada es blanca a amarilla pálida.",
+  "habitat": "Micorrícico principalmente con especies de roble (especialmente roble blanco, encina y roble rojo), también se encuentra con nogal americano y pacano en bosques de frondosas de tierras bajas. Común en bosques dominados por robles, bosques de ribera y parques en toda su distribución. Prefiere suelos arenosos y bien drenados típicos de la llanura de la costa del Golfo.",
+  "season": "Finales de primavera hasta verano (mayo-septiembre), fructificando durante períodos cálidos y húmedos después de lluvias intensas. La temporada pico suele ser de junio a julio en Texas. Más tolerante al calor que las especies de rebozuelo del norte.",
+  "regions": [
+    "Texas (ampliamente distribuido)",
+    "Luisiana",
+    "este de Oklahoma",
+    "Arkansas",
+    "sur de Misuri (raro)"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (especies de Omphalotus) - TÓXICA, tiene láminas verdaderas de bordes afilados, crece sobre madera, más intensamente anaranjada",
+    "Cantharellus lateritius - Comestible, más rosado-anaranjado, se encuentra más al este, tamaño y hábitat similares",
+    "Falso rebozuelo (Hygrophoropsis aurantiaca) - No tóxico pero de mala calidad, tiene láminas verdaderas finas, más anaranjado"
+  ],
+  "safety_notes": "COMESTIBLE: El rebozuelo texano es un buen hongo comestible y una especie regional importante para los recolectores del sur de Estados Unidos. Como todos los rebozuelos, la identificación depende de los pliegues gruesos, romos y bifurcados de tacto ceroso y continuos con la carne del sombrero, en lugar de las láminas verdaderas finas en forma de cuchilla de las especies similares tóxicas. Confirma siempre que crezca del suelo en asociación con árboles, nunca sobre madera. El sabor es suave y agradable; excelente salteado o en salsas de crema. Generalmente bien tolerado, pero prueba primero con pequeñas cantidades.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/530735.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 35332,
+      "width": 640,
+      "height": 410,
+      "sha256": "039ad325445485a3265b7d7b1d48901e12f18bf2759d9161c264fc0efb326162"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/530736.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-06-14",
+      "file_size_bytes": 79722,
+      "width": 640,
+      "height": 499,
+      "sha256": "7ee8854f4821985cf10e9c7ab9d84a27f54691a06102293fa7f26d0817b47c2e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.230118",
+  "source_language": "en"
+}

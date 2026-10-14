@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cansub",
+  "scientific_name": "Cantharellus subalbidus",
+  "common_name": "Rebozuelo blanco (Cantharellus subalbidus)",
+  "edibility": "E",
+  "description": "El rebozuelo blanco tiene un sombrero de 4-15 cm de ancho de color blanco a crema o beige pálido, a veces con tonos amarillentos con la edad o al magullarse. El sombrero es liso, volviéndose profundamente en forma de embudo con la madurez, con bordes ondulados e irregulares que a menudo se levantan. La parte inferior presenta pliegues gruesos, romos y bifurcados (NO láminas verdaderas) de color blanco a crema, muy espaciados, que descienden de forma prominente por el pie. El pie es macizo, robusto, de 3-12 cm de alto, blanco a crema, a menudo bastante robusto y con forma de maza. La carne es blanca, muy firme, con un olor suave a ligeramente afrutado. La esporada es blanca a crema pálido.",
+  "habitat": "Micorrícico principalmente con coníferas del Pacífico Noroeste, incluyendo abeto de Douglas, tsuga occidental, pícea de Sitka y abetos verdaderos. Se encuentra en bosques de coníferas costeros y montanos, a menudo en zonas con gruesas capas de musgo y mantillo. Prefiere laderas bien drenadas y hábitats de bosque maduro.",
+  "season": "Otoño hasta invierno (septiembre-febrero), fructificando con el inicio de las lluvias de otoño y continuando durante la estación húmeda. La cosecha pico suele ocurrir de octubre a enero. Uno de los rebozuelos de temporada más tardía en el Pacífico Noroeste.",
+  "regions": [
+    "Pacífico Noroeste (Washington, Oregón, norte de California)",
+    "Columbia Británica",
+    "Cordillera de las Cascadas",
+    "costa de Oregón y Washington",
+    "montañas de Sierra Nevada (norte de California)"
+  ],
+  "lookalikes": [
+    "Cantharellus californicus - Comestible, color blanco similar pero se mancha de marrón/anaranjado, se encuentra más al sur con robles",
+    "Cantharellus cascadensis - Comestible, amarillo pálido a crema, mayor altitud, muy similar",
+    "Especies de Hygrophorus (higróforos) - Comestible, tienen láminas verdaderas cerosas pero distintas, textura diferente"
+  ],
+  "safety_notes": "COMESTIBLE: El rebozuelo blanco es un hongo comestible excelente, apreciado por su sabor suave y textura firme. Como todos los rebozuelos, la característica crítica de identificación son los pliegues gruesos, romos y bifurcados de tacto ceroso y continuos con la carne del sombrero, en lugar de las láminas verdaderas finas y en forma de cuchilla de otros hongos. La coloración blanca a crema lo hace distintivo entre los rebozuelos, pero requiere atención cuidadosa a la estructura de los pliegues para una identificación positiva. Verifica siempre que crezca del suelo cerca de coníferas. El sabor es suave y delicado; excelente salteado o en platos con base de crema.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725764.jpg",
+      "photographer": "Ron Pastorino",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-04",
+      "file_size_bytes": 88178,
+      "width": 640,
+      "height": 454,
+      "sha256": "7f20af0347d62bca6726dc4dc738619761e24a7bcf1250253d9eeb233018e452"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691129.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 77272,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7976d4f0fbe820123466bd7948e5178f42fe36f78897f041037ab93c8216cf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

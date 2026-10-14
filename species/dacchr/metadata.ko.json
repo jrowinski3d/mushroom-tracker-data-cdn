@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "dacchr",
+  "scientific_name": "Dacrymyces chrysospermus",
+  "common_name": "주황젤리버섯",
+  "edibility": "E",
+  "description": "주황젤리반점은 너비 2–10mm(드물게 15mm)의 작은 밝은 주황색에서 황주황색의 젤라틴 같은 덩어리 또는 쿠션을 이룬다. 개별 자실체는 단추 또는 접시 모양이며, 때로는 약간 엽상이 되거나 뇌 모양이 된다. 표면은 매끄럽고 윤이 난다. 색상은 신선할 때 선명한 주황색에서 황금주황색이며, 마르면 더 짙은 주황색이 되고 오그라든다. 조직은 부드러운 젤라틴질이며 흔들린다. 종종 빽빽한 무리로 나타나 목재에 주황색 반점을 만든다. 물을 머금으면 되살아나 부푼다.",
+  "habitat": "통나무, 그루터기, 판자, 건축 목재를 포함한 고사 침엽수 목재에서 발견된다. 특히 소나무, 가문비나무, 전나무에서 흔하다. 울타리 기둥, 건물 목재 같은 가공 목재에서도 나타난다. 삼림과 목조 구조물에서 목재 분해자로 자란다. 빽빽한 무리로 발생하며, 종종 수 cm에 걸친 주황색 반점을 만든다. 적합한 기질에서 매우 흔하다.",
+  "season": "연중 발생하지만 가을에서 봄(9–5월)에 가장 풍부하다. 습한 기후에서는 계속 발생할 수 있다. 절정은 늦가을과 겨울(10–3월)이다. 추위에 매우 강해 눈 밑에서도 발생할 수 있다. 다른 균류가 거의 활동하지 않는 겨울에 흔하다.",
+  "regions": [
+    "유럽(매우 흔함)",
+    "북아메리카(널리 분포, 전 지역)",
+    "태평양 북서부(풍부)",
+    "동부 삼림",
+    "산악 침엽수림 지역",
+    "전 세계 침엽수림"
+  ],
+  "lookalikes": [
+    "Dacrymyces palmatus(식용) — 더 크고, 더 뇌 모양이며 주름이 많음",
+    "Tremella mesenterica(식용) — 노란색이나 활엽수에서 자람, 더 뇌 모양",
+    "Calocera cornea(식용) — 주황색이나 산호처럼 가지가 갈라짐",
+    "Bisporella citrina(불가식) — 작은 노란 원반이나 단단하고 젤라틴질이 아님"
+  ],
+  "safety_notes": "식용이나 가치 없음: 기술적으로 식용 가능하고 무독성이지만, 너무 작고 밋밋해 식용 가치가 없다. 풍미가 없고 실질이 거의 없다. 안전하지만 채취는 무의미하다. 유독 유사종이 없다. 침엽수 목재의 작은 주황색 젤리 반점은 독특하고 매우 흔하다. 종종 고사 통나무가 주황색으로 보일 정도로 풍부하게 나타난다. 식품보다는 목재 부후 지표로 더 주목할 만하다. 밝은 주황색과 침엽수에서 발생한다는 점으로 활엽수의 노란 Tremella와 구별된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751397.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 63394,
+      "width": 640,
+      "height": 427,
+      "sha256": "4f3d6fd2ee98ee79c3f97f3aa0ce9a66d5f6115c9f9127bfd0bec7b416d1c9d5"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751398.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-12",
+      "file_size_bytes": 82544,
+      "width": 640,
+      "height": 427,
+      "sha256": "839863966225a75f0a4e3f0bbd4b6baf231f3f879cfdf0961bc574b6d120d434"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

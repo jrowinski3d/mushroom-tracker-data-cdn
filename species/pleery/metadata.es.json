@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "pleery",
+  "scientific_name": "Pleurotus eryngii",
+  "common_name": "seta de cardo",
+  "edibility": "E",
+  "description": "Seta distintiva con sombrero pequeño de marrón claro a marrón de 2,5-10 cm de ancho y pie blanco grueso y carnoso de 5-15 cm de alto. A diferencia de las típicas setas de ostra, el grueso pie cilíndrico es la porción apreciada. El sombrero tiene láminas decurrentes. Crece de las raíces de plantas herbáceas muertas, no de la madera. Única entre las especies de Pleurotus en Norteamérica.",
+  "habitat": "Saprobia sobre raíces de plantas herbáceas muertas y moribundas, particularmente cardos (especies de Eryngium), acebo de mar y otras umbelíferas en regiones desérticas y de pastizales áridos. NO se encuentra sobre madera como otras especies de Pleurotus. Crece de raíces enterradas en suelos arenosos o alterados.",
+  "season": "De otoño a primavera en regiones áridas, típicamente octubre-abril. Fructifica después de las lluvias de invierno y primavera en entornos desérticos y semiáridos. Puede aparecer esporádicamente durante la estación fresca con humedad adecuada.",
+  "regions": [
+    "desiertos del suroeste",
+    "sur de California",
+    "regiones de clima mediterráneo",
+    "pastizales áridos y semiáridos",
+    "nativa del Mediterráneo, establecida en Norteamérica"
+  ],
+  "lookalikes": [
+    "Otras especies de Pleurotus (todas crecen sobre madera, no sobre raíces)",
+    "Pleurotus nebrodensis (similar pero diferente distribución)",
+    "Seta de cardo cultivada (misma especie, ampliamente vendida en tiendas)",
+    "Parasoles jóvenes (diferente unión de láminas, color de espora)"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: muy apreciada por su pie grueso y carnoso con excelente textura y sabor suave. Una de las setas especiales cultivadas más populares, vendida como setas «King Oyster» o «King Trumpet». Los ejemplares silvestres son comestibles selectos cuando se identifican correctamente. El pie grueso es la parte más deseable. Cocínela a fondo para desarrollar el mejor sabor y textura.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1452110.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 35740,
+      "width": 640,
+      "height": 447,
+      "sha256": "a76c50852810d3c2a992f8ad40877ef012a925a1c9fd62260dff561521521378"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1452111.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-04-06",
+      "file_size_bytes": 33090,
+      "width": 640,
+      "height": 466,
+      "sha256": "81d27168cf26c777b1997fbad54c80acaed53c24e15b7bcd027be23aeb19eab3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

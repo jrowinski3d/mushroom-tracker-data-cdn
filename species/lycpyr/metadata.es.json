@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycpyr",
+  "scientific_name": "Lycoperdon pyriforme",
+  "common_name": "pedo de lobo piriforme",
+  "edibility": "E",
+  "description": "Pequeños pedos de lobo en forma de pera de 2,5-5 cm de alto y 2-4 cm de ancho, con superficie lisa a minuciosamente granular, sin espinas. Blancos a beige a marrones con la edad. Crece en densos grupos conectados por hebras blancas de micelio (rizomorfos). Interior blanco puro cuando es comestible, que se vuelve amarillo oliva y luego marrón. Se distingue por la superficie lisa y el crecimiento agrupado sobre la madera.",
+  "habitat": "Saprobia directamente sobre madera bien descompuesta, incluidos troncos, tocones, madera enterrada y restos leñosos. Crece en densos grupos de decenas de cuerpos fructíferos conectados en la base. Común sobre madera en descomposición de frondosas y coníferas en los bosques. A menudo parece crecer del suelo pero siempre está conectada a madera enterrada.",
+  "season": "De verano a otoño, típicamente julio-noviembre. Puede aparecer de primavera a otoño en climas suaves. Fructificación máxima agosto-octubre. Uno de los pedos de lobo de fructificación más tardía.",
+  "regions": [
+    "este de Norteamérica",
+    "Pacífico Noroeste",
+    "Montañas Rocosas",
+    "región de los Grandes Lagos",
+    "ampliamente extendido en Norteamérica",
+    "distribución cosmopolita en todo el mundo"
+  ],
+  "lookalikes": [
+    "Lycoperdon perlatum (superficie espinosa, no agrupado sobre madera)",
+    "MORTAL: botones inmaduros de Amanita (CÓRTELO SIEMPRE POR LA MITAD: mostrará láminas/sombrero en desarrollo en su interior)",
+    "Otras pequeñas especies de Lycoperdon (hábitat diferente, no agrupadas sobre madera)",
+    "Especies jóvenes de Apioperdon (Lycoperdon) (textura de superficie diferente)"
+  ],
+  "safety_notes": "COMESTIBLE cuando el interior es blanco puro: CRÍTICO: corte SIEMPRE el ejemplar completamente por la mitad de arriba a abajo antes de consumirlo. Comestible SOLO si el interior es completamente blanco puro y firme en toda su extensión. Si se ve amarillo, oliva, marrón o estructuras en desarrollo en el interior, NO LO COMA. Esto evita consumir especies similares tóxicas y Amanitas mortales inmaduras. El crecimiento agrupado sobre la madera y las hebras blancas de micelio ayudan a la identificación. Cocínelo a fondo; sabor suave y agradable cuando es joven.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719866.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 45098,
+      "width": 640,
+      "height": 427,
+      "sha256": "025b68dcca9112710f3959f8bb7d0f77f9d8cd19726479ecbe880eb39fe3fb8c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717930.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 44818,
+      "width": 640,
+      "height": 427,
+      "sha256": "69d292fb21699cee44f79057132cff9d0cf638d5adf550166783c068eb52dfe5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "neolep",
+  "scientific_name": "Neolentinus lepideus",
+  "common_name": "Train Wrecker (Neolentinus lepideus)",
+  "edibility": "E",
+  "description": "Champignon de taille moyenne à grande avec un chapeau blanc à crème de 2 à 6 pouces de large couvert d’écailles brunes, surtout concentrées vers le centre. Lames blanches décurrentes. Pied central épais et blanc de 2 à 5 pouces de haut avec des écailles brunes hirsutes sous l’anneau partiel. A des LAMES, pas des pores. Pousse sur le bois de conifères. Texture coriace et fibreuse. Forte odeur d’anis ou de réglisse quand il est frais.",
+  "habitat": "Saprotrophe sur le bois de conifères : troncs, souches, traverses de chemin de fer, poteaux téléphoniques et bois de construction. Provoque une pourriture brune cubique. Commun sur le pin, le sapin, l’épicéa et autres bois de conifères. Célèbre pour endommager les traverses de chemin de fer et les structures en bois - d’où « Train Wrecker ». Trouvé sur le bois de conifères usiné et altéré.",
+  "season": "Du printemps à l’automne, généralement de mai à octobre. Peut apparaître toute l’année sur le bois protégé comme les traverses de chemin de fer. Pic en été. Fructifie à partir du même bois à plusieurs reprises au fil des ans.",
+  "regions": [
+    "Ouest de l’Amérique du Nord",
+    "montagnes Rocheuses",
+    "Pacifique Nord-Ouest",
+    "Forêts de conifères du Nord",
+    "Répandu dans les régions de conifères",
+    "Distribution circumboréale"
+  ],
+  "lookalikes": [
+    "Lentinus tigrinus (similaire mais plus petit, bois différent, motif différent)",
+    "Espèces de pholiotes écailleuses (spores brunes, lames non décurrentes)",
+    "Autres champignons écailleux du bois (odeurs différentes, couleurs de spores différentes)",
+    "Aucun sosie dangereux avec cette combinaison de caractères"
+  ],
+  "safety_notes": "COMESTIBLE très jeune mais déconseillé : seuls les jeunes boutons tendres sont assez mous pour être mangés - les spécimens deviennent très vite très coriaces et fibreux. Même jeunes, ils ont une texture coriace exigeant une cuisson prolongée. Le fort goût d’anis rebute beaucoup de monde. Généralement sans intérêt culinaire en raison de la dureté et du goût prononcé. Sûr mais peu appétissant. Les écailles caractéristiques, l’odeur d’anis et l’habitat sur bois de conifères facilitent l’identification.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688175.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 33134,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d59439c5cfa87d28e63a33fd801f1447fa4f31f6650877bc7bfdaf889fe0546"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688176.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 62860,
+      "width": 480,
+      "height": 640,
+      "sha256": "fe6e8a1f10093c4ff50e8c12968ed53c32036e3eabfd84f5194e38aa5eff356c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.670590",
+  "source_language": "en"
+}

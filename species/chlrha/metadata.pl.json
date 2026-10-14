@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "chlrha",
+  "scientific_name": "Chlorophyllum rhacodes",
+  "common_name": "czubajnik czerwieniejący",
+  "edibility": "E",
+  "description": "Czubajnik czerwieniejący to średni do dużego grzyb o kapeluszu o średnicy 5–15 cm, początkowo jajowatym, z czasem szeroko wypukłym z niskim garbkiem. Kapelusz jest kremowy do płowego, pokryty kosmatymi, czerwonobrązowymi do brązowych, odstającymi łuskami, bardziej skupionymi ku środkowi. Miąższ przebarwia się na czerwono-pomarańczowo do czerwonobrązowego po przekrojeniu lub uszkodzeniu (cecha diagnostyczna). Blaszki są wolne, białe, stłoczone. Trzon wysoki na 8–20 cm, gładki do łuskowatego poniżej dużego ruchomego pierścienia, z nabrzmiałą bulwiastą podstawą, ale bez pochwy.",
+  "habitat": "Występuje w żyznej glebie w miejscach zaburzonych, w tym w ogrodach, na pryzmach kompostu, ściółce z kory, terenach urządzonych i na skrajach lasów z resztkami drzewnymi. Także w lasach iglastych i mieszanych. Rośnie naziemnie, często w żyznych podłożach z rozkładającą się materią organiczną. Owocnikuje rozproszony do gromadnego, czasem w czarcich kołach.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad) w większości regionów. W Kalifornii i klimatach śródziemnomorskich może owocnikować zimą i wiosną (listopad–marzec) po deszczach. Szczyt owocnikowania następuje po ciepłych jesiennych deszczach.",
+  "regions": ["Europa (ojczysty)", "Północny Zachód Pacyfiku (pospolity)", "Kalifornia (pospolity, zwłaszcza w ogrodach)", "Wschodnia Ameryka Północna (sporadycznie)", "Australia i Nowa Zelandia", "Strefa umiarkowana na całym świecie"],
+  "lookalikes": ["Chlorophyllum brunneum (trujący) – niemal identyczny, ale zielonkawy wysyp zarodników, silniejsze objawy żołądkowo-jelitowe", "Chlorophyllum molybdites (trujący) – zielone zarodniki, zielenieje po uszkodzeniu, łąki", "Macrolepiota procera (jadalny) – wyższy, smuklejszy, wężowy wzór na trzonie, nie czerwienieje", "Gatunki Lepiota (niektóre śmiertelnie trujące) – mniejsze rozmiary, delikatniejsze"],
+  "safety_notes": "JADALNY Z OSTROŻNOŚCIĄ: Niektórzy ludzie dobrze tolerują tego grzyba po dokładnym ugotowaniu, ale u innych (10–20% konsumentów) powoduje dolegliwości żołądkowo-jelitowe. Objawy obejmują nudności i rozstrój żołądka 1–3 godziny po zjedzeniu. Blisko spokrewniony C. brunneum jest bardziej trujący. Gotuj dokładnie w wysokiej temperaturze – nigdy nie jedz na surowo. Najpierw spróbuj małej ilości, aby sprawdzić tolerancję. Sprawdź, czy wysyp zarodników jest BIAŁY do blado szarego (nie zielony). Reakcja czerwienienia po przekrojeniu jest pomocna, ale nie rozstrzygająca. Ze względu na wysoką częstotliwość niepożądanych reakcji i możliwość pomyłki z C. brunneum wielu ekspertów zaleca unikanie tego gatunku.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1697672.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 53948,
+      "width": 640,
+      "height": 575,
+      "sha256": "fb03b288e729ed23237ea3b683587083e3a757553791d94528f6d724fb78b6ef"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1698177.jpg",
+      "photographer": "Alan Rockefeller",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-19",
+      "file_size_bytes": 23006,
+      "width": 640,
+      "height": 519,
+      "sha256": "4acbeebde1334184676d41a225f2309dc2ec3492fb3c1137657a8ef7e9f9d5be"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

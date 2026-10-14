@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "moresc",
+  "scientific_name": "Morchella esculenta",
+  "common_name": "smardz jadalny",
+  "edibility": "E",
+  "description": "Kapelusz o wysokości 2–10 cm, stożkowaty do jajowatego, z charakterystycznym wzorem plastra miodu żeberek i jamek; barwa od jasnokremowej przez żółtobrązową do żółtawobrązowej, z żeberkami nieco jaśniejszymi niż jamki. Trzon o wysokości 2–9 cm, grubości 2–5 cm, biały do żółtawego, pusty, o ziarnistej fakturze. Całkowicie pusty od wierzchołka kapelusza do podstawy trzonu po przecięciu wzdłuż. Wysyp zarodników kremowy do jasnożółtego.",
+  "habitat": "Występuje pod drzewami liściastymi, w tym jesionami, wiązami, jabłoniami, topolami osikowymi i topolami, sporadycznie z drzewami iglastymi jak sosna wejmutka. Lubi stare sady, naruszoną ziemię, niedawno spalone obszary i skraje lasów. Preferuje wilgotną, ale dobrze przepuszczalną glebę o wyższej zawartości wapnia. Często owocuje obficie pod obumierającymi wiązami i w opuszczonych sadach jabłoniowych.",
+  "season": "Wiosna (marzec–czerwiec w większości regionów, szczyt owocowania w kwietniu–maju). Pojawianie się zwykle zbiega się z osiągnięciem przez glebę temperatury 10–13°C po wiosennych deszczach lub topnieniu śniegu. Regiony południowe owocują wcześniej (marzec–kwiecień), a północne i wyższe położenia później (maj–czerwiec).",
+  "regions": [
+    "Północny Wschód",
+    "Środkowy Atlantyk",
+    "Środkowy Zachód",
+    "Wielkie Jeziora",
+    "południowy wschód",
+    "Góry Skaliste",
+    "Północno-Zachodni Pacyfik"
+  ],
+  "lookalikes": [
+    "piestrzenica kasztanowata (Gyromitra esculenta) – TRUJĄCA: mózgowato pomarszczony lub klapowany kapelusz zamiast plastra miodu żeberek, kapelusz przyrośnięty tylko na szczycie trzonu (nie zrośnięty na długości), wnętrze komorowe zamiast całkowicie pustego, barwa czerwonobrązowa do ciemnobrązowej. Zawiera śmiertelnie trującą gyromitrynę nawet po ugotowaniu.",
+    "smardz półwolny (Morchella punctipes) – jadalny: kapelusz przyrośnięty tylko w połowie długości trzonu, tworzący spódnicowaty wygląd, w przeciwieństwie do pełnego przyrośnięcia u prawdziwych smardzów, kapelusz proporcjonalnie krótszy względem długości trzonu.",
+    "gatunki Verpa – jadalne z ostrożnością: kapelusz osadzony na szczycie trzonu z bokami zwisającymi całkowicie wolno, watowata substancja wewnątrz trzonu, w przeciwieństwie do całkowicie pustego u prawdziwych smardzów.",
+    "inne gatunki Morchella – jadalne: w tym M. americana (niemal identyczny), M. importuna (ciemniejszy, w krajobrazie ogrodowym), trudne do odróżnienia bez mikroskopu, wszystkie prawdziwe smardze wymagają tego samego przygotowania."
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: wysoko ceniony grzyb kulinarny, jeden z najbardziej poszukiwanych dzikich grzybów jadalnych na świecie. Musi być dokładnie ugotowany przez co najmniej 15–25 minut; surowe lub niedogotowane smardze zawierają toksyny hydrazynowe powodujące silne dolegliwości żołądkowe, nudności i wymioty. Gotowanie w temperaturze powyżej 71°C rozkłada toksyczne związki. Niektóre osoby doświadczają reakcji alergicznych nawet po prawidłowym ugotowaniu; przy pierwszej próbie spożywaj małe porcje. Unikaj spożywania alkoholu ze smardzami, gdyż udokumentowano rzadkie niepożądane reakcje. Nigdy nie myl ze śmiertelnie trującymi piestrzenicami (gatunki Gyromitra), które mają mózgowate kapelusze zamiast wzorów plastra miodu.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1329025.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 49674,
+      "width": 640,
+      "height": 480,
+      "sha256": "793f73a5d86bf33ec577e898cc6c501f08ecda5975bcbca73fd4ac8b1396369c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1329026.jpg",
+      "photographer": "Betty Green",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-05-15",
+      "file_size_bytes": 55150,
+      "width": 640,
+      "height": 480,
+      "sha256": "79f349c5ed6b710dcf09709725b0d74e5cea46998d4aa9bfe9c59c1e8313a289"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

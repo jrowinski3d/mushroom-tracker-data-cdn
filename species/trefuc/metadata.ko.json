@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "trefuc",
+  "scientific_name": "Tremella fuciformis",
+  "common_name": "흰목이",
+  "edibility": "E",
+  "description": "흰목이는 산호나 눈을 닮은 부드럽고 프릴이 있는 흰색~연노란색 젤리버섯이다. 신선할 때 자실체는 너비 5–15cm로 얇고 가지가 갈라지며 반투명한 엽편으로 이루어져 섬세하게 주름진 외형을 이룬다. 색은 순백색~연크림색 또는 연노란색이다. 조직은 부드럽고 젤라틴질이며 떨린다. 엽편은 얇고 꽃잎 같아 정교한 레이스 구조를 만든다. 마르면 단단해지고 오그라들었다가 물을 머금으면 되살아난다.",
+  "habitat": "활엽수, 특히 서 있는 고사목이나 쓰러진 통나무 높은 곳의 죽은 가지와 목재에서 발견된다. 종종 다른 목재 부후균에 기생한다. 자연에서는 삼림의 활엽수에서 발견된다. 활엽수 톱밥 기질에 상업적으로 널리 재배된다. 따뜻하고 습한 환경을 좋아한다.",
+  "season": "야생에서는 주로 온난 기후의 여름~가을(6~11월). 열대·아열대 지역에서는 연중 날 수 있다. 상업 재배는 연중. 따뜻하고 습한 날씨의 비 뒤에 야생 열매를 가장 많이 맺는다.",
+  "regions": [
+    "아시아 (자생, 널리 분포)",
+    "전 세계 열대 및 아열대 지역",
+    "미국 남부 (야생에서는 드묾)",
+    "전 세계적으로 상업 재배",
+    "난온대~열대 삼림에서 자생"
+  ],
+  "lookalikes": [
+    "Tremella mesenterica(식용 가능) - 밝은 노란색, 더 작고 뇌 모양",
+    "재배 흰목이 균주 - 흰색~크림색으로 색이 다양",
+    "Exidia 종들(식용 가능) - 색이 짙고 더 작으며 프릴이 없음",
+    "독성 있는 유사종 없음"
+  ],
+  "safety_notes": "식용 가능: 아시아 요리와 한방에서 높이 평가받는다. 조리하면 순한 단맛과 아삭-젤리 같은 식감이 난다. 반드시 익혀 먹을 것 - 날로 먹지 말 것. 단 탕·디저트·음료에 인기. 피부 개선과 면역 지원 등 건강 효능이 있다고 여겨진다. 야생보다 재배품으로 거의 항상 소비된다. 건조품은 불려서 사용해야 한다. 독성 있는 유사종이 없어 안전하다. 흰색 프릴 외형이 독특하다. 아시아 시장에서 비싼 특산 재료이다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1684389.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 22236,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4dc59fd528c2bddd0ea121e6b9c3ad082895aa996fbf88c2890bf63affe3a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1684390.jpg",
+      "photographer": "Ryan",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-20",
+      "file_size_bytes": 59496,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbb8fd49a0a994ba488f9c69af2375975d1f8daf9b8396d3db7977a1292cce1c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.173269",
+  "source_language": "en"
+}

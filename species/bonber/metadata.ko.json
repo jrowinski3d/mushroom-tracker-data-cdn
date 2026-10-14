@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bonber",
+  "scientific_name": "Bondarzewia berkeleyi",
+  "common_name": "Berkeley's Polypore (Bondarzewia berkeleyi)",
+  "edibility": "E",
+  "description": "커다란 부채꼴 갓이 겹쳐 장미 모양 무리를 이루며, 개별 갓은 너비 10~30cm, 전체 자실체는 30~90cm 이상에 달한다. 윗면은 크림색에서 황갈색~연갈색이며 방사상 주름이 있다. 관공면은 흰색에서 크림색. 어릴 때도 두껍고 질기며 섬유질이다. 개별 갓은 잎새버섯(Grifola)보다 크고 무리 형태가 덜 정돈되어 있다. 무게가 9~23kg 이상 나가기도 한다. 강한 곰팡이 냄새가 난다.",
+  "habitat": "살아 있거나 죽은 활엽수, 특히 참나무의 밑동에서 기생 및 부생하며 밑동썩음병과 뿌리썩음병을 일으킨다. 나무 밑동, 뿌리, 그루터기에서 거대한 장미 모양 무리를 이룬다. 성숙한 활엽수림에서 흔하다. 수년 동안 같은 장소에서 나타나는 경우가 많다.",
+  "season": "여름부터 가을, 보통 7월~10월. 8월~9월에 최성기. 수 주 동안 지속될 수 있다. 비 온 뒤 늦여름과 초가을에 가장 풍부하다.",
+  "regions": [
+    "북아메리카 동부",
+    "중서부",
+    "미국 남동부",
+    "오대호 지역",
+    "애팔래치아산맥",
+    "태평양 북서부"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (개별 갓이 작고 회갈색이며 무리가 더 정돈됨)",
+    "Meripilus sumstinei (더 짙고 만지면 검게 변함)",
+    "기타 대형 구멍버섯 장미 무리 (질감과 무리 형태가 다름)",
+    "어린 Albatrellus (작고 서식지가 다름)"
+  ],
+  "safety_notes": "아주 어릴 때만 식용 가능하나 일반적으로 피하는 것이 좋습니다: 아주 어린 표본의 연한 생장 가장자리만 먹을 만하며, 자실체 대부분은 어릴 때도 먹기엔 너무 질기다. 강한 곰팡이 냄새와 섬유질 식감 때문에 매력적이지 않다. 소화 불량을 일으킬 수 있다. 반드시 충분히 익혀야 한다. 질김 때문에 채집할 가치가 거의 없다. 식용으로 더 좋은 구멍버섯이 있다. 말린 표본을 가루 내어 향신료로 쓰는 사람도 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1708313.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 89214,
+      "width": 640,
+      "height": 480,
+      "sha256": "935b8fc5b3803aa029baf2bcb81d1f9ba55995e4017c9b3ccb79c238195119c1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1708314.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 110054,
+      "width": 480,
+      "height": 640,
+      "sha256": "78d3bea57198757ee2d96e32c3c6c4be2d9d9c54bb8f36074c19ebb323cd806f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

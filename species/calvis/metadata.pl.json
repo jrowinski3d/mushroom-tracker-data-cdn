@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calvis",
+  "scientific_name": "Calocera viscosa",
+  "common_name": "pięknoróg największy",
+  "edibility": "E",
+  "description": "Pięknoróg największy to jaskrawożółty do pomarańczowego grzyb galaretowaty, tworzący małe, wzniesione, koralowate rozgałęzienia o wysokości 2–6 cm. Owocnik składa się z wielu cylindrycznych do spłaszczonych gałązek, rozwidlających się dychotomicznie (wielokrotnie dzielących się na dwie równe części). Barwa jaskrawo złocistożółta do pomarańczowożółtej. Konsystencja twardo-galaretowata, nieco gumowata i lepka, gdy świeży. Gałązki szerokości 2–5 mm, mogą mieć spiczaste lub rozwidlone końcówki. U nasady mogą być zrośnięte lub mieć krótkie trzonki. Po wyschnięciu ciemnopomarańczowy i pomarszczony.",
+  "habitat": "Występuje na martwych pniach, pniakach i zagrzebanym drewnie drzew iglastych, zwłaszcza sosny, świerka i jodły. Rośnie na dobrze rozłożonym drewnie lub wyrasta z resztek drzewnych w glebie. Pospolity w lasach iglastych i mieszanych. Owocuje rozproszony do gromadnego, często na tych samych pniach rok po roku. Preferuje wilgotne, chłodne lasy z obfitością iglastych resztek drzewnych.",
+  "season": "Późne lato do jesieni (sierpień–listopad) w większości regionów. W łagodnym klimacie, jak na północno-zachodnim wybrzeżu Pacyfiku, może owocować przez cały rok, ze szczytami jesienią i wiosną. Może pojawiać się po letnich deszczach w górach. Najpospolitszy w chłodnych, wilgotnych okresach.",
+  "regions": [
+    "Europa (szeroko rozpowszechniony)",
+    "Wschodnia Ameryka Północna (pospolity)",
+    "północno-zachodnie wybrzeże Pacyfiku (bardzo pospolity)",
+    "Góry Skaliste",
+    "Północna Kalifornia",
+    "północne umiarkowane lasy iglaste na całym świecie"
+  ],
+  "lookalikes": [
+    "Calocera cornea (jadalny) – mniejszy, prostsze rozgałęzienia, na drewnie liściastym",
+    "Dacryopinax spathularia (jadalny) – pomarańczowy, bardziej łopatkowate końcówki",
+    "Gatunki Clavulinopsis (niektóre jadalne) – żółte, ale nie galaretowate, bardziej kruche",
+    "Gatunki Ramaria (jadalność zróżnicowana) – grzyby koralowe, ale mięsiste, nie galaretowate"
+  ],
+  "safety_notes": "JADALNY, ale twardy: uważany za jadalny, lecz zbyt twardy i galaretowaty, by był smaczny. Gumowata konsystencja i mały rozmiar czynią go nieatrakcyjnym. Bez wyraźnego smaku. Bezpieczny do jedzenia, ale niepolecany. Wśród grzybów galaretowatych brak trujących gatunków podobnych. Jaskrawożółta barwa, koralowate rozgałęzienia i galaretowata konsystencja na drewnie iglastym są cechami charakterystycznymi. Lepka powierzchnia pomaga odróżnić go od mięsistych grzybów koralowych. Bardziej interesujący jako ozdoba lasu niż pożywienie. Często spotykany, rzadko zbierany do jedzenia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.101594",
+  "source_language": "en"
+}

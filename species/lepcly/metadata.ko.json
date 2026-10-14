@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepcly",
+  "scientific_name": "Lepiota clypeolaria",
+  "common_name": "방패갓버섯 (Lepiota clypeolaria)",
+  "edibility": "U",
+  "description": "방패갓버섯은 폭 2~6cm의 작고 섬세한 버섯으로, 갓은 종 모양이었다가 넓게 볼록해지며 뚜렷한 유두돌기가 있다. 갓은 연한 크림~흰색 바탕에 갈색~황갈색 비늘의 양모 같은 동심원 고리로 덮여 독특한 거친 털 모양을 낸다. 살은 얇고 흰색이며 부서지기 쉽다. 주름살은 자유주름살로 흰색~크림색이며 밀집~밀생한다. 대는 높이 3~8cm로 가늘고, 흰색~크림색이며 솜털 또는 양모 같은 표면에 연약한 턱받이 아래 흔히 갈색빛 구역이나 띠가 있다.",
+  "habitat": "혼합 활엽수 및 침엽수림, 특히 참나무, 너도밤나무, 침엽수 아래에서 발견된다. 낙엽층과 부식질이 풍부한 토양, 흔히 잘 썩은 통나무나 목재 파편에서 자란다. 산성 토양의 축축하고 그늘진 산림 바닥을 선호한다. 산림 낙엽층 사이에서 드문드문~무리 지어, 보통 작은 군생으로 결실한다.",
+  "season": "북아메리카 대부분에서 여름부터 가을(7~11월). 유럽에서는 늦봄부터 가을(5~11월)에 결실. 늦여름과 초가을의 지속적인 습기 시기에 결실 최성기. 따뜻한 기후의 초봄에는 드물다.",
+  "regions": [
+    "유럽(자생, 광범위)",
+    "북아메리카 동부(흔함)",
+    "태평양 북서부(드묾)",
+    "캘리포니아(드묾)",
+    "북부 온대림",
+    "북방·산지 지역"
+  ],
+  "lookalikes": [
+    "Lepiota cristata (불식용) — 크기와 외형 비슷, 불쾌한 냄새, 적갈색 비늘",
+    "Lepiota 종 (다수 치명적) — 구분 극히 어려움, 다수 아마톡신 함유",
+    "소형 Agaricus 종 (식용) — 갈색 주름살, 초콜릿색 포자, 자유주름살 비슷",
+    "소형 Chlorophyllum 종 (유독) — 더 크고 튼튼, 녹색 포자"
+  ],
+  "safety_notes": "식용이나 권장하지 않음: 유럽에서 역사적으로 식용으로 여겨졌으나, 치명적인 Lepiota 종과의 혼동 위험이 극도로 크므로 섭취를 권장하지 않는다. 소형 Lepiota 다수는 아마톡신(치명적인 광대버섯과 같은 독소)을 함유하며 현미경 없이는 구분할 수 없다. L. brunneoincarnata, L. helveola, L. subincarnata 등 여러 치명종이 거의 똑같이 생겼다. 숙련된 균류학자도 소형 Lepiota 종을 안정적으로 구분하기 어렵다. 작은 크기라 위험에 비해 얻는 것이 거의 없다. 모든 소형 LEPIOTA는 피하라 — 위험이 식용 가치를 훨씬 앞선다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751244.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 40008,
+      "width": 640,
+      "height": 427,
+      "sha256": "aad0ef4e4430c9520df50ce20bec403a3766672088c3f003ac67274d2ed1590b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751245.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 35696,
+      "width": 640,
+      "height": 427,
+      "sha256": "e5919625a3c7ea7d40ccaae7a61c66522471a43f4328502a17d0008b5ff194dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

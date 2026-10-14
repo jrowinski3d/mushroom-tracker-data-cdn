@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "leuleu",
+  "scientific_name": "Leucoagaricus leucothites",
+  "common_name": "Smooth Parasol (Leucoagaricus leucothites)",
+  "edibility": "E",
+  "description": "El Smooth Parasol es una seta blanca de pequeña a mediana con un sombrero de 4-10 cm de diámetro, inicialmente redondeado que se vuelve ampliamente convexo a casi plano con la edad. El sombrero es completamente blanco a crema, liso y sedoso sin escamas (característica clave que lo distingue de las especies de Chlorophyllum). La carne es blanca y no cambia de color al cortarla. Las láminas son libres, blancas que se vuelven rosadas con la edad, apretadas. El pie mide 5-12 cm de alto, liso, blanco, con un delgado y frágil anillo blanco que a menudo desaparece con la edad, y una base ligeramente engrosada.",
+  "habitat": "Se encuentra en zonas herbosas como céspedes, parques, jardines, campos de golf, pastos y bordes de bosques herbosas. Prefiere suelos ricos en nutrientes en zonas cuidadas o alteradas con humedad regular. Crece en el suelo, a menudo en zonas con fertilizante orgánico o compost. Fructifica de forma dispersa a gregaria, a veces en arcos o corros de brujas.",
+  "season": "Desde finales de la primavera hasta el otoño (mayo-noviembre) en regiones templadas. En climas cálidos como California y el sur, puede fructificar todo el año con máximos después de las lluvias. Más abundante en verano y principios de otoño durante el tiempo cálido y húmedo.",
+  "regions": [
+    "este de Norteamérica (común)",
+    "California y la costa oeste",
+    "sur de Estados Unidos",
+    "Pacífico Noroeste (ocasional)",
+    "Europa (muy extendida)",
+    "pastizales templados de todo el mundo"
+  ],
+  "lookalikes": [
+    "Especies de Agaricus (comestible): láminas de rosadas a marrones, esporas de marrón chocolate, a menudo olor a anís",
+    "Leucoagaricus naucinus (comestible): muy similar, centro del sombrero gris-marrón al madurar",
+    "Chlorophyllum molybdites (tóxico): desarrolla esporas verdes, más grande, puede tener sutiles escamas",
+    "Especies de Amanita (mortal): tienen volva (copa) en la base del pie, que Leucoagaricus no tiene"
+  ],
+  "safety_notes": "COMESTIBLE: considerada comestible y recolectada por algunos recolectores, pero NO RECOMENDADA para principiantes debido a graves riesgos de confusión. El sombrero completamente liso y blanco y la ausencia de volva la distinguen de las mortales Amanitas, pero la identificación requiere experiencia. Verifique: SIN volva en la base, láminas LIBRES blancas que pueden rosar ligeramente con la edad, ESPORADA BLANCA (no verde), sombrero liso sin escamas. Hay informes de molestias gastrointestinales en algunas personas. El riesgo de confundirla con mortales Amanitas blancas o con el tóxico Chlorophyllum molybdites hace que sea una elección arriesgada. Muchas guías de campo desaconsejan recolectar setas blancas de los céspedes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720338.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 75188,
+      "width": 640,
+      "height": 452,
+      "sha256": "dcc39dac32497c06d17d47f37568a9264dbb711586c85e206aba92e263e1485a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720339.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 35128,
+      "width": 482,
+      "height": 640,
+      "sha256": "072a1c980d4fc308dfdeeb9f1d060891f6113ac231af9c9d9cefb66fd73d83c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

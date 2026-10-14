@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "toloph",
+  "scientific_name": "Tolypocladium ophioglossoides",
+  "common_name": "Goldenthread Cordyceps (Tolypocladium ophioglossoides)",
+  "edibility": "U",
+  "description": "채소애벌레 또는 금실 동충하초는 지하에 사는 버섯(거짓송로, 특히 Elaphomyces)을 공격하는 매력적인 기생균이다. 자실체는 3–12cm 높이, 0.5–1.5cm 너비의 길고 가느다란 곤봉 또는 송곳 모양으로 토양에서 나온다. 곤봉은 원통형으로 종종 구부러지고 황갈색~올리브갈색이며 표면이 약간 거칠다. 생식 가능한 윗부분은 약간 부풀어 있다. 곤봉은 지하 숙주균(Elaphomyces)에서 나오는데, 이는 밑동에 연결된 짙은 공 모양으로 나타난다. 파보면 밑동에 붙은 검은색~갈색 숙주 공이 보인다.",
+  "habitat": "숙주균 Elaphomyces가 지하에서 자라는 혼합 활엽수림과 침엽수림에서 발견된다. 숙주는 나무 뿌리와 균근을 이룬다. 곤봉은 토양·이끼·낙엽층을 뚫고 올라온다. 흩어져 열매를 맺으며 종종 눈에 잘 띄지 않는다. 유기물이 풍부한 습한 삼림에서 흔하다.",
+  "season": "대부분 지역에서 여름~가을(7~11월). 8~10월 늦여름~초가을에 열매를 가장 많이 맺는다. 한 번 나오면 몇 주간 지속될 수 있다. 습기가 꾸준한 해에 더 흔하다.",
+  "regions": [
+    "북미 동부 (널리 분포)",
+    "태평양 북서부 (흔함)",
+    "북캘리포니아",
+    "로키산맥",
+    "유럽 (널리 분포)",
+    "전 세계 북온대 삼림"
+  ],
+  "lookalikes": [
+    "곤충 기생 Cordyceps 종들 - 곤충을 기생하고 버섯이 아니며 기질이 다름",
+    "Clavariadelphus ligula(식용 가능) - 곤봉 모양이나 더 크고 자줏빛이 돌며 기생하지 않음",
+    "땅혀버섯류(Geoglossum, Trichoglossum) - 짙은 갈색~검은색, 버섯 숙주에 나지 않음",
+    "Xylaria hypoxylon(식용 불가) - 사슴뿔 모양, 지하 버섯이 아닌 목재에서 남"
+  ],
+  "safety_notes": "식용 불가: 엄밀히 말해 독성은 없으나 요리 가치가 전혀 없고 너무 작고 질겨서 먹을 가치가 없다. 서양 전통에서는 역사적으로 먹지 않았다. 일부 Cordyceps 종은 한방에서 쓰이나 이 종은 흔히 쓰이지 않는다. 희귀성과 생태적 역할 때문에 채집은 부적절하다. 버섯이 버섯을 기생하는 흥미로운 생태 표본으로서의 가치가 더 크다. 지하 Elaphomyces 송로와의 연결이 독특하고 매력적이나 식용은 아니다. 이 독특한 자연 관계를 관찰할 수 있도록 그대로 둘 것.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1695832.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 124104,
+      "width": 640,
+      "height": 482,
+      "sha256": "1e2ef7dcb84f3cda23d2b104b4f5a6220a69ae2f488693e464c8a5335f539fc9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1695833.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-05",
+      "file_size_bytes": 120130,
+      "width": 640,
+      "height": 482,
+      "sha256": "9b1b60be8962b17ec5d5a62e529b453d1553ba641e4af729a3fabca5aa254aad"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

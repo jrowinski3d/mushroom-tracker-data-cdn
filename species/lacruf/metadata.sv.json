@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacruf",
+  "scientific_name": "Lactarius rufus",
+  "common_name": "Pepparriska",
+  "edibility": "U",
+  "description": "Pepparriska har en rödbrun till rödaktig hatt (4-10 cm) med en distinkt liten central knöl. Hattens yta är torr, slät till svagt sammetshårig. Skivorna är krämfärgade till blekt rosaaktiga, vidfästa, täta. Foten har liknande färg som hatten, slät, ihålig. NYCKELFUNKTIONEN är den rikliga VITA MJÖLKSAFTEN som tränger fram vid snitt eller skada – denna mjölksaft är EXTREMT SKARP och het i smaken. Mjölksaften ändrar inte färg. Köttet är blekt, skört. Sporfällningen är vit till krämfärgad. Den skarpa mjölksaften är jämförbar med habanerohetta.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD, särskilt tall och gran. Växer på marken i barr- och blandskog, ofta i sura jordar och vitmossa. Vanlig i norra barrskogar. Föredrar blöta, sumpiga områden.",
+  "season": "Sommar till höst (juli-oktober), fruktkroppar under hela säsongen.",
+  "regions": [
+    "nordöstra USA",
+    "nordvästra Stillahavsregionen",
+    "övre mellanvästern",
+    "Klippiga bergen",
+    "Kanada",
+    "norra Europa"
+  ],
+  "lookalikes": [
+    "Andra riskor – smaka på mjölksaften för att skilja dem åt (smaka och spotta ut – mild kontra skarp)",
+    "Russula emetica – liknande röd färg men INGEN MJÖLKSAFT, skört kött",
+    "Lactarius hepaticus – liknande men mörkare brun, lika skarp"
+  ],
+  "safety_notes": "OÄTLIG: Lactarius rufus, känd som pepparriska, har extremt het, skarp mjölksaft som tränger fram vid snitt – beskrivs som hetast av alla riskor, jämförbar med habanerohetta. Även om den har traditionell kulinarisk användning i vissa nordeuropeiska länder efter omfattande förberedelse, klassificerar västerländska fältguider den som oätlig på grund av den intensivt skarpa, peppriga smaken. Svampen misstänks vara lindrigt giftig om den äts rå eller felaktigt tillredd. Rekommenderas inte för konsumtion.",
+  "images": [
+    {
+      "file_size_bytes": 41822,
+      "height": 427,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "photographer": "Eva Skific",
+      "sha256": "60bf73eba948d84dc255c36c3d8f6481b283df81d56eaee0f65fac3c49ff7337",
+      "source_url": "https://mushroomobserver.org/images/640/1722544.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 37488,
+      "height": 427,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "photographer": "Eva Skific",
+      "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123",
+      "source_url": "https://mushroomobserver.org/images/640/1722545.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

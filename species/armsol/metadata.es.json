@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "armsol",
+  "scientific_name": "Armillaria solidipes",
+  "common_name": "Western Honey Mushroom (Armillaria solidipes)",
+  "edibility": "E",
+  "description": "La armilaria de miel occidental tiene un sombrero de marrón a marrón rojizo (5-15 cm) cubierto de pequeñas ESCAMAS MARRÓN OSCURO, especialmente en el centro: a menudo con tonos más rojizos que las especies orientales. Las láminas son de blancas a crema, adheridas, manchándose de marrón. El pie tiene un ANILLO PERSISTENTE y textura SÓLIDA y FIRME (de ahí 'solidipes'). El pie es blanquecino sobre el anillo, parduzco debajo con escamas. Crece en GRANDES GRUPOS DENSOS sobre coníferas. La carne es blanca, muy firme. La esporada es blanca. Rizomorfos negros presentes. Patógeno de árboles MUY AGRESIVO en los bosques occidentales.",
+  "habitat": "Parásita y saprobia en CONÍFERAS en el oeste de Norteamérica, especialmente abeto de Douglas, abetos verdaderos, pinos y tsugas. Crece en grupos masivos en la base de árboles vivos o muertos. Uno de los patógenos forestales más destructivos en el Pacífico Noroeste, causando extensa pudrición de raíces.",
+  "season": "Otoño (septiembre-noviembre), con fructificación máxima después de las lluvias otoñales.",
+  "regions": [
+    "Pacífico Noroeste",
+    "Columbia Británica",
+    "norte de California",
+    "Montañas Rocosas",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Armillaria ostoyae - muy similar, escamas más oscuras, rango ligeramente diferente",
+    "Otras especies de Armillaria - todas requieren cocción",
+    "Especies de Pholiota - esporas marrones",
+    "Especies de Galerina - MORTALES - más pequeñas, esporas marrones"
+  ],
+  "safety_notes": "COMESTIBLE CON PRECAUCIÓN: Los hongos de miel (especies de Armillaria) son VENENOSOS en crudo y deben cocinarse bien antes de consumirlos. Cocinar durante al menos 10-15 minutos a fuego fuerte. Incluso bien cocinados, algunas personas experimentan reacciones alérgicas o malestar digestivo. Probar primero una pequeña cantidad para comprobar la tolerancia. Escaldar antes de cocinar puede ayudar a reducir los irritantes gastrointestinales y el sabor amargo. No consumir con alcohol: los hongos de miel pueden causar reacciones adversas combinados con alcohol (similar a Coprinopsis). Recolectar solo ejemplares jóvenes y firmes.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1716582.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-17",
+      "file_size_bytes": 74746,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6de87b1c3073182ae39b75cd521a11cb3cfbdbfcd88a2c641274c49ab98b4ad"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1716572.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-15",
+      "file_size_bytes": 116236,
+      "width": 469,
+      "height": 640,
+      "sha256": "540862e259c52319659734539f72a8ca8d542949b2e5aefb76726012b48ded84"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:30:00.000000",
+  "source_language": "en"
+}

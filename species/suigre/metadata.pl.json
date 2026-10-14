@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suigre",
+  "scientific_name": "Suillus grevillei",
+  "common_name": "Maślak żółty",
+  "edibility": "E",
+  "description": "Maślak żółty ma charakterystyczny jasno złocistożółty do pomarańczowożółtego kapelusz (3–10 cm) o bardzo śluzowatej, kleistej powierzchni, gdy wilgotny. Pory jasnożółte, brązowiejące po uciśnięciu. Wyraźny błoniasty pierścień na żółtym trzonie często zabarwia się na brązowo od zarodników. Żółty miąższ nie przebarwia się. Jasnożółte barwy i związek z modrzewiem to cechy diagnostyczne. Wysyp zarodników cynamonowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z modrzewiem (gatunki Larix) — nie może owocnikować bez modrzewi. Tworzy obligatoryjne związki z modrzewiem europejskim, modrzewiem zachodnim i modrzewiem amerykańskim. Występuje na plantacjach modrzewiowych i w rodzimych lasach modrzewiowych.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad), szczyt owocnikowania we wrześniu–październiku. Owocnikuje synchronicznie z modrzewiem w regionach umiarkowanych.",
+  "regions": [
+    "Północno-Zachodni Pacyfik (modrzew zachodni)",
+    "Góry Skaliste",
+    "lasy północno-wschodnie (modrzew amerykański)",
+    "Region Wielkich Jezior",
+    "plantacje modrzewiowe w całej Ameryce Północnej",
+    "Kanada",
+    "Alaska"
+  ],
+  "lookalikes": [
+    "Maślak zwyczajny (Suillus luteus) — ciemniejszy kapelusz, z sosną, nie z modrzewiem",
+    "Inne gatunki Suillus — żaden nie jest tak jaskrawo żółty",
+    "Gatunki Boletus — nieśluzowate, inne siedlisko",
+    "Brak trujących gatunków podobnych, gdy występuje z modrzewiem"
+  ],
+  "safety_notes": "JADALNY: Maślak żółty to dobry grzyb jadalny o twardej teksturze i łagodnym smaku. Przed gotowaniem usunąć bardzo śluzowatą skórkę kapelusza. Obligatoryjny związek z modrzewiem ułatwia identyfikację — jeśli nie ma modrzewi w pobliżu, to nie ten gatunek. U niektórych osób występują dolegliwości trawienne. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1514245.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 81080,
+      "width": 480,
+      "height": 640,
+      "sha256": "2107c1ba7397ae9b012d8dde6e396d9ab6720ac9ad6b0d69cceb47499a0eb10b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1514246.jpg",
+      "photographer": "Chris Neefus",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-18",
+      "file_size_bytes": 102390,
+      "width": 480,
+      "height": 640,
+      "sha256": "63324e26cc0f1ce46d1f506e95ec446d2124bd4d7dfd867474f8d87d9e5f4991"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

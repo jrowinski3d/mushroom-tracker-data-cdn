@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calvis",
+  "scientific_name": "Calocera viscosa",
+  "common_name": "Calocère visqueuse",
+  "edibility": "E",
+  "description": "La calocère visqueuse est un champignon gélatineux jaune vif à orange formant de petites branches coralloïdes dressées de 2 à 6 cm de haut. La fructification se compose de multiples branches cylindriques à aplaties qui se divisent de façon dichotomique (se scindent en deux parties égales de façon répétée). La couleur est jaune doré vif à jaune-orange. La texture est coriace-gélatineuse, un peu caoutchouteuse et collante (visqueuse) à l’état frais. Les branches font 2 à 5 mm de large et peuvent avoir des extrémités pointues ou fourchues. La base peut être soudée ou présenter de courts pieds. Devient orange foncé et ratatinée en séchant.",
+  "habitat": "Trouvé sur les troncs, souches et bois enfoui de conifères morts, en particulier le pin, l’épicéa et le sapin. Pousse sur le bois bien décomposé ou émergeant des débris ligneux dans le sol. Commun dans les forêts de conifères et mixtes. Fructifie de façon éparse à grégaire, souvent sur les mêmes troncs année après année. Préfère les forêts fraîches et humides riches en débris de conifères.",
+  "season": "De la fin de l’été à l’automne (août-novembre) dans la plupart des régions. Dans les climats doux comme le Pacifique Nord-Ouest, peut fructifier toute l’année avec des pics à l’automne et au printemps. Peut apparaître après les pluies d’été en montagne. Plus commun pendant les périodes fraîches et humides.",
+  "regions": [
+    "Europe (répandu)",
+    "Est de l’Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (très commun)",
+    "Montagnes Rocheuses",
+    "Californie du Nord",
+    "Forêts tempérées de conifères du Nord dans le monde entier"
+  ],
+  "lookalikes": [
+    "Calocera cornea (comestible) — plus petite, ramification plus simple, sur feuillus",
+    "Dacryopinax spathularia (comestible) — orange, extrémités plus en forme de spatule",
+    "Espèces de Clavulinopsis (certaines comestibles) — jaunes mais non gélatineuses, plus fragiles",
+    "Espèces de Ramaria (comestibilité variable) — champignons coralloïdes mais charnus, non gélatineux"
+  ],
+  "safety_notes": "COMESTIBLE mais coriace : considéré comme comestible mais trop coriace et gélatineux pour être appétent. La texture caoutchouteuse et la petite taille le rendent peu attrayant. Aucune saveur notable. Sans danger à manger mais non recommandé. Pas de sosies toxiques parmi les champignons gélatineux. La couleur jaune vif, la ramification coralloïde et la texture gélatineuse sur bois de conifère sont distinctives. La surface visqueuse (collante) aide à le distinguer des champignons coralloïdes charnus. Plus intéressant comme ornement de la forêt que comme aliment. Communément rencontré mais rarement récolté pour la table.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1402258.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-10-01",
+      "file_size_bytes": 88324,
+      "width": 640,
+      "height": 480,
+      "sha256": "053cb1deb167767cfe389aab1210baf7e897b79d99eb4d4bc32fd967a5998203"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.101594",
+  "source_language": "en"
+}

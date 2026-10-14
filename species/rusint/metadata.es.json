@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "rusint",
+  "scientific_name": "Russula integra",
+  "common_name": "Entire Russula (Russula integra)",
+  "edibility": "E",
+  "description": "La rúsula entera tiene el sombrero de color marrón rojizo (de 5 a 12 cm), liso. Láminas amarillentas. Pie blanco, a menudo teñido de rojizo. CLAVE: CARNE QUEBRADIZA, cutícula ENTERA (que no se pela), láminas amarillentas. Carne blanca. Esporada de color amarillo ocre. Sabor suave.",
+  "habitat": "Micorrícica con coníferas, especialmente pino, abeto y pícea. Crece en el suelo en bosques de coníferas. Especie del norte. De forma dispersa.",
+  "season": "Del verano al otoño (julio-octubre).",
+  "regions": [
+    "Noreste",
+    "norte del Medio Oeste",
+    "Montañas Rocosas",
+    "Canadá",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Otras rúsulas — comprobar la cutícula y la esporada",
+    "Lactarius — tienen LÁTEX"
+  ],
+  "safety_notes": "COMESTIBLE: sabor suave. SOMBRERO ROJIZO + LÁMINAS AMARILLAS + CARNE QUEBRADIZA + SABOR SUAVE: diagnóstico. Cocinar bien.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/580003.jpg",
+      "photographer": "James Baker",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-09-09",
+      "file_size_bytes": 10332,
+      "width": 204,
+      "height": 208,
+      "sha256": "7d2ad0481dae41fa5055b70ce1b65b48844b4716e0e8165ce71ae7544386d173"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/580004.jpg",
+      "photographer": "James Baker",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-09-09",
+      "file_size_bytes": 7092,
+      "width": 177,
+      "height": 180,
+      "sha256": "1b3b2d4190ca816989e194b579c3f8db936c8b2c3a7fe126818bea53ccde286d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suilak",
+  "scientific_name": "Suillus lakei",
+  "common_name": "Maślak daglezjowy",
+  "edibility": "E",
+  "description": "Maślak daglezjowy ma charakterystyczny czerwonopomarańczowy do rdzawopomarańczowego kapelusz (5–15 cm) o śluzowatej powierzchni, gdy wilgotny, i charakterystycznie łuskowaty wygląd, gdy suchy. Pory duże i kanciaste, jasnożółte, brązowiejące po uciśnięciu. Żółty trzon ma rdzawobrązowe plamki gruczołowe i nie ma pierścienia. Żółty miąższ na przekroju przebarwia się na rdzawobrązowo. Jasne barwy i plamki gruczołowe to cechy diagnostyczne. Wysyp zarodników cynamonowobrązowy.",
+  "habitat": "Mikoryzowy wyłącznie z daglezją w lasach północnego zachodu Pacyfiku. Tworzy obligatoryjne związki z daglezją. Występuje w czystych drzewostanach daglezjowych i mieszanych lasach iglastych zdominowanych przez daglezję.",
+  "season": "Jesień (wrzesień–listopad), szczyt owocnikowania w październiku. Pojawia się po jesiennych deszczach w siedliskach daglezjowych.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Oregon",
+    "Waszyngton",
+    "Północna Kalifornia",
+    "Kolumbia Brytyjska",
+    "Wyspa Vancouver",
+    "nadbrzeżna strefa daglezji"
+  ],
+  "lookalikes": [
+    "Suillus pungens — również z daglezją, lecz o bardziej brązowych barwach",
+    "Inne gatunki Suillus — inne barwy i związki z drzewami",
+    "Gatunki Leccinum — mają szorstkie trzony, a nie plamki gruczołowe",
+    "Gatunki Boletus — nieśluzowate, inny wygląd"
+  ],
+  "safety_notes": "JADALNY: Maślak daglezjowy jest jadalny, o twardej teksturze i łagodnym smaku. Przed gotowaniem usunąć śluzowatą skórkę kapelusza. Jasne pomarańczowe barwy i wyłączny związek z daglezją ułatwiają identyfikację. U niektórych osób mogą wystąpić dolegliwości trawienne. Zawsze dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709514.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-26",
+      "file_size_bytes": 62464,
+      "width": 640,
+      "height": 480,
+      "sha256": "9579c5a5f755a3673e808110cdf4eec0260e4377a6a3996da18df50cc2a0b2fc"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1709502.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-24",
+      "file_size_bytes": 119214,
+      "width": 480,
+      "height": 640,
+      "sha256": "6675cb1f67829b3437f2b76ef7f0b720b7f7db65efe92c9d62381199da3bf13f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.555992",
+  "source_language": "en"
+}

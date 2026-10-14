@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bovpil",
+  "scientific_name": "Bovista pila",
+  "common_name": "Tumbling Puffball (Bovista pila)",
+  "edibility": "E",
+  "description": "Små runda röksvampar 2,5–6,5 cm i diameter som dyker upp som vita bollar i gräset. Slät vit ytterhud som flagar av vid mognad och avslöjar tunn, pappersartad brun innerhud. INGEN steril bas – bara en liten fästpunkt som lossnar. Innandömet kritvitt när ätligt, blir olivbrunt. Mogna exemplar tumlar fritt i vinden och sprider sporer. Öppnas med oregelbundna revor.",
+  "habitat": "Saprofytisk i öppna gräsmarker inklusive betesmarker, ängar, gräsmattor, parker, golfbanor och prärier. Föredrar kort gräs och störda områden. Ofta i häxringar eller spridda grupper. Vanlig i torra gräsmarker och välskötta gräsmattor.",
+  "season": "Sensommar till höst, vanligen augusti–oktober. Toppfruktning i september. Mogna exemplar lossnar och rullas fritt av vinden genom vintern. Fruktar efter sensommarregn.",
+  "regions": [
+    "Stora slätterna och prärierna",
+    "Mellanvästern",
+    "Västliga gräsmarker",
+    "Bergsparker och ängar",
+    "Utbredd i Nordamerika",
+    "Kosmopolitisk i gräsmarker"
+  ],
+  "lookalikes": [
+    "Andra Bovista-arter (lika, de flesta ätliga när vita inuti)",
+    "DÖDLIG: Omogna flugsvampsknoppar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Små Lycoperdon-arter (har steril bas, annan växtmiljö)",
+    "Scleroderma-arter (giftiga, lila-svart innandöme, tjock vårtig hud)"
+  ],
+  "safety_notes": "ÄTLIG när kritvit inuti: KRITISKT – skär alltid exemplaret helt i hälften före förtäring. Ätlig ENDAST om innandömet är helt kritvitt och fast igenom. Om minsta olivfärg, gult, brunt eller utvecklande strukturer syns inuti: ÄT INTE. Detta förhindrar att giftiga liknande arter och omogna dödliga flugsvampar förtärs. Avsaknaden av steril bas och den rullande mogna formen hjälper identifieringen. Bäst som mycket ung och liten. Tillaga noggrant.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1746457.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-03-01",
+      "file_size_bytes": 39098,
+      "width": 640,
+      "height": 509,
+      "sha256": "31162c2df8adcc2b01da99e1297c38a85e8e0af2a48959a1b16d120868a42a4d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1746458.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-03-01",
+      "file_size_bytes": 32340,
+      "width": 640,
+      "height": 492,
+      "sha256": "25111fbe5c2a2dd4f4425e29c649c266d6e9015be4c80a62c8e072f9e254fc2c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

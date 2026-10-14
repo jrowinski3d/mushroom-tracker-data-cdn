@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copatr",
+  "scientific_name": "Coprinopsis atramentaria",
+  "common_name": "Vanlig bläcksvamp",
+  "edibility": "E",
+  "description": "Vanlig bläcksvamp är en medelstor svamp 5–15 cm hög med hatt 3–7 cm bred. Hatten är oval till klockformad, gråbrun till beige med blekt grå till brun mjällig yta (täckt av små fjäll eller fibrer). Mitten är ofta något mörkare. Skivorna är fria till vidfästa, vita som blir grå sedan svarta och delikvescerar till bläck. Foten är 8–15 cm hög, slät, vit, ihålig, med en liten skör ringzon. Fruktsätter i täta knippen från begravd ved eller organiskt material.",
+  "habitat": "Finns i gräsmattor, trädgårdar, parker, flistäckta ytor, kompostområden och nära stubbar eller begravd ved. Växer som vednedbrytare, ofta på begravda lövträdsrester. Mycket vanlig i stads- och förortslandskap. Fruktsätter i täta knippen, ofta i stort antal. Föredrar näringsrika störda jordar.",
+  "season": "Vår till höst (april–november) i tempererade regioner. I milda klimat kan den fruktsätta året runt. Rikligast i sensommar och höst. Kan dyka upp i stora svall efter regn.",
+  "regions": [
+    "Nordamerika (mycket vanlig, utbredd)",
+    "Europa (mycket vanlig)",
+    "Världen över i tempererade regioner",
+    "Stadsområden över hela världen",
+    "Kosmopolitisk utbredning"
+  ],
+  "lookalikes": [
+    "Coprinus comatus (ätlig) – högre, raggiga vita fjäll, ingen alkoholinteraktion",
+    "Coprinellus micaceus (ätlig) – glimmerliknande partiklar på hatten, mindre",
+    "Coprinopsis-arter – många liknande grå bläcksvampar",
+    "Psathyrella-arter – liknande men delikvescerar inte lika lätt"
+  ],
+  "safety_notes": "VARNING – ALKOHOLINTERAKTION: Coprinopsis atramentaria innehåller koprin, som blockerar alkoholomsättningen och orsakar allvarliga reaktioner i kombination med alkohol. Drick INTE alkohol 24 timmar före eller upp till 72 timmar efter förtäring av denna svamp. Symtom inkluderar ansiktsrodnad, illamående, kräkningar, hjärtklappning, stickningar i lemmarna, huvudvärk och bröstsmärtor. Vid ordentlig tillagning och utan alkohol är denna svamp ätlig, men den allvarliga interaktionsrisken gör den olämplig för de flesta svampplockare.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723335.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-06",
+      "file_size_bytes": 51172,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9f845c360fd59b871bda93baaa0c0830a86fec122b83661c898ff70e174b1ae"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659341.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-03",
+      "file_size_bytes": 67868,
+      "width": 353,
+      "height": 640,
+      "sha256": "9446ede186e58a31d122204a1fc0a987c47e238da67bdaec005abb33923e7814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:53:05.984277",
+  "source_language": "en"
+}

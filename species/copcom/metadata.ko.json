@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copcom",
+  "scientific_name": "Coprinus comatus",
+  "common_name": "털먹물버섯",
+  "edibility": "E",
+  "description": "털먹물버섯 또는 변호사가발은 높이 10–20cm, 길쭉한 원통형 갓이 높이 5–15cm, 너비 2–5cm인 독특한 버섯이다. 갓은 흰색이며 중앙으로 갈수록 갈색이 되는 털이 많은 뒤로 젖혀진 인편이 덮여 있다. 갓 가장자리는 처음에 술 장식이 있다. 주름살은 이생, 흰색에서 분홍색이 되었다가 검어지며 아래에서 위로 검은 잉크처럼 자가용해된다(자가소화). 대는 높이 10–20cm, 매끄럽고 흰색이며 속이 비고, 종종 사라지는 작은 움직이는 턱받이가 있다. 어린 단추는 달걀 모양이며 전체가 흰색이다.",
+  "habitat": "잔디밭, 길가, 오솔길, 공사장, 정원, 목재 칩, 초지 등 교란된 토양에서 발견된다. 유기물이 풍부한 다져지거나 교란된 토양을 선호한다. 묻힌 목재나 비옥한 부식질에서 자란다. 빽빽한 무리를 이루며, 종종 하룻밤 사이에 나타난다. 도시와 교외 지역에서 매우 흔하다.",
+  "season": "봄에서 가을(4–11월)이며, 늦봄과 가을에 절정을 이룬다. 온화한 기후에서는 연중 발생할 수 있다. 서늘하고 습한 날씨에 가장 풍부하다. 폭우 후 언제든 나타날 수 있다.",
+  "regions": [
+    "북아메리카(매우 흔함, 전 지역)",
+    "유럽(널리 분포)",
+    "전 세계 온대 지역",
+    "교란 서식지에 범세계적 분포",
+    "전 세계 도시 지역"
+  ],
+  "lookalikes": [
+    "어린 Amanita 종(치명적) — 밑동에 외피막이 있고, 주름살이 잉크처럼 자가용해되지 않음",
+    "Coprinus sterquilinus(식용) — 더 작고, 분변에서 자람, 그 외 유사",
+    "Coprinopsis 속(다양) — 독특한 털 인편을 가진 종은 없음",
+    "중요: 털이 많은 흰색 인편과 검게 자가용해되는 주름살이 진단적이다"
+  ],
+  "safety_notes": "최상급 식용: 신선하고 어릴 때 가장 훌륭한 야생 버섯 중 하나이다. 채취 후 몇 시간 이내에 채취하고 섭취해야 하며, 빠르게 자가용해된다. 주름살은 몇 시간 만에 검은 잉크로 변한다. 제대로 조리하면 풍미와 조직이 훌륭하다. 충분히 익혀라. 주름살이 분홍색이나 검은색으로 변하기 전의 어린 흰색 개체만 채취하라. 주름살이 검어지기 시작하면 최적기를 지난 것이다. 자가용해 과정은 멈출 수 없다. 즉시 조리하거나 얼음물에 냉장하여 자가용해를 늦춰라. Coprinopsis atramentaria 같은 알코올 상호작용은 없다. 털이 많은 흰색 외관은 틀림없다. 매우 안전하다 — 유독 유사종이 없다. 볶거나 오믈렛에 가장 좋다. 채집가들이 좋아하지만 빠른 처리가 필요하다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722755.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-01",
+      "file_size_bytes": 76464,
+      "width": 491,
+      "height": 640,
+      "sha256": "8980c9ad2ade061eb0f4399b7be26bb415263cb5103eb81f8c08e920d6e612ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719565.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 99224,
+      "width": 640,
+      "height": 427,
+      "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

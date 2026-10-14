@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "polumb",
+  "scientific_name": "Polyporus umbellatus",
+  "common_name": "Polypore en ombrelle",
+  "edibility": "E",
+  "description": "Le Polypore en ombrelle est un grand polypore spectaculaire formant des rosettes composées de 20 à 50 cm de diamètre, constituées de multiples chapeaux imbriqués en forme d'éventail. Les chapeaux individuels mesurent 5 à 15 cm de diamètre, fins et souples, attachés à une base commune ramifiée. Les chapeaux sont beige à bruns, lisses à légèrement poilus, avec des zones de couleur. La surface des pores est blanche à crème, pores très petits. La chair est blanche, coriace-souple à l'état frais, avec une odeur douce. Toute la structure possède un pied central ou excentrique épais de 3 à 8 cm de hauteur, relié à des sclérotes enfouis (tubercules souterrains durs).",
+  "habitat": "Trouvé au pied des feuillus, particulièrement des chênes, poussant à partir de sclérotes enfouis (structures souterraines durcies). Les sclérotes sont reliés aux racines des arbres sous terre. Fructifie dispersé, généralement une rosette par endroit. Réapparaît au même endroit chaque année si le sclérotium persiste. Commun dans les forêts matures de feuillus.",
+  "season": "De l'été à l'automne (juin-novembre) dans la plupart des régions. Pic de fructification à la fin de l'été et à l'automne (août-octobre). Peut fructifier plusieurs fois par saison à partir du même sclérotium.",
+  "regions": [
+    "est de l'Amérique du Nord (commun)",
+    "centre des États-Unis",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Europe (répandu)",
+    "forêts tempérées de feuillus",
+    "particulièrement commun avec le chêne"
+  ],
+  "lookalikes": [
+    "Grifola frondosa — poule des bois (comestible) — chapeaux gris-brun en cuillère, structure différente",
+    "Meripilus sumstinei (comestible jeune) — éventails mais noircit au toucher",
+    "Bondarzewia berkeleyi (comestible jeune) — rosettes crème-beige mais massives, odeur de moisi",
+    "Polyporus tuberaster — semblable mais plus petit, région méditerranéenne"
+  ],
+  "safety_notes": "COMESTIBLE très jeune mais coriace : seules les parties les plus jeunes et les plus tendres sont comestibles — les spécimens âgés sont trop coriaces et fibreux. La texture rappelle le poulet lorsqu'il est jeune. Doit être bien cuit. Ne récolter que lorsque les chapeaux sont encore mous et souples. La saveur est douce. En mûrissant, le champignon devient de plus en plus coriace. La plupart des spécimens rencontrés sont trop vieux pour être agréables. Les sclérotes (tubercule) peuvent être cultivés pour produire des champignons. Culture historique en Italie à partir de sclérotes. Plus intéressant par sa croissance à partir d'un sclérotium que par sa valeur culinaire. Si vous essayez, faites bien cuire et attendez-vous à une texture caoutchouteuse même jeune.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1681947.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-11",
+      "file_size_bytes": 102498,
+      "width": 640,
+      "height": 427,
+      "sha256": "3567d6a3cd2846607f830eadf210f6931a23071d02d93dd1068e26f2fc95e056"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1675033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-06-13",
+      "file_size_bytes": 62674,
+      "width": 640,
+      "height": 482,
+      "sha256": "a60d23af0e0eae434c753cec153c6cee9717c908b574fd051734e3e569d8636c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "lachyg",
+  "scientific_name": "Lactifluus hygrophoroides",
+  "common_name": "Hygrophorus-like Milk Cap (Lactifluus hygrophoroides)",
+  "edibility": "E",
+  "description": "Млечник гигрофоровидный имеет оранжевую до бурой шляпку (4–10 см), гладкую, сухую. Пластинки РЕДКИЕ (как у Hygrophorus) — ключевой признак. Ножка того же цвета. КЛЮЧ: БЕЛЫЙ МЛЕЧНЫЙ СОК, РЕДКИЕ ПЛАСТИНКИ. Напоминает гигрофоры, но выделяет млечный сок. Мякоть белая. Споровый отпечаток белый.",
+  "habitat": "Микоризный с ЛИСТВЕННЫМИ породами, особенно дубом. Растёт на земле в лиственных лесах. Юг и восток США. Рассеянно.",
+  "season": "С лета до осени (июнь–октябрь).",
+  "regions": [
+    "Юго-Восток США",
+    "Среднеатлантический регион",
+    "Побережье Мексиканского залива"
+  ],
+  "lookalikes": [
+    "Виды Hygrophorus — БЕЗ МЛЕЧНОГО СОКА, пластинки восковидные"
+  ],
+  "safety_notes": "СЪЕДОБЕН: мягкий вкус. РЕДКИЕ ПЛАСТИНКИ + БЕЛЫЙ МЛЕЧНЫЙ СОК — диагностические признаки. Тщательно готовьте.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1704108.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 22442,
+      "width": 640,
+      "height": 427,
+      "sha256": "e2c4e686c9519f7d71452dac61d87c14d9e41abd2bdb5dfa7de3cb46650cc8b0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1704109.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-01",
+      "file_size_bytes": 34944,
+      "width": 640,
+      "height": 427,
+      "sha256": "16fb974dcbf20670933d48f25756520b191edc6e2eec123735fa51ee34a60d61"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000"
+,
+  "source_language": "en"
+}

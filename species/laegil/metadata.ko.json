@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laegil",
+  "scientific_name": "Laetiporus gilbertsonii",
+  "common_name": "서부닭벼슬버섯 (Laetiporus gilbertsonii)",
+  "edibility": "E",
+  "description": "황유황색 관공면을 지닌 선명한 주황색~연어분홍색 선반균으로, 폭 2~10인치의 겹겹이 큰 선반을 이룬다. L. sulphureus와 매우 비슷하나 보통 분홍주황색이 더 강하다. 어릴 때는 부드럽고 즙이 많으며, 나이가 들면 질겨진다. 동부 종과는 서부 분포와 기주목, 특히 유칼립투스와 참나무로 구분된다. 일년생 선반균이다.",
+  "habitat": "북아메리카 서부의 살아 있는 및 죽은 활엽수에 기생 및 부생, 특히 유칼립투스, 참나무 등 활엽수. 나무 줄기와 밑둥에 큰 로제트를 이룬다. 캘리포니아의 관상용 유칼립투스에서 흔하다. 갈색 입방심재부후를 일으킨다.",
+  "season": "캘리포니아에서는 늦가을부터 봄까지, 보통 10~3월로 우기와 겹친다. 온화한 해안 기후에서는 연중 결실 가능. 12~2월에 최성기. 동부 Laetiporus와는 반대의 계절 패턴.",
+  "regions": [
+    "캘리포니아 해안",
+    "태평양 연안 지역",
+    "남서부 사막",
+    "바하칼리포르니아",
+    "북아메리카 서부",
+    "특히 캘리포니아 도심에서 흔함"
+  ],
+  "lookalikes": [
+    "Laetiporus sulphureus (동부, 계절/기주 다름)",
+    "Laetiporus conifericola (침엽수에, 지역 다름)",
+    "기타 서부 Laetiporus 종 (식용성 비슷)",
+    "광대버섯(Omphalotus olivascens) — 유독, 주름살 있음(관공 아님)"
+  ],
+  "safety_notes": "어리고 적절한 기주에 났을 때 최상급 식용: 어리고 부드러우며 유연한 개체만 채취하라. 유칼립투스에 난 개체는 피하라 — 많은 사람이 소화불량을 겪는다. 참나무 등 자생 활엽수 개체가 더 안전하다. 내성을 시험하려고 소량부터 시작하라. 충분히 익혀 먹으라. 부드럽고 촉촉할 때 가장 좋다. 기주목과 무관하게 심하게 반응하는 사람도 있다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1709999.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 45092,
+      "width": 640,
+      "height": 407,
+      "sha256": "01b5b2cb2a6a93d860d9de1d6cb30146ba0f77c7601e5288af9fefe4708c8037"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1710000.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-30",
+      "file_size_bytes": 61780,
+      "width": 345,
+      "height": 640,
+      "sha256": "a8e4a312bb3db79fe35cb25936fd52ccc0bf8329cf077e77abb78ad9d880cf65"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

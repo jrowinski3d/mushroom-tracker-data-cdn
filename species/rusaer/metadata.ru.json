@@ -1,0 +1,47 @@
+{
+  "mushroom_id": "rusaer",
+  "scientific_name": "Russula aeruginea",
+  "common_name": "Сыроежка зелёная",
+  "edibility": "E",
+  "description": "Сыроежка зелёная имеет травянисто-зелёную до оливково-зелёной шляпку (4–10 см), во влажном виде липкую. Пластинки от белых до кремовых. Ножка белая. КЛЮЧЕВЫЕ ПРИЗНАКИ: ЗЕЛЁНАЯ ШЛЯПКА, ХРУПКАЯ МЕЛОВИДНАЯ МЯКОТЬ, НЕТ МЛЕЧНОГО СОКА, липкая шляпка. Мякоть белая. Споровый отпечаток от белого до бледно-кремового. Вкус от мягкого до слегка едкого.",
+  "habitat": "Микоризна с берёзой и другими лиственными породами. Растёт на земле в лиственных лесах, особенно возле берёзы. Встречается в Европе и Северной Америке. Рассеянно.",
+  "season": "С лета до осени (июль–октябрь).",
+  "regions": [
+    "северо-восток",
+    "Средний Запад",
+    "Европа"
+  ],
+  "lookalikes": [
+    "Russula virescens — зелёная, но с растрескивающейся шляпкой",
+    "Другие зелёные сыроежки",
+    "Млечники (Lactarius) — выделяют МЛЕЧНЫЙ СОК"
+  ],
+  "safety_notes": "СЪЕДОБНЫЙ: мягкий вкус. ЗЕЛЁНАЯ ЛИПКАЯ ШЛЯПКА + ХРУПКАЯ МЯКОТЬ + НЕТ МЛЕЧНОГО СОКА — диагностические признаки. Вкусовой тест (мягкие экземпляры съедобны). Тщательно готовить.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1631952.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-08-19",
+      "file_size_bytes": 60388,
+      "width": 640,
+      "height": 427,
+      "sha256": "69b1c98854062c313f197d877e43ca38db38d2e2dc254f7cd910b475928d951a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1357697.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-25",
+      "file_size_bytes": 55306,
+      "width": 640,
+      "height": 480,
+      "sha256": "f95be09168fabfe181504b56bd48e2b4e6937476750e8c86363ed210cb0c0f67"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

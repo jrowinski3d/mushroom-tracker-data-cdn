@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calboo",
+  "scientific_name": "Calvatia booniana",
+  "common_name": "Western Giant Puffball (Calvatia booniana)",
+  "edibility": "E",
+  "description": "지름 10~30cm의 크고 둥글거나 타원형인 말불버섯으로, 흰색에서 황갈색 표면에 두껍고 다각형의 판상 비늘(타일 깨진 듯한 모양)이 독특하다. 속은 식용 가능한 시기엔 순백색이며 올리브황색을 거쳐 갈색으로 변한다. 작은 밑동 부착부가 있으나 뚜렷한 불임대는 없다. 독특한 비늘 표면 무늬.",
+  "habitat": "산악 침엽수림과 혼합림, 특히 폰데로사소나무, 미송(더글러스퍼) 아래와 고산 초원에서 부생한다. 고지대의 배수가 잘되는 토양을 선호한다. 서부 산악 지대의 산악 공원, 탁 트인 숲, 숲 가장자리에서 흔하다.",
+  "season": "늦여름부터 가을, 보통 8월~10월. 남서부에서는 몬순 비가 내린 뒤 최성기. 산악 지역에서는 9월~10월에 가장 풍부하다.",
+  "regions": [
+    "로키산맥",
+    "시에라네바다산맥",
+    "캐스케이드산맥",
+    "남서부 산악 지대",
+    "서부 산악 삼림",
+    "브리티시컬럼비아주부터 애리조나주까지"
+  ],
+  "lookalikes": [
+    "Calvatia sculpta (비슷한 비늘이나 무늬가 다름)",
+    "치명적: 어린 광대버섯(Amanita) 단추 모양 자실체 (반드시 잘라 확인하십시오 - 내부에 발달 중인 주름살/갓이 보입니다)",
+    "Scleroderma 종/댕기버섯 (독성, 자주검은 속, 훨씬 두꺼운 껍질)",
+    "기타 Calvatia 종 (표면 무늬가 다름)"
+  ],
+  "safety_notes": "속이 완전히 흰색일 때만 식용 가능: 중요 - 섭취 전 반드시 표본을 위에서 아래까지 완전히 반으로 잘라 확인하십시오. 속이 전체적으로 완전히 순백색이고 단단할 때만 식용 가능합니다. 노란색, 갈색, 자주색 기운이나 발달 중인 구조물이 조금이라도 보이면 절대로 먹지 마십시오. 이렇게 하면 독성 유사종과 미성숙한 치명적 광대버섯을 먹는 것을 막을 수 있습니다. 독특한 비늘 표면이 동정에 도움이 되지만, 속의 흰색이 식용 가능 여부를 판단하는 결정적 기준입니다. 충분히 익히십시오.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1737565.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 103696,
+      "width": 640,
+      "height": 488,
+      "sha256": "f4956223f23b1e83a9420e349226ebc0597621480bcb3ca0da88c07cd4fa43e2"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1737566.jpg",
+      "photographer": "(c) Alan Rockefeller, some rights reserved (CC BY)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "observation_date": "2024-09-02",
+      "file_size_bytes": 91306,
+      "width": 640,
+      "height": 411,
+      "sha256": "30b4968b62116544e4e011334daf73bf46b1327c8337a15de0d3e46fc70b0850"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "neolep",
+  "scientific_name": "Neolentinus lepideus",
+  "common_name": "Train Wrecker (Neolentinus lepideus)",
+  "edibility": "E",
+  "description": "Seta de mediana a grande con sombrero blanco a crema de 5-15 cm de ancho cubierto de escamas marrones, especialmente concentradas hacia el centro. Láminas blancas decurrentes. Pie blanco central grueso de 5-12,5 cm de alto con escamas marrones deshilachadas debajo del anillo parcial. Tiene LÁMINAS, no poros. Crece sobre madera de coníferas. Textura dura y fibrosa. Fuerte olor a anís o regaliz cuando está fresca.",
+  "habitat": "Saprobia sobre madera de coníferas, incluidos troncos, tocones, traviesas de ferrocarril, postes de teléfono y madera de construcción. Causa podredumbre cúbica marrón. Común en pino, abeto, pícea y otras maderas de coníferas. Famosa por dañar las traviesas de ferrocarril y las estructuras de madera; de ahí «Train Wrecker». Se encuentra en madera de coníferas procesada y a la intemperie.",
+  "season": "De primavera a otoño, típicamente mayo-octubre. Puede aparecer todo el año en madera protegida como las traviesas de ferrocarril. Máximo en verano. Fructifica de la misma madera repetidamente durante años.",
+  "regions": [
+    "oeste de Norteamérica",
+    "Montañas Rocosas",
+    "Pacífico Noroeste",
+    "bosques de coníferas del norte",
+    "muy extendido en regiones de coníferas",
+    "distribución circumboreal"
+  ],
+  "lookalikes": [
+    "Lentinus tigrinus (similar pero más pequeño, madera diferente, patrón)",
+    "Especies escamosas de Pholiota (esporas marrones, láminas no decurrentes)",
+    "Otras setas escamosas de madera (olores diferentes, colores de espora)",
+    "Sin especies similares peligrosas con esta combinación de características"
+  ],
+  "safety_notes": "COMESTIBLE cuando es muy joven pero no recomendada: solo los botones jóvenes y tiernos son lo suficientemente blandos para comer; los ejemplares se vuelven muy duros y fibrosos rápidamente. Incluso los jóvenes tienen una textura dura que requiere una cocción extensa. El fuerte sabor a anís desagrada a muchos. Generalmente no merece la pena comerla debido a su dureza y fuerte sabor. Segura pero desagradable. Las distintivas escamas, el olor a anís y el hábitat en madera de coníferas ayudan a la identificación.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1688175.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 33134,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d59439c5cfa87d28e63a33fd801f1447fa4f31f6650877bc7bfdaf889fe0546"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1688176.jpg",
+      "photographer": "Robert Russo",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-07-28",
+      "file_size_bytes": 62860,
+      "width": 480,
+      "height": 640,
+      "sha256": "fe6e8a1f10093c4ff50e8c12968ed53c32036e3eabfd84f5194e38aa5eff356c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.670590",
+  "source_language": "en"
+}

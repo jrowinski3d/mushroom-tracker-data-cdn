@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "macpro",
+  "scientific_name": "Macrolepiota procera",
+  "common_name": "parasol",
+  "edibility": "E",
+  "description": "El parasol es una especie grande e impresionante con un distintivo sombrero en forma de paraguas que alcanza 10-30 cm de diámetro, cubierto de escamas marrones levantadas sobre un fondo crema que forman un patrón de piel de serpiente. El sombrero está montado sobre un pie alto y delgado (15-35 cm) con un anillo grueso de doble filo movible y patrones escamosos marrones como de serpiente debajo del anillo. Las láminas son libres (no adheridas al pie), blancas que se vuelven crema con la edad, y apretadas. La carne blanca tiene un suave sabor a nuez y no se magulla ni cambia de color al cortarla.",
+  "habitat": "Se encuentra en zonas herbosas como pastos, prados, bordes de céspedes, claros de bosques, parques y bordes de caminos. Crece en el suelo (no sobre madera) en suelos ricos en nutrientes, a menudo en zonas alteradas. Normalmente fructifica de forma dispersa o en pequeños grupos, a veces en corros de brujas. Prefiere zonas con exposición solar moderada y suelos bien drenados.",
+  "season": "De verano a otoño (julio-noviembre en Norteamérica, mayo-noviembre en climas más cálidos). La fructificación máxima ocurre a finales del verano y principios del otoño, especialmente después de lluvias cálidas. En climas mediterráneos puede fructificar en primavera y otoño.",
+  "regions": [
+    "Europa (nativa, muy extendida)",
+    "este de Norteamérica (naturalizada)",
+    "Pacífico Noroeste (rara)",
+    "California (ocasional)",
+    "regiones mediterráneas",
+    "pastizales templados de todo el mundo"
+  ],
+  "lookalikes": [
+    "Chlorophyllum brunneum (tóxico): esporada verdosa, enrojece al cortarse, constitución más robusta",
+    "Chlorophyllum molybdites (tóxico): esporas verdes, verdea al magullarse, norteamericano",
+    "Especies de Lepiota (algunas mortales): mucho más pequeñas (sombrero <10 cm), anillo frágil",
+    "Especies de Amanita (mortal): volva en la base, láminas adheridas o libres pero con volva"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: una de las mejores setas comestibles con textura firme y sabor a nuez. Se prefiere el sombrero (el pie es fibroso). Cocínela a fondo; no la coma cruda. Identificación crítica: verifique láminas blancas LIBRES (no adheridas al pie), anillo grueso de doble filo MOVIBLE, pie escamoso como piel de serpiente, ESPORADA BLANCA, SIN volva en la base. Deseche el pie duro y fibroso. Algunas personas refieren leves molestias digestivas; pruebe primero pequeñas cantidades. El parasol debe distinguirse claramente de las tóxicas especies de Chlorophyllum, que tienen esporas verdosas.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1707981.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-16",
+      "file_size_bytes": 126726,
+      "width": 640,
+      "height": 482,
+      "sha256": "48092b17e14085dc876a1c9286a5ce96d9c77732fe4e537500c55825c70e16de"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1590126.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-03",
+      "file_size_bytes": 126206,
+      "width": 640,
+      "height": 482,
+      "sha256": "ed4a5b15c67cad23f36c2d4f1e96ee10272c33b21580d35007412ea2982a36dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

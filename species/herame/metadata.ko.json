@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "herame",
+  "scientific_name": "Hericium americanum",
+  "common_name": "Bear's Head Tooth (Hericium americanum)",
+  "edibility": "E",
+  "description": "흰색 분지 구조로 큰 군집(너비 15~40cm)을 이루며, 여러 개의 짧은 가지가 각각 아랫면에 매달린 침상 돌기 무리를 지닌다. 주요 구조는 두껍고 다육질인 가지로 이루어지며, 침상 돌기(길이 0.5~2cm)는 가지 아랫면에만 나고 전면을 두르지 않는다. 침상은 신선할 때 흰색이며 나이가 들면 누렇게 된다. 전체 자실체는 한 지점에서 목재에 붙어 있다. 살은 흰색, 단단하고 맛이 순하다. 분지 구조로 H. erinaceus와 구별되고, 짧고 두꺼운 가지에 침상이 아랫면에만 나는 점으로 H. coralloides와 구별된다.",
+  "habitat": "활엽수, 특히 참나무, 너도밤나무, 단풍나무에서 부생성. 죽거나 죽어가는 고사목, 원목, 그루터기에서 자란다. 보통 상처나 부후 공동에서 발생한다. 균근성이 아니다. 보통 나무에 단생한다.",
+  "season": "늦여름부터 가을(8월~11월), 가끔 초겨울까지.",
+  "regions": [
+    "미국 동부",
+    "중서부",
+    "남동부",
+    "로키산맥"
+  ],
+  "lookalikes": [
+    "Hericium erinaceus (노루궁뎅이버섯) - 분지되지 않은 공 모양 구조",
+    "Hericium coralloides (산호침버섯) - 가늘게 분지되며 침상이 가지 전면을 두름",
+    "Hericium abietis - 침엽수에서 자라며, 더 치밀한 분지"
+  ],
+  "safety_notes": "최상급 식용: H. erinaceus와 비슷한 훌륭한 맛으로, 순하고 달콤하며 해산물 같은 풍미. 독특한 흰색 침상 외형 덕분에 유독 유사종이 없다. 신선하고 순백색일 때 가장 좋다 — 누렇게 되면 노화된 것이다. 침상의 잔해를 제거하도록 가볍게 손질하라. 분지 구조가 치밀한 노루궁뎅이버섯과 구별된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-04",
+      "file_size_bytes": 57254,
+      "width": 640,
+      "height": 482,
+      "sha256": "4ac9fe480e1a633010363f9ec99b70d933e57e90422bb5dab4a766109be5c41d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705306.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 32562,
+      "width": 640,
+      "height": 482,
+      "sha256": "e4f44d924b5441615ed855220bb55bdb42da4c4d242252f2b659c11ab0418b19"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

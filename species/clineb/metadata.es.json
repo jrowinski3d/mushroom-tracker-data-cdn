@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "clineb",
+  "scientific_name": "Clitocybe nebularis",
+  "common_name": "Embudo nublado (Clitocybe nebularis)",
+  "edibility": "E",
+  "description": "El clitocibe nublado o embudo nublado es un hongo grande y robusto con un sombrero de 8-20 cm de ancho, inicialmente convexo con el margen enrollado, volviéndose plano a en forma de embudo con la edad. El sombrero es de color marrón-grisáceo, gris-canela o gris nublado (como un cielo nublado), a menudo con zonas más oscuras y más claras que le dan un aspecto veteado. La superficie es lisa, de seca a grasienta. Las láminas son adnatas a ligeramente decurrentes, apretadas, de blancas a crema. El pie es de 6-12 cm de alto, robusto, de gris pálido a beige, fibroso. La carne es gruesa, blanca, con un fuerte olor dulce floral o dulzón empalagoso (no siempre agradable).",
+  "habitat": "Se encuentra en bosques caducifolios y de coníferas, bordes de bosques y hojarasca. Crece como descomponedor de hojarasca en humus rico. Fructifica disperso a gregario, a menudo en grandes tropas o corros de brujas. Prefiere zonas con abundante materia orgánica y profunda hojarasca.",
+  "season": "Finales de verano hasta otoño y principios de invierno (septiembre-diciembre). Fructifica hasta el invierno en climas suaves. Uno de los hongos de temporada tardía que aparecen después de las heladas. Pico a finales de otoño (octubre-noviembre).",
+  "regions": [
+    "Europa (muy común)",
+    "este de Norteamérica (común)",
+    "Pacífico Noroeste (común)",
+    "bosques templados de todo el mundo",
+    "cosmopolita en hojarasca"
+  ],
+  "lookalikes": [
+    "Especies de Clitocybe (algunas mortales) - muchas especies similares de color gris-marrón, algunas tóxicas",
+    "Entoloma sinuatum (tóxico) - tamaño y colores similares, pero esporas rosas y sin olor dulce",
+    "Especies de Lepiota - tonos púrpura, esporas rosas",
+    "Especies de Hygrophorus - láminas cerosas, hábitat diferente"
+  ],
+  "safety_notes": "COMESTIBLE PERO CON PRECAUCIÓN: Considerado comestible por algunos, pero CAUSA MALESTAR DIGESTIVO en muchas personas y NO SE RECOMIENDA. Puede causar náuseas, vómitos y diarrea incluso bien cocido. Algunas fuentes lo consideran sospechoso o no comestible. El riesgo de confusión con especies tóxicas de Clitocybe es alto. El fuerte olor dulce es distintivo, pero no siempre agradable. Incluso si se identifica correctamente, muchas personas no lo toleran. Existen mejores comestibles. Si se intenta, cocina bien, prueba primero cantidades minúsculas y prepárate para un posible malestar. El sombrero gris-marrón nublado y el olor dulce son diagnósticos. NO recomendado debido a los numerosos informes de enfermedad y los riesgos de confusión.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725219.jpg",
+      "photographer": "(c) Myles McSweeney, all rights reserved",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "observation_date": "2024-10-19",
+      "file_size_bytes": 81968,
+      "width": 480,
+      "height": 640,
+      "sha256": "f8ae6f9c3be27230a239ee41370dc50235addd10926c1999c368e9f9a4ba2f91"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1651552.jpg",
+      "photographer": "",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-13",
+      "file_size_bytes": 48724,
+      "width": 482,
+      "height": 640,
+      "sha256": "69e102213907378df2fda9a002305293be980dd54056e379244b879f45102cd4"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:54:26.271746",
+  "source_language": "en"
+}

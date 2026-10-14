@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copatr",
+  "scientific_name": "Coprinopsis atramentaria",
+  "common_name": "Coprin noir d'encre",
+  "edibility": "E",
+  "description": "Le Coprin noir d'encre, aussi appelé « fléau du buveur », est un champignon de taille moyenne de 5 à 15 cm de haut avec un chapeau de 3 à 7 cm de diamètre. Le chapeau est ovale à en cloche, gris-brun à fauve avec une surface gris pâle à brune, furfuracée (couverte de minuscules écailles ou fibres). Le centre est souvent légèrement plus sombre. Les lames sont libres à adnées, blanches devenant grises puis noires et se liquéfiant en encre. Le pied mesure 8 à 15 cm de haut, lisse, blanc, creux, avec une petite zone annulaire fragile. Fructifie en touffes denses à partir de bois enterré ou de matière organique.",
+  "habitat": "Présent dans les pelouses, jardins, parcs, paillis de copeaux de bois, zones de compost et près des souches ou du bois enterré. Pousse comme décomposeur du bois, souvent sur des débris de feuillus enterrés. Très commun dans les paysages urbains et suburbains. Fructifie en touffes denses et serrées, souvent en grand nombre. Préfère les sols perturbés riches en nutriments.",
+  "season": "Du printemps à l'automne (avril à novembre) dans les régions tempérées. Dans les climats doux, peut fructifier toute l'année. Plus abondant à la fin de l'été et à l'automne. Peut apparaître en grandes pousses après les pluies.",
+  "regions": [
+    "Amérique du Nord (très commun, répandu)",
+    "Europe (très commun)",
+    "dans le monde entier, en régions tempérées",
+    "zones urbaines du monde entier",
+    "répartition cosmopolite"
+  ],
+  "lookalikes": [
+    "Coprinus comatus (comestible) — plus grand, écailles blanches hirsutes, pas d'interaction avec l'alcool",
+    "Coprinellus micaceus (comestible) — particules micacées sur le chapeau, plus petit",
+    "Espèces de Coprinopsis — nombreux coprins gris semblables",
+    "Espèces de Psathyrella — semblables mais se liquéfient moins facilement"
+  ],
+  "safety_notes": "PRUDENCE — INTERACTION AVEC L'ALCOOL : Coprinopsis atramentaria contient de la coprine, qui bloque le métabolisme de l'alcool et provoque de graves réactions en combinaison avec l'alcool. NE PAS consommer d'alcool dans les 24 heures précédant ni jusqu'à 72 heures après avoir mangé ce champignon. Les symptômes comprennent rougeur du visage, nausées, vomissements, palpitations, fourmillements dans les membres, maux de tête et douleurs thoraciques. Bien cuit et consommé sans alcool, ce champignon est comestible, mais le risque sérieux d'interaction le rend inadapté à la plupart des cueilleurs.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723335.jpg",
+      "photographer": "purplecloud",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-06",
+      "file_size_bytes": 51172,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9f845c360fd59b871bda93baaa0c0830a86fec122b83661c898ff70e174b1ae"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1659341.jpg",
+      "photographer": "Kevin Fox",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-03-03",
+      "file_size_bytes": 67868,
+      "width": 353,
+      "height": 640,
+      "sha256": "9446ede186e58a31d122204a1fc0a987c47e238da67bdaec005abb33923e7814"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:53:05.984277",
+  "source_language": "en"
+}

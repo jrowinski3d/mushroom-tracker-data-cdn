@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "sparad",
+  "scientific_name": "Sparassis radicata",
+  "common_name": "Rooting Cauliflower Mushroom (Sparassis radicata)",
+  "edibility": "E",
+  "description": "Den rotande blomkålssvampen liknar S. crispa och bildar krämfärgade till gyllengula massor 10–30 cm breda som liknar en blomkål. Fruktkroppen består av talrika tunna fransade vågiga flikar eller tillplattade grenar från en central bas. Färgen är vanligen klarare gul till gyllengul än hos S. crispa. Konsistensen är krispig när den är färsk. Basen har en tydlig rotslående struktur (radicerande bas) som sträcker sig djupt ner i jorden för att nå nedgrävda rötter av lövträd. Flikarna är tätt krusade och packade.",
+  "habitat": "Finns vid basen av lövträd, särskilt ek, sällan på barrträd. Växer som rotparasit på levande träd eller från nedgrävda rötter av döda lövträd. Den rotslående basen sträcker sig djupt för att nå rötterna. Fruktsätter vid trädbaserna och ser ut att komma upp ur marken. Föredrar mogen lövskog.",
+  "season": "Sensommar till höst (augusti–november) i de flesta områden. Huvudsäsong på hösten. Kan återkomma till samma plats under flera år. Kräver varm sommar följd av höstregn.",
+  "regions": [
+    "Östra Nordamerika (ovanlig)",
+    "Europa (utbredd men ovanlig)",
+    "Tempererade lövskogar",
+    "Ekskogar",
+    "Ovanligare än S. crispa överlag"
+  ],
+  "lookalikes": [
+    "Sparassis crispa (ätlig) – mycket lik men på barrträd, blekare färg",
+    "Sparassis spathulata (ätlig) – västerländsk art, liknande utseende",
+    "Korallticka (Grifola) (ätlig) – gråbruna rosetter, annan konsistens",
+    "Inga giftiga liknande arter"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Utmärkt matsvamp med smak och konsistens som liknar S. crispas. Mycket uppskattad där den hittas. Den krispiga konsistensen och milda smaken är enastående. Utmärkt i olika rätter. Rengör mycket noggrant eftersom strukturen fångar upp skräp. Bäst när den är färsk och blek. Äldre exemplar blir sega. Tillaga noggrant. Utseendet är karakteristiskt utan farliga liknande arter. Ovanlig men värd att söka. Den rotslående basen (radicerande) och associationen med lövträd (särskilt ek) skiljer den från S. crispa på barrträd. Återkommer till samma platser när förhållandena är rätt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1641786.jpg",
+      "photographer": "Chitin-da-breeze",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-01-01",
+      "file_size_bytes": 66534,
+      "width": 640,
+      "height": 591,
+      "sha256": "bcbd753dd1d35cb3b8dcb17a2e09c8514ce77c188f0464c6f45cd12f5fb2125b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1608950.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-06",
+      "file_size_bytes": 126206,
+      "width": 480,
+      "height": 640,
+      "sha256": "6cd4eb6fcfc3e41a5c6b91f561a2396b6d38cef36f550bd9a10a4c641ca84782"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.522645",
+  "source_language": "en"
+}

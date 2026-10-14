@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "coplag",
+  "scientific_name": "Coprinopsis lagopus",
+  "common_name": "Coprin patte de lièvre",
+  "edibility": "E",
+  "description": "Le Coprin patte de lièvre est un petit champignon délicat de 4 à 10 cm de haut avec un chapeau de 2 à 5 cm de diamètre. Le chapeau est ovale à en cloche, blanc à gris-brun pâle, couvert de poils blancs denses, cotonneux ou laineux, surtout quand il est jeune, lui donnant un aspect fourré (comme une patte de lièvre, d'où son nom). La surface présente de longues fibres soyeuses. Les lames sont libres, blanches devenant grises puis noires et se liquéfiant. Le pied mesure 4 à 10 cm de haut, élancé, blanc, couvert de poils laineux semblables, creux. Le champignon entier a un aspect hirsute et poilu.",
+  "habitat": "Présent dans les zones herbeuses, pelouses, pâturages, parcs, bords de routes et sols perturbés. Préfère les sols riches en nutriments, souvent là où paît le bétail ou près du fumier. Pousse au sol dans l'herbe, fructifie de manière dispersée à grégaire. Commun dans les prairies entretenues et les zones pâturées.",
+  "season": "Du printemps à l'automne (mai à novembre) dans les régions tempérées. Fructification maximale à la fin du printemps et en été. Dans les climats chauds, peut fructifier jusqu'en hiver. Plus commun par temps chaud et humide.",
+  "regions": [
+    "Europe (répandu)",
+    "Amérique du Nord (moins commun)",
+    "prairies tempérées du monde entier",
+    "pâturages",
+    "cosmopolite dans les habitats appropriés"
+  ],
+  "lookalikes": [
+    "Coprinus comatus (comestible) — beaucoup plus grand, écailles hirsutes et non poils cotonneux",
+    "Coprinopsis lagopides — presque identique, la distinction exige la microscopie",
+    "Jeunes Agaricus ou Amanita — mais sans la surface cotonneuse ni les lames noires qui se liquéfient",
+    "Espèces de Parasola — plus petites, moins poilues"
+  ],
+  "safety_notes": "COMESTIBLE mais médiocre : considéré comme comestible quand il est jeune, mais la saveur est fade et la texture pauvre. La petite taille et la nature délicate le rendent peu pratique. Aucune propriété toxique connue, mais rarement récolté. Pas d'interaction avec l'alcool. À utiliser immédiatement car les lames se liquéfient rapidement. Seuls les jeunes spécimens avant que les lames ne deviennent noires sont comestibles. L'aspect laineux et poilu est charmant mais ne se traduit pas en qualité culinaire. Sans danger mais sans intérêt. Pas de sosies toxiques. Les poils blancs cotonneux lui donnent un aspect fourré attrayant. Plus intéressant comme spécimen qu'en cuisine.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1723677.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-09",
+      "file_size_bytes": 80168,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb65a2e8b50fd754a18e94db92f351c950f6aad16c9436862b1b4e582849bcf9"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1723658.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-08",
+      "file_size_bytes": 69772,
+      "width": 640,
+      "height": 524,
+      "sha256": "12799b2ca72edccdf51732a8de50992a20502b6b4f9c593c8dcde2c35988af72"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

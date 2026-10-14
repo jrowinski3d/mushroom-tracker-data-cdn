@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "lacsub",
+  "scientific_name": "Lactarius subpurpureus",
+  "common_name": "Subdulcis Group Milk Cap (Lactarius subpurpureus)",
+  "edibility": "E",
+  "description": "Subdulcis Group Milk Cap har en rödbrun hatt (3-8 cm), slät. Skivor blekt rosa. Fot liknande färg. NYCKEL: VIT MJÖLKSAFT, mild smak. Liten art med rosa-bruna toner. Kött blekt. Sporfällning rosaaktigt krämfärgad.",
+  "habitat": "Bildar mykorrhiza med BARRTRÄD och lövträd. Växer i blandskog. Spridd.",
+  "season": "Sommar till höst (juli-oktober).",
+  "regions": [
+    "östra USA",
+    "mellanvästern"
+  ],
+  "lookalikes": [
+    "Andra små riskor – kontrollera färg och smak"
+  ],
+  "safety_notes": "ÄTLIG: Mild smak. VIT MJÖLKSAFT + MILD SMAK diagnostiskt för undergruppen. Bäst som ung. Tillaga ordentligt.",
+  "images": [
+    {
+      "file_size_bytes": 44232,
+      "height": 427,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "photographer": "Eva Skific",
+      "sha256": "0498b5201c9cd15c3c0834733e401ccbc2f1868abfe53781f01aab90cb4ac699",
+      "source_url": "https://mushroomobserver.org/images/640/1722244.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 42834,
+      "height": 427,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-29",
+      "photographer": "Eva Skific",
+      "sha256": "f200757574e7abfcd0ced99c8ee3b2668fe99470c04396ee020ca016d951e0f8",
+      "source_url": "https://mushroomobserver.org/images/640/1722245.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

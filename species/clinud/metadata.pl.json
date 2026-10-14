@@ -1,0 +1,39 @@
+{
+  "mushroom_id": "clinud",
+  "scientific_name": "Clitocybe nuda",
+  "common_name": "gąsówka fioletowawa",
+  "edibility": "E",
+  "description": "To ten sam gatunek co Lepista nuda (gąsówka fioletowawa) – nazwa Clitocybe nuda jest synonimem. Kapelusz o średnicy 5–15 cm, wypukły, z czasem płaski, liliowy do fioletowo-niebieskiego za młodu, blednący do brązowawego z fioletowymi odcieniami. Powierzchnia gładka i lekko tłustawa. Blaszki przyrośnięte do wykrojonych, liliowo-fioletowe, blednące do brązowawych. Trzon wysoki na 4–10 cm, krępy, fioletowy do liliowego z bulwiastą podstawą. Miąższ blado fioletowy do białego o słodkim kwiatowym zapachu. Różowy wysyp zarodników.",
+  "habitat": "Występuje w lasach liściastych i mieszanych, na skrajach lasów, w żywopłotach, parkach, ogrodach i na pryzmach kompostu. Rośnie jako rozkładacz ściółki liściowej w bogatej glebie organicznej. Owocnikuje rozproszony do gromadnego w dużych skupiskach lub czarcich kołach. Preferuje środowiska bogate w azot.",
+  "season": "Od późnego lata do wczesnej zimy (wrzesień–grudzień). Jeden z klasycznych późno owocnikujących grzybów pojawiających się po przymrozkach. Szczyt późną jesienią (październik–listopad). W łagodnych klimatach może owocnikować do stycznia.",
+  "regions": ["Europa (bardzo pospolity)", "Wschodnia Ameryka Północna (pospolity)", "Północny Zachód Pacyfiku (pospolity)", "Kalifornia (sporadycznie)", "Strefa umiarkowana na całym świecie", "Powszechnie uprawiany"],
+  "lookalikes": ["Gatunki Cortinarius (niektóre śmiertelnie trujące) – rdzawobrązowe zarodniki i pajęczynowata zasnówka", "Laccaria amethystina (jadalny) – mniejszy, prawdziwie fioletowy, cieńszy", "Mycena pura (trująca) – mniejsza, krucha, zapach rzodkwi", "Młody Cortinarius violaceus (jadalny) – pajęczynowata zasnówka, rdzawe zarodniki"],
+  "safety_notes": "JADALNY: Popularny grzyb jadalny, ale wymaga prawidłowego przygotowania. KRYTYCZNE: Musi być dokładnie ugotowany – NIGDY nie jedz na surowo ani niedogotowanego. Niektórzy ludzie mają reakcje alergiczne nawet po ugotowaniu. Najpierw spróbuj małych ilości. Sprawdź RÓŻOWY WYSYP ZARODNIKÓW (nie rdzawobrązowy). Fioletowa barwa, przyrośnięte blaszki, różowe zarodniki i słodki zapach odróżniają go od zasłonaków. Popularny w Europie i coraz częściej uprawiany. Najlepszy duszony lub w gulaszach. Włókniste trzony odrzuć.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1632914.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-19",
+      "file_size_bytes": 102296,
+      "width": 640,
+      "height": 480,
+      "sha256": "1138642c17b89f0c94a0c740ce5a21060db059a61803c5cdf86d13662e26ab0c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1632915.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-11-19",
+      "file_size_bytes": 97662,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6973f9ba712e464981f6ea5d19f85f44facc4e2a22725e7bfbace9e8827b99b"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

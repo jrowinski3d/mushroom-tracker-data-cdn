@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacthy",
+  "scientific_name": "Lactarius thyinos",
+  "common_name": "Aromatic Milk Cap (Lactarius thyinos)",
+  "edibility": "E",
+  "description": "Aromatic Milk Cap ma pomarańczowy kapelusz (4–12 cm) z koncentrycznymi strefami, często z zielonkawymi plamami. Blaszki blado pomarańczowe, gęste. Trzon pomarańczowy, dołkowaty. KLUCZOWA CECHA: POMARAŃCZOWE MLECZKO i charakterystyczny AROMATYCZNY ZAPACH CEDRU lub KADZIDŁA. Mleczko może przebarwiać się na zielono. Miąższ blady. Wysyp zarodników kremowy. Aromatyczny zapach odróżnia go od podobnych gatunków.",
+  "habitat": "Mikoryzowy z CEDRAMI i CYPRYSAMI (rodzina cyprysowate, Cupressaceae) w zachodniej Ameryce Północnej. Rośnie pod cedrzyńcem, żywotnikiem olbrzymim i cyprysikiem Lawsona. Występuje w lasach iglastych.",
+  "season": "Jesień (wrzesień–listopad), owocnikuje w lasach iglastych.",
+  "regions": [
+    "Północno-Zachodni Pacyfik",
+    "Północna Kalifornia",
+    "Zachodni Oregon",
+    "Kolumbia Brytyjska"
+  ],
+  "lookalikes": [
+    "Lactarius deliciosus — gospodarz sosna, mniej aromatyczny",
+    "Lactarius rubrilacteus — czerwone mleczko",
+    "Inne pomarańczowe mleczaje (Lactarius) — sprawdź drzewo-gospodarza i zapach"
+  ],
+  "safety_notes": "WYŚMIENITY GRZYB JADALNY: Doskonały smak. POMARAŃCZOWE MLECZKO i CEDROWY ZAPACH w połączeniu z gospodarzem z rodziny cedrów/cyprysów są diagnostyczne. Może przebarwiać się na zielono — to normalne. Najlepszy młody. Gotować dokładnie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1705100.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 63272,
+      "width": 640,
+      "height": 482,
+      "sha256": "aa2a7d5936d1b759d24738c55c3f0c7d9cbf7a2cd5b08a51e5b5c30da7b5233f"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705101.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 82012,
+      "width": 640,
+      "height": 482,
+      "sha256": "a9f41cf835a54d706662327c51195d81f2fcb15b96153e4e954cd50f7014d5b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "lacsan",
+  "scientific_name": "Lactarius sanguifluus",
+  "common_name": "피붉은젖버섯 (Lactarius sanguifluus)",
+  "edibility": "E",
+  "description": "피붉은젖버섯은 진한 동심원 무늬와 녹색 얼룩이 있는 주황색~분홍주황색 갓(4~12cm)을 지닌다. 주름살은 주황분홍색이며 밀집한다. 대는 주황색에 진한 점무늬가 있다. 핵심 특징: 자르면 흘러나오는 혈액색~와인색 유즙(젖) — 매우 특징적인 진한 붉은색이다. 유즙은 자주붉게 진해진다. 살은 창백~분홍빛이다. 포자문은 연분홍빛이다. 혈액색 유즙이 동정 포인트다.",
+  "habitat": "유럽의 소나무와 균근성으로 북아메리카에 도입되었다. 소나무 아래, 특히 지중해성 소나무에서 자란다. 소나무 조림지, 공원에서 발견된다. 모래 토양을 선호한다.",
+  "season": "가을(9~12월), 소나무 지역에서 비 온 뒤 결실.",
+  "regions": [
+    "유럽(자생)",
+    "북아메리카에 도입",
+    "캘리포니아",
+    "소나무 식재 지역"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus — 유즙 붉음 비슷하나 서부 자생종",
+    "Lactarius deliciosus — 주황색 유즙이며 붉지 않음",
+    "기타 주황색 Lactarius — 유즙 색 확인"
+  ],
+  "safety_notes": "최상급 식용: 유럽에서 높이 평가된다. 혈액색 유즙이 동정 포인트. 순하고 훌륭한 맛. 익히면 자주색으로 물들 수 있는데 정상이다. 어릴 때 가장 좋다. 충분히 익혀 먹으라.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1512554.jpg",
+      "photographer": "Micah Courteau",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-09-29",
+      "file_size_bytes": 57538,
+      "width": 480,
+      "height": 640,
+      "sha256": "69d9fd1a7862763aeab529efa5337d0a1477dd758fefc40d1b468553ecdf5142"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/980994.jpg",
+      "photographer": "zaca",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2018-12-15",
+      "file_size_bytes": 63930,
+      "width": 640,
+      "height": 480,
+      "sha256": "5adf5b9c0a2b9cfe7ed1a97dadc6fad4a73e8b1cdda03b85eb6ba2387bf0a5f6"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

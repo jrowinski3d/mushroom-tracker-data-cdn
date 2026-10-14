@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "plepul",
+  "scientific_name": "Pleurotus pulmonarius",
+  "common_name": "Phoenix Oyster (Pleurotus pulmonarius)",
+  "edibility": "E",
+  "description": "부채 모양 또는 굴조개 모양의 갓이 너비 2~8인치이며, 흰색에서 연한 크림색 또는 밝은 황갈색이다. 표면은 매끄러우며, 흰색 주름살이 대 아래쪽으로 길게 내려붙고, 대는 측생하거나 거의 없다. P. ostreatus와 매우 비슷하지만 대체로 색이 더 옅고 따뜻한 달에 발생한다. 활엽수에서 촘촘히 겹친 다발을 이루며 자란다. 포자문은 흰색이다.",
+  "habitat": "죽거나 죽어가는 활엽수, 통나무, 그루터기에서 부생하며, 특히 참나무, 너도밤나무, 단풍나무, 느릅나무 등 낙엽수에서 발생한다. 목재에서 촘촘히 겹친 선반 모양을 이룬다. 활엽수림과 혼합림의 서 있는 고목과 쓰러진 통나무에서 흔하다.",
+  "season": "늦봄부터 초가을까지 발생하며, 따뜻한 날씨인 6~8월에 가장 많이 발생한다. P. ostreatus의 따뜻한 계절 버전이다. 기온이 60°F(15°C) 이상일 때 발생한다.",
+  "regions": [
+    "북아메리카 동부",
+    "중서부 및 대평원",
+    "미국 남부",
+    "태평양 연안",
+    "전 세계 온대 지역"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (거의 동일, 더 진한 색, 가을~겨울에 발생)",
+    "Angel wings (Pleurocybella porrigens) - 유독, 더 작고, 순백색, 침엽수에서 발생",
+    "Elm oyster (Hypsizygus ulmarius) - 대가 더 뚜렷하게 중앙에 위치",
+    "Crepidotus속 - 갈색 포자, 더 작고 육질이 얇음"
+  ],
+  "safety_notes": "최상급 식용: P. ostreatus와 비슷한 온화하고 기분 좋은 맛의 훌륭한 식용 버섯이다. 전 세계에서 가장 많이 재배되는 종 중 하나이다. 먹기 전에 반드시 충분히 익혀 먹는다. 정확히 동정된 야생 개체는 안전하다. 여름에 발생한다는 점이 비슷한 P. ostreatus와 구분하는 데 도움이 된다. 상업용으로 널리 재배된다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1691299.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-04",
+      "file_size_bytes": 70350,
+      "width": 640,
+      "height": 480,
+      "sha256": "99a98f8d2d414ba72dc72435e994f5bbe3c17e27d65e768b5070cf33a88020a0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1691286.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-03",
+      "file_size_bytes": 80098,
+      "width": 640,
+      "height": 480,
+      "sha256": "5fb260ca9843e36cc986b17d7ce952eebf4de6a6ded63fb10206454b3d031d1e"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-10T11:18:57.352015",
+  "source_language": "en"
+}

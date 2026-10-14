@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clatru",
+  "scientific_name": "Clavariadelphus truncatus",
+  "common_name": "Clava truncada (Clavariadelphus truncatus)",
+  "edibility": "E",
+  "description": "El coral de cima plana es un hongo de clava grande y distintivo de 7-15 cm de alto y 2-6 cm de ancho en la parte superior. El cuerpo fructífero tiene forma de clava a columnar con una distintiva parte superior aplanada o truncada (como si se hubiera cortado con un cuchillo - característica diagnóstica). El color es canela, ocre o marrón-amarillento a marrón-anaranjado, a menudo volviéndose marrón más oscuro con la edad. La superficie es lisa a ligeramente arrugada. La base es a menudo blanquecina y puede tener hilos de micelio blancos. La carne es blanca, quebradiza cuando está fresca, con un olor suave. Estructura única sin ramificar.",
+  "habitat": "Se encuentra en bosques de coníferas y mixtos, particularmente bajo píceas, abetos, tsugas y pinos. Forma asociaciones micorrícicas con coníferas. Crece terrestremente desde el suelo, a menudo en musgo. Fructifica disperso a gregario, a veces en tropas o filas. Prefiere bosques montanos frescos y húmedos con abundantes restos de coníferas.",
+  "season": "Finales de verano hasta otoño (agosto-noviembre) en regiones montañosas. En el Pacífico Noroeste, fructifica de septiembre a noviembre. La fructificación pico ocurre en otoño después de las primeras lluvias. Requiere temperaturas frescas y humedad constante.",
+  "regions": [
+    "Pacífico Noroeste (muy común)",
+    "Montañas Rocosas",
+    "montañas del norte de California",
+    "noreste de Norteamérica",
+    "Europa (ampliamente distribuido)",
+    "bosques de coníferas boreales y templados del norte"
+  ],
+  "lookalikes": [
+    "Clavariadelphus pistillaris (comestible) - en forma de clava pero con la parte superior redondeada, no plana",
+    "Clavariadelphus ligula (comestible) - más pequeño, más esbelto, base con tintes violáceos",
+    "Gomphus clavatus (comestible) - parte superior en forma de oreja de cerdo, tonos púrpura, estructura diferente",
+    "Viejos pedos de lobo del género Lycoperdon - color similar pero redondos, se vuelven polvorientos por dentro"
+  ],
+  "safety_notes": "COMESTIBLE: Considerado comestible, pero la calidad es mediocre. La textura se vuelve gomosa o dura al cocinarse. Sabor suave, no particularmente atractivo. Históricamente comido, pero hoy rara vez se recolecta debido a su mala calidad culinaria. Seguro y sin especies similares tóxicas. Cocina bien si se intenta. Los ejemplares jóvenes firmes son mejores. La parte superior aplanada es absolutamente diagnóstica: ningún otro hongo de clava grande tiene esta característica. Más interesante como ejemplar que como alimento. A menudo abundante en hábitats adecuados, pero no merece la pena recolectarlo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1260808.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-13",
+      "file_size_bytes": 65916,
+      "width": 640,
+      "height": 435,
+      "sha256": "b3e73fe1062f84de12e17846003ba46292b1ef06993bad8b68cb6ac45ef22656"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1260809.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-03",
+      "file_size_bytes": 31658,
+      "width": 640,
+      "height": 400,
+      "sha256": "5d1ca550cc37e7b992629accd6592c72648f01bb74233805253d038de54f9f20"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

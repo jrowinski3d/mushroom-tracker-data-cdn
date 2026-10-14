@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "canros",
+  "scientific_name": "Cantharellus roseocanus",
+  "common_name": "Rainbow Chanterelle (Cantharellus roseocanus)",
+  "edibility": "E",
+  "description": "Regnbågskantarellen (även kallad rosenkantarell) har en distinkt rosaskimrande till laxorangesfärgad eller rosafärgad hatt 3–12 cm bred, ofta med purpurrosa toner som gett den dess namn. Hattytan är slät till lätt skrynklig, blir trattformad med åldern, med vågiga, oregelbundna kanter. Undersidan har tjocka, trubbiga, gaffelformade åsar (INTE äkta skivor) som är rosorange till laxrosa, glest stående och löper nedför foten. Foten är fast, 3–9 cm hög, rosaskimrande till vit, ofta med purpurrosa toner vid basen. Köttet är vitt till ljusrosa, fast, med mild fruktig doft. Sporfällningen är vit till blekt gräddvit.",
+  "habitat": "Lever i mykorrhiza med barrträd i nordvästra Stillahavsområdet, bland annat douglasgran, västamerikansk hemlock och sitkagran i kustskogar. Förekommer även med tanoak och madrone i blandskogar. Föredrar väldränerade sluttningar med tjock mossa och förna i kustnära och bergiga barrskogar.",
+  "season": "Höst till tidig vinter (september–december), fruktsätter i samband med höstregnen. Högsäsongen är vanligtvis oktober–november i nordvästra Stillahavsområdet. Fruktsätter ofta tillsammans med C. formosus men dyker vanligen upp något senare på säsongen.",
+  "regions": [
+    "Nordvästra Stillahavsområdet (från British Columbia till norra Kalifornien)",
+    "Kustnära Oregon och Washington",
+    "Vancouverön",
+    "Kustbergen i norra Kalifornien",
+    "Olympic-halvön"
+  ],
+  "lookalikes": [
+    "Cantharellus formosus – ätlig, mer guldorange utan rosa toner, i övrigt mycket lik",
+    "Cantharellus cascadensis – ätlig, blekare gulvit, saknar rosa toner, högre höjder",
+    "Falsk kantarell (Hygrophoropsis aurantiaca) – inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange"
+  ],
+  "safety_notes": "ÄTLIG: Regnbågskantarellen är en utmärkt matsvamp med distinkt rosafärgad hatt. Liksom hos alla kantareller är det viktigaste kännetecknet de tjocka, trubbiga, gaffelformade åsarna på undersidan, som känns vaxartade och är sammanvuxna med hattköttet, till skillnad från äkta skivor. Den unika rosarosa färgen gör den relativt lätt att skilja från andra kantareller och från giftiga förväxlingssvampar. Kontrollera alltid att den växer från mark nära träd. Har en mild, behaglig smak liknande andra kantarellers; utmärkt stekt eller i gräddbaserade rätter.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1694228.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 107424,
+      "width": 480,
+      "height": 640,
+      "sha256": "8200b4001e0376a6ebd13187bf3762b1f1eab844a4746bcb46b89a71c86f69b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1694229.jpg",
+      "photographer": "Drew Henderson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-10",
+      "file_size_bytes": 106984,
+      "width": 480,
+      "height": 640,
+      "sha256": "3af5792bb0538624c8a3cd973dc8beae579d306263b6990c372bc1d599017326"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

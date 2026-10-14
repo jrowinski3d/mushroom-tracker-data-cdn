@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "herame",
+  "scientific_name": "Hericium americanum",
+  "common_name": "Hydne d’Amérique",
+  "edibility": "E",
+  "description": "L’hydne d’Amérique a une structure blanche et ramifiée formant une grande touffe (15-40 cm de large) avec de multiples BRANCHES COURTES portant chacune des touffes d’AIGUILLONS pendants sur leur face inférieure. La structure principale se compose de branches épaisses et charnues, avec des aiguillons (0,5-2 cm de long) ne poussant que sur les faces inférieures des branches, et non tout autour. Les aiguillons sont blancs à l’état frais, jaunissant avec l’âge. Toute la fructification est fixée au bois en un point unique. Chair blanche, ferme, au goût doux. Se distingue de H. erinaceus par sa structure ramifiée et de H. coralloides par ses branches plus courtes et plus épaisses, avec des aiguillons uniquement dessous.",
+  "habitat": "Saprotrophe sur les feuillus, en particulier le chêne, le hêtre et l’érable. Pousse sur les arbres morts ou dépérissants debout, les troncs et les souches. Fructifie généralement à partir de blessures ou de cavités de carie. Non mycorhizien. Apparaît généralement seul sur un arbre.",
+  "season": "De la fin de l’été à l’automne (août-novembre), parfois jusqu’en début d’hiver.",
+  "regions": [
+    "Est des États-Unis",
+    "Midwest",
+    "Sud-Est",
+    "montagnes Rocheuses"
+  ],
+  "lookalikes": [
+    "Hericium erinaceus (Hydne hérisson) - structure en pompon non ramifiée",
+    "Hericium coralloides (Hydne corail) - très ramifié, aiguillons tout autour des branches",
+    "Hericium abietis - pousse sur les conifères, ramification plus compacte"
+  ],
+  "safety_notes": "COMESTIBLE DE CHOIX : excellente saveur, semblable à H. erinaceus, douce, sucrée, avec un goût de fruits de mer. Aucun sosie toxique grâce à son aspect blanc épineux caractéristique. Meilleur frais et d’un blanc pur - le jaunissement indique l’âge. Nettoyer délicatement pour retirer les débris des aiguillons. Sa structure ramifiée le distingue de l’hydne hérisson, plus compact.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719033.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-04",
+      "file_size_bytes": 57254,
+      "width": 640,
+      "height": 482,
+      "sha256": "4ac9fe480e1a633010363f9ec99b70d933e57e90422bb5dab4a766109be5c41d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1705306.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-31",
+      "file_size_bytes": 32562,
+      "width": 640,
+      "height": 482,
+      "sha256": "e4f44d924b5441615ed855220bb55bdb42da4c4d242252f2b659c11ab0418b19"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

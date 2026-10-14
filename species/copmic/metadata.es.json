@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copmic",
+  "scientific_name": "Coprinellus micaceus",
+  "common_name": "Coprino micáceo (Coprinellus micaceus)",
+  "edibility": "E",
+  "description": "El coprino micáceo o coprino de tinta brillante es un hongo pequeño y delicado de 2-6 cm de alto con un sombrero de 1-4 cm de ancho. El sombrero es ovalado a acampanado, de canela a marrón-amarillento o marrón-rojizo, con distintivas partículas brillantes como mica en la superficie cuando es joven (característica diagnóstica: las partículas se lavan con la lluvia). El sombrero tiene surcos radiales desde el margen hasta parte del centro. Las láminas son adnatas, blancas que se vuelven grises y luego negras, delicuescentes. El pie es de 3-7 cm de alto, liso, blanco, frágil, hueco. Fructifica en densos grupos.",
+  "habitat": "Se encuentra sobre y alrededor de tocones, troncos y madera enterrada de frondosas muertas. Muy común sobre madera en descomposición en bosques, parques y jardines. Crece como descomponedor de madera en densos grupos o tropas. Particularmente abundante en tocones viejos y en la base de los árboles. Prefiere lugares húmedos y sombreados.",
+  "season": "Primavera hasta otoño (abril-noviembre) con algo de fructificación en invierno en climas suaves. Abundancia pico desde finales de primavera hasta otoño. Puede fructificar todo el año en regiones cálidas. Muy persistente y común.",
+  "regions": [
+    "Norteamérica (muy común, ampliamente distribuido)",
+    "Europa (muy común)",
+    "todo el mundo en regiones templadas",
+    "bosques y zonas urbanas",
+    "cosmopolita en madera en descomposición"
+  ],
+  "lookalikes": [
+    "Coprinellus disseminatus (comestible) - mucho más pequeño, gris pálido, sin partículas de mica",
+    "Especies de Psathyrella - similares pero carecen de partículas de mica y se delicuescen menos",
+    "Otras especies de Coprinellus - difíciles de distinguir sin microscopía",
+    "Sin especies similares tóxicas"
+  ],
+  "safety_notes": "COMESTIBLE: Considerado comestible y seguro cuando es joven y fresco, pero el pequeño tamaño hace tediosa la recolección. El sabor es suave y poco destacable. Sin interacción con el alcohol como Coprinopsis atramentaria. Debe usarse inmediatamente, ya que las láminas se delicuescen rápidamente. Recolecta solo ejemplares jóvenes frescos. El pequeño tamaño y la rápida delicuescencia lo hacen poco práctico para la mayoría de los recolectores. Seguro y sin especies similares tóxicas. Los destellos como mica cuando es joven son diagnósticos y encantadores. A menudo abundante, pero no merece el esfuerzo de recolectarlo. La especie es más interesante ecológicamente que culinariamente.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1750440.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120384,
+      "width": 640,
+      "height": 480,
+      "sha256": "1651497c786b3947aaa6ca4ea11f16b5d12be9c846fac4005e9eefc2b4c4d987"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1750441.jpg",
+      "photographer": "Nathan Wilson",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-04",
+      "file_size_bytes": 120102,
+      "width": 640,
+      "height": 480,
+      "sha256": "04b8ac4eead336dafb401fa91130915d85a5a17a21fe8da3b20b38ab86026638"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "rusvir",
+  "scientific_name": "Russula virescens",
+  "common_name": "gołąbek zielonawy",
+  "edibility": "E",
+  "description": "Gołąbek zielonawy ma zielony kapelusz (5–12 cm) z charakterystycznym POPĘKANYM lub SZACHOWNICOWYM wzorem, odsłaniającym biały miąższ pod spodem – bardzo charakterystyczne. Blaszki białe. Trzon biały, jędrny. KLUCZ: ZIELONY POPĘKANY KAPELUSZ, KRUCHY MIĄŻSZ, BRAK MLECZKA, ŁAGODNY SMAK. Miąższ biały. Wysyp zarodników biały.",
+  "habitat": "Mikoryzowa z drzewami liściastymi, zwłaszcza dębem, bukiem, kasztanem. Rośnie na ziemi w lasach liściastych. Gatunek europejski. Rozproszona lub w grupach.",
+  "season": "Lato do jesieni (lipiec–wrzesień).",
+  "regions": [
+    "Europa",
+    "Wschodnie Stany Zjednoczone (prawdopodobnie introdukowana)"
+  ],
+  "lookalikes": [
+    "Russula aeruginea – zielona, lecz gładka",
+    "Inne gołąbki",
+    "Mleczaje – mają MLECZKO"
+  ],
+  "safety_notes": "WYBORNY GRZYB JADALNY: Doskonały łagodny, orzechowy smak. POPĘKANY ZIELONY KAPELUSZ – wzór nie do pomylenia. KRUCHY MIĄŻSZ + ŁAGODNY SMAK. Wysoko ceniony w Europie. Dokładnie ugotować.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1577038.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 67492,
+      "width": 640,
+      "height": 480,
+      "sha256": "a609f8d413c5866ecfc3b1d8dd55ca38c560370d54100b6c5180553ae41659a1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1577039.jpg",
+      "photographer": "Dan Molter",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-13",
+      "file_size_bytes": 52214,
+      "width": 480,
+      "height": 640,
+      "sha256": "d60f279b895b6e53ce3ebeb25006c468963e1e5b63c6fd6c606b67e877e604a7"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

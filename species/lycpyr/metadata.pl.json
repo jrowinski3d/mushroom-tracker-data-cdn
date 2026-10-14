@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lycpyr",
+  "scientific_name": "Lycoperdon pyriforme",
+  "common_name": "purchawek gruszkowaty",
+  "edibility": "E",
+  "description": "Małe gruszkowate purchawek o wysokości 2,5–5 cm i szerokości 2–4 cm, o gładkiej do drobnoziarnistej powierzchni, bez kolców. Białe do brązowawych do brązowych z wiekiem. Rosną w gęstych kępach połączonych białymi sznurami grzybni (ryzomorfami). Wnętrze czysto białe, gdy jadalne, potem oliwkowożółte, a następnie brązowe. Odróżnia je gładka powierzchnia i kępowy wzrost na drewnie.",
+  "habitat": "Saprobiczny, bezpośrednio na dobrze rozłożonym drewnie, w tym na kłodach, pniakach, zakopanym drewnie i resztkach drzewnych. Rośnie w gęstych kępach dziesiątek owocników połączonych u podstawy. Pospolity na próchniejącym drewnie liściastym i iglastym w lasach. Często wydaje się rosnąć z gleby, ale zawsze jest połączony z zakopanym drewnem.",
+  "season": "Lato do jesieni, zwykle lipiec–listopad. W łagodnym klimacie może pojawiać się od wiosny do jesieni. Szczyt owocowania sierpień–październik. Jeden z najpóźniej owocujących purchawek.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Północno-Zachodni Pacyfik",
+    "Góry Skaliste",
+    "Region Wielkich Jezior",
+    "szeroko rozpowszechniony w Ameryce Północnej",
+    "zasięg kosmopolityczny na całym świecie"
+  ],
+  "lookalikes": [
+    "Lycoperdon perlatum (kolczasta powierzchnia, nie rośnie kępowo na drewnie)",
+    "ŚMIERTELNIE TRUJĄCE: młode muchomory w stadium guzika (ZAWSZE PRZECINAJ NA PÓŁ – w środku widać rozwijające się blaszki i kapelusz)",
+    "inne małe gatunki Lycoperdon (inne siedlisko, nie rosną kępowo na drewnie)",
+    "młode gatunki Apioperdon (Lycoperdon) (inna faktura powierzchni)"
+  ],
+  "safety_notes": "JADALNY, gdy wnętrze jest czysto białe: KRYTYCZNE – ZAWSZE przetnij okaz całkowicie na pół od góry do dołu przed spożyciem. Jadalny TYLKO wtedy, gdy wnętrze jest całkowicie czysto białe i jędrne w całości. Jeśli w środku widać jakikolwiek żółty, oliwkowy lub brązowy kolor albo rozwijające się struktury, NIE JEDZ. Zapobiega to spożyciu trujących gatunków podobnych i młodych, śmiertelnie trujących muchomorów. Kępowy wzrost na drewnie i białe sznury grzybni pomagają w rozpoznaniu. Gotuj dokładnie – łagodny, przyjemny smak za młodu.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1719866.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 45098,
+      "width": 640,
+      "height": 427,
+      "sha256": "025b68dcca9112710f3959f8bb7d0f77f9d8cd19726479ecbe880eb39fe3fb8c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1717930.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 44818,
+      "width": 640,
+      "height": 427,
+      "sha256": "69d292fb21699cee44f79057132cff9d0cf638d5adf550166783c068eb52dfe5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

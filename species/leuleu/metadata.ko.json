@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "leuleu",
+  "scientific_name": "Leucoagaricus leucothites",
+  "common_name": "Smooth Parasol (Leucoagaricus leucothites)",
+  "edibility": "E",
+  "description": "스무스 파라솔은 갓 지름 4-10cm의 중소형 흰색 버섯으로, 처음에는 둥글다가 자라면서 넓게 볼록하거나 거의 편평해진다. 갓은 전체가 흰색에서 크림색이며 매끄럽고 비단결 같으며 비늘이 없다(Chlorophyllum 속과 구별되는 핵심 특징). 살은 흰색이며 잘라도 변색되지 않는다. 주름살은 떨어진주름살로 흰색이었다가 자라면서 분홍빛이 돈다. 조밀하게 배열된다. 대는 높이 5-12cm로 매끄럽고 흰색이며, 얇고 연약한 흰색 턱받이가 있으나 자라면서 종종 사라지고, 기부가 약간 굵어진다.",
+  "habitat": "잔디밭, 공원, 정원, 골프장, 목초지, 초원 숲 가장자리 등 초지에서 발견된다. 규칙적인 수분이 있는 관리되거나 교란된 지역의 영양이 풍부한 토양을 선호한다. 유기 비료나 퇴비가 있는 곳에서 땅 위에서 자란다. 흩어져 있거나 무리 지어 열매를 맺으며, 때로는 호를 그리거나 버섯고리를 이룬다.",
+  "season": "온대 지역의 늦봄부터 가을까지(5월-11월). 캘리포니아나 남부 같은 따뜻한 기후에서는 비가 온 뒤 연중 열매를 맺을 수 있으며, 따뜻하고 습한 여름과 초가을에 가장 풍부하다.",
+  "regions": [
+    "북아메리카 동부(흔함)",
+    "캘리포니아 및 서부 해안",
+    "미국 남부",
+    "태평양 북서부(가끔 발견)",
+    "유럽(널리 분포)",
+    "전 세계 온대 초원"
+  ],
+  "lookalikes": [
+    "Agaricus 속(식용 가능) - 분홍색에서 갈색 주름살, 초콜릿 갈색 포자, 종종 아니스 향",
+    "Leucoagaricus naucinus(식용 가능) - 매우 비슷하나 성숙하면 갓 중앙이 회갈색",
+    "Chlorophyllum molybdites(유독) - 녹색 포자가 생기고 크며 희미한 비늘이 있을 수 있음",
+    "Amanita 속(치명적) - 대 기부에 외피막(주머니)이 있으나 Leucoagaricus에는 없음"
+  ],
+  "safety_notes": "식용 가능: 식용으로 여겨져 일부 채취자가 수집하나, 심각한 혼동 위험 때문에 초보자에게 권장하지 않는다. 완전히 매끄러운 흰색 갓과 외피막이 없다는 점이 치명적인 광대버섯류와 구별되지만, 식별에는 경험이 필요하다. 확인할 것: 기부 외피막 없음, 자라면서 약간 분홍빛이 돌 수 있는 떨어진 흰색 주름살, 흰색 포자문(녹색 아님), 비늘 없는 매끄러운 갓. 일부 사람에게 위장 장애 보고가 있다. 치명적인 흰색 광대버섯류나 유독한 Chlorophyllum molybdites와 혼동할 위험이 있어 위험한 선택이다. 많은 도감에서 잔디밭의 흰색 버섯 채취를 권하지 않는다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1720338.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 75188,
+      "width": 640,
+      "height": 452,
+      "sha256": "dcc39dac32497c06d17d47f37568a9264dbb711586c85e206aba92e263e1485a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1720339.jpg",
+      "photographer": "Crystal (Squirrelgirl)",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-08",
+      "file_size_bytes": 35128,
+      "width": 482,
+      "height": 640,
+      "sha256": "072a1c980d4fc308dfdeeb9f1d060891f6113ac231af9c9d9cefb66fd73d83c5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

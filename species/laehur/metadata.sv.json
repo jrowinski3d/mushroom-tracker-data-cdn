@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "laehur",
+  "scientific_name": "Laetiporus huroniensis",
+  "common_name": "Chicken of the Woods (Laetiporus huroniensis)",
+  "edibility": "E",
+  "description": "Ljusorange till laxorange ticka med svavelgult till krämfärgat porskikt, som bildar stora överlappande hyllor 5-25 cm breda på hemlock. Ofta blekare gula porer än L. sulphureus. Mjuk och saftig som ung. Skiljs åt genom nordöstra utbredningsområde och strikt koppling till östra hemlock. Bildar rosetter på stammar och stockar. Ettårig ticka.",
+  "habitat": "Parasitisk och saprofytisk specifikt på levande och död östra hemlock (Tsuga canadensis). Starkt värdspecifik för hemlock i nordöstra skogar. Bildar hylltickor på stammar, stubbar och fallna stockar. Orsakar brun kubisk kärnröta. Vanlig där östra hemlock förekommer.",
+  "season": "Sommar till höst, vanligen juli-oktober. Toppfruktkroppar i augusti-september. Fruktkroppar efter varma sommarregn. Liknande tidpunkt som andra nordliga Laetiporus-arter.",
+  "regions": [
+    "nordöstra USA",
+    "Stora sjöarna-regionen",
+    "Appalacherna",
+    "sydöstra Kanada",
+    "östra hemlocks utbredningsområde",
+    "New England till Georgia"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (västra bergen, andra barrträd)",
+    "Laetiporus sulphureus (på lövträd, inte barrträd)",
+    "Andra Laetiporus-arter (andra värdar/områden)",
+    "Omphalotus (giftig, har skivor inte porer)"
+  ],
+  "safety_notes": "ÄTLIG som ung, men OBS: Liksom andra barrlevande Laetiporus orsakar denna art oftare magbesvär än lövträdsarter. Hemlockexemplar kan ge magproblem hos känsliga personer. Plocka endast mycket unga, mjuka exemplar. Börja med små mängder för att testa tolerans. Tillaga ordentligt. Hemlockvärden och det nordöstra utbredningsområdet hjälper identifieringen. Vissa tolererar den bra, andra får problem.",
+  "images": [
+    {
+      "file_size_bytes": 103126,
+      "height": 480,
+      "index": 0,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-10",
+      "photographer": "Django Grootmyers",
+      "sha256": "0df314aefa46cac6defefc119c354d4312bbc0555697776c22c1fb4101c223ac",
+      "source_url": "https://mushroomobserver.org/images/640/1350974.jpg",
+      "width": 640
+    },
+    {
+      "file_size_bytes": 55286,
+      "height": 459,
+      "index": 1,
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-07-09",
+      "photographer": "Django Grootmyers",
+      "sha256": "962d3f0e99c0ec377823fd34565b4fd1a13e41657c302b42df79a45e2db5d9ba",
+      "source_url": "https://mushroomobserver.org/images/640/1350971.jpg",
+      "width": 640
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

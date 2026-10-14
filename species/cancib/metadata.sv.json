@@ -1,0 +1,49 @@
+{
+  "mushroom_id": "cancib",
+  "scientific_name": "Cantharellus cibarius",
+  "common_name": "Kantarell",
+  "edibility": "E",
+  "description": "Kantarellen har en guldgul till äggulafärgad hatt 2–12 cm bred med oregelbunden, vågig kant som blir trattlik med åldern. Undersidan har tjocka, trubbiga, gafflade ribbor (INTE äkta skivor) som löper nedför foten och har samma guldfärg som hatten. Foten är solid, 2–8 cm hög, avsmalnande nedåt, och vit till blekgul. Köttet är fast, vitt till blekgult, och avger en distinkt fruktig aprikosliknande doft. Sporfällningen är blekgul till gräddvit.",
+  "habitat": "Mykorrhiza med olika trädslag inklusive ek, bok, björk, tall, gran och ädelgran. Förekommer i både barr- och blandade lövskogar, vanligen på väldränerade sluttningar eller mossiga områden. Fruktar ofta på samma platser år efter år.",
+  "season": "Sommar till höst (juni–november i Nordamerika, juli–december i Europa). Toppfruktning sker efter kraftiga sommar- eller höstregn, med tidpunkt som varierar med latitud och höjd.",
+  "regions": [
+    "Norra och centrala Europa",
+    "Nordöstra Nordamerika",
+    "Området kring Stora sjöarna",
+    "Nordvästra USA",
+    "Nordasien"
+  ],
+  "lookalikes": [
+    "Jack-O'-Lantern (Omphalotus olearius/illudens) – GIFTIG, har äkta vassa skivor, växer på trä, lyser i mörker",
+    "Narrkantarell (Hygrophoropsis aurantiaca) – Inte giftig men dålig kvalitet, har äkta tunna skivor, mer orange färg",
+    "Andra Cantharellus-arter – Alla ätliga, liknande utseende och tillagning"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av de mest uppskattade vilda svamparna med utmärkt smak och fast konsistens. Nyckeln till säker identifiering är att undersöka undersidan – kantareller har tjocka, trubbiga, gafflade ribbor som är svåra att lossa från hatten, medan giftiga Jack-O'-Lanterns har tunna, vassa äkta skivor. Kantareller växer från jord (mykorrhiza), aldrig på trä. Vissa personer får lindriga magbesvär; pröva först en liten mängd. Utmärkt stekt i smör med sin naturliga peppriga, fruktiga smak.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1567856.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 23654,
+      "width": 640,
+      "height": 361,
+      "sha256": "811d0143a8e74dc7c8481b1e9b39aa6df2f4093c0aae15687a0ca478080e3902"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1567857.jpg",
+      "photographer": "Michael Kennedy",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-06-19",
+      "file_size_bytes": 15560,
+      "width": 640,
+      "height": 361,
+      "sha256": "4f70a6f6b01279635a5685f9fc69eaab4fd42f22caa6f5543498006d662ba7e5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T00:00:00.000000",
+  "source_language": "en"
+}

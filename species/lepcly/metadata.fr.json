@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepcly",
+  "scientific_name": "Lepiota clypeolaria",
+  "common_name": "Lépiote clypéolaire",
+  "edibility": "U",
+  "description": "La lépiote clypéolaire est un petit champignon délicat avec un chapeau de 2 à 6 cm de diamètre, campanulé devenant largement convexe avec un mamelon proéminent. Le chapeau est couvert d'anneaux concentriques laineux d'écailles brunes à beiges sur un fond crème pâle à blanc, donnant un aspect hirsute distinctif. La chair est mince, blanche et fragile. Les lames sont libres, blanches à crème, serrées à très serrées. Le pied mesure 3 à 8 cm de haut, grêle, blanc à crème avec une surface cotonneuse ou laineuse présentant souvent des zones ou bandes brunâtres sous l'anneau fragile.",
+  "habitat": "Trouvé dans les forêts mixtes de feuillus et de conifères, notamment sous chênes, hêtres et conifères. Pousse dans la litière de feuilles et les sols riches en humus, souvent sur des bûches bien décomposées ou des débris ligneux. Préfère les sols forestiers humides et ombragés, acides. Fructifie en spécimens dispersés à grégaires, typiquement en petits groupes dans la litière forestière.",
+  "season": "De l'été à l'automne (juillet-novembre) dans la majeure partie de l'Amérique du Nord. En Europe, fructifie de la fin du printemps à l'automne (mai-novembre). Le pic de fructification se produit à la fin de l'été et au début de l'automne pendant les périodes d'humidité constante. Rare au début du printemps dans les climats chauds.",
+  "regions": [
+    "Europe (largement répandue, indigène)",
+    "Est de l'Amérique du Nord (commune)",
+    "Pacifique Nord-Ouest (occasionnelle)",
+    "Californie (rare)",
+    "forêts tempérées du Nord",
+    "régions boréales et montagneuses"
+  ],
+  "lookalikes": [
+    "Lepiota cristata (non comestible) — taille et aspect similaires, odeur désagréable, écailles brun-rougeâtre",
+    "Espèces de Lepiota (beaucoup mortelles) — extrêmement difficiles à distinguer, beaucoup contiennent des amatoxines",
+    "Petites espèces d'Agaricus (comestibles) — lames brunes, spores chocolat, lames libres similaires",
+    "Petites espèces de Chlorophyllum (toxiques) — plus grandes, plus robustes, spores verdâtres"
+  ],
+  "safety_notes": "COMESTIBLE MAIS DÉCONSEILLÉ : Bien qu'historiquement considéré comme comestible en Europe, ce champignon est DÉCONSEILLÉ à la consommation en raison du danger extrême de confusion avec des espèces mortelles de lépiotes. De nombreuses petites lépiotes contiennent des amatoxines (les mêmes toxines que les amanites mortelles) et sont indiscernables sans microscope. Plusieurs espèces mortelles, dont L. brunneoincarnata, L. helveola et L. subincarnata, sont presque identiques. Même les mycologues expérimentés peinent à distinguer les petites lépiotes de manière fiable. La petite taille signifie une faible récompense pour un risque énorme. ÉVITER TOUTES LES PETITES LÉPIOTES — le risque dépasse de loin toute valeur culinaire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751244.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 40008,
+      "width": 640,
+      "height": 427,
+      "sha256": "aad0ef4e4430c9520df50ce20bec403a3766672088c3f003ac67274d2ed1590b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751245.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 35696,
+      "width": 640,
+      "height": 427,
+      "sha256": "e5919625a3c7ea7d40ccaae7a61c66522471a43f4328502a17d0008b5ff194dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

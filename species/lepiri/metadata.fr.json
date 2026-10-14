@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lepiri",
+  "scientific_name": "Lepista irina",
+  "common_name": "Flowery Blewit (Lepista irina)",
+  "edibility": "E",
+  "description": "Le Flowery Blewit ressemble à L. nuda mais est généralement plus pâle. Chapeau de 4 à 12 cm de diamètre, convexe devenant plat, lilas pâle à lilas rosâtre ou chamois avec de subtiles nuances violettes. Le chapeau se décolore plus vite que celui de L. nuda, devenant souvent entièrement chamois-brun. La surface est lisse. Les lames sont adnées, lilas pâle à rosâtre devenant chamois pâle. Le pied mesure 4 à 8 cm de haut, lilas pâle à blanchâtre avec des tons violets, à base légèrement bulbeuse. La chair est pâle, mince, avec un parfum floral sucré caractéristique (plus fort et plus fleuri que celui de L. nuda).",
+  "habitat": "Se trouve dans les forêts de feuillus et de conifères, les lisières et les zones herbeuses près des arbres. Pousse dans la litière de feuilles et les sols organiques riches. Fructifie de manière dispersée à grégaire, parfois en ronds. Préfère les zones riches en humus retenant bien l’humidité.",
+  "season": "De la fin de l’été à l’automne (août-novembre) dans la plupart des régions. Plus précoce que L. nuda, fructifiant généralement avant les fortes gelées. Pic en septembre-octobre.",
+  "regions": [
+    "Europe (commun)",
+    "Est de l’Amérique du Nord (peu commun)",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Forêts tempérées dans le monde entier",
+    "Moins commun que L. nuda dans l’ensemble"
+  ],
+  "lookalikes": [
+    "Lepista nuda (comestible) - très similaire, couleur violette plus profonde, saison plus tardive",
+    "Clitocybe nuda (même espèce) - synonyme de Lepista nuda",
+    "Espèces de Cortinarius (dont certaines mortelles) - spores brun rouille, pas roses",
+    "Espèces de Laccaria (comestible) - plus petites, violettes de façon plus uniforme"
+  ],
+  "safety_notes": "COMESTIBLE avec les mêmes précautions que L. nuda : doit être bien cuit - NE JAMAIS manger cru. Peut provoquer des réactions allergiques chez certaines personnes. Le fort parfum floral peut être écrasant dans les plats. Essayer d’abord en petites quantités pour tester la tolérance. Vérifier la SPORÉE ROSE pour le distinguer des Cortinarius. Les couleurs pâles et le fort parfum sucré sont caractéristiques. Moins couramment récolté que L. nuda. Bien cuire et commencer par de petites portions. Certaines personnes trouvent le parfum désagréable. Comestible mais procéder avec prudence.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649896.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95348,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dac1ebaf3f7b1b474965747dad73ac4fd6aac9270bb58023ebd33017f0689b1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649897.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 94302,
+      "width": 640,
+      "height": 480,
+      "sha256": "70fa8fb81c58d229ce5ed118b93a56066f1f7d3f3c9e264d3bc7e2b39bd640b8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

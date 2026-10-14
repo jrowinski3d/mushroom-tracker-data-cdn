@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "bonber",
+  "scientific_name": "Bondarzewia berkeleyi",
+  "common_name": "Berkeley's Polypore (Bondarzewia berkeleyi)",
+  "edibility": "E",
+  "description": "Massiv rosett av stora överlappande solfjäderformade hattar 10–30 cm breda; hela fruktkroppen kan bli 30–90+ cm tvärsöver. Gräddvit till beige till ljusbrun ovansida med radiella skrynklor. Vit till gräddvit poryta. Tjock, seg, fiberrik konsistens även som ung. Enskilda hattar större och mindre ordnade än hos Grifola. Kan väga 9–23+ kg. Stark möglig lukt.",
+  "habitat": "Parasitisk och saprofytisk vid basen av levande och döda lövträd, särskilt ek, och orsakar stambas- och rotröta. Bildar massiva rosetter vid trädbaser, från rötter och på stubbar. Vanlig i mogna lövskogar. Återkommer ofta på samma plats flera år.",
+  "season": "Sommar till höst, vanligen juli–oktober. Toppfruktning i augusti–september. Kan stå kvar i flera veckor. Mest riklig under sensommar och tidig höst efter regn.",
+  "regions": [
+    "Östra Nordamerika",
+    "Mellanvästern",
+    "Sydöstra USA",
+    "Området kring Stora sjöarna",
+    "Appalacherna",
+    "Nordvästra USA"
+  ],
+  "lookalikes": [
+    "Grifola frondosa (mindre enskilda hattar, gråbrun, bättre ordnad rosett)",
+    "Meripilus sumstinei (mörkare, svartnar vid beröring)",
+    "Andra stora tickrosetter (annan konsistens, ordning)",
+    "Unga Albatrellus (mindre, annan växtmiljö)"
+  ],
+  "safety_notes": "ÄTLIG som mycket ung men bör vanligen undvikas: Endast de ömma tillväxtkanterna hos mycket unga exemplar är smakliga – det mesta av fruktkroppen är för seg för att äta även som ung. Den starka mögliga lukten och fiberrika konsistensen gör den oaptitlig. Kan orsaka magbesvär. Måste tillagas noggrant. Generellt inte värd att plocka på grund av segheten. Bättre tickor finns att äta. Vissa torkar och maler exemplar till pulver för smaksättning.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1708313.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 89214,
+      "width": 640,
+      "height": 480,
+      "sha256": "935b8fc5b3803aa029baf2bcb81d1f9ba55995e4017c9b3ccb79c238195119c1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1708314.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-09-22",
+      "file_size_bytes": 110054,
+      "width": 480,
+      "height": 640,
+      "sha256": "78d3bea57198757ee2d96e32c3c6c4be2d9d9c54bb8f36074c19ebb323cd806f"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

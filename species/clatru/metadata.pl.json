@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clatru",
+  "scientific_name": "Clavariadelphus truncatus",
+  "common_name": "buławka obcięta",
+  "edibility": "E",
+  "description": "Buławka obcięta to duży, charakterystyczny grzyb maczugowaty, wysoki na 7–15 cm i szeroki na 2–6 cm u góry. Owocnik jest maczugowaty do kolumnowatego, z charakterystycznym spłaszczonym lub obciętym wierzchołkiem (jakby uciętym nożem – cecha diagnostyczna). Barwa brązowawa, ochrowa lub żółtobrązowa do pomarańczowobrązowej, z wiekiem często ciemniejąca do brązowej. Powierzchnia gładka do lekko pomarszczonej. Podstawa często biaława, może mieć białe sznury grzybni. Miąższ biały, kruchy, gdy świeży, o łagodnym zapachu. Pojedyncza, nierozgałęziona struktura.",
+  "habitat": "Występuje w lasach iglastych i mieszanych, szczególnie pod świerkami, jodłami, choinami i sosnami. Tworzy związki mikoryzowe z drzewami iglastymi. Rośnie naziemnie z gleby, często w mchu. Owocnikuje rozproszony do gromadnego, czasem w licznych skupiskach lub rzędach. Preferuje chłodne, wilgotne lasy górskie z obfitymi resztkami iglastymi.",
+  "season": "Od późnego lata do jesieni (sierpień–listopad) w regionach górskich. Na Północnym Zachodzie Pacyfiku owocnikuje wrzesień–listopad. Szczyt owocnikowania następuje jesienią po pierwszych deszczach. Wymaga niskich temperatur i stałej wilgoci.",
+  "regions": [
+    "Północny Zachód Pacyfiku (bardzo pospolity)",
+    "Góry Skaliste",
+    "Góry północnej Kalifornii",
+    "Północno-Wschodnia Ameryka Północna",
+    "Europa (rozpowszechniony)",
+    "Północne umiarkowane i borealne lasy iglaste"
+  ],
+  "lookalikes": [
+    "Clavariadelphus pistillaris (jadalny) – maczugowaty, ale zaokrąglony wierzchołek, nie płaski",
+    "Clavariadelphus ligula (jadalny) – mniejszy, smuklejszy, fioletowawy odcień podstawy",
+    "Gomphus clavatus (jadalny) – wierzchołek w kształcie świńskiego ucha, fioletowe odcienie, inna budowa",
+    "Stare purchawki Lycoperdon – podobna barwa, ale okrągłe, wewnątrz stają się pyliste"
+  ],
+  "safety_notes": "JADALNY: Uważany za jadalny, ale jakość jest mierna. Konsystencja po ugotowaniu staje się gumowata lub twarda. Smak łagodny, niezbyt atrakcyjny. Historycznie jedzony, ale dziś rzadko zbierany ze względu na słabą jakość kulinarną. Bezpieczny, brak trujących gatunków podobnych. Jeśli próbujesz, gotuj dokładnie. Lepsze są młode, jędrne okazy. Spłaszczony wierzchołek jest absolutnie diagnostyczny – żaden inny duży grzyb maczugowaty nie ma tej cechy. Ciekawszy jako okaz niż jako pożywienie. Często obfity w odpowiednich siedliskach, ale niewarty zbierania.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1260808.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-13",
+      "file_size_bytes": 65916,
+      "width": 640,
+      "height": 435,
+      "sha256": "b3e73fe1062f84de12e17846003ba46292b1ef06993bad8b68cb6ac45ef22656"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1260809.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-03",
+      "file_size_bytes": 31658,
+      "width": 640,
+      "height": 400,
+      "sha256": "5d1ca550cc37e7b992629accd6592c72648f01bb74233805253d038de54f9f20"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

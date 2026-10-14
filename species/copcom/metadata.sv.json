@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copcom",
+  "scientific_name": "Coprinus comatus",
+  "common_name": "Fjällig bläcksvamp",
+  "edibility": "E",
+  "description": "Fjällig bläcksvamp är en distinkt svamp 10–20 cm hög med avlång cylindrisk hatt 5–15 cm hög och 2–5 cm bred. Hatten är vit täckt av raggiga bakåtböjda fjäll som blir bruna mot mitten. Hattkanten är till en början fransad. Skivorna är fria, vita som blir rosa sedan svarta och delikvescerar (självsmälter) till svart bläck nedifrån och upp. Foten är 10–20 cm hög, slät, vit, ihålig, med en liten rörlig ring som ofta försvinner. Unga knoppar är äggformade och helt vita.",
+  "habitat": "Finns i störd jord som gräsmattor, vägkanter, stigar, byggarbetsplatser, trädgårdar, flis och gräsytor. Föredrar packad eller störd jord rik på organiskt material. Växer på begravd ved eller rik mull. Fruktsätter i täta knippen, dyker ofta upp över natten. Mycket vanlig i stads- och förortsområden.",
+  "season": "Vår till höst (april–november) med toppar i sen vår och höst. I milda klimat kan den fruktsätta året runt. Rikligast under svalt fuktigt väder. Kan dyka upp efter kraftiga regn när som helst.",
+  "regions": [
+    "Nordamerika (mycket vanlig, alla regioner)",
+    "Europa (utbredd)",
+    "Tempererade regioner över hela världen",
+    "Kosmopolitisk i störda miljöer",
+    "Stadsområden över hela världen"
+  ],
+  "lookalikes": [
+    "Unga Amanita-arter (dödliga) – har volva vid basen, skivorna delikvescerar inte till bläck",
+    "Coprinus sterquilinus (ätlig) – mindre, på dynga, i övrigt liknande",
+    "Coprinopsis-arter (varierande) – ingen med distinkta raggiga fjäll",
+    "KRITISKT: De raggiga vita fjällen och de svarta, delikvescerande skivorna är diagnostiska"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av de finaste vilda svamparna som färsk och ung. Måste samlas in och ätas inom timmar efter plockning eftersom den snabbt självsmälter. Skivorna blir till svart bläck inom timmar. Utmärkt smak och konsistens vid ordentlig tillredning. Tillaga ordentligt. Samla endast unga vita exemplar innan skivorna blir rosa eller svarta. När skivorna börjat svartna är svampen förbi sin topp. Självsmältningsprocessen kan inte stoppas. Tillaga omedelbart eller kyl i isvatten för att bromsa delikvescensen. Ingen alkoholinteraktion som Coprinopsis atramentaria. Det raggiga vita utseendet är omisskännligt. Mycket säker – inga giftiga förväxlingssvampar. Bäst stekt eller i omeletter. En favorit bland svampplockare men kräver snabb hantering.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722755.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-01",
+      "file_size_bytes": 76464,
+      "width": 491,
+      "height": 640,
+      "sha256": "8980c9ad2ade061eb0f4399b7be26bb415263cb5103eb81f8c08e920d6e612ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719565.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 99224,
+      "width": 640,
+      "height": 427,
+      "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

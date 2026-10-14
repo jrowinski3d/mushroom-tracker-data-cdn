@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "lepcly",
+  "scientific_name": "Lepiota clypeolaria",
+  "common_name": "Shield Dapperling (Lepiota clypeolaria)",
+  "edibility": "U",
+  "description": "La lepiota escudo es una seta pequeña y delicada con un sombrero de 2-6 cm de diámetro, acampanado que se vuelve ampliamente convexo, con un prominente umbo. El sombrero está cubierto de anillos concéntricos lanosos de escamas pardas a canela sobre un fondo de crema pálido a blanco, lo que le da un distintivo aspecto desgreñado. La carne es delgada, blanca y frágil. Las láminas son libres, de blancas a crema, juntas a apretadas. El pie mide 3-8 cm de alto, esbelto, de blanco a crema, con superficie algodonosa o lanosa que a menudo presenta zonas o bandas parduzcas bajo el frágil anillo.",
+  "habitat": "Se encuentra en bosques mixtos de frondosas y coníferas, particularmente bajo robles, hayas y coníferas. Crece en la hojarasca y suelos ricos en humus, a menudo sobre troncos bien descompuestos o restos leñosos. Prefiere suelos forestales húmedos y sombreados, de suelo ácido. Fructifica de forma dispersa a gregaria, típicamente en pequeños grupos entre la hojarasca del bosque.",
+  "season": "Del verano al otoño (julio-noviembre) en la mayor parte de Norteamérica. En Europa, fructifica desde finales de primavera hasta el otoño (mayo-noviembre). La máxima fructificación ocurre a finales de verano y principios de otoño durante períodos de humedad constante. Rara a principios de primavera en climas cálidos.",
+  "regions": [
+    "Europa (extendida, nativa)",
+    "este de Norteamérica (común)",
+    "Pacífico Noroeste (ocasional)",
+    "California (rara)",
+    "bosques templados del norte",
+    "regiones boreales y montanas"
+  ],
+  "lookalikes": [
+    "Lepiota cristata (no comestible): tamaño y aspecto similares, olor desagradable, escamas pardo-rojizas",
+    "Especies de Lepiota (muchas mortales): extremadamente difíciles de distinguir, muchas contienen amatoxinas",
+    "Pequeñas especies de Agaricus (comestibles): láminas pardas, esporas de chocolate, láminas libres similares",
+    "Pequeñas especies de Chlorophyllum (tóxicas): más grandes, robustas, esporas verdosas"
+  ],
+  "safety_notes": "COMESTIBLE PERO NO RECOMENDADA: aunque históricamente se consideró comestible en Europa, esta seta NO SE RECOMIENDA para el consumo debido al peligro extremo de confusión con especies mortales de Lepiota. Muchas lepiotas pequeñas contienen amatoxinas (las mismas toxinas que las amanitas mortales) y son indistinguibles sin microscopio. Varias especies mortales, como L. brunneoincarnata, L. helveola y L. subincarnata, son casi idénticas. Incluso micólogos expertos tienen dificultades para distinguir de forma fiable las lepiotas pequeñas. Su pequeño tamaño significa que hay poca recompensa para un riesgo enorme. EVITE TODAS LAS LEPIOTAS PEQUEÑAS: el riesgo supera con creces cualquier valor culinario.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751244.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 40008,
+      "width": 640,
+      "height": 427,
+      "sha256": "aad0ef4e4430c9520df50ce20bec403a3766672088c3f003ac67274d2ed1590b"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751245.jpg",
+      "photographer": "Fx_Kling",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-10",
+      "file_size_bytes": 35696,
+      "width": 640,
+      "height": 427,
+      "sha256": "e5919625a3c7ea7d40ccaae7a61c66522471a43f4328502a17d0008b5ff194dd"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

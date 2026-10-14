@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "rusint",
+  "scientific_name": "Russula integra",
+  "common_name": "Сироїжка цільна",
+  "edibility": "E",
+  "description": "Сироїжка цільна має червоно-коричневу шапинку (5–12 см), гладеньку. Пластинки жовтуваті. Ніжка біла, часто з червонуватим відтінком. КЛЮЧОВІ ОЗНАКИ: ЛАМКА М'ЯКОТЬ, ЦІЛЬНА (незнімна) шкірка, жовтуваті пластинки. М'якоть біла. Споровий відбиток жовто-охристий. Смак м'який.",
+  "habitat": "Мікоризний з хвойними деревами, особливо з сосною, ялицею, ялиною. Росте наземно в хвойних лісах. Північний вид. Росте розрізнено.",
+  "season": "З літа до осені (липень–жовтень).",
+  "regions": [
+    "Північний схід",
+    "Верхній Середній Захід",
+    "Скелясті гори",
+    "Канада",
+    "Європа"
+  ],
+  "lookalikes": [
+    "Інші сироїжки — перевірте шкірку й споровий відбиток",
+    "Молочники (Lactarius) — виділяють молочний сік"
+  ],
+  "safety_notes": "ЇСТІВНИЙ: м'який смак. ЧЕРВОНУВАТА ШАПИНКА + ЖОВТІ ПЛАСТИНКИ + ЛАМКА М'ЯКОТЬ + М'ЯКИЙ СМАК — діагностичні ознаки. Готуйте ретельно.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/580003.jpg",
+      "photographer": "James Baker",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-09-09",
+      "file_size_bytes": 10332,
+      "width": 204,
+      "height": 208,
+      "sha256": "7d2ad0481dae41fa5055b70ce1b65b48844b4716e0e8165ce71ae7544386d173"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/580004.jpg",
+      "photographer": "James Baker",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-09-09",
+      "file_size_bytes": 7092,
+      "width": 177,
+      "height": 180,
+      "sha256": "1b3b2d4190ca816989e194b579c3f8db936c8b2c3a7fe126818bea53ccde286d"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T22:00:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacdel",
+  "scientific_name": "Lactarius deliciosus",
+  "common_name": "Blodriska",
+  "edibility": "E",
+  "description": "Blodriska har en orange hatt (4–14 cm) med koncentriska zoner av mörkare orange, ofta med grönaktiga fläckar som gammal eller vid stötar. Hatten är välvd till trattformad med inrullad kant som ung. Skivorna är orange, tättstående, nedlöpande och fläckas gröna. Foten är orange med mörkare orange gropar eller skrovligheter. NYCKELDRAGET är den ORANGE TILL MOROTSORANGE MJÖLKSAFTEN (mjölken) som sipprar fram vid skärning – denna mjölksaft fläckas långsamt grön. Köttet är vitt till ljusorange. Sporfällningen är ljusgräddfärgad. Den klarorange mjölken är diagnostisk.",
+  "habitat": "Bildar mykorrhiza med TALL (Pinus-arter), särskilt exotiska planterade tallar. Växer på marken under tallar i plantager, parker och prydnadsplanteringar. Finns ofta under medelhavstallar och andra införda tallar. Föredrar sandiga jordar.",
+  "season": "Höst (september–december), fruktsätter efter regn. I milda klimat kan den fruktsätta in på vintern.",
+  "regions": [
+    "Introducerad i Nordamerika",
+    "Kalifornien",
+    "Nordvästra USA och västra Kanada",
+    "Europa (inhemsk)",
+    "Där tallar planterats"
+  ],
+  "lookalikes": [
+    "Lactarius rubrilacteus – orange men mjölksaften är röd, inte morotsorange",
+    "Lactarius thyinos – liknande, mjölksaften också orange men annat värdträd",
+    "Lactarius sanguifluus – mjölksaft vinröd",
+    "Russula-arter – INGEN MJÖLKSAFT, sprött kött"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad i Europa, en av de bästa riska-arterna. Den ORANGE MJÖLKSAFTEN som fläckas grön är diagnostisk. Mild, behaglig smak. Bäst som ung och fast. Svampen själv kan fläckas grön vid tillagning eller konservering – detta är normalt och ofarligt. Vissa personer kan få lätta magbesvär. Tillaga ordentligt.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1425085.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 79476,
+      "width": 640,
+      "height": 480,
+      "sha256": "500444773c3c9f6342878d1f78f4b384b3a3667e98ffac7efe527baf5e594239"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1425086.jpg",
+      "photographer": "Duï¿½ï¿½an",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2021-11-25",
+      "file_size_bytes": 112986,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffc9822fd7d75f11622408b47847ee3ded0ae1f040c9a529ef5c971535109240"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

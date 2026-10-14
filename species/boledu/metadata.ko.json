@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "boledu",
+  "scientific_name": "Boletus edulis",
+  "common_name": "그물버섯",
+  "edibility": "E",
+  "description": "그물버섯은 갈색에서 적갈색의 갓(5-30cm)에 매끄럽고 건조한 표면이 특징이다. 관공은 어릴 때 흰색이며 황녹색으로 늙어가고, 만져도 변색하지 않는다. 두껍고 구근상의 흰색에서 황갈색의 대는 상부 근처에 미세한 백색 그물무늬(그물 모양)가 있다. 흰색 조직은 잘라도 변하지 않으며 온화한 고소한 향미가 있다. 포자문은 올리브 갈색이다.",
+  "habitat": "혼합 침엽수림과 활엽수림에서 가문비나무, 소나무, 솔송나무, 간혹 참나무와 균근성으로 자란다. 성숙림의 배수가 잘되는 토양을 선호한다. 삼림 가장자리, 오솔길, 울창한 수관 아래에서 발견된다.",
+  "season": "늦여름부터 가을까지(8-11월) 발생하며, 일부 지역에서는 봄(5-6월)에도 발생한다. 따뜻한 날씨의 폭우 뒤에 가장 많이 발생한다.",
+  "regions": [
+    "태평양 북서부",
+    "로키 산맥",
+    "북동부 삼림",
+    "오대호 지역",
+    "북부 캘리포니아",
+    "알래스카",
+    "브리티시컬럼비아"
+  ],
+  "lookalikes": [
+    "Tylopilus felleus (쓴그물버섯) - 분홍빛 관공과 강렬한 쓴맛",
+    "Boletus variipes - 관공이 청색으로 변색하고 외형 유사",
+    "Boletus subcaerulescens - 청색 변색 반응으로 구분",
+    "다른 Boletus 종 - 모두 식용이나 품질이 다양함"
+  ],
+  "safety_notes": "최상급 식용: 킹볼리트는 훌륭한 향미와 육질 조직으로 세계에서 가장 귀하게 여겨지는 식용 버섯 중 하나이다. 소량은 생으로 먹어도 안전하나 익혀 먹는 것이 가장 좋다. 관공이 흰색에서 황색을 유지하고(분홍색이 아님) 청색으로 변색하지 않는지 확인하여 다른 종과 혼동하지 않는다. 소화를 위해 항상 충분히 익힌다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1725981.jpg",
+      "photographer": "FunGuy Nate",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-23",
+      "file_size_bytes": 136488,
+      "width": 640,
+      "height": 536,
+      "sha256": "872e36198978de9c7bf4b55be54887355acd5b1877e6bd1e0b3ac7a4cb2de5c3"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1718535.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-16",
+      "file_size_bytes": 58480,
+      "width": 640,
+      "height": 427,
+      "sha256": "da49ce350cf2577f05575095f339a6110739a88dd13234333f288fbf8f499058"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

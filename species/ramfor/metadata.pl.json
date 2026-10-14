@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramfor",
+  "scientific_name": "Ramaria formosa",
+  "common_name": "Beautiful Clavaria (Ramaria formosa)",
+  "edibility": "P",
+  "description": "Jest to atrakcyjny, lecz trujący grzyb koralowy wysokości 10–20 cm i szerokości 10–15 cm. Owocnik składa się z licznych, wzniesionych gałązek wyrastających z grubego, białego do jasnego trzonu-podstawy. Gałązki łososiowo-różowe do brzoskwiniowo-pomarańczowych, gdy młode, z wiekiem bardziej pomarańczowo-żółte. Po uszkodzeniu lub dotykaniu miąższ wyraźnie żółknie (cecha diagnostyczna). Wierzchołki gałązek zazwyczaj żółte. Rozgałęzienia gęste i misternie. Miąższ biały do bladożółtego, kruchy, często o nieprzyjemnym zapachu. Mimo nazwy nie jest jadalna.",
+  "habitat": "Występuje w lasach liściastych i mieszanych, tworząc związki mikoryzowe z dębem, bukiem i innymi drzewami liściastymi. Rośnie naziemnie, z gleby, zazwyczaj w bogatej próchnicy. Owocuje rozproszona do gromadnie. Preferuje dojrzałe lasy o dobrej, organicznej glebie. Powszechna w ściółce liściowej.",
+  "season": "Późne lato do jesieni (sierpień–listopad) w większości regionów. W Europie głównie sierpień–październik. Szczyt owocowania wczesną do środkowej jesieni. Wymaga ciepłej gleby, po której następuje stała jesienna wilgotność.",
+  "regions": [
+    "Europa (szeroko rozpowszechniona)",
+    "Wschodnia Ameryka Północna (powszechna)",
+    "Północno-Zachodni Pacyfik (sporadycznie)",
+    "Kalifornia (rzadka)",
+    "Umiarkowane lasy liściaste",
+    "Szczególnie powszechna na północnym wschodzie"
+  ],
+  "lookalikes": [
+    "Ramaria aurea (jadalna) – złotożółta, nie żółknie po uszkodzeniu",
+    "Ramaria botrytis (jadalna) – różowe wierzchołki, lecz biało-żółta podstawa, bez reakcji żółknięcia",
+    "Ramaria flava (jadalna) – bladożółta w całości, bez łososiowo-różowych tonów",
+    "Inne gatunki Ramaria – wiele podobnych gatunków trujących i jadalnych"
+  ],
+  "safety_notes": "TRUJĄCA: Ramaria formosa powoduje dolegliwości żołądkowo-jelitowe, w tym nudności, wymioty, biegunkę i kolkowe bóle brzucha. Choć rzadko zagraża życiu, objawy mogą być ciężkie i nieprzyjemne. Nie spożywaj tego grzyba.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1581352.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 44560,
+      "width": 640,
+      "height": 573,
+      "sha256": "9cb3b04fef0a9adeba4093d6864745b13963188cabfeb24b2f0856988ec56dd1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1581353.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 67020,
+      "width": 640,
+      "height": 536,
+      "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

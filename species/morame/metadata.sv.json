@@ -1,0 +1,53 @@
+{
+  "mushroom_id": "morame",
+  "scientific_name": "Morchella americana",
+  "common_name": "Yellow Morel (Morchella americana)",
+  "edibility": "E",
+  "description": "Hatten är 3–10 cm hög, konformad till äggformad eller tallkotteliknande med ett honungskakamönster av åsar och gropar som främst är ordnade vertikalt; färgen varierar från grå till vitaktig till gulaktig, med blekare åsar än gropar. Foten är kortare än hatten, ibland lökformig, 2–9 cm lång, skrynklig och ofta gulfläckad, vit till gulaktig, ihålig. Helt ihålig från hattens topp genom foten vid längssnitt. Sporfällning benvit till krämfärgad.",
+  "habitat": "Utbredd under lövträd, särskilt ask, alm (särskilt döende eller nyligen döda almar), asp, balsampoppel, platan, tulpanträd och äppelträd i gamla övergivna fruktodlingar. I västra regioner vanligtvis funnen med poppel i floddalar. Ibland förknippad med barrträd, särskilt vit tall. Föredrar fuktig, väldränerad jord i skogar och strandnära områden.",
+  "season": "Vår (mars–juni, med högsäsong april–maj i de flesta regioner). Fruktningen utlöses när marktemperaturen når cirka 10 °C i kombination med tillräcklig fukt. Tidigare i södra områden (mars–april), senare i norra regioner och berg (maj–juni).",
+  "regions": [
+    "Nordost",
+    "Mellersta Atlantkusten",
+    "Mellanvästern",
+    "Stora sjöarna",
+    "Sydost",
+    "Klippiga bergen",
+    "Stillahavsnordväst",
+    "Kalifornien"
+  ],
+  "lookalikes": [
+    "Falsk murkla (Gyromitra-arter) – GIFTIG: hjärnliknande skrynklig hatt istället för honungskaksåsar, hatten fäst endast vid fotens topp (inte sammansmält med foten), kammarförsett inre istället för helt ihåligt, ofta rödbrun. Innehåller dödliga gifter som kvarstår även efter tillagning.",
+    "Morchella ulmaria – Ätlig: nästan identiskt utseende, överlappande utbredning i regionen kring Stora sjöarna, kan inte säkert skiljas utan DNA-analys, samma ätlighet och tillagningskrav.",
+    "Halvfri murkla (Morchella punctipes) – Ätlig: hatten fäst halvvägs ner på foten istället för sammansmält längs hela längden, kjolliknande utseende, proportionellt kortare hatt.",
+    "Andra Morchella-arter – Ätliga: M. esculenta (nästan identisk gul murkla), M. importuna (mörkare, i anläggningsjord), alla äkta murklor har samma kulinariska värde och tillagningskrav."
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: En av de mest uppskattade vilda svamparna i Nordamerika, högt värderad i matlagning. Måste tillagas ordentligt i minst 15–25 minuter på medelvärme; råa eller otillräckligt tillagade exemplar innehåller hydrazinföreningar som orsakar kraftigt illamående, kräkningar och magbesvär. Tillagning över 71 °C förstör de giftiga föreningarna. Vissa personer kan få allergiska reaktioner även när den är korrekt tillagad; prova små mängder först. Sällsynta negativa reaktioner i kombination med alkohol har rapporterats. Kritiskt att skilja från dödliga falska murklor (Gyromitra) som har hjärnliknande skrynkliga hattar istället för honungskaksmönster.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1751691.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 103280,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3b1ae2def037cc001b8b159ede57e88fa653c4695528be30768ba492bcc818"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1751690.jpg",
+      "photographer": "Jeff  Guillemette",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-04-13",
+      "file_size_bytes": 122176,
+      "width": 480,
+      "height": 640,
+      "sha256": "65c699f6f9b0055e3654f3987b1070e6147d0da24fd69f93c28fb3d62cbd9ff8"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

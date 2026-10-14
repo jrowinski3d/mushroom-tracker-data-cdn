@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "calcya",
+  "scientific_name": "Calvatia cyathiformis",
+  "common_name": "Purple-spored Puffball (Calvatia cyathiformis)",
+  "edibility": "E",
+  "description": "Medelstora till stora röksvampar 7,5–20 cm höga och 5–15 cm breda, formade som uppochnervänt päron, snurra eller vas med framträdande tjock steril bas som utgör nedre hälften. Vit till gråbrun utsida som blir lila-brun med åldern. Innandömet kritvitt när ätligt, mognar till lila-brun spormassa. Kännetecknas av den skålformade sterila basen som består efter att sporerna spritts.",
+  "habitat": "Saprofytisk i gräsmarker, betesmarker, ängar, gräsmattor, åkrar och öppna skogar. Föredrar störda områden med näringsrik jord. Vanlig i parker, golfbanor, vägkanter och jordbruksmark. Växer ofta i häxringar eller spridda grupper.",
+  "season": "Sensommar till höst, vanligen augusti–oktober. Toppfruktning i september efter sensommarregn. Kan uppträda in i november i milda klimat.",
+  "regions": [
+    "Östra Nordamerika",
+    "Mellanvästern och Stora slätterna",
+    "Stillahavskusten",
+    "Södra Kanada",
+    "Utbredd i Nordamerika",
+    "Kosmopolitisk utbredning"
+  ],
+  "lookalikes": [
+    "Andra Calvatia-arter med steril bas (liknande ätlighet när vita inuti)",
+    "DÖDLIG: Omogna flugsvampsknoppar (SKÄR ALLTID UPP – visar utvecklande skivor/hatt inuti)",
+    "Scleroderma-arter/jordröksvampar (giftiga, lila-svart innandöme från start, ingen steril bas)",
+    "Handkea (Calvatia) excipuliformis – långfotad röksvamp (nästan identisk, samma ätlighet)"
+  ],
+  "safety_notes": "ÄTLIG när kritvit inuti: KRITISKT – skär alltid exemplaret helt i hälften från topp till botten före förtäring. Ätlig ENDAST om innandömet är helt kritvitt och fast igenom. Om minsta lila, gult, brunt eller utvecklande strukturer syns inuti: ÄT INTE. De lila-bruna mogna sporerna är ofarliga men oätliga. Denna skärregel förhindrar att giftiga liknande arter och omogna dödliga flugsvampar förtärs. Den bestående skålformade basen är distinkt. Tillaga noggrant när vit.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1699011.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 81978,
+      "width": 640,
+      "height": 480,
+      "sha256": "08eb68f45de38ccaf4d9a4033e068336d755458b634870abe6fe2568f29cefde"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1699012.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-08-18",
+      "file_size_bytes": 79784,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec43de6f829e776db61ff6efc95aa3911da73444fbdc60655ed8c16da167bab"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

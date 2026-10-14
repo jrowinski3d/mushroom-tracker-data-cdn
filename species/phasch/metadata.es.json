@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "phasch",
+  "scientific_name": "Phaeolus schweinitzii",
+  "common_name": "Dyer's Polypore (Phaeolus schweinitzii)",
+  "edibility": "E",
+  "description": "Gran repisa o roseta irregular de 5-30 cm de ancho con distintivos colores de marrón rojizo a marrón anaranjado cuando es joven, que se vuelven de marrón oscuro a negro con la edad. Textura suave y esponjosa cuando está fresca, desarrollando una superficie de poros amarilla brillante. Forma repisas, rosetas o estantes irregulares. Causa podredumbre cúbica marrón. Contexto marrón oscuro con vetas amarillas. Envejece hasta volverse negro y desmenuzable.",
+  "habitat": "Parásita y saprobia en las bases y raíces de árboles de coníferas vivos y muertos, particularmente pino, pícea, abeto y abeto de Douglas. Causa podredumbre cúbica marrón de la base y podredumbre de raíces en coníferas. Crece desde el suelo cerca de las bases de los árboles, en las raíces y en la parte baja de los troncos. Común en bosques de coníferas.",
+  "season": "De verano a otoño, típicamente julio-octubre. Los cuerpos fructíferos anuales aparecen a finales del verano. Pueden persistir hasta el otoño volviéndose oscuros y desmenuzables. Máximo en agosto-septiembre en bosques de coníferas.",
+  "regions": [
+    "Montañas Rocosas",
+    "Pacífico Noroeste",
+    "bosques de coníferas del norte",
+    "región de los Grandes Lagos",
+    "cordillera de las Cascadas",
+    "circumboreal en los bosques del norte"
+  ],
+  "lookalikes": [
+    "Laetiporus conifericola (colores más brillantes, textura diferente)",
+    "Inonotus tomentosus (hábitat similar, colores diferentes)",
+    "Onnia tomentosa (similar pero con patrón zonado)",
+    "Otros políporos marrones de coníferas (varias especies)"
+  ],
+  "safety_notes": "NO RECOMENDADA PARA COMER: a pesar de la clasificación de comestibilidad, esta especie generalmente se considera NO COMESTIBLE debido a su textura extremadamente dura y esponjosa y su sabor amargo incluso cuando es joven. Causa molestias digestivas en la mayoría de las personas que intentan comerla. Históricamente utilizada para tintes (produce hermosos amarillos, dorados y verdes para la lana). Mejor apreciada por su papel ecológico y sus propiedades tintóreas, no para comer. Demasiado dura y amarga para el consumo.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1735596.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 114742,
+      "width": 480,
+      "height": 640,
+      "sha256": "3928b93ec106fb8d79f9607b03de0dd8bd425be03e42df494f0eade96c49af13"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1735597.jpg",
+      "photographer": "Jebaum",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2025-01-13",
+      "file_size_bytes": 138586,
+      "width": 480,
+      "height": 640,
+      "sha256": "85795157976288edec84c0662da804ef1c76f232f6f7450bdd5e4cb580189d6c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

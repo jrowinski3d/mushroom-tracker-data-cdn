@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "lacruf",
+  "scientific_name": "Lactarius rufus",
+  "common_name": "Mleczaj rudy",
+  "edibility": "U",
+  "description": "Mleczaj rudy ma czerwonobrązowy do rdzawego kapelusz (4–10 cm) z charakterystycznym małym środkowym garbkiem. Powierzchnia kapelusza sucha, gładka do lekko aksamitnej. Blaszki kremowe do blado różowawych, przyrośnięte, gęste. Trzon w kolorze kapelusza, gładki, pusty w środku. KLUCZOWĄ CECHĄ jest obfite BIAŁE MLECZKO wypływające po przekrojeniu lub złamaniu — mleczko jest NIEZWYKLE PIEKĄCE, o ostrym smaku. Mleczko nie zmienia barwy. Miąższ blady, kruchy. Wysyp zarodników biały do kremowego. Piekące mleczko porównywalne jest do ostrości papryczki habanero.",
+  "habitat": "Mikoryzowy z DRZEWAMI IGLASTYMI, zwłaszcza sosną i świerkiem. Rośnie na ziemi w lasach iglastych i mieszanych, często w kwaśnych glebach i mchach torfowcach. Pospolity w północnych lasach iglastych. Preferuje wilgotne, bagienne tereny.",
+  "season": "Od lata do jesieni (lipiec–październik), owocnikuje przez całą porę.",
+  "regions": [
+    "Północny Wschód",
+    "Północno-Zachodni Pacyfik",
+    "Górny Środkowy Zachód",
+    "Góry Skaliste",
+    "Kanada",
+    "Północna Europa"
+  ],
+  "lookalikes": [
+    "Inne gatunki mleczajów (Lactarius) — dla rozróżnienia sprawdź smak mleczka (nadgryźć i wypluć — łagodny vs piekący)",
+    "Russula emetica — podobna czerwona barwa, ale BRAK MLECZKA, kruchy miąższ",
+    "Lactarius hepaticus — podobny, ale ciemniej brązowy, równie piekący"
+  ],
+  "safety_notes": "NIEJADALNY: Lactarius rufus, znany jako mleczaj rudy, ma niezwykle ostre, piekące mleczko wypływające po przekrojeniu — opisywane jako najostrzejsze ze wszystkich gatunków Lactarius, porównywalne do ostrości papryczki habanero. Choć w niektórych krajach północnej Europy ma tradycyjne zastosowania kulinarne po długotrwałym przygotowaniu, zachodnie atlasy grzybów jednomyślnie klasyfikują go jako niejadalny ze względu na intensywnie piekący, pieprzny smak. Grzyb podejrzewany jest o lekką trujność po spożyciu na surowo lub niewłaściwie przygotowany. Nie zaleca się spożycia.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722544.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 41822,
+      "width": 640,
+      "height": 427,
+      "sha256": "60bf73eba948d84dc255c36c3d8f6481b283df81d56eaee0f65fac3c49ff7337"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1722545.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-30",
+      "file_size_bytes": 37488,
+      "width": 640,
+      "height": 427,
+      "sha256": "223de6d1c89da3907a4528476c77c1079f062493de4a910a1d94cf2d1ef57123"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T21:30:00.000000",
+  "source_language": "en"
+}

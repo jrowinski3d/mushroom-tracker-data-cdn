@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "copcom",
+  "scientific_name": "Coprinus comatus",
+  "common_name": "Coprino peludo (Coprinus comatus)",
+  "edibility": "E",
+  "description": "El coprino peludo o \"peluca de abogado\" es un hongo distintivo de 10-20 cm de alto con un sombrero cilíndrico alargado de 5-15 cm de alto y 2-5 cm de ancho. El sombrero es blanco, cubierto de escamas peludas recurvadas que se vuelven marrones hacia el centro. El margen del sombrero es inicialmente fimbriado. Las láminas son libres, blancas que se vuelven rosas y luego negras, delicuescentes (autodigeriéndose) en tinta negra de abajo hacia arriba. El pie es de 10-20 cm de alto, liso, blanco, hueco, con un pequeño anillo móvil que a menudo desaparece. Los botones jóvenes tienen forma de huevo y son completamente blancos.",
+  "habitat": "Se encuentra en suelo alterado, incluyendo céspedes, bordes de caminos, senderos, obras, jardines, astillas de madera y zonas herbáceas. Prefiere suelo compactado o alterado rico en materia orgánica. Crece sobre madera enterrada o humus rico. Fructifica en densos grupos, apareciendo a menudo de la noche a la mañana. Muy común en zonas urbanas y suburbanas.",
+  "season": "Primavera hasta otoño (abril-noviembre) con picos a finales de primavera y en otoño. En climas suaves puede fructificar todo el año. Más abundante durante el clima fresco y húmedo. Puede aparecer después de lluvias intensas en cualquier momento.",
+  "regions": [
+    "Norteamérica (muy común, todas las regiones)",
+    "Europa (ampliamente distribuido)",
+    "regiones templadas de todo el mundo",
+    "cosmopolita en hábitats alterados",
+    "zonas urbanas de todo el mundo"
+  ],
+  "lookalikes": [
+    "Especies jóvenes de Amanita (mortales) - tienen volva en la base, las láminas no se delicuescen en tinta",
+    "Coprinus sterquilinus (comestible) - más pequeño, sobre estiércol, por lo demás similar",
+    "Especies de Coprinopsis (variadas) - ninguna con las distintivas escamas peludas",
+    "CRÍTICO: Las escamas blancas peludas y las láminas negras delicuescentes son diagnósticas"
+  ],
+  "safety_notes": "COMESTIBLE EXCELENTE: Uno de los mejores hongos silvestres cuando está fresco y joven. Debe recolectarse y consumirse en cuestión de horas tras la recolección, ya que se autodigiere rápidamente. Las láminas se convierten en tinta negra en cuestión de horas. Excelente sabor y textura cuando se prepara adecuadamente. Cocina bien. Recolecta solo ejemplares jóvenes blancos antes de que las láminas se vuelvan rosas o negras. Una vez que las láminas empiezan a ennegrecer, el hongo ya no está en su punto. El proceso de autodigestión no puede detenerse. Cocina inmediatamente o refrigera en agua con hielo para ralentizar la delicuescencia. Sin interacción con el alcohol como Coprinopsis atramentaria. El aspecto blanco peludo es inconfundible. Muy seguro: sin especies similares tóxicas. Mejor salteado o en tortillas. Favorito de los recolectores, pero requiere procesamiento rápido.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1722755.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-11-01",
+      "file_size_bytes": 76464,
+      "width": 491,
+      "height": 640,
+      "sha256": "8980c9ad2ade061eb0f4399b7be26bb415263cb5103eb81f8c08e920d6e612ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1719565.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2024-10-21",
+      "file_size_bytes": 99224,
+      "width": 640,
+      "height": 427,
+      "sha256": "a8a915b1039cbbeecd598357c03b9cf702f0d880d5fb9df3a4520568b1aa1fdf"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

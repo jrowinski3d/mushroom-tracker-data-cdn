@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "ramfor",
+  "scientific_name": "Ramaria formosa",
+  "common_name": "Clavaire magnifique",
+  "edibility": "P",
+  "description": "La Belle Clavaire est une clavaire attrayante mais toxique, de 10 à 20 cm de hauteur et 10 à 15 cm de largeur. La fructification consiste en de nombreuses branches dressées à partir d'une base épaisse blanche à pâle. Les branches sont rose saumon à orange pêche à l'état jeune, devenant plus orange-jaune avec l'âge. Lorsqu'elle est meurtrie ou manipulée, la chair jaunit nettement (trait diagnostique). L'extrémité des branches est généralement jaune. La ramification est dense et complexe. La chair est blanche à jaune pâle, cassante, souvent avec une odeur désagréable. Malgré son nom, elle n'est pas comestible.",
+  "habitat": "Trouvée dans les forêts de feuillus et mixtes, formant des associations mycorhiziennes avec le chêne, le hêtre et d'autres arbres feuillus. Pousse au sol, généralement dans un humus riche. Fructifie dispersée à grégaire. Préfère les forêts matures aux sols organiques. Commune dans la litière.",
+  "season": "De la fin de l'été à l'automne (août-novembre) dans la plupart des régions. En Europe, principalement août-octobre. Pic de fructification au début et au milieu de l'automne. Nécessite un sol chaud suivi d'une humidité automnale constante.",
+  "regions": [
+    "Europe (répandue)",
+    "est de l'Amérique du Nord (commun)",
+    "Pacifique Nord-Ouest (occasionnel)",
+    "Californie (rare)",
+    "forêts tempérées de feuillus",
+    "particulièrement commune dans le Nord-Est"
+  ],
+  "lookalikes": [
+    "Ramaria aurea (comestible) — jaune doré, ne jaunit pas au toucher",
+    "Ramaria botrytis (comestible) — pointes roses mais base blanche/jaune, pas de jaunissement",
+    "Ramaria flava (comestible) — jaune pâle partout, sans tons rose saumon",
+    "Autres espèces de Ramaria — nombreuses espèces toxiques et comestibles semblables"
+  ],
+  "safety_notes": "TOXIQUE : Ramaria formosa provoque des troubles gastro-intestinaux, notamment nausées, vomissements, diarrhée et douleurs abdominales coliques. Bien que rarement mortelle, les symptômes peuvent être graves et désagréables. Ne pas consommer ce champignon.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1581352.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 44560,
+      "width": 640,
+      "height": 573,
+      "sha256": "9cb3b04fef0a9adeba4093d6864745b13963188cabfeb24b2f0856988ec56dd1"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1581353.jpg",
+      "photographer": "Dave W",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-07-22",
+      "file_size_bytes": 67020,
+      "width": 640,
+      "height": 536,
+      "sha256": "28fb8940c32a9a0facb3c59d218587deb47102c4a21d7abc02940ec2d0ad9d5a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

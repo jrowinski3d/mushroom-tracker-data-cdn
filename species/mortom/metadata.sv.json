@@ -1,0 +1,48 @@
+{
+  "mushroom_id": "mortom",
+  "scientific_name": "Morchella tomentosa",
+  "common_name": "Gray Morel (Morchella tomentosa)",
+  "edibility": "E",
+  "description": "Hatten är 3–12 cm hög, konisk till avlång, med tätt gropigt honungskaksmönster av åsar och gropar. Färgen är mycket varierande och går från svart och sotgrått till brunt, gult eller vitaktigt, och övergår typiskt från mörkare till ljusare med åldern. Karakteristiskt drag: unga exemplar är tätt täckta med fina hår som ger ett luddigt eller sammetsliknande utseende, särskilt synligt med lupp; håren är mest framträdande vid fotbasen. Foten är 3–12 cm hög, tjock och stadig med karakteristisk dubbelväggig struktur, mörkare än hos många murklarter, ihålig. Utvecklar unika sklerotieliknande underjordiska strukturer. Sporfällning krämfärgad.",
+  "habitat": "Specialiserad brandassocierad art som uteslutande växer i brända barrskogar i västra Nordamerika, särskilt efter måttliga till kraftiga skogsbränder. Fruktar i områden med stående döda barrträd och vedrester. Föredrar brandfält 1–3 år efter brand, men kan dyka upp påföljande år. Växer på olika höjder från låglänta skogar till bergszoner. Beskrevs från västra Nordamerika 2008 som en distinkt brandanpassad art. Fruktar inte i obrända skogar eller störda icke-brandplatser.",
+  "season": "Sen vår till tidig sommar (maj–juli i de flesta områden). Senare fruktande än många murklor, dyker upp på högre höjder och senare under bergssäsongen när snösmältningen avtar. Tidpunkten beror på höjd, snötäcke och markuppvärmning på brandfält. Lägre belägna bränder kan frukta maj–juni, medan höga bergsbränder fruktar juni–juli efter snösmältningen.",
+  "regions": [
+    "Stillahavsnordväst",
+    "Kalifornien",
+    "Klippiga bergen"
+  ],
+  "lookalikes": [
+    "Falsk murkla (Gyromitra-arter) – GIFTIG: hjärnliknande skrynklig eller veckad hatt istället för honungskaksåsar, hatten fäst endast vid fotens topp, kammarförsett inre istället för helt ihåligt, ofta rödbrun. Dödligt giftig och innehåller gyromitrin.",
+    "Morchella snyderi – Ätlig: saknar luddig/hårig beläggning, växer i obrända barrskogar (inte brandberoende), tunnare fotvägg, ljusare färg när den är ung. Kräver samma tillagning.",
+    "Andra svarta murklor (M. elata-gruppen) – Ätliga: olika brandassocierade och naturliga murklor, saknar den luddiga beläggningen och den dubbelväggiga foten som kännetecknar M. tomentosa, fältidentifiering svår utan erfarenhet.",
+    "Morchella importuna (anläggningsmurkla) – Ätlig: växer i urbana flismiljöer istället för bergsbrandfält, saknar luddig yta, stegliknande åsmönster."
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Högt uppskattad matsvamp, särskilt värderad av kommersiella plockare som skördar tonvis årligen från västra brandfält. Måste tillagas ordentligt i minst 15–25 minuter; råa eller otillräckligt tillagade murklor innehåller hydrazingifter som orsakar kraftigt illamående, kräkningar och magbesvär. Tillaga vid temperaturer över 71 °C för att förstöra de giftiga föreningarna. Vissa personer får allergiska reaktioner även när den är korrekt tillagad; ät små portioner först. Undvik alkohol i samband med murklor eftersom sällsynta negativa reaktioner har dokumenterats. Kritiskt att skilja från dödliga falska murklor (Gyromitra) som har hjärnliknande hattar istället för honungskaksmönster. Vid plockning på brandfält, var medveten om instabila träd, askgropar och andra brandrelaterade faror.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1074986.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 182406,
+      "width": 640,
+      "height": 640,
+      "sha256": "0817ccd2ef62707eced0007c3b331d1feb697686f646e29b20266c2a36cbf7ee"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1074987.jpg",
+      "photographer": "Terri Clements/Donna Fulton",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2019-06-22",
+      "file_size_bytes": 17824,
+      "width": 256,
+      "height": 480,
+      "sha256": "7357e1c34fca970cf9ed95cacd9bea0aee8a49fac418029b6d68666a8c1a17f9"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T19:30:00.000000",
+  "source_language": "en"
+}

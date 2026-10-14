@@ -1,0 +1,50 @@
+{
+  "mushroom_id": "hypulm",
+  "scientific_name": "Hypsizygus ulmarius",
+  "common_name": "boczniak wiązowy",
+  "edibility": "E",
+  "description": "Białe do kremowych kapelusze o szerokości 5–15 cm o gładkiej do lekko włóknistej powierzchni. W przeciwieństwie do prawdziwych boczniaków ma bardziej centralny do lekko mimośrodkowego trzon o długości 5–10 cm. Białe zbiegające blaszki. Często rośnie w małych kępach wysoko na żywych lub niedawno martwych drzewach liściastych. Wysyp zarodników biały.",
+  "habitat": "Saprotroficzny i pasożytniczy na żywych i martwych drzewach liściastych, szczególnie wiązie, klonie jesionolistnym, klonie i topoli. Owocnikuje zazwyczaj wysoko na pniach drzew, często 3–12 metrów nad ziemią. Powszechny na stojących drzewach w miastach i lasach. Powoduje białą zgniliznę twardzieli.",
+  "season": "Jesień, głównie wrzesień–listopad. W regionach północnych może pojawiać się późnym latem. Owocnikuje w chłodnej jesiennej pogodzie po deszczu. Najpospolitszy w październiku.",
+  "regions": [
+    "Wschodnia Ameryka Północna",
+    "Region Wielkich Jezior",
+    "Górny Środkowy Zachód",
+    "Północno-Zachodni Pacyfik",
+    "Północne lasy umiarkowane"
+  ],
+  "lookalikes": [
+    "Pleurotus ostreatus (trzon boczny lub jego brak, bardziej boczniakowaty kształt)",
+    "Pleurotus populinus (brak centralnego trzonu, na topolach i osikach)",
+    "Pleurocybella porrigens – trujący, czysto biały, na drzewach iglastych",
+    "Gatunki Armillaria (pierścień na trzonie, żółtawe barwy)"
+  ],
+  "safety_notes": "JADALNY: dobry grzyb jadalny o jędrnej teksturze i łagodnym smaku, gdy młody. Dokładnie gotować przed spożyciem. Starsze okazy mogą twardnieć i lepiej ich unikać. Centralny trzon i wysokie położenie na drzewach pomagają odróżnić go od gatunków Pleurotus. Spokrewniony z uprawianym komercyjnie hon-shimeji (H. tessulatus).",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1649898.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 103612,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2ea476fbf77c1cc41bae7582c177d00e846814708cee474d76c6a0be666527d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1649899.jpg",
+      "photographer": "Huafang",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2023-10-31",
+      "file_size_bytes": 95280,
+      "width": 640,
+      "height": 480,
+      "sha256": "2aa8419d2cca940219b5bdbcaf5a85f45d8e9f0a3b9f020e68a3b07088d4250c"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T18:30:00.000000",
+  "source_language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clapis",
+  "scientific_name": "Clavariadelphus pistillaris",
+  "common_name": "Clava gigante (Clavariadelphus pistillaris)",
+  "edibility": "E",
+  "description": "La clava gigante es un hongo de clava grande e impresionante de 10-30 cm de alto y 3-8 cm de ancho. El cuerpo fructífero tiene forma de maza o clava con la parte superior redondeada a ligeramente puntiaguda (no aplanada). El color es blanco cuando es muy joven, volviéndose amarillento, ocre, canela o marrón-rosado con la edad. La superficie es lisa o finamente arrugada. La base es a menudo blanquecina con hilos de micelio blancos. La carne es blanca, quebradiza cuando está fresca, con un olor suave que se vuelve desagradable con la edad. Estructura única sin ramificar, a veces ligeramente comprimida o acanalada.",
+  "habitat": "Se encuentra en bosques caducifolios y mixtos, particularmente bajo hayas, robles y arces. Forma asociaciones micorrícicas con árboles de frondosas. Crece terrestremente desde el suelo en humus rico. Fructifica disperso o en grupos pequeños. Prefiere bosques maduros con profunda hojarasca. Más común en terrenos montañosos o con colinas.",
+  "season": "Finales de verano hasta otoño (agosto-noviembre) en la mayoría de las regiones. En Europa, principalmente de septiembre a octubre. Fructificación pico en otoño. Requiere un verano cálido seguido de lluvias de otoño y temperaturas frescas.",
+  "regions": [
+    "Europa (ampliamente distribuido)",
+    "este de Norteamérica (poco común)",
+    "montes Apalaches",
+    "noreste de Estados Unidos",
+    "sureste de Canadá",
+    "bosques templados de frondosas"
+  ],
+  "lookalikes": [
+    "Clavariadelphus truncatus (comestible) - tamaño similar pero parte superior aplanada, coníferas",
+    "Clavariadelphus sachalinensis (comestible) - más marrón-anaranjado, costa oeste",
+    "Gomphus clavatus (comestible) - tonos púrpura-grisáceos, parte superior en forma de oreja de cerdo",
+    "Grandes pedos de lobo del género Lycoperdon - similares pero redondos, esporas polvorientas cuando maduran"
+  ],
+  "safety_notes": "COMESTIBLE pero mediocre: Considerado comestible cuando es joven, pero la textura es pobre y el sabor insípido a desagradable. Se vuelve gomoso, duro y amargo con la edad. Históricamente comido en tiempos de escasez, pero no recomendado. Sin especies similares tóxicas. Los ejemplares blancos jóvenes son los mejores si se intenta. El gran tamaño puede resultar atractivo, pero la calidad culinaria es decepcionante. La parte superior redondeada (no plana) y el gran tamaño lo distinguen de otros hongos de clava. Más notable como impresionante ejemplar forestal que como alimento. Seguro pero no merece la pena.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/540202.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 67776,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9583c792682c2c0b37471be7c3bf74d658405b13b0238083c11b4412338a8f7"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/540203.jpg",
+      "photographer": "Eva Skific",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2015-07-19",
+      "file_size_bytes": 76540,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e8de2d8a0b2d2204727f6bdb137e5c81ae9c5e996140edce69b790b8db18c9a"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

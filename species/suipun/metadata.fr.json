@@ -1,0 +1,52 @@
+{
+  "mushroom_id": "suipun",
+  "scientific_name": "Suillus pungens",
+  "common_name": "Pungent Slippery Jack (Suillus pungens)",
+  "edibility": "E",
+  "description": "Le bolet piquant (Pungent Slippery Jack) porte un chapeau brun à brun cannelle (5-12 cm), très visqueux et gluant par temps humide. Les pores sont jaunes à jaune olive, de forme anguleuse. Le pied jaune à brunâtre porte des points glanduleux brunâtres à rougeâtres et est dépourvu d'anneau. La chair jaune peut se tacher de brun rosâtre. Souvent une odeur aromatique ou térébenthinée distinctive — d'où son nom. Sporée brun cannelle.",
+  "habitat": "Mycorhizien exclusivement avec le douglas dans les forêts du Pacifique Nord-Ouest. Forme des associations obligatoires avec le douglas. Trouvé dans les peuplements purs de douglas et les forêts mixtes de conifères où le douglas domine.",
+  "season": "Automne (septembre-novembre) avec un pic de fructification en octobre. Apparaît après les pluies d'automne dans les habitats du douglas.",
+  "regions": [
+    "Pacifique Nord-Ouest",
+    "Oregon",
+    "Washington",
+    "Californie du Nord",
+    "Colombie-Britannique",
+    "île de Vancouver",
+    "forêts côtières de douglas"
+  ],
+  "lookalikes": [
+    "Suillus lakei — couleurs orangées plus vives, aussi avec le douglas",
+    "Autres espèces de Suillus — associations d'arbres différentes",
+    "Espèces de Boletus — non visqueux, aspect différent",
+    "Espèces de Leccinum — pieds rugueux et non points glanduleux"
+  ],
+  "safety_notes": "COMESTIBLE : Le bolet piquant est comestible, de texture ferme mais avec une odeur aromatique distinctive qui peut déplaire à certains. Retirer la cuticule visqueuse du chapeau avant la cuisson. L'association avec le douglas et l'odeur piquante occasionnelle sont distinctives. Certaines personnes ressentent des troubles digestifs. Toujours bien cuire.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1526412.jpg",
+      "photographer": "Pgrunow",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-15",
+      "file_size_bytes": 70398,
+      "width": 480,
+      "height": 640,
+      "sha256": "72cad87592d9f9df52f40d1cdb38a94138701ba20937744ec694e4a7833a1aa6"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1526413.jpg",
+      "photographer": "Pgrunow",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2022-10-15",
+      "file_size_bytes": 87794,
+      "width": 480,
+      "height": 640,
+      "sha256": "199566d60bf0a48ca1b044f01e1d3ba443ec6a4da8292df70020401db9c101b5"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

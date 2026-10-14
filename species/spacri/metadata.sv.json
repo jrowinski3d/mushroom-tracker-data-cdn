@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "spacri",
+  "scientific_name": "Sparassis crispa",
+  "common_name": "Krusig blomkålssvamp",
+  "edibility": "E",
+  "description": "Krusig blomkålssvamp är en stor spektakulär svamp som bildar krämfärgade till blekgula massor 10–40 cm breda (ibland upp till 60 cm) som liknar en blomkål eller en havssvamp. Fruktkroppen består av talrika tunna vågiga bladlika flikar eller bandliknande grenar som utgår från en central fotliknande bas. Flikarna är krusade, fransade och tätt packade. Färgen är krämfärgad, blekgul eller beigegul när den är färsk, och blir mörkare gulbrun med åldern. Konsistensen är krispig och skör när den är färsk. Basen fäster vid rötter eller ved. Mycket karakteristiskt utseende.",
+  "habitat": "Finns vid basen av gamla barrträd, särskilt tall, ädelgran, gran och lärk. Växer som rotparasit på levande träd eller från nedgrävda rötter av döda barrträd. Kommer vanligen tillbaka till samma träd år efter år. Fruktsätter vid eller nära trädbaserna, och kan se ut att växa från marken. Föredrar mogen barrskog.",
+  "season": "Sensommar till höst (augusti–november) i de flesta områden. I nordvästra USA och i bergen främst september–oktober. Huvudsäsong på hösten. Kan fruktsätta vår och höst på vissa platser. Perenn – återkommer till samma platser varje år.",
+  "regions": [
+    "Europa (utbredd)",
+    "Nordvästra USA (vanlig)",
+    "Klippiga bergen",
+    "Nordöstra Nordamerika",
+    "Bergen i norra Kalifornien",
+    "Nordliga tempererade barrskogar världen över"
+  ],
+  "lookalikes": [
+    "Sparassis radicata (ätlig) – mycket lik, växer med lövträd inte barrträd, mer gul",
+    "Sparassis spathulata (ätlig) – västra Nordamerika, liknande utseende",
+    "Korallticka (Grifola) (ätlig) – rosetter av gråbruna skedar, annan struktur",
+    "Inga giftiga liknande arter – utseendet är unikt"
+  ],
+  "safety_notes": "UTSÖKT MATSVAMP: Mycket uppskattad med utmärkt smak och unik konsistens. En av de finaste vilda svamparna. Den krispiga nudelliknande konsistensen är karakteristisk. Utmärkt i soppor, wokade rätter och pastarätter. Rengör noggrant – den fransade strukturen fångar upp skräp och insekter. Bäst när den är ung och krämfärgad. Äldre exemplar blir sega och gulnade. Tillaga noggrant. Kan bli ganska stor och ge riklig skörd. Utseendet är absolut omisskännligt – det finns inga farliga liknande arter. Mycket eftertraktad av svampplockare. Kan torkas eller frysas. Återkommer till samma plats varje år.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/380302.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65530,
+      "width": 640,
+      "height": 480,
+      "sha256": "0271503fea6ce136bdc5647e13ea525538f74f78a57e6ca8ce75287d683af72d"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/380303.jpg",
+      "photographer": "Elsa",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2013-10-28",
+      "file_size_bytes": 65944,
+      "width": 640,
+      "height": 480,
+      "sha256": "f27081bca45016950cd1230a0e65c328dab21d3a386eb6faba9715df6b35c6d3"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}

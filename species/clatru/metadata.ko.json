@@ -1,0 +1,51 @@
+{
+  "mushroom_id": "clatru",
+  "scientific_name": "Clavariadelphus truncatus",
+  "common_name": "납작방망이버섯",
+  "edibility": "E",
+  "description": "납작머리산호버섯은 높이 7–15cm, 윗부분 너비 2–6cm의 대형 독특한 방망이버섯이다. 자실체는 방망이에서 원주 모양이며, 칼로 자른 듯한 독특한 납작하거나 잘린 윗부분이 있다(진단적 특징). 색상은 황갈색, 황토색, 황갈색에서 주황갈색이며, 나이가 들면 종종 더 진한 갈색이 된다. 표면은 매끄럽거나 약간 주름져 있다. 밑동은 종종 희끄무레하며 흰색 균사 가닥이 있을 수 있다. 살은 흰색이고 신선할 때 부서지기 쉬우며 은은한 냄새가 난다. 단일의 가지 치지 않은 구조이다.",
+  "habitat": "침엽수림과 혼합림, 특히 가문비나무, 전나무, 솔송나무, 소나무 아래에서 발견된다. 침엽수와 균근 공생한다. 토양에서 지생하며 종종 이끼 속에 자란다. 흩어지거나 무리지어 발생하며, 때로는 무리나 줄을 이룬다. 침엽수 파편이 풍부한 서늘하고 습한 산악 산림을 선호한다.",
+  "season": "산악 지역에서 늦여름에서 가을(8–11월). 태평양 북서부에서는 9–11월에 발생한다. 절정은 첫 비가 온 뒤 가을에 이루어진다. 서늘한 기온과 꾸준한 습기가 필요하다.",
+  "regions": [
+    "태평양 북서부(매우 흔함)",
+    "로키산맥",
+    "북캘리포니아 산악 지대",
+    "북미 북동부",
+    "유럽(널리 분포)",
+    "북방 온대 및 아한대 침엽수림"
+  ],
+  "lookalikes": [
+    "Clavariadelphus pistillaris(식용) — 방망이 모양이나 윗부분이 둥글고 납작하지 않음",
+    "Clavariadelphus ligula(식용) — 더 작고 가늘며, 밑동에 보라 기운",
+    "Gomphus clavatus(식용) — 돼지귀 모양 윗부분, 보라 기운, 다른 구조",
+    "늙은 Lycoperdon 말불버섯 — 색은 비슷하나 둥글고 속이 가루가 됨"
+  ],
+  "safety_notes": "식용: 식용으로 여겨지나 품질은 평범하다. 익히면 조직이 고무 같거나 질겨진다. 풍미는 은은하고 특별히 매력적이지 않다. 과거에 먹었으나 식용 품질이 나빠 요즘은 거의 채취하지 않는다. 유독 유사종 없이 안전하다. 시도한다면 충분히 익혀라. 어리고 단단한 개체가 낫다. 납작한 윗부분은 절대적으로 진단적이다 — 이 특징을 가진 대형 방망이버섯은 다른 종이 없다. 식품보다는 표본으로 더 흥미롭다. 적합한 서식지에서는 종종 풍부하지만 채취할 가치는 없다.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://mushroomobserver.org/images/640/1260808.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-13",
+      "file_size_bytes": 65916,
+      "width": 640,
+      "height": 435,
+      "sha256": "b3e73fe1062f84de12e17846003ba46292b1ef06993bad8b68cb6ac45ef22656"
+    },
+    {
+      "index": 1,
+      "source_url": "https://mushroomobserver.org/images/640/1260809.jpg",
+      "photographer": "Joe Mat",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "observation_date": "2020-10-03",
+      "file_size_bytes": 31658,
+      "width": 640,
+      "height": 400,
+      "sha256": "5d1ca550cc37e7b992629accd6592c72648f01bb74233805253d038de54f9f20"
+    }
+  ],
+  "content_version": "2.0",
+  "last_updated": "2025-11-07T20:00:00.000000",
+  "source_language": "en"
+}
