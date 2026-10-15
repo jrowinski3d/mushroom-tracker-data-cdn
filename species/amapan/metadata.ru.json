@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "amapan",
+  "scientific_name": "Amanita pantherina",
+  "common_name": "Мухомор пантерный",
+  "edibility": "P",
+  "description": "Средний или крупный мухомор с оливково-тёмно-коричневой шляпкой 5-10 см, покрытой мелкими белыми бородавками. Пластинки белые, на ножке есть кольцо, основание вздутое с воротничковым краем. Споровый отпечаток белый.",
+  "habitat": "Растёт из почвы, образует микоризу с корнями хвойных и лиственных деревьев.",
+  "season": "Конец лета — осень.",
+  "regions": [
+    "Северо-запад Тихоокеанского побережья США",
+    "Европа"
+  ],
+  "lookalikes": [
+    "Мухомор серо-розовый (съедобный): розовеет на срезе, этот вид — нет",
+    "Другие светлые мухоморы, в том числе смертельно ядовитые: проверяйте основание ножки и споровый отпечаток, а не цвет шляпки"
+  ],
+  "safety_notes": "ЯДОВИТЫЙ И ПСИХОАКТИВНЫЙ: содержит иботеновую кислоту и мусцимол. Действие непредсказуемо и может включать тошноту, спутанность сознания, бред, судороги и кому. Приведён только для опознания и безопасности. Никогда не ешьте дикий гриб со слов приложения. Если кто-то съел этот вид, позвоните в токсикологический центр или в скорую помощь.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_101893011.jpg",
+      "photographer": "Danny Cicchetti",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2020-10-25",
+      "file_size_bytes": 30278,
+      "width": 489,
+      "height": 640,
+      "sha256": "18babeda2ad00b1a7e232d1e9b0194cd594e50dfe5e8eb5983da21e0828bd89a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg",
+      "photographer": "George Chernilevsky",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2013-06-08",
+      "file_size_bytes": 77034,
+      "width": 587,
+      "height": 640,
+      "sha256": "4449ecd25e16ef74763607ee13b9ac2cb837196652eba15876d653e9d068a1f5"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

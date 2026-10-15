@@ -1,0 +1,46 @@
+{
+  "mushroom_id": "pansub",
+  "scientific_name": "Panaeolus subbalteatus",
+  "common_name": "벨티드 파나에올루스",
+  "edibility": "P",
+  "description": "밤색 갓(지름 1.5-5cm)이 마르면 옅어지고 가장자리 근처에 더 짙은 띠가 있는 버섯. 포자가 익으면서 주름살이 회흑색 얼룩무늬가 되고 포자 무늬는 검은색이며 줄기는 가늘고 섬유질입니다.",
+  "habitat": "거름 준 땅, 퇴비 더미, 기름진 잔디밭, 배설물에서 자랍니다.",
+  "season": "여름부터 가을.",
+  "regions": [
+    "미국 태평양 북서부",
+    "유럽",
+    "전 세계 온대 지역"
+  ],
+  "lookalikes": [
+    "다른 파나에올루스 종: 대부분 환각성이 없으며 검은 포자 무늬만으로는 확신할 수 없음",
+    "갈레리나 마지날리스(치명적): 녹갈색 포자 무늬와 줄기의 고리 또는 고리 자국"
+  ],
+  "safety_notes": "환각성이며 치명적인 유사종이 있음: 실로시빈과 실로신을 함유합니다. 효과를 예측할 수 없으며 공포, 공황, 오래가는 불안이 나타날 수 있습니다. 더 큰 위험은 오인입니다. 치명적인 버섯이 비슷하게 생겼기 때문입니다. 실로시빈은 캐나다와 미국을 포함한 많은 나라에서 규제 물질이며 법은 나라마다 다르고 바뀌고 있습니다. 식별과 안전을 위한 정보로만 제공됩니다. 앱의 말만 믿고 야생 버섯을 먹지 마세요.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Panaeolus_cinctulus_3070848.jpg",
+      "photographer": "Peter de Lange",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2016-02-27",
+      "file_size_bytes": 74652,
+      "width": 516,
+      "height": 640,
+      "sha256": "e8eac899a256b34abf47a432b59a9051aa06b9f72b04819323c34a3814996fab"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Panaeolus_cinctulus_3070846.jpg",
+      "photographer": "Peter de Lange",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2016-02-27",
+      "file_size_bytes": 46348,
+      "width": 454,
+      "height": 640,
+      "sha256": "223e3098776bc87ff16c231e3583376d5e266142c7a14a727a2e203a075b128b"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

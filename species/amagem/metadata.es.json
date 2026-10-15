@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "amagem",
+  "scientific_name": "Amanita gemmata",
+  "common_name": "Amanita gemmata",
+  "edibility": "P",
+  "description": "Una Amanita pequeña con sombrero amarillento pálido a pardo claro de 4-8 cm, verrugas blancas dispersas y margen ligeramente estriado. Las láminas son blancas, el anillo es frágil y la base es algo abultada con un collar bajo. La esporada es blanca.",
+  "habitat": "Crece del suelo, normalmente bajo coníferas y a veces con frondosas.",
+  "season": "Primavera y otoño en climas suaves.",
+  "regions": [
+    "Noroeste del Pacífico",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Otras amanitas pálidas, incluidas mortales: fíjate en la base y la esporada, no en el color del sombrero"
+  ],
+  "safety_notes": "VENENOSA Y PSICOACTIVA: contiene ácido iboténico y muscimol. Los efectos son impredecibles y pueden incluir náuseas, confusión, delirio, convulsiones y coma. Se muestra solo para identificación y seguridad. Nunca comas un hongo silvestre solo porque una app lo diga. Si alguien ha comido esta especie, llama al centro de toxicología o a emergencias.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_gemmata_103427073.jpg",
+      "photographer": "junicolumbiagorgeous",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2020-11-06",
+      "file_size_bytes": 41412,
+      "width": 640,
+      "height": 480,
+      "sha256": "bae468250fbef4c930748682111bcdb4a7747eb995e5c5678ebd196d31eaf7ff"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_gemmata_20310316.jpg",
+      "photographer": "Giselle Blythe",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2018-06-21",
+      "file_size_bytes": 80260,
+      "width": 640,
+      "height": 640,
+      "sha256": "c072081ee4757c301283bd23aaab7a47f322afaebe672b34226d0b32f7bffe60"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

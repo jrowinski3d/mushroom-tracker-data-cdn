@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "psicya",
+  "scientific_name": "Psilocybe cyanescens",
+  "common_name": "Psilocybe cyanescens",
+  "edibility": "P",
+  "description": "Un hongo pardo pequeño con sombrero caramelo a castaño de 2-5 cm y margen claramente ondulado, que se aclara a beige al secarse. Se azulea al manipularlo. El pie es blanco y la esporada es pardo púrpura.",
+  "habitat": "Crece en grupos sobre astillas de madera, mantillo y parterres, a menudo en zonas urbanas.",
+  "season": "Otoño hasta principios del invierno.",
+  "regions": [
+    "Noroeste del Pacífico",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Galerina marginata (mortal): esporada marrón óxido y un anillo o zona anular en el pie"
+  ],
+  "safety_notes": "PSICOACTIVA, CON PARECIDOS MORTALES: contiene psilocibina y psilocina. Los efectos son impredecibles y pueden incluir miedo, pánico y malestar duradero. El mayor peligro es la confusión con otra especie, porque hay hongos mortales muy parecidos. La psilocibina es una sustancia controlada en muchos países, incluidos Canadá y Estados Unidos; las leyes varían y están cambiando. Se muestra solo para identificación y seguridad. Nunca comas un hongo silvestre solo porque una app lo diga.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_In_situ.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 76218,
+      "width": 480,
+      "height": 640,
+      "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_bluing.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 31858,
+      "width": 502,
+      "height": 389,
+      "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

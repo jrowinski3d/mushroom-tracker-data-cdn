@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "psisem",
+  "scientific_name": "Psilocybe semilanceata",
+  "common_name": "Псилоцибе полуланцетная",
+  "edibility": "P",
+  "description": "Крошечный луговой гриб с коническим колпачком 1-2,5 см, оканчивающимся острым сосочком. Во влажную погоду липкий, оливково-коричневый до соломенного в сухую. Тонкая волнистая ножка 4-10 см, часто голубоватая у основания. Споровый отпечаток пурпурно-коричневый.",
+  "habitat": "Растёт поодиночке или группами в траве: на пастбищах, лугах и газонах, часто среди помёта овец или скота.",
+  "season": "Осень, после дождя.",
+  "regions": [
+    "Европа",
+    "Северо-запад Тихоокеанского побережья США"
+  ],
+  "lookalikes": [
+    "Галерина окаймлённая, Galerina marginata (смертельно ядовита): ржаво-коричневый споровый отпечаток и кольцо или кольцевая зона на ножке",
+    "Виды Conocybe и Panaeolina: мелкие коричневые луговые грибы, а некоторые Conocybe смертельно ядовиты"
+  ],
+  "safety_notes": "ПСИХОАКТИВНЫЙ, С СМЕРТЕЛЬНО ЯДОВИТЫМИ ДВОЙНИКАМИ: содержит псилоцибин и псилоцин. Действие непредсказуемо и может включать страх, панику и длительную тревогу. Главная опасность — ошибка в определении, ведь смертельно ядовитые грибы выглядят похоже. Псилоцибин — контролируемое вещество во многих странах, включая Канаду и США; законы различаются и меняются. Приведён только для опознания и безопасности. Никогда не ешьте дикий гриб со слов приложения.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Psilocybe_semilanceata_mushroom_in_field.jpg",
+      "photographer": "Dohduhdah",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "",
+      "file_size_bytes": 19344,
+      "width": 480,
+      "height": 640,
+      "sha256": "0e777a57801359f15eff412275fadff4c46e15456103e7fe36c56ff43837aaf0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Psilocybe_semilanceata_255454759.jpg",
+      "photographer": "jakelee",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2019-05-23",
+      "file_size_bytes": 72710,
+      "width": 312,
+      "height": 640,
+      "sha256": "91913dd6ae385156b15ffa2e225fccf60a445393073135cc4dc3bca088ad8469"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

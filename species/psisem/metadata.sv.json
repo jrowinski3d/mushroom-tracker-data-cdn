@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "psisem",
+  "scientific_name": "Psilocybe semilanceata",
+  "common_name": "Spetsig nässelhatt",
+  "edibility": "P",
+  "description": "En liten gräsmarkssvamp med kägelformad hatt, 1-2,5 cm bred, som slutar i en spetsig udd. Slemmig när den är blöt, olivbrun till halmfärgad när den är torr. Den tunna, vågiga foten är 4-10 cm hög och ofta blåaktig vid basen. Sporavtrycket är purpurbrunt.",
+  "habitat": "Växer enstaka eller i grupper i gräs: betesmarker, ängar och gräsmattor, ofta bland spillning från får eller nötkreatur.",
+  "season": "Höst, efter regn.",
+  "regions": [
+    "Europa",
+    "Nordvästra Stillahavskusten"
+  ],
+  "lookalikes": [
+    "Giftspindling, Galerina marginata (dödlig): rostbrunt sporavtryck och en ring eller ringzon på foten",
+    "Arter av Conocybe och Panaeolina: små bruna gräsmarkssvampar, och vissa Conocybe är dödliga"
+  ],
+  "safety_notes": "PSYKOAKTIV, MED DÖDLIGA FÖRVÄXLINGSARTER: innehåller psilocybin och psilocin. Effekterna är oförutsägbara och kan omfatta rädsla, panik och långvarig oro. Den största faran är förväxling, eftersom dödligt giftiga svampar ser likadana ut. Psilocybin är ett kontrollerat ämne i många länder, bland annat Kanada och USA; lagarna varierar och förändras. Visas endast för identifiering och säkerhet. Ät aldrig en vild svamp på en apps ord.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Psilocybe_semilanceata_mushroom_in_field.jpg",
+      "photographer": "Dohduhdah",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "",
+      "file_size_bytes": 19344,
+      "width": 480,
+      "height": 640,
+      "sha256": "0e777a57801359f15eff412275fadff4c46e15456103e7fe36c56ff43837aaf0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Psilocybe_semilanceata_255454759.jpg",
+      "photographer": "jakelee",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2019-05-23",
+      "file_size_bytes": 72710,
+      "width": 312,
+      "height": 640,
+      "sha256": "91913dd6ae385156b15ffa2e225fccf60a445393073135cc4dc3bca088ad8469"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

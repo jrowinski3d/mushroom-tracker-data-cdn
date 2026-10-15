@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-14T17:23:58Z",
+  "generated_at": "2026-10-15T17:33:25Z",
   "source_language": "en",
   "target_language": "sv",
   "species": [
@@ -45,6 +45,18 @@
       "scientific_name": "Albatrellus ovinus",
       "common_name": "Fårticka",
       "edibility": "edible"
+    },
+    {
+      "mushroom_id": "amagem",
+      "scientific_name": "Amanita gemmata",
+      "common_name": "Pärlflugsvamp",
+      "edibility": "poisonous"
+    },
+    {
+      "mushroom_id": "amapan",
+      "scientific_name": "Amanita pantherina",
+      "common_name": "Panterflugsvamp",
+      "edibility": "poisonous"
     },
     {
       "mushroom_id": "armgal",
@@ -665,6 +677,12 @@
       "edibility": "edible"
     },
     {
+      "mushroom_id": "pansub",
+      "scientific_name": "Panaeolus subbalteatus",
+      "common_name": "Bandad gödselsvamp",
+      "edibility": "poisonous"
+    },
+    {
       "mushroom_id": "phasch",
       "scientific_name": "Phaeolus schweinitzii",
       "common_name": "Grovticka",
@@ -711,6 +729,18 @@
       "scientific_name": "Pseudohydnum gelatinosum",
       "common_name": "Gelétaggsvamp",
       "edibility": "edible"
+    },
+    {
+      "mushroom_id": "psicya",
+      "scientific_name": "Psilocybe cyanescens",
+      "common_name": "Psilocybe cyanescens",
+      "edibility": "poisonous"
+    },
+    {
+      "mushroom_id": "psisem",
+      "scientific_name": "Psilocybe semilanceata",
+      "common_name": "Spetsig nässelhatt",
+      "edibility": "poisonous"
     },
     {
       "mushroom_id": "ramaur",

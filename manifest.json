@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "generated_at": "2025-11-10T11:54:33.560985",
-  "total_species": 152,
-  "total_size_bytes": 25798316,
+  "generated_at": "2026-10-15T17:33:25",
+  "total_species": 157,
+  "total_size_bytes": 26403763,
   "species": [
     {
       "mushroom_id": "agaarv",
@@ -227,6 +227,70 @@
         }
       ],
       "total_size_bytes": 162697
+    },
+    {
+      "mushroom_id": "amagem",
+      "scientific_name": "Amanita gemmata",
+      "common_name": "Gemmed Amanita",
+      "edibility": "poisonous",
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amagem/metadata.json",
+      "metadata_size_bytes": 2009,
+      "thumbnail_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amagem/thumb.webp",
+      "thumbnail_sha256": "d951d6b95f8b2f7dcbe81124429b222ee856f5124b5ee5451200db57214db1b5",
+      "thumbnail_size_bytes": 7974,
+      "thumbnail_width": 200,
+      "thumbnail_height": 200,
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amagem/image_0.webp",
+          "sha256": "bae468250fbef4c930748682111bcdb4a7747eb995e5c5678ebd196d31eaf7ff",
+          "size_bytes": 41412,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amagem/image_1.webp",
+          "sha256": "c072081ee4757c301283bd23aaab7a47f322afaebe672b34226d0b32f7bffe60",
+          "size_bytes": 80260,
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "total_size_bytes": 131655
+    },
+    {
+      "mushroom_id": "amapan",
+      "scientific_name": "Amanita pantherina",
+      "common_name": "Panther Cap",
+      "edibility": "poisonous",
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amapan/metadata.json",
+      "metadata_size_bytes": 2089,
+      "thumbnail_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amapan/thumb.webp",
+      "thumbnail_sha256": "fe3e51e02d1c18c11818c3284da324db57030c8db099d9e64de0a395780271f2",
+      "thumbnail_size_bytes": 6928,
+      "thumbnail_width": 200,
+      "thumbnail_height": 200,
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amapan/image_0.webp",
+          "sha256": "18babeda2ad00b1a7e232d1e9b0194cd594e50dfe5e8eb5983da21e0828bd89a",
+          "size_bytes": 30278,
+          "width": 489,
+          "height": 640
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/amapan/image_1.webp",
+          "sha256": "4449ecd25e16ef74763607ee13b9ac2cb837196652eba15876d653e9d068a1f5",
+          "size_bytes": 77034,
+          "width": 587,
+          "height": 640
+        }
+      ],
+      "total_size_bytes": 116329
     },
     {
       "mushroom_id": "armgal",
@@ -3517,6 +3581,38 @@
       "total_size_bytes": 108182
     },
     {
+      "mushroom_id": "pansub",
+      "scientific_name": "Panaeolus subbalteatus",
+      "common_name": "Belted Panaeolus",
+      "edibility": "poisonous",
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/pansub/metadata.json",
+      "metadata_size_bytes": 2236,
+      "thumbnail_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/pansub/thumb.webp",
+      "thumbnail_sha256": "aef8fa473a1d9bbf9f8fd4e91430af9045d9186461fb655c37d3db4f12aa1553",
+      "thumbnail_size_bytes": 10768,
+      "thumbnail_width": 200,
+      "thumbnail_height": 200,
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/pansub/image_0.webp",
+          "sha256": "e8eac899a256b34abf47a432b59a9051aa06b9f72b04819323c34a3814996fab",
+          "size_bytes": 74652,
+          "width": 516,
+          "height": 640
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/pansub/image_1.webp",
+          "sha256": "223e3098776bc87ff16c231e3583376d5e266142c7a14a727a2e203a075b128b",
+          "size_bytes": 46348,
+          "width": 454,
+          "height": 640
+        }
+      ],
+      "total_size_bytes": 134004
+    },
+    {
       "mushroom_id": "phasch",
       "scientific_name": "Phaeolus schweinitzii",
       "common_name": "Phaeolus schweinitzii",
@@ -3771,6 +3867,70 @@
         }
       ],
       "total_size_bytes": 195296
+    },
+    {
+      "mushroom_id": "psicya",
+      "scientific_name": "Psilocybe cyanescens",
+      "common_name": "Wavy Cap",
+      "edibility": "poisonous",
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psicya/metadata.json",
+      "metadata_size_bytes": 2102,
+      "thumbnail_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psicya/thumb.webp",
+      "thumbnail_sha256": "c76b7c0aefc4c2e323d25ce61079f1b03a28744277b7fe0426d2f8b914cb8b47",
+      "thumbnail_size_bytes": 14144,
+      "thumbnail_width": 200,
+      "thumbnail_height": 200,
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psicya/image_0.webp",
+          "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c",
+          "size_bytes": 76218,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psicya/image_1.webp",
+          "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff",
+          "size_bytes": 31858,
+          "width": 502,
+          "height": 389
+        }
+      ],
+      "total_size_bytes": 124322
+    },
+    {
+      "mushroom_id": "psisem",
+      "scientific_name": "Psilocybe semilanceata",
+      "common_name": "Liberty Cap",
+      "edibility": "poisonous",
+      "metadata_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psisem/metadata.json",
+      "metadata_size_bytes": 2249,
+      "thumbnail_url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psisem/thumb.webp",
+      "thumbnail_sha256": "3c6750bd1497518aacaf4f86a517b57749c96e0250dea7fc5f58ee72a02696b9",
+      "thumbnail_size_bytes": 4834,
+      "thumbnail_width": 200,
+      "thumbnail_height": 200,
+      "images": [
+        {
+          "filename": "image_0.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psisem/image_0.webp",
+          "sha256": "0e777a57801359f15eff412275fadff4c46e15456103e7fe36c56ff43837aaf0",
+          "size_bytes": 19344,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "filename": "image_1.webp",
+          "url": "https://raw.githubusercontent.com/jrowinski3d/mushroom-tracker-data-cdn/main/species/psisem/image_1.webp",
+          "sha256": "91913dd6ae385156b15ffa2e225fccf60a445393073135cc4dc3bca088ad8469",
+          "size_bytes": 72710,
+          "width": 312,
+          "height": 640
+        }
+      ],
+      "total_size_bytes": 99137
     },
     {
       "mushroom_id": "ramaur",
@@ -4861,5 +5021,5 @@
       "total_size_bytes": 277824
     }
   ],
-  "sha256": "8e41cf5e4b091782e36d81eab74c342b277c25902b25e362e9e09cbe0deb9974"
+  "sha256": "047ac00cc80103daa7c65dca6dedf70c143b2577e6940e15d1bbf446ac4cc9d2"
 }

@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "psicya",
+  "scientific_name": "Psilocybe cyanescens",
+  "common_name": "Псилоцибе блакитніюча",
+  "edibility": "P",
+  "description": "Невеликий коричневий гриб з карамельним до каштанового капелюшком 2-5 см і помітно хвилястим краєм, що світлішає до бежевого під час висихання. Синіє від дотику. Ніжка біла, споровий відбиток пурпурно-коричневий.",
+  "habitat": "Росте групами на деревній щепі, мульчі та клумбах, часто в містах.",
+  "season": "Осінь до початку зими.",
+  "regions": [
+    "Північний захід тихоокеанського узбережжя США",
+    "Європа"
+  ],
+  "lookalikes": [
+    "Галерина облямована, Galerina marginata (смертельно отруйна): іржаво-коричневий споровий відбиток і кільце або кільцева зона на ніжці"
+  ],
+  "safety_notes": "ПСИХОАКТИВНИЙ, ЗІ СМЕРТЕЛЬНО ОТРУЙНИМИ ДВІЙНИКАМИ: містить псилоцибін та псилоцин. Дія непередбачувана й може включати страх, паніку та тривалу тривогу. Більша небезпека — помилка у визначенні, адже смертельно отруйні гриби виглядають схоже. Псилоцибін є контрольованою речовиною в багатьох країнах, зокрема в Канаді та США; закони різняться й змінюються. Наведено лише для визначення та безпеки. Ніколи не їжте дикий гриб зі слів застосунку.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_In_situ.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 76218,
+      "width": 480,
+      "height": 640,
+      "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_bluing.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 31858,
+      "width": 502,
+      "height": 389,
+      "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

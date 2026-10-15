@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "psisem",
+  "scientific_name": "Psilocybe semilanceata",
+  "common_name": "Liberty Cap",
+  "edibility": "P",
+  "description": "A tiny grassland mushroom with a conical cap 1-2.5 cm across ending in a sharp nipple-like point. It is sticky when wet and olive-brown to straw when dry. The thin wavy stem is 4-10 cm tall, often bluish near the base. The spore print is purple-brown.",
+  "habitat": "Grows singly or in groups in grass: pastures, meadows and lawns, often among sheep or cattle droppings.",
+  "season": "Autumn, after rain.",
+  "regions": [
+    "Europe",
+    "Pacific Northwest"
+  ],
+  "lookalikes": [
+    "Galerina marginata (deadly): rusty-brown spore print and a ring or ring zone on the stem",
+    "Conocybe and Panaeolina species: small brown grassland mushrooms, and some Conocybe are deadly"
+  ],
+  "safety_notes": "PSYCHOACTIVE, WITH DEADLY LOOKALIKES: contains psilocybin and psilocin. Effects are unpredictable and can include fear, panic and lasting distress. The larger danger is misidentification, because deadly mushrooms look similar. Psilocybin is a controlled substance in many countries, including Canada and the United States; laws vary and are changing. Listed for identification and safety only. Never eat a wild mushroom on an app's word.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Psilocybe_semilanceata_mushroom_in_field.jpg",
+      "photographer": "Dohduhdah",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "",
+      "file_size_bytes": 19344,
+      "width": 480,
+      "height": 640,
+      "sha256": "0e777a57801359f15eff412275fadff4c46e15456103e7fe36c56ff43837aaf0"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Psilocybe_semilanceata_255454759.jpg",
+      "photographer": "jakelee",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2019-05-23",
+      "file_size_bytes": 72710,
+      "width": 312,
+      "height": 640,
+      "sha256": "91913dd6ae385156b15ffa2e225fccf60a445393073135cc4dc3bca088ad8469"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25"
+}

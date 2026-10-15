@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "psicya",
+  "scientific_name": "Psilocybe cyanescens",
+  "common_name": "Psilocybe cyanescens",
+  "edibility": "P",
+  "description": "Un petit champignon brun au chapeau caramel à châtain de 2-5 cm, à marge nettement ondulée, qui pâlit en séchant. Il bleuit au toucher. Le pied est blanc et la sporée brun pourpre.",
+  "habitat": "Pousse en touffes sur les copeaux de bois, le paillis et les massifs, souvent en ville.",
+  "season": "Automne jusqu'au début de l'hiver.",
+  "regions": [
+    "Nord-ouest du Pacifique",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Galerina marginata (mortelle) : sporée brun rouille et anneau ou zone annulaire sur le pied"
+  ],
+  "safety_notes": "PSYCHOACTIVE, AVEC DES SOSIES MORTELS : contient de la psilocybine et de la psilocine. Les effets sont imprévisibles et peuvent inclure peur, panique et détresse durable. Le plus grand danger est la confusion avec une autre espèce, car des champignons mortels leur ressemblent. La psilocybine est une substance contrôlée dans de nombreux pays, dont le Canada et les États-Unis ; les lois varient et évoluent. Présentée uniquement pour l'identification et la sécurité. Ne mangez jamais un champignon sauvage sur la seule parole d'une application.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_In_situ.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 76218,
+      "width": 480,
+      "height": 640,
+      "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_bluing.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 31858,
+      "width": 502,
+      "height": 389,
+      "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

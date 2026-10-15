@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "amagem",
+  "scientific_name": "Amanita gemmata",
+  "common_name": "Pärlflugsvamp",
+  "edibility": "P",
+  "description": "En liten flugsvamp med blekt gulaktig till brun hatt, 4-8 cm bred, med utspridda vita vårtor och svagt streckad kant. Skivorna är vita, ringen bräcklig och basen något svullen med en låg krage. Sporavtrycket är vitt.",
+  "habitat": "Växer ur marken, oftast under barrträd och ibland med lövträd.",
+  "season": "Vår och höst i milt klimat.",
+  "regions": [
+    "Nordvästra Stillahavskusten",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Andra bleka flugsvampar, även dödliga: kontrollera basen och sporavtrycket, inte hattens färg"
+  ],
+  "safety_notes": "GIFTIG OCH PSYKOAKTIV: innehåller ibotensyra och muscimol. Effekterna är oförutsägbara och kan omfatta illamående, förvirring, delirium, kramper och koma. Visas endast för identifiering och säkerhet. Ät aldrig en vild svamp på en apps ord. Om någon har ätit arten, ring giftinformation eller larmcentral.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_gemmata_103427073.jpg",
+      "photographer": "junicolumbiagorgeous",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2020-11-06",
+      "file_size_bytes": 41412,
+      "width": 640,
+      "height": 480,
+      "sha256": "bae468250fbef4c930748682111bcdb4a7747eb995e5c5678ebd196d31eaf7ff"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_gemmata_20310316.jpg",
+      "photographer": "Giselle Blythe",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2018-06-21",
+      "file_size_bytes": 80260,
+      "width": 640,
+      "height": 640,
+      "sha256": "c072081ee4757c301283bd23aaab7a47f322afaebe672b34226d0b32f7bffe60"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

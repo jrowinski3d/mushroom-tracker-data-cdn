@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "amapan",
+  "scientific_name": "Amanita pantherina",
+  "common_name": "표범광대버섯",
+  "edibility": "P",
+  "description": "올리브색에서 짙은 갈색의 갓(지름 5-10cm)에 작은 흰 사마귀 모양 돌기가 덮인 중대형 광대버섯류. 주름살은 흰색이고 줄기에 고리가 있으며 밑동은 칼라 모양 테두리가 있는 부푼 형태. 포자 무늬는 흰색.",
+  "habitat": "침엽수와 활엽수 뿌리와 공생하며 땅에서 자랍니다.",
+  "season": "늦여름부터 가을.",
+  "regions": [
+    "미국 태평양 북서부",
+    "유럽"
+  ],
+  "lookalikes": [
+    "아마니타 루베스켄스(식용): 자르면 분홍빛 붉은색으로 변하지만 이 종은 변하지 않음",
+    "치명적인 종을 포함한 다른 옅은 색 광대버섯류: 갓 색이 아니라 밑동과 포자 무늬를 확인"
+  ],
+  "safety_notes": "독성 및 환각성: 이보텐산과 무스시몰을 함유합니다. 효과를 예측할 수 없으며 메스꺼움, 혼란, 섬망, 발작, 혼수가 나타날 수 있습니다. 식별과 안전을 위한 정보로만 제공됩니다. 앱의 말만 믿고 야생 버섯을 먹지 마세요. 이 종을 먹은 사람이 있다면 독극물 센터나 응급 서비스에 연락하세요.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_101893011.jpg",
+      "photographer": "Danny Cicchetti",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2020-10-25",
+      "file_size_bytes": 30278,
+      "width": 489,
+      "height": 640,
+      "sha256": "18babeda2ad00b1a7e232d1e9b0194cd594e50dfe5e8eb5983da21e0828bd89a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg",
+      "photographer": "George Chernilevsky",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2013-06-08",
+      "file_size_bytes": 77034,
+      "width": 587,
+      "height": 640,
+      "sha256": "4449ecd25e16ef74763607ee13b9ac2cb837196652eba15876d653e9d068a1f5"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

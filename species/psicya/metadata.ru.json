@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "psicya",
+  "scientific_name": "Psilocybe cyanescens",
+  "common_name": "Псилоцибе голубеющая",
+  "edibility": "P",
+  "description": "Небольшой коричневый гриб с карамельной до каштановой шляпкой 2-5 см и заметно волнистым краем, который при высыхании светлеет до бежевого. Синеет при прикосновении. Ножка белая, споровый отпечаток пурпурно-коричневый.",
+  "habitat": "Растёт группами на древесной щепе, мульче и клумбах, часто в городах.",
+  "season": "Осень до начала зимы.",
+  "regions": [
+    "Северо-запад Тихоокеанского побережья США",
+    "Европа"
+  ],
+  "lookalikes": [
+    "Галерина окаймлённая, Galerina marginata (смертельно ядовита): ржаво-коричневый споровый отпечаток и кольцо или кольцевая зона на ножке"
+  ],
+  "safety_notes": "ПСИХОАКТИВНЫЙ, С СМЕРТЕЛЬНО ЯДОВИТЫМИ ДВОЙНИКАМИ: содержит псилоцибин и псилоцин. Действие непредсказуемо и может включать страх, панику и длительную тревогу. Главная опасность — ошибка в определении, ведь смертельно ядовитые грибы выглядят похоже. Псилоцибин — контролируемое вещество во многих странах, включая Канаду и США; законы различаются и меняются. Приведён только для опознания и безопасности. Никогда не ешьте дикий гриб со слов приложения.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_In_situ.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 76218,
+      "width": 480,
+      "height": 640,
+      "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_bluing.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 31858,
+      "width": 502,
+      "height": 389,
+      "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

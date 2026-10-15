@@ -1,0 +1,43 @@
+{
+  "mushroom_id": "psicya",
+  "scientific_name": "Psilocybe cyanescens",
+  "common_name": "Wavy Cap",
+  "edibility": "P",
+  "description": "A small brown mushroom with a caramel to chestnut cap 2-5 cm across and a distinctly wavy margin, fading to pale buff when dry. It bruises blue-green where handled. The stem is white and the spore print is purple-brown.",
+  "habitat": "Grows in clusters on wood chips, mulch and garden beds, often in towns.",
+  "season": "Autumn into early winter.",
+  "regions": [
+    "Pacific Northwest",
+    "Europe"
+  ],
+  "lookalikes": [
+    "Galerina marginata (deadly): rusty-brown spore print and a ring or ring zone on the stem"
+  ],
+  "safety_notes": "PSYCHOACTIVE, WITH DEADLY LOOKALIKES: contains psilocybin and psilocin. Effects are unpredictable and can include fear, panic and lasting distress. The larger danger is misidentification, because deadly mushrooms look similar. Psilocybin is a controlled substance in many countries, including Canada and the United States; laws vary and are changing. Listed for identification and safety only. Never eat a wild mushroom on an app's word.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_In_situ.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 76218,
+      "width": 480,
+      "height": 640,
+      "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_bluing.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 31858,
+      "width": 502,
+      "height": 389,
+      "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25"
+}

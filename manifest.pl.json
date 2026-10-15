@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-14T17:27:05Z",
+  "generated_at": "2026-10-15T17:33:25Z",
   "source_language": "en",
   "target_language": "pl",
   "species": [
@@ -45,6 +45,18 @@
       "scientific_name": "Albatrellus ovinus",
       "common_name": "naziemek białawy",
       "edibility": "edible"
+    },
+    {
+      "mushroom_id": "amagem",
+      "scientific_name": "Amanita gemmata",
+      "common_name": "Muchomor szyszkowy",
+      "edibility": "poisonous"
+    },
+    {
+      "mushroom_id": "amapan",
+      "scientific_name": "Amanita pantherina",
+      "common_name": "Muchomor panterkowy",
+      "edibility": "poisonous"
     },
     {
       "mushroom_id": "armgal",
@@ -665,6 +677,12 @@
       "edibility": "edible"
     },
     {
+      "mushroom_id": "pansub",
+      "scientific_name": "Panaeolus subbalteatus",
+      "common_name": "Kołpaczek obrzeżony",
+      "edibility": "poisonous"
+    },
+    {
       "mushroom_id": "phasch",
       "scientific_name": "Phaeolus schweinitzii",
       "common_name": "siedzuń sosnowy",
@@ -711,6 +729,18 @@
       "scientific_name": "Pseudohydnum gelatinosum",
       "common_name": "Toothed Jelly Fungus (Pseudohydnum gelatinosum)",
       "edibility": "edible"
+    },
+    {
+      "mushroom_id": "psicya",
+      "scientific_name": "Psilocybe cyanescens",
+      "common_name": "Łysiczka błękitniejąca",
+      "edibility": "poisonous"
+    },
+    {
+      "mushroom_id": "psisem",
+      "scientific_name": "Psilocybe semilanceata",
+      "common_name": "Łysiczka lancetowata",
+      "edibility": "poisonous"
     },
     {
       "mushroom_id": "ramaur",

@@ -1,0 +1,44 @@
+{
+  "mushroom_id": "psicya",
+  "scientific_name": "Psilocybe cyanescens",
+  "common_name": "Łysiczka błękitniejąca",
+  "edibility": "P",
+  "description": "Mały brązowy grzyb z karmelowym do kasztanowego kapeluszem o średnicy 2-5 cm i wyraźnie falistym brzegiem, który po wyschnięciu blednie do płowego. Siniej-zielenieje po dotknięciu. Trzon biały, wysyp zarodników purpurowobrązowy.",
+  "habitat": "Rośnie w kępach na zrębkach drewna, korze ogrodowej i rabatach, często w miastach.",
+  "season": "Jesień do wczesnej zimy.",
+  "regions": [
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Hełmówka jadowita, Galerina marginata (śmiertelna): rdzawobrązowy wysyp zarodników i pierścień lub strefa pierścieniowa na trzonie"
+  ],
+  "safety_notes": "PSYCHOAKTYWNY, Z ŚMIERTELNIE TRUJĄCYMI PODOBNYMI GATUNKAMI: zawiera psylocybinę i psylocynę. Skutki są nieprzewidywalne i mogą obejmować strach, panikę i długotrwały niepokój. Większym niebezpieczeństwem jest pomyłka, bo śmiertelnie trujące grzyby wyglądają podobnie. Psylocybina jest substancją kontrolowaną w wielu krajach, w tym w Kanadzie i Stanach Zjednoczonych; przepisy różnią się i się zmieniają. Podano wyłącznie do identyfikacji i dla bezpieczeństwa. Nigdy nie jedz dzikiego grzyba na słowo aplikacji.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_In_situ.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 76218,
+      "width": 480,
+      "height": 640,
+      "sha256": "5b540e916ae936119e9cb1cbdd303afc6784482cebf8490366b07e48a962ad9c"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cyanescens_bluing.jpg",
+      "photographer": "Madjack74 at English Wikipedia",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2006-06-02",
+      "file_size_bytes": 31858,
+      "width": 502,
+      "height": 389,
+      "sha256": "549e40d19420095aae9c04c13af94f6e751d07d31445ad65105f3d24bd07dfff"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}

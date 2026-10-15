@@ -1,0 +1,45 @@
+{
+  "mushroom_id": "amapan",
+  "scientific_name": "Amanita pantherina",
+  "common_name": "Muchomor panterkowy",
+  "edibility": "P",
+  "description": "Średni lub duży muchomor z oliwkowym do ciemnobrązowego kapeluszem o średnicy 5-10 cm, pokrytym drobnymi białymi brodawkami. Blaszki są białe, na trzonie jest pierścień, a podstawa jest zgrubiała z kołnierzykowatym brzegiem. Wysyp zarodników biały.",
+  "habitat": "Rośnie z gleby, w mikoryzie z korzeniami drzew iglastych i liściastych.",
+  "season": "Późne lato do jesieni.",
+  "regions": [
+    "Północno-zachodnie wybrzeże Pacyfiku",
+    "Europa"
+  ],
+  "lookalikes": [
+    "Muchomor czerwieniejący (jadalny): czerwienieje po przecięciu, ten gatunek nie",
+    "Inne jasne muchomory, także śmiertelne: sprawdź podstawę i wysyp zarodników, nie kolor kapelusza"
+  ],
+  "safety_notes": "TRUJĄCY I PSYCHOAKTYWNY: zawiera kwas ibotenowy i muscymol. Skutki są nieprzewidywalne i mogą obejmować nudności, splątanie, delirium, drgawki i śpiączkę. Podano wyłącznie do identyfikacji i dla bezpieczeństwa. Nigdy nie jedz dzikiego grzyba na słowo aplikacji. Jeśli ktoś zjadł ten gatunek, zadzwoń do ośrodka toksykologicznego lub na pogotowie.",
+  "images": [
+    {
+      "index": 0,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_101893011.jpg",
+      "photographer": "Danny Cicchetti",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "observation_date": "2020-10-25",
+      "file_size_bytes": 30278,
+      "width": 489,
+      "height": 640,
+      "sha256": "18babeda2ad00b1a7e232d1e9b0194cd594e50dfe5e8eb5983da21e0828bd89a"
+    },
+    {
+      "index": 1,
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg",
+      "photographer": "George Chernilevsky",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "observation_date": "2013-06-08",
+      "file_size_bytes": 77034,
+      "width": 587,
+      "height": 640,
+      "sha256": "4449ecd25e16ef74763607ee13b9ac2cb837196652eba15876d653e9d068a1f5"
+    }
+  ],
+  "content_version": "1.0",
+  "last_updated": "2026-10-15T17:33:25",
+  "source_language": "en"
+}
